@@ -225,7 +225,7 @@ def convertList(setCode):
 
 	#F: lists/SET-list.txt finally comes into play
 	with open(outputList, 'w', encoding="utf-8-sig") as f:
-		json.dump(final_list, f)
+		json.dump(final_list, f, indent=4)
 
 def colorEquals(color, match):
 	return sorted("".join(dict.fromkeys(color))) == sorted("".join(dict.fromkeys(match)))
