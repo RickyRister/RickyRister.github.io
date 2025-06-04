@@ -956,7 +956,7 @@
 		},
 		{
 			"name": "Gensokyo's Longest Day",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "33",
@@ -987,7 +987,7 @@
 		{
 			"name": "Philippa A.T.B. von Hohenheim",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Scientist",
 			"collector_number": "40",
 			"image_uris": {
@@ -1526,7 +1526,7 @@
 		},
 		{
 			"name": "Iesua, the Forgiver",
-			"rarity": "common",
+			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Legendary Creature — Mystic",
 			"collector_number": "8",
@@ -1866,7 +1866,7 @@
 	2 Ummu, Antediluvian
 	2 Yanduo, Dance of Fabric
 	2 The Great Ark
-	2 Gensokyo's Longest Day
+	1 Gensokyo's Longest Day
 	2 Nua, Captain of the Ark
 	2 Philippa A.T.B. von Hohenheim
 	2 Prune Reality
@@ -1894,6 +1894,7 @@
 	1 Megumu, Newborn Dragon
 	2 Valloside, Pure Suzuran
 	2 Mayonaka, the Kishin
+	2 Iesua, the Forgiver
 	2 Reimu, the Final Dream
 	2 Senkiusei, the Supernova
 	2 Nijie of Earthly Amusements
@@ -1992,7 +1993,6 @@
 	8 Fabritis and Iphonea
 	8 Ruka, Fawn Spirit
 	8 Fiction Sign
-	8 Iesua, the Forgiver
 	8 Noah, Sugar-Spun
 	8 Theophilia, the Mad Host
 	8 Horizon Sign
@@ -2098,7 +2098,7 @@
 	6 Epro, the Programmer
 	6 Excessive Monologuing
 	6 Fujioki, Soul of Cuckoos
-	7 Gensokyo's Longest Day
+	4 Gensokyo's Longest Day
 	7 Nua, Captain of the Ark
 	15 Phiased, the Magi
 	7 Philippa A.T.B. von Hohenheim
@@ -2153,7 +2153,7 @@
 	6 Ruka, Fawn Spirit
 	7 Mayonaka, the Kishin
 	6 Fiction Sign
-	6 Iesua, the Forgiver
+	7 Iesua, the Forgiver
 	7 Reimu, the Final Dream
 	7 Senkiusei, the Supernova
 	6 Noah, Sugar-Spun
