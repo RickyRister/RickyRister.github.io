@@ -1,5 +1,5 @@
 ﻿{
-    "name": "",
+    "name": "Universes Beyond: Touhou Fangames/Albums",
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
@@ -21,7 +21,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Aishin",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Bird",
@@ -39,7 +39,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u95e8\u756a\u795e\u7389",
-            "notes": ""
+            "notes": "!tag FmVA\n!tag game"
         },
         {
             "card_name": "Amanojaku's Folly",
@@ -57,7 +57,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Cesium Formiate",
-            "notes": ""
+            "notes": "!tag ZoAM\n!tag album"
         },
         {
             "card_name": "Birds of a Feather",
@@ -68,14 +68,14 @@
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Affinity for creatures with flying [i](This spell costs {1} less to cast for each creatures with flying you control.)[/i]\nCreate two 1/1 white Bird creature tokens with flying.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Chirper: a social media network exclusively used by bird youkai (and Shiran's followers)[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u75be\u6953\u8fc5\u857e",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Chii, Toothpick Tsukumogami",
@@ -93,7 +93,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Fairy Convocation",
@@ -111,7 +111,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": ""
+            "notes": "!tag original\n!tag other\n!tag kaisendo"
         },
         {
             "card_name": "Golden Hymn",
@@ -122,14 +122,14 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Kicker\u2014Tap an untapped creature with flying you control\nExile target creature if it's attacking or if this spell was kicked. You gain 2 life.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]I am the mediator of conflict,\nI am the herald of the skies,\nI am the master of slaughter.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3053\u308d\u3053\u308d",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Janet Arc'Angelo",
@@ -147,7 +147,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Luciana Abatangelo",
@@ -165,7 +165,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Eren",
-            "notes": ""
+            "notes": "!tag EPA\n!tag album"
         },
         {
             "card_name": "Ma Sekisei, Fabled Baker",
@@ -183,7 +183,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag AI\n!tag game"
         },
         {
             "card_name": "Michel Sant'Angelo",
@@ -193,7 +193,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flash\nFlying\nAngel spells you cast have convoke. [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nWhen Michel Sant'Angelo attacks, put a +1/+1 counter on each Angel you control.",
+            "rules_text": "Flash\nFlying\nAngel spells you cast have convoke. [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nWhenever Michel Sant'Angelo attacks, put a +1/+1 counter on each Angel you control.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -201,7 +201,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u75be\u6953\u8fc5\u857e",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Nana Fumoto, Doll Dealer",
@@ -219,7 +219,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ScyllaForest",
-            "notes": ""
+            "notes": "!tag EPA\n!tag album"
         },
         {
             "card_name": "Nunokae, the Grateful Crane",
@@ -237,7 +237,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag DLW\n!tag game"
         },
         {
             "card_name": "Nueko, Castle Protector",
@@ -255,7 +255,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u30cf\u3099\u592a",
-            "notes": ""
+            "notes": "!tag OtDE\n!tag game"
         },
         {
             "card_name": "Sever Relationship",
@@ -273,7 +273,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag AJoR\n!tag album"
         },
         {
             "card_name": "Tanboku, Austral Pearl",
@@ -291,14 +291,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "II b4 - \u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag II\n!tag game"
         },
         {
             "card_name": "Naruko, the Whirlpool",
             "color": "U",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 37,
+            "number": 36,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When Naruko enters, shuffle the cards from your hand into your library, then draw that many cards.\nWhenever Naruko attacks, scry 1.",
@@ -309,14 +309,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u5b87\u5b99\u5875/Pinnku33",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Konoha, Uncaptured Raccoon",
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Dog Youkai",
-            "number": 101,
+            "number": 104,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "When Konoha enters, search your library for a Plains, Island, Swamp, or Mountain card. Put it onto the battlefield tapped, then return a land you control to its owner's hand.",
@@ -327,14 +327,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u660e\u30ce\u5bae \u98db\u9ce5/Akari no Miya",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Kasumi, Submarine Illusion",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Snail Youkai",
-            "number": 129,
+            "number": 133,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Whenever Kasumi enters or attacks, you may put a creature from your hand onto the battlefield. It's an Illusion in addition to its other types. Return it to your hand at the beginning of the next end step.",
@@ -345,14 +345,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u304a\u307d\u5b50/opoko723",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Megumi, the Mermaid's Dream",
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Merfolk Noble",
-            "number": 135,
+            "number": 139,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Ward\u2014Pay 3 life.\nWhenever Megumi attacks, choose up to one creature defending player controls. It gets -1/-1 until end of turn and must block Megumi this turn if able.",
@@ -363,14 +363,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u304a\u307d\u5b50/opoko723",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Mikoto, Mother Goddess",
             "color": "WUG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 God",
-            "number": 136,
+            "number": 140,
             "color_identity": "WUG",
             "cost": "{4}{G}{W}{U}",
             "rules_text": "Lifelink\nWhen Mikoto enters, if she was cast, reveal cards from the top of your library until you reveal a creature card with mana value 4, then put it onto the battlefield under your control. Put the rest on the bottom of your library in a random order. Then do the same for mana value 3 and mana value 2.",
@@ -381,14 +381,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8317\u8377\u5ead\u5712/Myogatien",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Miyo and Tsubame, Wavecasters",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Spirit Youkai",
-            "number": 138,
+            "number": 142,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "When Miyo and Tsubame enters, create a 1/1 white Spirit creature token with flying.\nWhenever Miyo and Tsubame attacks, name a card type, then reveal the top card of your library. If the revealed card has the chosen type, put a +1/+1 counter on each attacking creature.",
@@ -399,14 +399,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "MagicalMikuri",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Otohime Kanpukugu",
             "color": "WUR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 God",
-            "number": 142,
+            "number": 147,
             "color_identity": "WUR",
             "cost": "{2}{U}{R}{W}",
             "rules_text": "When you cast this spell, discover X, where X is the number of cards in your graveyard. [i](To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\nWhenever one or more creatures you control deal combat damage to a player, you may look at the top three cards of your library, then put them back in any order.",
@@ -417,14 +417,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Bowstringsmall",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Bon, the Greedy Beast",
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Youkai Advisor",
-            "number": 52,
+            "number": 53,
             "color_identity": "B",
             "cost": "{1}{B}{B}{B}",
             "rules_text": "Menace\nWhenever Bon enters or attacks, target player chooses one \u2014 That player draws two cards; or that player creates a 2/2 black Youkai creature token; or that player creates two Treasure tokens. At the beginning of the next end step, you choose one \u2014 That player discards two cards; or that player sacrifices a creature; or that player sacrifices a land.",
@@ -435,14 +435,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag SoBH\n!tag album"
         },
         {
             "card_name": "Fantasy Withdrawl Syndrome",
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 53,
+            "number": 54,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Target player reveals their hand. You choose a nonland card from it. That player discards that card.\nUntil your next turn, noncreature spells cost an additional \u201cPay 1 life\u201d to cast. You lose 1 life.",
@@ -453,14 +453,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6797\u6a8e",
-            "notes": ""
+            "notes": "!tag SSaFE\n!tag album"
         },
         {
             "card_name": "General Set",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Golem",
-            "number": 54,
+            "number": 55,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Emerge from artifact {4}{B} [i](You may cast this spell by sacrificing an artifact and paying the emerge cost reduced by that artifact's mana value.)[/i]\nMenace\nYou may cast this card from your graveyard using its emerge ability.",
@@ -471,17 +471,17 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Keshika, Flower of Evil",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Plant",
-            "number": 55,
+            "number": 57,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "At the beginning of each player's combat, put a flower counter on another target creature that player controls.\nCreatures with flower counters on them get +1/-1 for each flower counter on it and can't block.\nWhenever a creature with one or more flower counters on it dies, its controller draws that many cards and loses that much life.",
+            "rules_text": "At the beginning of each player's combat, put a flower counter on another target creature that player controls. For as long as that creature has a flower counter on it, it gets +1/-1 and can't block.\nWhenever a creature with one or more flower counters on it dies, its controller draws that many cards and loses that much life.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -489,14 +489,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6797\u6a8e",
-            "notes": ""
+            "notes": "!tag SSaFE\n!tag album"
         },
         {
             "card_name": "Lokhens, Blind Night Raven",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 56,
+            "number": 58,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Flying, haste\nLokhens gets +1/+1 as long as you discarded a card this turn, gets +1/+1 as long as you sacrificed a nonland permanent this turn, and gets +1/+1 as long as you lost life this turn.",
@@ -507,14 +507,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Zen Saikara",
-            "notes": ""
+            "notes": "!tag EPA\n!tag album"
         },
         {
             "card_name": "Mariko, the Downtrodden",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Peasant",
-            "number": 57,
+            "number": 59,
             "color_identity": "WB",
             "cost": "{B}",
             "rules_text": "At the beginning of your upkeep, you lose 3 life unless you discard a card.",
@@ -530,22 +530,22 @@
             "type2": "Legendary Creature \u2014 Human Noble",
             "cost2": "{1}{W}{B}",
             "rules_text2": "When Claramary enters, you gain 3 life and draw a card.\nWhen Claramary dies, return it to the battlefield. [i](Front face up)[/i]",
-            "flavor_text2": "[i]She knows the kingdom is all fake. She know the Youkai are laughing at her. But yet she still plays along.[/i]",
+            "flavor_text2": "[i]She knows her kingdom is fake. She knows the youkai are mocking her. But she doesn't care.[/i]",
             "pt2": "4/4",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "\u6797\u6a8e",
-            "notes": ""
+            "notes": "!tag SSaFE\n!tag album"
         },
         {
             "card_name": "Meimei, the Wishing Doll",
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Artifact Creature \u2014 Doll",
-            "number": 60,
+            "number": 62,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When Meimei enters, choose any number. Put a wish counter on Meimei for each mode chosen\n\u2022 Search your library for a card and put it into your graveyard, then shuffle.\n\u2022 Put a card from your graveyard on top of your library.\n\u2022 Draw a card.\nWhen Meimei dies, you lose 2 life for each wish counter on it.",
+            "rules_text": "When Meimei enters, choose any number. Put a wish counter on Meimei for each mode chosen\n\u2022 Search your library for a card and put it into your graveyard, then shuffle.\n\u2022 Put a card from your graveyard on top of your library.\n\u2022 Draw a card.\nWhen Meimei leaves the battlefield, you lose 2 life for each wish counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -553,14 +553,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag SoHW\n!tag game"
         },
         {
             "card_name": "Nix, Messenger of Darkness",
             "color": "B",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 62,
+            "number": 65,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Exhaust \u2014 {4}{B}: Black creatures you control get +1/+1 and gain shadow until end of turn. [i](Activate each exhaust ability only once.)[/i]",
@@ -571,14 +571,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u83d3\u3061\u3083\u3093",
-            "notes": ""
+            "notes": "!tag FDF\n!tag game"
         },
         {
             "card_name": "Omen of Black Clouds",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 64,
+            "number": 67,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flash\nWhen Omen of Black Clouds enters, target creature gets -3/-3 until end of turn.\n{2}{B}, Sacrifice Omen of Black Clouds: Scry 2.",
@@ -589,14 +589,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "LHII00",
-            "notes": ""
+            "notes": "!tag SP\n!tag game"
         },
         {
             "card_name": "Padma, Molting Zeal",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Zombie",
-            "number": 65,
+            "number": 68,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "{1}, {T}: Exile target card from a graveyard.\nBoast\u2014{3}{B}: Exile target creature with mana value less than or equal to the number of cards exiled by Padma until Padma leaves the battlefield. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
@@ -607,14 +607,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
-            "notes": ""
+            "notes": "!tag SP\n!tag game"
         },
         {
             "card_name": "Salom\u00e9, Patasola",
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Vampire",
-            "number": 66,
+            "number": 69,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "Menace, lifelink\nAt the beginning of your end step, if you lost life, discarded a card, and sacrificed a nonland permanent this turn, put a +1/+1 counter on Salom\u00e9.",
@@ -625,14 +625,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "gren",
-            "notes": ""
+            "notes": "!tag PE\n!tag album"
         },
         {
             "card_name": "Shiran, the Fake Priest",
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 67,
+            "number": 70,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying, lifelink\nWhenever Shiran attacks, put a +1/+1 counter on it, then repeat the following process for each +1/+1 counter on it. Exile the top card of defending player's library. You lose life equal to its mana value. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.",
@@ -643,14 +643,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Unane, the Composer",
             "color": "B",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Spirit Bard",
-            "number": 68,
+            "number": 71,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{2}, {T}: Return target card from your graveyard to your hand unless an opponent pays 3 life or discards a card.",
@@ -661,14 +661,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Casual Arson",
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 72,
+            "number": 75,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Choose one \u2014\n\u2022 Casual Arson deals 3 damage to any target.\n\u2022 Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -679,14 +679,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u857e\u74e6\u4f26\u65af\u6a23",
-            "notes": ""
+            "notes": "!tag EPA\n!tag album"
         },
         {
             "card_name": "Kousan, Spear of Chaos",
             "color": "R",
             "rarity": "uncommon",
             "type": "Legendary Artifact Creature \u2014 Equipment Youkai",
-            "number": 76,
+            "number": 79,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Kousan and equipped creature has first strike as long as its attacking.\nWhenever Kousan or equipped creature attacks, goad target creature defending player controls.\nReconfigure {R} [i]({R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]",
@@ -697,14 +697,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag SoBH\n!tag album"
         },
         {
             "card_name": "Lightning Word",
             "color": "R",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 78,
+            "number": 81,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Affinity for legendaries [i](This spell costs {1} less to cast for each legendary you control.)[/i]\nLightning Word deals 4 damage to any target.",
@@ -715,14 +715,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag MPP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Magura, the Taotie",
             "color": "R",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Demon Beast",
-            "number": 79,
+            "number": 82,
             "color_identity": "R",
             "cost": "{1}{R}{R}{R}",
             "rules_text": "Trample\nWhenever Magura enters or attacks, you may sacrifice a permanent or discard a card. If you do, draw a card. When you sacrifice a creature or artifact this way, Magura deals X damage to up to one nonplayer target, where X is the power of the creature or the mana value of the artifact.",
@@ -733,14 +733,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Nene, Mountain Shouter",
             "color": "R",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 84,
+            "number": 87,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Flying\nWhenever Nene attacks, you may cast a copy of an instant or sorcery spell you cast this turn. [i](You still have to pay its costs)[/i]",
@@ -751,14 +751,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3082\u307f\u3061\u3099\u5c71",
-            "notes": ""
+            "notes": "!tag ZoAM\n!tag album"
         },
         {
             "card_name": "Ranran, Scarlet Monkey",
             "color": "R",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Monkey",
-            "number": 85,
+            "number": 88,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Red creatures attack each turn if able.\nIf a red source would deal damage, it deals that much damage plus 1 instead.\n{T}: Target creature becomes red until end of turn.",
@@ -769,14 +769,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Sekito, Shadow-Severing Speed",
             "color": "R",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Demon Mount",
-            "number": 86,
+            "number": 89,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Haste\nWhenever Sekito attacks, if it isn't saddled, torment yourself. [i](To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]\nSaddle 1 [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i]",
@@ -787,14 +787,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ANMITA",
-            "notes": ""
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Shirane, Thunderbird",
             "color": "R",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 87,
+            "number": 90,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Flying\nWhenever a source you control deals noncombat damage to a creature, that creature can't block this turn.\nWhenever you expend 5, Shirane deals 1 damage to any target. [i](You expend 5 as you spend your fifth total mana to cast spells during a turn.)[/i]",
@@ -805,32 +805,32 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
-            "notes": ""
+            "notes": "!tag TGoS\n!tag album"
         },
         {
             "card_name": "Steel is Born from Flame",
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 88,
+            "number": 91,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "At the beginning of your end step, exile the top X cards of your library, where X is the amount of life you lost this turn. Until the end of your next turn, you may play those cards.",
-            "flavor_text": "[i]\u201cThe fires of hostility created steel, and that in turn became weapons with which to wound one another.\u201d\n\u2014Shuuu[/i]",
+            "flavor_text": "[i]\u201cThe fires of hostility created steel, and that in turn became weapons with which to wound one another.\u201d\n\u2014Shuuu Yasogami[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Tsumugi Enishi",
             "color": "R",
             "rarity": "common",
             "type": "Legendary Creature \u2014 God",
-            "number": 90,
+            "number": 93,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "[i]Red Marriage[/i] \u2014 Creatures you control have soulbond and \u201cThis creature gets +1/+0 as long it's paired with a creature with soulbond.\u201d",
@@ -841,14 +841,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "akinomiya",
-            "notes": ""
+            "notes": "!tag TCL\n!tag game"
         },
         {
             "card_name": "Apple Girlington",
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 93,
+            "number": 96,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a Food token.\nAs long as you've sacrificed a Food this turn, Apple Girlington must be blocked if able.",
@@ -859,14 +859,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "The Festival Starts Today",
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 97,
+            "number": 100,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Whenever you activate an ability of a creature with {T} and at least one mana in its activation cost, scry 1. If this is the fifth time this ability has resolved this turn, reveal the top card of your library. If it's a permanent card, put it onto the battlefield.",
@@ -877,14 +877,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Leaf Ponders the Flower",
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 102,
+            "number": 105,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on up to one target creature. Then scry 1.",
@@ -905,14 +905,14 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "ryosios",
-            "notes": ""
+            "notes": "!tag SH\n!tag game"
         },
         {
             "card_name": "Munomoto, Bud of Lost Dreams",
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Illusion",
-            "number": 104,
+            "number": 107,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If you do, put a +1/+1 on Munomoto. Only do this once each turn.",
@@ -923,14 +923,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Eight Million Gods",
             "color": "G",
             "rarity": "mythic",
             "type": "Enchantment",
-            "number": 95,
+            "number": 98,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "When this enchantment enters, you mill 4 cards and gain 4 life, then may return a creature card from your graveyard to your hand. \nAt the beginning of your upkeep, if you control four or more Gods with different names, you win the game.",
@@ -941,14 +941,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag na\n!tag other"
         },
         {
             "card_name": "Oxas, Fairy of Clovers",
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Faerie",
-            "number": 106,
+            "number": 109,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "When Oxas enters, choose one\u2014\n\u2022 Put a +1/+1 counter on target creature.\n\u2022 Put a land from your hand onto the battlefield tapped.\n\u2022 Scry 2.",
@@ -959,14 +959,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": ""
+            "notes": "!tag SoBH\n!tag album"
         },
         {
             "card_name": "Rebirth of Dreams",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 107,
+            "number": 110,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Target creature gains indestructible and hexproof until end of turn. Scry 2.",
@@ -977,17 +977,17 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Withered Bounty",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 112,
+            "number": 115,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Enchant land\nWhen this aura enters, create a Food token.\nEnchanted land has \u201c{T}: Add one mana of any color.\u201d and \u201c{T}, Sacrifice a Food: Add two mana in any combination of colors\u201d",
+            "rules_text": "Enchant land\nWhen this aura enters, create a Food token.\nEnchanted land has \u201c{T}: Add one mana of any color.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -995,14 +995,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag SoHW\n!tag game"
         },
         {
             "card_name": "Ai Hinoide, Perfect Human",
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Homunculus",
-            "number": 114,
+            "number": 117,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "Ai Hinoide enters with a +1/+1 on it for each mana from a nonland source spent to cast it.\nWhen Ai Hinoide enters, if no mana from a land was spent to cast it, you draw three cards and gain 3 life.",
@@ -1013,14 +1013,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": ""
+            "notes": "!tag UI\n!tag album"
         },
         {
             "card_name": "Ayame, Essence of Chaos",
             "color": "BRG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Elder God",
-            "number": 116,
+            "number": 119,
             "color_identity": "BRG",
             "cost": "{3}{B}{R}{G}",
             "rules_text": "Indestructible\n[i]Delirium[/i] \u2014 Ayame can't attack or block unless there are four or more card types among cards in your graveyard\nWhenever Ayame enters or attacks, destroy any number of target permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles.",
@@ -1031,14 +1031,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag GoDS\n!tag game"
         },
         {
             "card_name": "Cindy Plum, Rakshasa",
             "color": "WR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Demon God",
-            "number": 120,
+            "number": 123,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
             "rules_text": "First strike, haste\nCindy Plum attacks each turn if able.\nCindy Plum can't be blocked by more than one creature and must be blocked by the creature with the greatest power among the defending player's creatures if able.",
@@ -1049,14 +1049,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag TCL\n!tag game"
         },
         {
             "card_name": "Cisa Perlach Augusta",
             "color": "WRG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 God",
-            "number": 121,
+            "number": 124,
             "color_identity": "WRG",
             "cost": "{4}{R}{G}{W}",
             "rules_text": "Vigilance, trample, haste\nWhenever Cisa enters or attacks, choose one\u2014\n\u2022 Put a storied card you own from outside the game into your graveyard. [i](Enchantments and legendary permanents are storied.)[/i]\n\u2022 Return target storied card from your graveyard to your hand. \n\u2022 Put a storied card from your hand onto the battlefield.",
@@ -1067,14 +1067,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag AI\n!tag game"
         },
         {
             "card_name": "El\u00e9onore, Alligator's Bite",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human",
-            "number": 122,
+            "number": 126,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "At the beginning of your end step, clash with an opponent. The winner draws two cards and the loser discards a card. [i](Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)[/i]\nPut a card from your hand on top of your library: El\u00e9onore gets +1/+1 until end of turn.",
@@ -1085,14 +1085,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Clouds",
-            "notes": ""
+            "notes": "!tag HoSS\n!tag album"
         },
         {
             "card_name": "Elfin Mint",
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elf Faerie",
-            "number": 123,
+            "number": 127,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Flying\nWhen Elfin Mint enters, create Zankurou, a legendary 2/1 red and black Demon creature token with flying and \u201cthis creature can't block.\u201d\nWhenever Elfin Mint attacks, prevent all damage that would be dealt to or dealt by up to one target creature this turn.",
@@ -1103,14 +1103,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "CHO",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Feza, Blessed Pathfinder",
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 124,
+            "number": 128,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Flying\nWhen Feza enters, reveal cards from the top of your library until you reveal a Land card. You may put that card on top. Put the rest on the bottom of your library in a random order.\nReturn a land you control to its owner's hand: You may play an additional land this turn. Activate only once each turn.",
@@ -1121,14 +1121,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Fuma Mishandra",
             "color": "UBR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spirit",
-            "number": 125,
+            "number": 129,
             "color_identity": "UBR",
             "cost": "{4}{U}{B}{R}",
             "rules_text": "This spell costs {1} less to cast for each instant and sorcery card in your graveyard.\n[i]Gate of Solomon[/i] \u2014 Whenever Fuma enters or you cast an instant or sorcery spell from anywhere other than your graveyard, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.",
@@ -1139,14 +1139,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u54c0\u9d09",
-            "notes": ""
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Hazuki, Onmyouji",
             "color": "WB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Youkai Wizard",
-            "number": 126,
+            "number": 130,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
             "rules_text": "When Hazuki enters, create a 1/1 black and white Spirit creature token with flying.\nTap an untapped creature you control: Target instant or sorcery spell gains lifelink and deathtouch.\nTap another untapped creature you control: Return Hazuki to its owner's hand.",
@@ -1157,14 +1157,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Horou, Crested Ibis",
             "color": "WUR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 128,
+            "number": 132,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
             "rules_text": "Flying\nWhen Horou enters, reveal the top ten cards of your library. For each creature you control with flying, you may put a card with flying from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order.",
@@ -1175,14 +1175,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u30b3\u30eb\u30c6\u30a3",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Kazuha, Compiler of Waka",
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spirit Advisor",
-            "number": 130,
+            "number": 134,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Prowess\nWhenever Kazuha attacks, exile the top three cards of your library. Create a colorless Saga enchantment token with \u201cI,II,III\u2014Until end of turn, you may play the Nth card exiled this way, where N is the number of lore counters on this saga.\u201d",
@@ -1193,14 +1193,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3075\u3057\u305f\u3053",
-            "notes": ""
+            "notes": "!tag FmVA\n!tag game"
         },
         {
             "card_name": "Lamis Corrosa",
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 131,
+            "number": 135,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Whenever you attack with one or more vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, it becomes a Vampire in addition to its other types.\nWhen Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able.",
@@ -1211,14 +1211,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Zen Saikara",
-            "notes": ""
+            "notes": "!tag AoFF\n!tag album"
         },
         {
             "card_name": "Lovia Joutsela, Hiisi",
             "color": "BR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Youkai Bard",
-            "number": 134,
+            "number": 138,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "As Lovia enters, choose a creature an opponent controls.\n[i]Mastermind of the Twisted Strings[/i] \u2014 You may exert Lovia as it attacks. When you do, gain control of the chosen creature until the end of your next turn.",
@@ -1229,14 +1229,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag EPA\n!tag album"
         },
         {
             "card_name": "Mitori, the Crimson Grudge",
             "color": "WU",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Youkai Turtle",
-            "number": 137,
+            "number": 141,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "As Mitori enters, choose the name of a nonland card. When you do, return all permanents with the chosen name to their owner's hands\nPlayers can't cast spells with the chosen name.\nPermanents with the chosen name can't enter the battlefield.",
@@ -1247,14 +1247,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8352\u91ce\u3000\u6c96",
-            "notes": ""
+            "notes": "!tag SH\n!tag game"
         },
         {
             "card_name": "Mizuho, Onmyouji",
             "color": "UB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Wizard",
-            "number": 139,
+            "number": 143,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "When Mizuho enters, create two 1/1 black and white Spirit creature tokens with flying.\nEach instant or sorcery spell you cast has conspire [i](As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)[/i]\nSacrifice a Spirit: Mizuho phases out.",
@@ -1265,14 +1265,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Ophelia, the Writer",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Spirit Bard",
-            "number": 141,
+            "number": 146,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{3}, {T}: Mill three cards. Create a 1/1 Spirit creature token with the colors of the first card, put a +1/+1 counter on a permanent that shares a card type with the second card, and gain life equal to the mana value of the third card.",
@@ -1283,14 +1283,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Pale Fanhead, Fan Enjoyer",
             "color": "RG",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 143,
+            "number": 148,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "Whenever Pale Fanhead enters or attacks, you may move a counter from target permanent onto another target permanent. If you do, you may have that counter become a +1/+1 counter.",
@@ -1301,14 +1301,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Phantasm Paradise",
             "color": "UG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 144,
+            "number": 149,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Whenever this enchantment enters or you cast a noncreature spell, untap each creature you control.\nWhenever you activate an ability of a creature with {T} and at least one mana in its activation cost, draw a card.",
@@ -1319,14 +1319,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Shirogane, Bravehearted",
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Hero Knight",
-            "number": 148,
+            "number": 154,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
             "rules_text": "Creatures you control have ward {1}.\nWhenever Shirogane enters or attacks, put a +1/+1 on each other creature you control. They gain indestructible until end of turn. Scry 2.",
@@ -1337,14 +1337,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
-            "notes": ""
+            "notes": "!tag original\n!tag other"
         },
         {
             "card_name": "Shuuu, God of Weapons",
             "color": "WBR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demon God",
-            "number": 150,
+            "number": 157,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
             "rules_text": "At the beginning of combat on your turn, you may exile an Equipment card from your hand or graveyard. Then create of token copy of each Equipment card exiled by Shuuu and attach them to Shuuu. Exile them at the end of combat.",
@@ -1355,14 +1355,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Gagawa / \u30ac\u30ac\u30ef \u30a4\u30c1",
-            "notes": ""
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Taeyori, the Leader",
             "color": "WURG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Spirit Advisor",
-            "number": 151,
+            "number": 158,
             "color_identity": "WURG",
             "cost": "{R}{G}{W}{U}",
             "rules_text": "Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]\n{5}, {T}: Look at the top five cards of your library. You may reveal a card with an activated ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n[i]Glory of Everyone [/i]\u2014 Activated abilities of creatures you control cost {1} less to activate for each other creature you control. This effect can't reduce the mana in that cost to less than one mana.",
@@ -1373,14 +1373,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Tenxka Shin",
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Alien",
-            "number": 155,
+            "number": 162,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Whenever you cast a noncreature spell, create a 1/1 colorless Doll artifact creature token with \u201cWhenever this creature attacks, put your choice of a first strike, trample, or +1/+1 counter on it.\u201d\nSacrifice a Doll: If it had counters, put those counters on Tenxka Shin.",
@@ -1391,14 +1391,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": ""
+            "notes": "!tag TCL\n!tag game"
         },
         {
             "card_name": "Touko, Harvest God",
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 God",
-            "number": 158,
+            "number": 165,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Whenever Touko enters or attacks, each player may search their library for a basic land card, put it onto the battlefield, then shuffle.\nTouko gets +1/+1 for each land you don't control.",
@@ -1409,14 +1409,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag SoHW\n!tag game"
         },
         {
             "card_name": "Ummu, Antediluvian",
             "color": "UBG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Elder God",
-            "number": 159,
+            "number": 166,
             "color_identity": "UBG",
             "cost": "{3}{B}{G}{U}",
             "rules_text": "Ummu can't attack or block unless your library has twenty or fewer cards in it.\nIf you would draw a card, instead you mill 5 cards and put a card from among them into your hand.\nRetrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]",
@@ -1427,17 +1427,17 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u4e59\u59eb",
-            "notes": ""
+            "notes": "!tag SP\n!tag game"
         },
         {
             "card_name": "Yanduo, Dance of Fabric",
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 God",
-            "number": 160,
+            "number": 167,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Whenever Yanduo enters, or it and at least two other creatures attack, create a Cloth token attached to target creature. [i](It's a white Aura enchantment token with \u201cenchant creature\u201d and \u201cenchanted creature gets +1/+1.)[/i]\nWhenever an Aura becomes attached to another creature you control, if that creature does not have any other Auras, you gain 1 life and draw a card.",
+            "rules_text": "Whenever Yanduo enters, or it and at least two other creatures attack, create a Garment token attached to target creature. [i](It's a white Aura enchantment token with \u201cenchant creature\u201d and \u201cenchanted creature gets +1/+1.)[/i]\nWhenever an Aura becomes attached to another creature you control, if that creature does not have any other Auras, you gain 1 life and draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1445,14 +1445,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
-            "notes": ""
+            "notes": "!tag MAitN\n!tag concept"
         },
         {
             "card_name": "Yukiko, Heart of the Swarm",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Youkai Plant",
-            "number": 161,
+            "number": 168,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, up to one target creature loses all abilities and becomes a green Insect creature with base power and toughness 1/1 and flying and deathtouch.",
@@ -1463,14 +1463,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag SoHW\n!tag game"
         },
         {
             "card_name": "Marry Shepherd",
             "color": "WR",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Faerie",
-            "number": 162,
+            "number": 169,
             "color_identity": "WR",
             "cost": "{RW}",
             "rules_text": "Multikicker {2}\nWhen Marry Shepherd enters, create a 0/1 white Goat creature token for each time it was kicked.\nFlying\nTap an untapped Goat you control: Marry Shepherd gets +1/+0 until end of turn.",
@@ -1481,14 +1481,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Mystia, Daystruck",
             "color": "UB",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 163,
+            "number": 170,
             "color_identity": "UB",
             "cost": "{1}{UB}",
             "rules_text": "Flying\nTap an untapped creature you control: Untap Mystia. If you do, prevent all combat damage that would be dealt to and dealt by it this turn. Any player may activate this ability.",
@@ -1499,50 +1499,50 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307b\u309a\u3068\u3075",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag canon"
         },
         {
             "card_name": "Nebet Tefet",
             "color": "WB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 God",
-            "number": 164,
+            "number": 171,
             "color_identity": "WB",
             "cost": "{1}{WB}",
             "rules_text": "Flash\nFlying\nWhen Nebet Tefet enters, exile up to one target creature that entered the battlefield from a graveyard this turn or was cast from a graveyard this turn.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]She's here from a distant land to give Set a thorough punishment.[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Chirper Phone",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 165,
+            "number": 173,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Whenever equipped creature attacks, it gets +1/+1 until end of turn for each creature with flying you control.\nEquip {2}",
-            "flavor_text": "[i]\u201cWithin the world of this SNS (Songbird Networking System) that our priest was so kind as to grant me...! In the world of \u2018Chirper', I'm...\u201d\n\u2014Hikariko Aosagi[/i]",
+            "rules_text": "Whenever equipped creature attacks, it gets +1/+1 until end of turn for each creature with flying you control.\nEquip {1}",
+            "flavor_text": "[i]\u201cOh, do excuse me. Imagining how beautiful, graceful, and brave I am on Chirper renewed my zeal for life, you see.\u201d\n\u2014Hikariko Aosagi[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "The Great Ark",
             "color": "",
             "rarity": "rare",
             "type": "Legendary Artifact \u2014 Vehicle",
-            "number": 170,
+            "number": 178,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "{1}: Exile target creature you control until The Great Ark leaves the battlefield.\nWhenever The Great Ark attacks or blocks, you may put any number of cards exiled by it onto the battlefield.\nCrew 4",
@@ -1553,14 +1553,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Treasure Lantern",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment Treasure",
-            "number": 174,
+            "number": 182,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Whenever equipped creature attacks or Treasure Lantern is sacrificed, you scry 1, gain 1 life, and exile up to one target card from a graveyard.\n{T}, Sacrifice Treasure Lantern: Add one mana of any color.\nEquip {0}",
@@ -1571,14 +1571,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "CsCHO2",
-            "notes": ""
+            "notes": "!tag TCL\n!tag game"
         },
         {
             "card_name": "Memento Forest",
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Forest",
-            "number": 176,
+            "number": 184,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G})[/i]\nThis land enters tapped.\n[i]Channel[/i] \u2014 {B}{B}, Discard this card: Choose one \u2014\n\u2022 Exile target player's graveyard\n\u2022 Target player sacrifices a creature.",
@@ -1589,14 +1589,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3078\u3044\u3084",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Hikariko Aosagi",
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 35,
+            "number": 34,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flying\nWhenever Hikariko becomes the target of a spell or ability, return Hikariko to its owner's hand, then discard a card.\n{2}{U}: Return Hikariko from your graveyard to your hand. Only activate if you attacked with three or more creatures with flying this turn.",
@@ -1607,7 +1607,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u308a\u3062\u3085",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Hyp, Wandering White",
@@ -1625,7 +1625,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ID\u541b",
-            "notes": ""
+            "notes": "!tag FDF2\n!tag game"
         },
         {
             "card_name": "Artistic Dedication",
@@ -1643,14 +1643,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag AJoR\n!tag album"
         },
         {
             "card_name": "Chirplagarism",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 26,
+            "number": 25,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Affinity for creatures with flying [i](This spell costs {1} less to cast for each creatures with flying you control.)[/i]\nCopy target instant or sorcery spell. You may choose new targets for the copies.",
@@ -1661,14 +1661,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akaim",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Epro, the Programmer",
             "color": "U",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Spirit Scientist",
-            "number": 28,
+            "number": 27,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flash [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]\nSpirited\n{1}, {T}: Until end of turn, change the text of target spell or permanent by replacing one color word or basic land type with another.",
@@ -1679,14 +1679,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Excessive Monologuing",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 29,
+            "number": 28,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target spell unless its controller pays {2} plus an additional {2} for each other spell you've cast this turn.",
@@ -1697,14 +1697,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Analogue Reverie",
-            "notes": ""
+            "notes": "!tag DLW\n!tag game"
         },
         {
             "card_name": "Fujioki, Soul of Cuckoos",
             "color": "U",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Bird Spirit",
-            "number": 32,
+            "number": 31,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flying\nWhen Fujioki enters, if you have a card with flying in your graveyard, draw a card.",
@@ -1715,32 +1715,32 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag AJoR\n!tag album"
         },
         {
             "card_name": "Gensokyo's Longest Day",
             "color": "U",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 33,
+            "number": 32,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "You may have each player skip their next untap step.\nTake an extra turn after this one. Exile this spell.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "You may have each player skip their next untap step. \nTake an extra turn after this one. Exile this spell.",
+            "flavor_text": "[i]The flow of time throughout all of Gensokyo had stopped. Every creature, every plant, every drop of water or gust of wind.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Nua, Captain of the Ark",
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Pilot",
-            "number": 38,
+            "number": 37,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Play with the top card of your library revealed.\nYou may play cards from the top of your library with mana value less than or equal to the greatest power among creatures you attacked with this turn.\nNua crews Vehicles as though its power were X greater, where X is the mana value of the top card of your library.",
@@ -1751,7 +1751,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Phiased, the Magi",
@@ -1769,7 +1769,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "7_0$#1\u042f\u00b5",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Philippa A.T.B. von Hohenheim",
@@ -1787,7 +1787,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag UI\n!tag album"
         },
         {
             "card_name": "Shizuka, Solitary Hunter",
@@ -1805,7 +1805,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag BW\n!tag album"
         },
         {
             "card_name": "Prune Reality",
@@ -1823,14 +1823,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Sachisu",
-            "notes": ""
+            "notes": "!tag DLW\n!tag game"
         },
         {
             "card_name": "Yuuto, Out-of-Place Magician",
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Wizard",
-            "number": 48,
+            "number": 49,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "If Yuuto would be put into your graveyard or exile from your library, you may exile it instead. When you do, you may cast Yuuto until end of turn.\nThe first noncreature spell you cast each turn costs {1} less to cast.",
@@ -1841,14 +1841,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "DoujinMelon",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Aimi, Dreaming Heartbroken Girl",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human",
-            "number": 50,
+            "number": 51,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Kicker\u2014{4}{B}, Pay X life\nWhen Aimi enters, if it was kicked, you draw X cards and lose X life. Then you may cast a spell with mana value X or less from your hand without paying its mana cost.",
@@ -1859,14 +1859,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag DLW\n!tag game"
         },
         {
             "card_name": "Amanozako, Crimson Tyrant",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 70,
+            "number": 73,
             "color_identity": "R",
             "cost": "{5}{R}",
             "rules_text": "Flying\nWhenever Amanozako deals damage to a creature, switch that creature's power and toughness. \nWhenever Amanozako deals damage to a planeswalker, switch the plus and minus signs in that planeswalker's loyalty costs.\n{R}: Amanozako deals 1 damage to any target.",
@@ -1877,25 +1877,25 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
-            "notes": ""
+            "notes": "!tag ZoAM\n!tag album"
         },
         {
             "card_name": "Ibis Feather",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Clue",
-            "number": 171,
+            "number": 179,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{1}, {T}: Add one mana of any color.\nExhaust \u2014 {2}: Draw a card. [i](Activate each exhaust ability only once.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cI'll use my rainbow wings to draw a beautiful arc in Sado's sky. Then all my friends will see it, and come right over to meet me!\u201d\n\u2014Horou Torisumi[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Sasuta no Izuhime",
@@ -1913,14 +1913,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3082\u307f\u3061\u3099\u5c71",
-            "notes": ""
+            "notes": "!tag FmVA\n!tag game"
         },
         {
             "card_name": "Chieka, the Artist",
             "color": "WG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Spirit Wizard",
-            "number": 118,
+            "number": 121,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]\nVigilance\n{4}, {T}: Target creature gets +1/+1 until end of turn for each color among permanents you control.",
@@ -1931,14 +1931,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag CoUD\n!tag album"
         },
         {
             "card_name": "Mihana, Princess of Greenery",
             "color": "G",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Spirit Noble",
-            "number": 103,
+            "number": 106,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "You may play an additional land on each of your turns.\nMihana gets +1/+1 for each creature you control.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, create two 1/1 green Faerie creature tokens.",
@@ -1949,14 +1949,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag WNSP\n!tag game"
         },
         {
             "card_name": "Choo-Eunae, Snake's Bite",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 119,
+            "number": 122,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
             "rules_text": "Ward\u2014Torment yourself [i](Lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]\nAt the beginning of your end step, if you lost life, discarded a card, or sacrificed a nonland permanent this turn, torment each opponent. Then if you did all three, each opponent loses 3 life, discards a card, and sacrifices a nonland permanent",
@@ -1967,14 +1967,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Clouds",
-            "notes": ""
+            "notes": "!tag HoSS\n!tag album"
         },
         {
             "card_name": "Saraka, Fallen Angel",
             "color": "WR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Angel Warrior",
-            "number": 147,
+            "number": 153,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Flying, first strike, haste\nSaraka attacks each combat if able.\nWhenever Saraka deals combat damage to a player, destroy target creature that has dealt damage to a player since the end of your last turn. [i](This is not optional)[/i]",
@@ -1985,14 +1985,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": ""
+            "notes": "!tag MPP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Reverence U'n-Llisardggy",
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder God",
-            "number": 146,
+            "number": 152,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
             "rules_text": "Whenever Reverence enters or attacks, create a blue enchantment token named Bubble Universe with \u201cWhenever you cast a noncreature spell, exile the top card of your library.\u201d and \u201cWhenever this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.\u201d\nWhen Reverence leaves the battlefield, return all enchantments to their owner's hands.",
@@ -2003,14 +2003,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Masahi, the Carefree Princess",
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 58,
+            "number": 60,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "At the beginning of your end step, you gain 3 life if you lost life this turn, you draw a card if you discarded a card this turn, and you create a 1/1 black Snail creature token if you sacrificed a nonland permanent this turn.",
@@ -2021,14 +2021,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag AJoR\n!tag album"
         },
         {
             "card_name": "Tenmu Suitokuin, Daitengu",
             "color": "UB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Youkai Bird",
-            "number": 153,
+            "number": 160,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "Flying\nWard\u2014Exile two cards from your graveyard\nWhenever Tenmu enters or attacks, you may exile a card from each player's graveyard.\nAs long as there are four different names, colors, mana values, and card types among the exiled cards, Tenmu has protection from everything.",
@@ -2039,14 +2039,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag MPP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Douraku Kazane, Colorless Tone",
             "color": "",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Elemental",
-            "number": 175,
+            "number": 183,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Whenever you cast a spell, Douraku gains that spell's colors until end of turn.\nAs long as Douraku is white, it gets +1/+1 and has lifelink. The same is true for blue and hexproof, black and menace, red and first strike, and green and trample.",
@@ -2057,14 +2057,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag CoMCW\n!tag album"
         },
         {
             "card_name": "Annika A.T.B von Hohenheim",
             "color": "R",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Wizard",
-            "number": 71,
+            "number": 74,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Annika can't be sacrificed.\nWhen Annika enters, create a 1/1 black Homunculus creature token and a Vial token [i](It's an artifact with \u201c{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.\u201d)[/i]",
@@ -2075,7 +2075,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag CUoO\n!tag game"
         },
         {
             "card_name": "Homunculus",
@@ -2093,7 +2093,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag CUoO\n!tag game"
         },
         {
             "card_name": "Mumei, Discarded Pottery",
@@ -2111,14 +2111,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Tensei, the Star God",
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 God",
-            "number": 154,
+            "number": 161,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
             "rules_text": "Lifelink\n[i]Dream Star's Wish[/i] \u2014 Pay X life, Sacrifice another creature with mana value X: Search your library for a noncreature card with mana value X or less and cast it without paying its mana cost, then shuffle. Only activate once during each of your turns.",
@@ -2128,15 +2128,15 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "moku2333",
-            "notes": ""
+            "artist": "\u8033\u603b\u660e\u5c9a",
+            "notes": "!tag SSS\n!tag game"
         },
         {
             "card_name": "Himemiko, Erased Princess",
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Mystic Noble",
-            "number": 36,
+            "number": 35,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When Himemiko enters, you may search your library for an Equipment card and put it into your graveyard, then shuffle. \nWhenever Himemiko deals combat damage to a player, return target Equipment card with mana value less than or equal to that amount of damage from your graveyard to the battlefield.",
@@ -2147,14 +2147,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Seiryuu, Willow Spirit",
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Plant Spirit",
-            "number": 109,
+            "number": 112,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "{T}: Add {G}.\n[i]Green Willow Legend[/i] \u2014 When Seiryuu dies, you may exile it from your graveyard. If you do, it gains \u201cWhenever a land you control enters, if Seiryuu is exiled, put a growth counter on it. Then if Seiryuu has four or more growth counters on it, return it to the battlefield with two +1/+1 counters and a finality counter on it.\u201d",
@@ -2165,14 +2165,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7eaf\u72d0\u7075\u68a6",
-            "notes": ""
+            "notes": "!tag SSS\n!tag game"
         },
         {
             "card_name": "Musaraku, Source of Nightmares",
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Nightmare",
-            "number": 61,
+            "number": 63,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flying\nWhenever Musaraku attacks, if defending player has no cards in hand, monstrosity 3 [i](If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)[/i]\nWhenever Musaraku becomes monstrous or attacks while monstrous, you may have it become a copy of target creature card in a graveyard until end of turn, except it has flying.",
@@ -2183,7 +2183,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PENNY",
-            "notes": ""
+            "notes": "!tag PD\n!tag game"
         },
         {
             "card_name": "Yuyuko, Host of the Banquet",
@@ -2201,7 +2201,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "scorpion5050",
-            "notes": ""
+            "notes": "!tag FDF2\n!tag game"
         },
         {
             "card_name": "Bubble Universe",
@@ -2219,14 +2219,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Lethal Entertainment",
             "color": "UB",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 133,
+            "number": 137,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Choose two target creatures controlled by the same player. That player sacrifices one of them. You gain control of the other.",
@@ -2237,7 +2237,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag SoBH\n!tag album"
         },
         {
             "card_name": "Starry Wisdom",
@@ -2255,14 +2255,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6247\u57ce\u3072\u306a",
-            "notes": ""
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "An Addendum to the Past",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 92,
+            "number": 95,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Mill three cards, then you may return a land or storied card from your graveyard to your hand. [i](Enchantments and legendary permanents are storied.)[/i]",
@@ -2273,14 +2273,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "gren",
-            "notes": ""
+            "notes": "!tag AI\n!tag game"
         },
         {
             "card_name": "Footprints of Treiste",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 31,
+            "number": 30,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Mill four cards. Then put an instant, sorcery, or land card from among the milled cards into your hand.",
@@ -2291,14 +2291,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag MB\n!tag game"
         },
         {
             "card_name": "Yomimi, Ultimate Phantom",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demon Spirit",
-            "number": 91,
+            "number": 94,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Haste\nYomimi attacks each turn if able.\n{T}: Another target creature you control gets +X/+0 until end of turn, where X is Yomimi's power, and attacks this turn if able.",
@@ -2309,7 +2309,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "reisi",
-            "notes": ""
+            "notes": "!tag AiI\n!tag album"
         },
         {
             "card_name": "Shekle, Snowflake Fairy",
@@ -2327,7 +2327,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d41\u6708",
-            "notes": ""
+            "notes": "!tag ASL\n!tag game"
         },
         {
             "card_name": "Shiina, Deep-Sea Conductor",
@@ -2345,14 +2345,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3053\u304f\u3053\u3099",
-            "notes": ""
+            "notes": "!tag SoS\n!tag album"
         },
         {
             "card_name": "End of History",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 27,
+            "number": 26,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Affinity for legendaries [i](This spell costs {1} less to cast for each legendary you control.)[/i]\nCounter target spell.",
@@ -2363,14 +2363,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "kitairoha",
-            "notes": ""
+            "notes": "!tag BDitB\n!tag game"
         },
         {
             "card_name": "Birds Return at Dusk",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 94,
+            "number": 97,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Choose one or both \u2014\n\u2022 Prevent all combat damage that would be dealt this turn.\n\u2022 Return target land card from your graveyard to your hand.",
@@ -2381,14 +2381,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag AJoR\n!tag album"
         },
         {
             "card_name": "Corin Charite",
             "color": "R",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Vampire",
-            "number": 73,
+            "number": 76,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Flying\nWhen Corin enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nActivated abilities of blood tokens you control can't be activated.",
@@ -2399,14 +2399,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ANMITA",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Cathu, Dreaming Herald",
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Horror",
-            "number": 117,
+            "number": 120,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Flying\nYou may look at the top card of your library at any time.\nAs long as Cathu is attacking, you may cast creature spells from the top of your library as though they had flash. If it's before the declare blockers step, they enter tapped and attacking.",
@@ -2417,7 +2417,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis, Luca Nicoletti",
-            "notes": ""
+            "notes": "!tag ADM\n!tag album"
         },
         {
             "card_name": "Mankind Salvation Plan",
@@ -2435,14 +2435,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Sunrise Moon Viewing",
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 110,
+            "number": 113,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Affinity for legendaries [i](This spell costs {1} less to cast for each legendary you control.)[/i]\nSearch your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
@@ -2453,14 +2453,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Aerza",
-            "notes": ""
+            "notes": "!tag SoHW\n!tag game"
         },
         {
             "card_name": "Everyone's Everlasting Danmaku",
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 74,
+            "number": 77,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Whenever a creature you control deals combat damage to a player, if it's a color that hasn't been chosen for this enchantment this turn, you may choose one of its colors. When you do, this enchantment deals 1 damage to any target.",
@@ -2471,7 +2471,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307b\u309a\u3068\u3075",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Soukai, Rain Dragon",
@@ -2489,14 +2489,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag TPC\n!tag album"
         },
         {
             "card_name": "Lepus Timidys Snowy",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Youkai Rabbit Rogue",
-            "number": 132,
+            "number": 136,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Whenever Snowy attacks, gain control of target nonland permanent defending player controls with mana value 4 or less unless that player has you create two Treasure tokens.\n[i]Snow Concealment[/i] \u2014 {U}, Sacrifice an artifact: Return Snowy to its owner's hand.\n[i]C40H56 Homing Missile[/i] \u2014 {R}, Sacrifice an artifact: Snowy deals 2 damage to any target.",
@@ -2507,14 +2507,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7551\u679a\u84c2\u862d",
-            "notes": ""
+            "notes": "!tag ASL\n!tag game"
         },
         {
             "card_name": "Tarumi, World Yamataizer",
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 152,
+            "number": 159,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Ward {1}\nWhenever Tarumi attacks, if you activated an ability of an artifact this turn, you may mill four cards. Then put a legendary or land card from among the milled cards into your hand.",
@@ -2525,14 +2525,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "The Divine Jewel",
             "color": "",
             "rarity": "uncommon",
             "type": "Legendary Artifact",
-            "number": 166,
+            "number": 174,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When The Divine Jewel enters, draw a card.\n{1}, {T}: Add one mana of any color. \n{T}: Add three mana of any one color. Activate only if you control artifacts named The Divine Sword and The Divine Mirror.",
@@ -2543,14 +2543,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "The Divine Mirror",
             "color": "",
             "rarity": "rare",
             "type": "Legendary Artifact",
-            "number": 167,
+            "number": 175,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "{1}, {T}: Copy target spell or ability that targets you or a permanent you control. You may choose new targets for the copies.\nAs long as you control artifacts named The Divine Sword and The Divine Jewel, untap all nonland permanents you control during each other player's untap step.",
@@ -2561,14 +2561,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "The Divine Sword",
             "color": "",
             "rarity": "rare",
             "type": "Legendary Artifact \u2014 Equipment",
-            "number": 168,
+            "number": 176,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Equipped creature gets +3/+3 and has ward {1}.\nWhenever Equipped creature attacks, if you control artifacts named The Divine Jewel and The Divine Mirror, that creature gets +10/+10 and gains trample until end of turn.\nEquip {2}",
@@ -2579,14 +2579,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Yamatoyo no Momohime",
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Mystic Noble",
-            "number": 113,
+            "number": 116,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Momohime enters tapped and does not untap during your untap step.\nWhenever Momohime enters or attacks, choose two \u2014\n\u2022 Target player gains 4 life\n\u2022 Target player searches their library for a land card, puts it onto the battlefield tapped, then shuffles.\n\u2022 Put three +1/+1 counters on target creature.\n\u2022 Return target artifact card from a graveyard to its owner's hand.",
@@ -2597,14 +2597,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Fabritis and Iphonea",
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Faerie",
-            "number": 96,
+            "number": 99,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever this creature or a basic land you control enters, scry 1.\n[i]Mendel's Sanctuary[/i] \u2014 At the beginning of your upkeep, if you control three or more basic lands, you may pay {1}{G} and sacrifice this creature. When you do, search your library for a creature card with mana value 3 and put it on the battlefield, then shuffle.",
@@ -2615,14 +2615,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Medicine, Queen of Dolls",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Doll",
-            "number": 59,
+            "number": 61,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "Deathtouch\nAt the beginning of your end step, choose one\u2014\n\u2022 Create a 1/1 colorless Doll artifact creature token.\n\u2022 Return target Doll creature card from your graveyard to the battlefield.\n\u2022 Return target creature card from your graveyard to the battlefield if its mana value is less than or equal to the number of Dolls you control.",
@@ -2633,14 +2633,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag LDQ\n!tag game"
         },
         {
             "card_name": "Unrepentant Mantra",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 69,
+            "number": 72,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "At the beginning of your end step, if you lost life, discarded a card, and sacrificed a nonland permanent this turn, torment each opponent. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent.)[/i]",
@@ -2651,14 +2651,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag AJoR\n!tag album"
         },
         {
             "card_name": "Megumu, Newborn Dragon",
             "color": "R",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Dragon",
-            "number": 81,
+            "number": 84,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "When Megumu enters, destroy target artifact or land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.\nMegumu gets +1/+0 for each land card in your graveyard.",
@@ -2669,14 +2669,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Valloside, Pure Suzuran",
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Plant",
-            "number": 111,
+            "number": 114,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "{G}: Exile target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on Valloside. \nWhenever Valloside attacks, if it has three or more +1/+1 counters on it, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.",
@@ -2687,14 +2687,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7551\u679a\u84c2\u862d",
-            "notes": ""
+            "notes": "!tag LDQ\n!tag game"
         },
         {
             "card_name": "Ruka, Fawn Spirit",
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai Deer",
-            "number": 108,
+            "number": 111,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "As long as it's your turn, you may cast creature spells as though they had flash.\n[i]Hunting Season Vigilante[/i] \u2014 Whenever an opponent casts a spell or activates a nonmana ability during your turn, scry 1.",
@@ -2705,14 +2705,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": ""
+            "notes": "!tag HoSS\n!tag album"
         },
         {
             "card_name": "Mayonaka, the Kishin",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2014 Demon God",
-            "number": 80,
+            "number": 83,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "As an additional cost to cast this spell, sacrifice one or more lands.\nTrample\nWhen Mayonaka enters, if a mountain was sacrificed to cast it, destroy target nonbasic land. The same is true for forest and artifact, and swamp and creature.",
@@ -2723,14 +2723,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": ""
+            "notes": "!tag RoYM\n!tag album"
         },
         {
             "card_name": "Fiction Sign",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 30,
+            "number": 29,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Eastern Tale![/i] \u2014 {0} \u2014 Surveil 1, then draw a card.\n\u2022 [i]Fanhead Canon![/i] \u2014 {1}{U} \u2014 Draw two cards.\n\u2022 [i]Against All Canons![/i] \u2014 {4}{U} \u2014 Surveil 3, then draw three cards.",
@@ -2741,7 +2741,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Iesua, the Forgiver",
@@ -2759,17 +2759,17 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u306f\u308b",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Reimu, the Final Dream",
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Monk",
-            "number": 145,
+            "number": 151,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "Flying, vigilance, lifelink\nVanishing 4 [i](This creature enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]\nWhenever Reimu attacks, it deals damage to up to one target creature equal to four minus the number of time counters on it.",
+            "rules_text": "Flying, vigilance, lifelink\nVanishing 4 [i](This creature enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]\nWhenever Reimu attacks, it deals X damage divided as you choose among any number of targets, where X is 4 minus the number of time counters on it.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2777,7 +2777,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "arufa",
-            "notes": ""
+            "notes": "!tag CtC\n!tag game\n!tag canon"
         },
         {
             "card_name": "Senkiusei, the Supernova",
@@ -2795,14 +2795,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": ""
+            "notes": "!tag SoBH\n!tag album"
         },
         {
             "card_name": "Noah, Sugar-Spun",
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Elder Youkai",
-            "number": 105,
+            "number": 108,
             "color_identity": "G",
             "cost": "{G}{G}{G}",
             "rules_text": "Whenever Noah attacks, create a Food token.\nWhenever you sacrifice a Food, scry 1, then Noah gains your choice of vigilance, trample, indestructible, or reach until end of turn.",
@@ -2813,14 +2813,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": ""
+            "notes": "!tag ToUD\n!tag game"
         },
         {
             "card_name": "Theophilia, the Mad Host",
             "color": "R",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 89,
+            "number": 92,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Whenever Theophilia attacks, each player discards a card, then draws a card. Theophilia gets +1/+1 until end of turn for each player who did not discard a nonland card this way.",
@@ -2831,14 +2831,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag UI\n!tag album"
         },
         {
             "card_name": "Horizon Sign",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 99,
+            "number": 102,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Bringing Bough[/i] \u2014 {0} \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n\u2022 [i]Promise of a Better World[/i] \u2014 {2}{G} \u2014 Search your library for a land card, put it onto the battlefield, then shuffle.\n\u2022 [i]Olive Tree Uprooting[/i] \u2014 {4}{G} \u2014 Return each land card from your graveyard to the battlefield",
@@ -2849,14 +2849,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag WWW\n!tag game"
         },
         {
             "card_name": "Kousen, Drought Deity",
             "color": "R",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 God",
-            "number": 77,
+            "number": 80,
             "color_identity": "R",
             "cost": "{R}{R}",
             "rules_text": "Haste\nWhenever a player taps a nonbasic land, that land doesn't untap during its controller's next untap step unless they have Kousen deals 1 damage to them.",
@@ -2867,14 +2867,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag UotAR\n!tag game"
         },
         {
             "card_name": "Nomi no Hanie",
             "color": "",
             "rarity": "common",
             "type": "Legendary Artifact Creature \u2014 Golem",
-            "number": 173,
+            "number": 181,
             "color_identity": "WG",
             "cost": "{1}",
             "rules_text": "You may exert Hanie as it attacks. When you do, it gets +2/+0 until end of turn. [i](An exerted creature won't untap during your next untap step.)[/i]\n{W}: Hanie gains first strike until end of turn.\n{G}: Hanie gains trample until end of turn.",
@@ -2885,14 +2885,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Nijie of Earthly Amusements",
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 God",
-            "number": 140,
+            "number": 145,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
             "rules_text": "Nijie can't attack or block unless you control three or more creatures with finality counters.\nPrevent all combat damage that would be dealt to and dealt by creatures you control with finality counters.\n{2}{W}{U}: Return target creature card from your graveyard to the battlefield with a finality counter on it.",
@@ -2903,14 +2903,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Spear",
-            "notes": ""
+            "notes": "!tag EGoA\n!tag album"
         },
         {
             "card_name": "Emerald Tablet",
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 169,
+            "number": 177,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Whenever equipped creature attacks, reveal the top X cards of your library, where X is the number of attacking creatures. You may put a creature card from among them into your hand. Put the rest on the bottom of your library in a random order.\nWhenever equipped creature attacks with six or more other creatures, you may exile this artifact. When you do, take an extra turn after this one.\nEquip {1}",
@@ -2921,14 +2921,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "NEO_LIBRA_\u5bc4\u751f\u866b",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "The Lesser Key of Solomon",
             "color": "",
             "rarity": "rare",
             "type": "Legendary Artifact",
-            "number": 172,
+            "number": 180,
             "color_identity": "C",
             "cost": "{6}",
             "rules_text": "This spell costs {1} less to cast for each instant and sorcery card in your graveyard\n{T}: The next spell you cast this turn costs {1} less to cast for each instant and sorcery card in your graveyard.",
@@ -2939,14 +2939,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Renaisense",
-            "notes": ""
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Hate Not the Wind",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 34,
+            "number": 33,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "This spell costs {1} less to cast for each instant and sorcery card in your graveyard.\nReturn target nonland permanent to its owner's hand. Surveil 1.",
@@ -2957,7 +2957,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Bird Sign",
@@ -2975,17 +2975,17 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": ""
+            "notes": "!tag GoDS\n!tag game"
         },
         {
             "card_name": "Fog Sign",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 75,
+            "number": 78,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Bad Cloud[/i] \u2014 {0} \u2014 This spell deals 2 damage to any target.\n\u2022 [i]Night Mist Corin[/i] \u2014 {1} \u2014 This spell deals 2 damage divided as you choose among one or two targets.\n\u2022 [i]Bat and Mouse [/i]\u2014 {3}{R} \u2014 This spell deals 4 damage divided as you choose among any number of targets.",
+            "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Bad Cloud[/i] \u2014 {0} \u2014 This spell deals 2 damage to any target.\n\u2022 [i]Night Mist Corin[/i] \u2014 {1} \u2014 This spell deals 2 damage divided as you choose among one or two targets.\n\u2022 [i]Bat and Mouse [/i]\u2014 {4}{R} \u2014 This spell deals 4 damage divided as you choose among any number of targets.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2993,17 +2993,17 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Nue Sign",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 63,
+            "number": 66,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Danmaku Ammit[/i] \u2014 {0} \u2014 Target player sacrifices a creature.\n\u2022 [i]Armored Aumaan[/i] \u2014 [b]{B}[/b] \u2014 Destroy target creature.\n\u2022 [i]A Baal-like Yours Truly [/i]\u2014 {1}{B} \u2014 This spell can't be countered. Exile target creature or planeswalker.",
+            "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Danmaku Ammit[/i] \u2014 {0} \u2014 Target player sacrifices a creature or planeswalker.\n\u2022 [i]Armored Aumaan[/i] \u2014 1[b]B[/b] \u2014 Destroy target creature or planeswalker.\n\u2022 [i]A Baal-like Yours Truly [/i]\u2014 {3}{B} \u2014 Exile target creature or planeswalker and all cards from its controller's graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3011,14 +3011,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": ""
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Aoi, Creator Deity",
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 God",
-            "number": 115,
+            "number": 118,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
             "rules_text": "When Aoi enters, draw two cards. You may play an additional land this turn.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, tap up to one target artifact or creature. It loses all abilities and doesn't untap during its controller's untap step for as long as that land remains tapped.\n{G}{U}: Put or remove a stun counter from target land you control.",
@@ -3029,14 +3029,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": ""
+            "notes": "!tag RoYM\n!tag album"
         },
         {
             "card_name": "Kiseki, the Pruning Saw",
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 100,
+            "number": 103,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you may pay {G}. When you do, destroy target artifact or enchantment and create a Sawdust token. [i](It's an artifact with no abilities)[/i]\n[i]Kintsugi[/i] \u2014 {T}, Sacrifice a land and X artifacts: Return target noncreature permanent card with mana value X or less from your graveyard to the battlefield.",
@@ -3047,14 +3047,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": ""
+            "notes": "!tag DLW\n!tag game"
         },
         {
             "card_name": "Umikaze, Sea Angel",
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai Slug",
-            "number": 47,
+            "number": 48,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Umikaze enters tapped with three stun counters on it.\nUmikaze and other Youkai you control have ward {1}.\n[i]Eudaimonia[/i] \u2014 Whenever Umikaze becomes untapped, scry 2.",
@@ -3065,14 +3065,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag TZAtC\n!tag album"
         },
         {
-            "card_name": "Cast into the Sea",
+            "card_name": "A Thousand Fathoms Under",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 25,
+            "number": 47,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Choose one \u2014\n\u2022 Return target creature or artifact to its owner's hand.\n\u2022 Put target creature or artifact spell on the bottom of its owner's library.",
@@ -3083,14 +3083,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "karma",
-            "notes": ""
+            "notes": "!tag RSS\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "High-Angle Shot",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 98,
+            "number": 101,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Choose one \u2014\n\u2022 Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n\u2022 Destroy target creature with flying.",
@@ -3101,14 +3101,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u306e\u308a",
-            "notes": ""
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Ammolite Light",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 51,
+            "number": 52,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Choose one\u2014\n\u2022 Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. You lose 2 life.\n\u2022 Until end of turn, if a card would enter or leave a graveyard, exile it instead.",
@@ -3119,7 +3119,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!tag TCL\n!tag game"
         },
         {
             "card_name": "Inori, Shrine Maiden of Sakura",
@@ -3137,17 +3137,17 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8033\u603b\u660e\u5c9a",
-            "notes": ""
+            "notes": "!tag EIoS\n!tag game"
         },
         {
             "card_name": "Tokuko, Divine Swordbearer",
-            "color": "WR",
+            "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spirit",
-            "number": 157,
-            "color_identity": "WR",
-            "cost": "{3}{R}{W}",
-            "rules_text": "When Tokuko enters, search your library for an equipment card with mana value 5 or less and put it onto the battlefield. Then shuffle.\nAs long as Tokuko is equipped with a legendary equipment, it has vigilance and indestructible.",
+            "number": 164,
+            "color_identity": "WG",
+            "cost": "{2}{G}{W}",
+            "rules_text": "When Tokuko enters, search your library for an equipment card with mana value 4 or less and put it onto the battlefield. Then shuffle.\nPermanents attached to Tokuko have hexproof and indestructible.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3155,32 +3155,32 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "huyusilver",
-            "notes": ""
+            "notes": "!tag HGoC\n!tag album"
         },
         {
             "card_name": "Tobiko, Cunning Reporter",
             "color": "UB",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Bird Youkai Ninja",
-            "number": 156,
+            "number": 163,
             "color_identity": "UB",
-            "cost": "{2}{U}{B}",
-            "rules_text": "Ninjutsu {U}{B}\nFlying\nWhenever Tobiko deals combat damage to a player, you may look at that player's hand.\nAt the beginning of your end step, choose the name of a nonland card. Until your next turn, the next time an opponent casts a spell with the chosen name, you draw a card.",
+            "cost": "{1}{U}{B}",
+            "rules_text": "Ninjutsu {U}{B}\nFlying\nWhenever Tobiko deals combat damage to a player, choose the name of a nonland card. Until your next turn, whenever that player casts a spell with the chosen name, you draw a card.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "3/1",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u30df\u30c4\u30b3\u30a2",
-            "notes": ""
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Hideka, Queen of Dragons",
             "color": "RG",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Dragon",
-            "number": 127,
+            "number": 131,
             "color_identity": "RG",
             "cost": "{4}{R}{G}",
             "rules_text": "Vigilance; Soulbond\nWhen Hideka enters, create Fujunryu, a legendary 4/4 red and black Dragon creature token with flying and haste.\nAs long as Hideka is paired with another creature, each of those creatures has \u201cWhenever this creature attacks, exile the top card of your library. You may play that card. If you don't, create a Treasure token.\u201d",
@@ -3191,7 +3191,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": ""
+            "notes": "!tag original\n!tag other"
         },
         {
             "card_name": "Fujunryu",
@@ -3209,14 +3209,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": ""
+            "notes": "!tag original\n!tag other"
         },
         {
             "card_name": "Shushu, Igniter of Night Skies",
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Youkai",
-            "number": 149,
+            "number": 156,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Whenever you cast a spell, Shushu deals 1 damage to you. When this ability resolves for the third time each turn, Shushu deals 3 damage to any target and you gain 3 life.",
@@ -3227,14 +3227,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u661f\u6593",
-            "notes": ""
+            "notes": "!tag BW\n!tag album"
         },
         {
             "card_name": "Mitama, Vengeful Spirit",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spirit",
-            "number": 83,
+            "number": 86,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Reach\nWhenever you cast a noncreature spell, choose one \u2014\n\u2022 Mitama gets +1/+1 until end of turn.\n\u2022 Mitama deals 1 damage to target creature or planeswalker.\n\u2022 Exile the top card of your library. You may play it this turn. Then discard a card.",
@@ -3245,14 +3245,14 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": ""
+            "notes": "!tag MPP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Mirei, Deep-Sea Symphonist",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Youkai Eel",
-            "number": 82,
+            "type": "Legendary Creature \u2014 Youkai Eel Bard",
+            "number": 85,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Mirei and other Youkai you control have Ward\u2014Pay 3 life.\n[i]Rachmaninoff in the Deep[/i] \u2014 At the beginning of combat on your turn, you may discard a card. When you do, target creature gains haste until end of turn and target creature can't block this turn.",
@@ -3263,25 +3263,169 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3053\u304f\u3053\u3099",
-            "notes": ""
+            "notes": "!tag SoS\n!tag album"
         },
         {
             "card_name": "Aelivia Grapeseedling",
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Peasant",
-            "number": 49,
+            "number": 50,
             "color_identity": "WBG",
             "cost": "{B}",
-            "rules_text": "{B}: Put a deathtouch counter on Aelivia\n{1}{W}: If Aelivia has a counter on it, create a Cloth token attached to it. [i](It's a white Aura enchantment token with \u201cenchant creature\u201d and \u201cenchanted creature gets +1/+1.)[/i]\n{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. You may have it gain a creature type of your choice.",
+            "rules_text": "{B}: Put a deathtouch counter on Aelivia\n{1}{W}: If Aelivia has a counter on it, create a Garment token attached to it. [i](It's a white Aura enchantment token with \u201cenchant creature\u201d and \u201cenchanted creature gets +1/+1.)[/i]\n{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. You may have it gain a creature type of your choice.",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
-            "notes": ""
+            "notes": "!tag MAitN\n!tag concept"
+        },
+        {
+            "card_name": "Shizuka, the Transient Elegance",
+            "color": "BG",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 God",
+            "number": 155,
+            "color_identity": "BG",
+            "cost": "{2}{B}{G}",
+            "rules_text": "Vanishing 4 [i](This creature enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]\nWhen Shizuka enters, put four time counters on each other nonland permanent. If they don't have vanishing, they gain vanishing.\nNonland permanents that don't have vanishing gain vanishing 4 as they enter.",
+            "flavor_text": "[i][/i]",
+            "pt": "6/6",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "\u8033\u603b\u660e\u5c9a",
+            "notes": "!tag EIoS\n!tag game"
+        },
+        {
+            "card_name": "Ei, the Eternal Stillness",
+            "color": "WG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 God",
+            "number": 125,
+            "color_identity": "WG",
+            "cost": "{2}{G}{W}",
+            "rules_text": "Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped still remain tapped.)[/i]\nAll creatures have vigilance.\n{4}: Ei phases out. Only activate as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "NnickykunN",
+            "notes": "!tag EIoS\n!tag game"
+        },
+        {
+            "card_name": "Rachel, Unstable Scientist",
+            "color": "UR",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Human Scientist",
+            "number": 150,
+            "color_identity": "UR",
+            "cost": "{1}{U}{R}",
+            "rules_text": "Whenever you cast a noncreature spell, you may sacrifice a nonland permanent. If you do, draw a card and note that permanent's mana value.\n[i]Melancholy of the Lost Scientist[/i] \u2014 At the beginning of your end step, if the total mana value noted this turn is 10 or greater, Rachel deals 10 damage to each opponent.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "Gwen",
+            "notes": "!tag UaUP\n!tag game"
+        },
+        {
+            "card_name": "Nezu, Wicked Kitsune",
+            "color": "B",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Fox Youkai",
+            "number": 64,
+            "color_identity": "B",
+            "cost": "{1}{B}{B}",
+            "rules_text": "Whenever Nezu attacks, defending player loses 2 life unless they discard a nonland card.\n[i]Fox Borrowing a Human's Authority[/i] \u2014 Whenever a player discards a creature card, you may have Nezu become a copy of that creature until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "Akinomiya Asuka",
+            "notes": "!tag BoSM\n!tag game\n!tag kaisendo"
+        },
+        {
+            "card_name": "Patricia Turing",
+            "color": "U",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Human Scientist",
+            "number": 38,
+            "color_identity": "U",
+            "cost": "{5}{U}{U}",
+            "rules_text": "When Patricia enters, choose target player. For each nontoken permanent that player controls, create a token that's a copy of that permanent, except it has \u201cWhen Patricia leaves the battlefield, exile this permanent.\u201d",
+            "flavor_text": "[i]\u201cIn truth, I was able to find a crack in this mysterious world! Therefore, I will fascinate you with all the skills I have. A perfect imitation of fantasia!\u201d[/i]",
+            "pt": "2/5",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "\u307d\u306b\u3083",
+            "notes": "!tag FoM\n!tag album"
+        },
+        {
+            "card_name": "Hako, Ark of Death",
+            "color": "B",
+            "rarity": "mythic",
+            "type": "Legendary Artifact Creature \u2014 Spirit Doll",
+            "number": 56,
+            "color_identity": "B",
+            "cost": "{3}{B}",
+            "rules_text": "As an additional cost to cast this spell, exile a creature you control and a creature card from your graveyard.\nAt the beginning of each opponent's upkeep, that player exiles a card from their hand, a card from their graveyard, and the top card of their library. Put a +1/+1 counter on Hako for each card exiled this way.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "\u307b\u309a\u306b\u3083",
+            "notes": "!tag MoDP\n!tag album"
+        },
+        {
+            "card_name": "Mizukami, Aqua Seraph",
+            "color": "UB",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Mystic",
+            "number": 144,
+            "color_identity": "UB",
+            "cost": "{U}{B}",
+            "rules_text": "Whenever you attack, mill three cards. If all of them are noncreature, nonland cards, monstrosity 1.\nWhen Mizukami becomes monstrous, exile up to one target nonland card with mana value 4 or less from your graveyard. Cast a copy of it without paying its mana cost.",
+            "flavor_text": "[i]\u201cMay the fish find their destination by dawn... May I get my revenge by night... Let's enjoy this festival \u2018till midnight!\u201d[/i]",
+            "pt": "3/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "\u307b\u309a\u306b\u3083",
+            "notes": "!tag OoDD\n!tag album"
+        },
+        {
+            "card_name": "World's End Testament",
+            "color": "WB",
+            "rarity": "rare",
+            "type": "Sorcery",
+            "number": 172,
+            "color_identity": "WB",
+            "cost": "{3}{WB}{WB}",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy all non-Angel creatures\n\u2022 Destroy all non-Demon creatures",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "F2HU",
+            "loyalty": "",
+            "artist": "Akaim",
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         }
     ],
     "version": 1
