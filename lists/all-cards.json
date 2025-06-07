@@ -300,7 +300,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "II b4 - \u9e22\u9e22\u9e22\u9e22\u5b50",
+            "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "notes": "!tag II\n!tag game\n!tag music",
             "image_type": "png"
         },
@@ -338,7 +338,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u660e\u30ce\u5bae \u98db\u9ce5/Akari no Miya",
+            "artist": "Akinomiya Asuka",
             "notes": "!tag MB\n!tag game\n!tag music",
             "image_type": "png"
         },
@@ -709,7 +709,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u857e\u74e6\u4f26\u65af\u6a23",
+            "artist": "moku2333",
             "notes": "!tag EPA\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -880,7 +880,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "akinomiya",
+            "artist": "Akinomiya Asuka",
             "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -1004,7 +1004,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307d\u306b\u3083",
+            "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "notes": "!tag SoBH\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -1099,7 +1099,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -1479,7 +1479,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag SoHW\n!tag game\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -1574,7 +1574,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u767d\u5d0e\u307b\u309a\u3068\u3075",
+            "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag canon\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -1897,7 +1897,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag BW\n!tag album\n!tag music\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
@@ -2011,7 +2011,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u3082\u307f\u3061\u3099\u5c71",
+            "artist": "\u5927\u4f34\u4e2d\u7d0d\u8a00\u30af\u3099\u30e9\u30fc\u30cd",
             "notes": "!tag FmVA\n!tag game",
             "image_type": "png"
         },
@@ -2182,7 +2182,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag CUoO\n!tag game",
             "image_type": "png"
         },
@@ -2201,7 +2201,7 @@
             "shape": "token",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag CUoO\n!tag game",
             "image_type": "png"
         },
@@ -2600,7 +2600,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u767d\u5d0e\u307b\u309a\u3068\u3075",
+            "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
@@ -2980,7 +2980,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "Floom",
             "notes": "!tag UI\n!tag album",
             "image_type": "png"
         },
@@ -3113,7 +3113,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag BoSM\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -3227,7 +3227,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag TZAtC\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
@@ -3284,7 +3284,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "",
+            "artist": "gren",
             "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -3360,7 +3360,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag original\n!tag other",
             "image_type": "png"
         },
@@ -3569,7 +3569,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag MoDP\n!tag album",
             "image_type": "png"
         },
@@ -3588,7 +3588,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag OoDD\n!tag album\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
@@ -3601,7 +3601,7 @@
             "color_identity": "WB",
             "cost": "{3}{WB}{WB}",
             "rules_text": "Choose one \u2013\n\u2022 Destroy all non-Angel creatures\n\u2022 Destroy all non-Demon creatures",
-            "flavor_text": "[i]It was prophecized that a \u2018lamb' would break the seals on the book of revelations. Just their luck that a sheep fairy unwittingly stole the book as a prank, starting the apocalypse in Gensokyo.[/i]",
+            "flavor_text": "[i]It was prophecized that a \u2018lamb' would break the seals on the book of revelations. Just their luck that a sheep fairy would steal the book as a prank, inadvertently causing the apocalypse in Gensokyo.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3626,7 +3626,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "\u307b\u309a\u306b\u3083",
+            "artist": "\u307d\u306b\u3083",
             "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
