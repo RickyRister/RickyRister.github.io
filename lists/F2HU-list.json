@@ -10,23 +10,23 @@
         "shape": "normal"
     },
     {
-        "card_name": "Hako, Box of Nightmares",
-        "number": 58,
+        "card_name": "Hako, Ark of Death",
+        "number": 59,
         "shape": "normal"
     },
     {
         "card_name": "Mayonaka, the Kishin",
-        "number": 86,
+        "number": 87,
         "shape": "normal"
     },
     {
         "card_name": "Eight Million Gods",
-        "number": 104,
+        "number": 105,
         "shape": "normal"
     },
     {
-        "card_name": "Fairy Convocation",
-        "number": 5,
+        "card_name": "Iesua, the Forgiver",
+        "number": 8,
         "shape": "normal"
     },
     {
@@ -36,22 +36,22 @@
     },
     {
         "card_name": "Musaraku, Source of Nightmares",
-        "number": 66,
+        "number": 67,
         "shape": "normal"
     },
     {
         "card_name": "Megumu, Newborn Dragon",
-        "number": 87,
+        "number": 88,
         "shape": "normal"
     },
     {
         "card_name": "Mihana, Princess of Greenery",
-        "number": 112,
+        "number": 113,
         "shape": "normal"
     },
     {
-        "card_name": "Iesua, the Forgiver",
-        "number": 8,
+        "card_name": "Inori, Shrine Maiden of Sakura",
+        "number": 9,
         "shape": "normal"
     },
     {
@@ -66,17 +66,17 @@
     },
     {
         "card_name": "Amanozako, Crimson Tyrant",
-        "number": 76,
+        "number": 77,
         "shape": "normal"
     },
     {
         "card_name": "An, Kodoma of Tobiume",
-        "number": 101,
+        "number": 102,
         "shape": "normal"
     },
     {
-        "card_name": "Inori, Shrine Maiden of Sakura",
-        "number": 9,
+        "card_name": "Jinka, the Yearning Light",
+        "number": 11,
         "shape": "normal"
     },
     {
@@ -91,37 +91,12 @@
     },
     {
         "card_name": "Everyone's Everlasting Danmaku",
-        "number": 80,
+        "number": 81,
         "shape": "normal"
     },
     {
         "card_name": "The Festival Starts Today",
-        "number": 106,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Jinka, the Yearning Light",
-        "number": 11,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Prune Reality",
-        "number": 42,
-        "shape": "normal"
-    },
-    {
-        "card_name": "General Set",
-        "number": 57,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Mirei, Deep-Sea Symphonist",
-        "number": 88,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Kiseki, the Pruning Saw",
-        "number": 109,
+        "number": 107,
         "shape": "normal"
     },
     {
@@ -135,19 +110,19 @@
         "shape": "normal"
     },
     {
-        "card_name": "Keshika, Flower of Evil",
-        "number": 59,
+        "card_name": "General Set",
+        "number": 58,
         "shape": "normal"
     },
     {
-        "card_name": "Mitama, Vengeful Spirit",
+        "card_name": "Mirei, Deep-Sea Symphonist",
         "number": 89,
         "shape": "normal"
     },
     {
-        "card_name": "Leaf Ponders the Flower",
-        "number": 111,
-        "shape": "modal double faced"
+        "card_name": "Kiseki, the Pruning Saw",
+        "number": 110,
+        "shape": "normal"
     },
     {
         "card_name": "Michel Sant'Angelo",
@@ -160,19 +135,19 @@
         "shape": "normal"
     },
     {
-        "card_name": "Lokhens, Blind Night Raven",
+        "card_name": "Keshika, Flower of Evil",
         "number": 60,
         "shape": "normal"
     },
     {
-        "card_name": "Rebellion God Force",
-        "number": 92,
+        "card_name": "Mitama, Vengeful Spirit",
+        "number": 90,
         "shape": "normal"
     },
     {
-        "card_name": "Munomoto, Bud of Lost Dreams",
-        "number": 113,
-        "shape": "normal"
+        "card_name": "Leaf Ponders the Flower",
+        "number": 112,
+        "shape": "modal double faced"
     },
     {
         "card_name": "Nueko, Castle Protector",
@@ -185,17 +160,17 @@
         "shape": "normal"
     },
     {
-        "card_name": "Mariko, the Downtrodden",
+        "card_name": "Lokhens, Blind Night Raven",
         "number": 61,
-        "shape": "modal double faced"
-    },
-    {
-        "card_name": "Steel is Born from Flame",
-        "number": 95,
         "shape": "normal"
     },
     {
-        "card_name": "Nanahiyakumi, Song Saint",
+        "card_name": "Steel is Born from Flame",
+        "number": 96,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Munomoto, Bud of Lost Dreams",
         "number": 114,
         "shape": "normal"
     },
@@ -205,23 +180,23 @@
         "shape": "normal"
     },
     {
-        "card_name": "Yamoto, Steam Era Remnant",
+        "card_name": "Yamoto, Steam Age Remnant",
         "number": 50,
         "shape": "normal"
     },
     {
-        "card_name": "Medicine, Queen of Dolls",
-        "number": 63,
-        "shape": "normal"
+        "card_name": "Mariko, the Downtrodden",
+        "number": 62,
+        "shape": "modal double faced"
     },
     {
         "card_name": "Yomimi, Ultimate Phantom",
-        "number": 99,
+        "number": 100,
         "shape": "normal"
     },
     {
-        "card_name": "Valloside, Pure Suzuran",
-        "number": 121,
+        "card_name": "Nanahiyakumi, Song Saint",
+        "number": 115,
         "shape": "normal"
     },
     {
@@ -235,18 +210,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Nezu, Wicked Kitsune",
-        "number": 67,
+        "card_name": "Medicine, Queen of Dolls",
+        "number": 64,
         "shape": "normal"
     },
     {
-        "card_name": "Casual Arson",
-        "number": 78,
+        "card_name": "Kousan, Spear of Chaos",
+        "number": 83,
         "shape": "normal"
     },
     {
-        "card_name": "Yamatoyo no Momohime",
-        "number": 123,
+        "card_name": "Valloside, Pure Suzuran",
+        "number": 122,
         "shape": "normal"
     },
     {
@@ -260,23 +235,23 @@
         "shape": "normal"
     },
     {
-        "card_name": "Padma, Molting Zeal",
-        "number": 71,
+        "card_name": "Nezu, Wicked Kitsune",
+        "number": 68,
         "shape": "normal"
     },
     {
-        "card_name": "Kousan, Spear of Chaos",
-        "number": 82,
+        "card_name": "Kousen, Drought Deity",
+        "number": 84,
         "shape": "normal"
     },
     {
-        "card_name": "Seiryuu, Willow Spirit",
-        "number": 119,
+        "card_name": "Yamatoyo no Momohime",
+        "number": 124,
         "shape": "normal"
     },
     {
-        "card_name": "Golden Hymn",
-        "number": 6,
+        "card_name": "Fairy Contest",
+        "number": 5,
         "shape": "normal"
     },
     {
@@ -285,23 +260,23 @@
         "shape": "normal"
     },
     {
-        "card_name": "Unrepentant Mantra",
-        "number": 75,
+        "card_name": "Padma, Molting Zeal",
+        "number": 72,
         "shape": "normal"
     },
     {
-        "card_name": "Kousen, Drought Deity",
-        "number": 83,
+        "card_name": "Lightning Word",
+        "number": 85,
         "shape": "normal"
     },
     {
-        "card_name": "Sunrise Moon Viewing",
+        "card_name": "Seiryuu, Willow Spirit",
         "number": 120,
         "shape": "normal"
     },
     {
-        "card_name": "Janet Arc'Angelo",
-        "number": 10,
+        "card_name": "Golden Hymn",
+        "number": 6,
         "shape": "normal"
     },
     {
@@ -310,18 +285,43 @@
         "shape": "normal"
     },
     {
+        "card_name": "Unrepentant Mantra",
+        "number": 76,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Magura, the Taotie",
+        "number": 86,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Sunrise Moon Viewing",
+        "number": 121,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Janet Arc'Angelo",
+        "number": 10,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Prune Reality",
+        "number": 42,
+        "shape": "normal"
+    },
+    {
         "card_name": "Bon, the Greedy Beast",
         "number": 55,
         "shape": "normal"
     },
     {
-        "card_name": "Lightning Word",
-        "number": 84,
+        "card_name": "Rebellion God Force",
+        "number": 93,
         "shape": "normal"
     },
     {
         "card_name": "An Addendum to the Past",
-        "number": 100,
+        "number": 101,
         "shape": "normal"
     },
     {
@@ -335,18 +335,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Fantasy Withdrawl Syndrome",
+        "card_name": "Datura, Weaver of Death",
         "number": 56,
         "shape": "normal"
     },
     {
-        "card_name": "Magura, the Taotie",
-        "number": 85,
+        "card_name": "Sekito, Shadow-Severing Speed",
+        "number": 94,
         "shape": "normal"
     },
     {
         "card_name": "Apple Girlington",
-        "number": 102,
+        "number": 103,
         "shape": "normal"
     },
     {
@@ -360,18 +360,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Masahi, the Carefree Princess",
-        "number": 62,
+        "card_name": "Fantasy Withdrawl Syndrome",
+        "number": 57,
         "shape": "normal"
     },
     {
-        "card_name": "Sekito, Shadow-Severing Speed",
-        "number": 93,
+        "card_name": "Annika A.T.B von Hohenheim",
+        "number": 78,
         "shape": "normal"
     },
     {
         "card_name": "Birds Return at Dusk",
-        "number": 103,
+        "number": 104,
         "shape": "normal"
     },
     {
@@ -385,18 +385,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Meimei, the Wishing Doll",
-        "number": 64,
+        "card_name": "Masahi, the Carefree Princess",
+        "number": 63,
         "shape": "normal"
     },
     {
-        "card_name": "Annika A.T.B von Hohenheim",
-        "number": 77,
+        "card_name": "Casual Arson",
+        "number": 79,
         "shape": "normal"
     },
     {
         "card_name": "Fabritis and Iphonea",
-        "number": 105,
+        "number": 106,
         "shape": "normal"
     },
     {
@@ -410,18 +410,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Mumumu, the Morning Star",
+        "card_name": "Meimei, the Wishing Doll",
         "number": 65,
         "shape": "normal"
     },
     {
         "card_name": "Corin Charite",
-        "number": 79,
+        "number": 80,
         "shape": "normal"
     },
     {
         "card_name": "High-Angle Shot",
-        "number": 107,
+        "number": 108,
         "shape": "normal"
     },
     {
@@ -435,18 +435,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Salom\u00e9, Patasola",
-        "number": 72,
+        "card_name": "Mumumu, the Morning Star",
+        "number": 66,
         "shape": "normal"
     },
     {
         "card_name": "Fog Sign",
-        "number": 81,
+        "number": 82,
         "shape": "normal"
     },
     {
         "card_name": "Horizon Sign",
-        "number": 108,
+        "number": 109,
         "shape": "normal"
     },
     {
@@ -460,18 +460,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Shiran, the Fake Priest",
+        "card_name": "Salom\u00e9, Patasola",
         "number": 73,
         "shape": "normal"
     },
     {
         "card_name": "Nene, Mountain Shouter",
-        "number": 90,
+        "number": 91,
         "shape": "normal"
     },
     {
         "card_name": "Konoha, Uncaptured Raccoon",
-        "number": 110,
+        "number": 111,
         "shape": "normal"
     },
     {
@@ -485,18 +485,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Ammolite Light",
-        "number": 54,
+        "card_name": "Shiran, the Fake Priest",
+        "number": 74,
         "shape": "normal"
     },
     {
         "card_name": "Ranran, Scarlet Monkey",
-        "number": 91,
+        "number": 92,
         "shape": "normal"
     },
     {
         "card_name": "Noah, Sugar-Spun",
-        "number": 115,
+        "number": 116,
         "shape": "normal"
     },
     {
@@ -510,18 +510,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Nix, Messenger of Darkness",
-        "number": 68,
+        "card_name": "Ammolite Light",
+        "number": 54,
         "shape": "normal"
     },
     {
         "card_name": "Shirane, Thunderbird",
-        "number": 94,
+        "number": 95,
         "shape": "normal"
     },
     {
         "card_name": "Oxas, Fairy of Clovers",
-        "number": 116,
+        "number": 117,
         "shape": "normal"
     },
     {
@@ -535,18 +535,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Nue Sign",
+        "card_name": "Nix, Messenger of Darkness",
         "number": 69,
         "shape": "normal"
     },
     {
         "card_name": "Theophilia, the Mad Host",
-        "number": 96,
+        "number": 97,
         "shape": "normal"
     },
     {
         "card_name": "Rebirth of Dreams",
-        "number": 117,
+        "number": 118,
         "shape": "normal"
     },
     {
@@ -560,18 +560,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Omen of Black Clouds",
+        "card_name": "Nue Sign",
         "number": 70,
         "shape": "normal"
     },
     {
         "card_name": "Traitor's Requiem",
-        "number": 97,
+        "number": 98,
         "shape": "normal"
     },
     {
         "card_name": "Ruka, Fawn Spirit",
-        "number": 118,
+        "number": 119,
         "shape": "normal"
     },
     {
@@ -585,18 +585,18 @@
         "shape": "normal"
     },
     {
-        "card_name": "Unane, the Composer",
-        "number": 74,
+        "card_name": "Omen of Black Clouds",
+        "number": 71,
         "shape": "normal"
     },
     {
         "card_name": "Tsumugi Enishi",
-        "number": 98,
+        "number": 99,
         "shape": "normal"
     },
     {
         "card_name": "Withered Bounty",
-        "number": 122,
+        "number": 123,
         "shape": "normal"
     },
     {
@@ -608,7 +608,9 @@
         "shape": "normal"
     },
     {
-        "card_name": "e"
+        "card_name": "Unane, the Composer",
+        "number": 75,
+        "shape": "normal"
     },
     {
         "card_name": "e"
@@ -665,112 +667,135 @@
     "a->gold",
     {
         "card_name": "Mitori, the Crimson Grudge",
-        "number": 150,
+        "number": 151,
         "shape": "normal"
     },
     {
         "card_name": "Mizuho, Onmyouji",
-        "number": 153,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Lovia Joutsela, Hiisi",
-        "number": 147,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Cathu, Dreaming Herald",
-        "number": 127,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Ei, the Eternal Stillness",
-        "number": 132,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Nijie of Earthly Amusements",
-        "number": 155,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Lethal Entertainment",
-        "number": 145,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Lamis Corrosa",
-        "number": 143,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Hideka, Queen of Dragons",
-        "number": 138,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Feza, Blessed Pathfinder",
-        "number": 135,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Yanduo, Dance of Fabric",
-        "number": 178,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Megumi, the Mermaid's Dream",
-        "number": 148,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Choo-Eunae, Snake's Bite",
-        "number": 129,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Inasa, Warring Celestial",
-        "number": 140,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Tokuko, Divine Swordbearer",
-        "number": 175,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Miyo and Tsubame, Wavecasters",
-        "number": 152,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Mizukami, Aqua Seraph",
         "number": 154,
         "shape": "normal"
     },
     {
-        "card_name": "El\u00e9onore, Alligator's Bite",
+        "card_name": "Lovia Joutsela, Hiisi",
+        "number": 148,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Cathu, Dreaming Herald",
+        "number": 128,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Ei, the Eternal Stillness",
         "number": 133,
         "shape": "normal"
     },
     {
-        "card_name": "Pale Fanhead, Fan Enjoyer",
-        "number": 158,
+        "card_name": "Nijie of Earthly Amusements",
+        "number": 157,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Lethal Entertainment",
+        "number": 146,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Lamis Corrosa",
+        "number": 144,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Hideka, Queen of Dragons",
+        "number": 139,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Feza, Blessed Pathfinder",
+        "number": 136,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Tamako Sant'Angelo",
+        "number": 174,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Megumi, the Mermaid's Dream",
+        "number": 149,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Choo-Eunae, Snake's Bite",
+        "number": 130,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Inasa, Warring Celestial",
+        "number": 141,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Tokuko, Divine Swordbearer",
+        "number": 180,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Yanduo, Dance of Fabric",
+        "number": 183,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Mizukami, Aqua Seraph",
+        "number": 155,
+        "shape": "normal"
+    },
+    {
+        "card_name": "El\u00e9onore, Alligator's Bite",
+        "number": 134,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Rin Satsuki, Protagonist",
+        "number": 165,
         "shape": "normal"
     },
     {
         "card_name": "Touko, Harvest God",
-        "number": 176,
+        "number": 181,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Miyo and Tsubame, Wavecasters",
+        "number": 153,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Ruine, Discarded Data",
+        "number": 166,
+        "shape": "normal"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pale Fanhead, Fan Enjoyer",
+        "number": 160,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Chieka, the Artist",
+        "number": 129,
         "shape": "normal"
     },
     {
         "card_name": "Ophelia, the Writer",
-        "number": 156,
+        "number": 158,
         "shape": "normal"
     },
     {
         "card_name": "Tenmu Suitokuin, Daitengu",
-        "number": 171,
+        "number": 176,
         "shape": "normal"
     },
     {
@@ -780,16 +805,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Chieka, the Artist",
-        "number": 128,
-        "shape": "normal"
+        "card_name": "e"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Tobiko, Cunning Reporter",
-        "number": 174,
+        "number": 179,
         "shape": "normal"
     },
     {
@@ -806,7 +829,7 @@
     },
     {
         "card_name": "Mystia, Daystruck",
-        "number": 181,
+        "number": 186,
         "shape": "normal"
     },
     {
@@ -835,85 +858,87 @@
     },
     {
         "card_name": "Hazuki, Onmyouji",
-        "number": 137,
+        "number": 138,
         "shape": "normal"
     },
     {
         "card_name": "Reverence U'n-Llisardggy",
-        "number": 162,
+        "number": 164,
         "shape": "normal"
     },
     {
         "card_name": "Shizuka, the Transient Elegance",
-        "number": 166,
+        "number": 169,
         "shape": "normal"
     },
     {
         "card_name": "Cindy Plum, Rakshasa",
-        "number": 130,
+        "number": 131,
         "shape": "normal"
     },
     {
         "card_name": "Elfin Mint",
-        "number": 134,
+        "number": 135,
         "shape": "normal"
     },
     {
         "card_name": "Lily White, Fairy Imperator",
-        "number": 146,
+        "number": 147,
         "shape": "normal"
     },
     {
         "card_name": "Tenxka Shin",
-        "number": 173,
+        "number": 178,
         "shape": "normal"
     },
     {
-        "card_name": "Yukiko, Heart of the Swarm",
-        "number": 179,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Kazuha, Compiler of Waka",
-        "number": 142,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Ai Hinoide, Perfect Human",
-        "number": 124,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Tensei, the Star God",
+        "card_name": "Sizuka, Dissector of Fairies",
         "number": 172,
         "shape": "normal"
     },
     {
-        "card_name": "Rachel, Unstable Scientist",
-        "number": 160,
+        "card_name": "Kazuha, Compiler of Waka",
+        "number": 143,
         "shape": "normal"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Reimu, the Final Dream",
-        "number": 161,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Aoi, Creator Deity",
+        "card_name": "Ai Hinoide, Perfect Human",
         "number": 125,
         "shape": "normal"
     },
     {
+        "card_name": "Tensei, the Star God",
+        "number": 177,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Rachel, Unstable Scientist",
+        "number": 162,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Yukiko, Heart of the Swarm",
+        "number": 184,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Reimu, the Final Dream",
+        "number": 163,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Aoi, Creator Deity",
+        "number": 126,
+        "shape": "normal"
+    },
+    {
         "card_name": "World's End Testament",
-        "number": 183,
+        "number": 188,
         "shape": "normal"
     },
     {
         "card_name": "Kasumi, Submarine Illusion",
-        "number": 141,
+        "number": 142,
         "shape": "normal"
     },
     {
@@ -921,22 +946,22 @@
     },
     {
         "card_name": "Shushu, Igniter of Night Skies",
-        "number": 167,
+        "number": 170,
         "shape": "normal"
     },
     {
-        "card_name": "Phantasm Paradise",
-        "number": 159,
+        "card_name": "Muu, Tragedy Princess",
+        "number": 156,
         "shape": "normal"
     },
     {
         "card_name": "Nebet Tefet",
-        "number": 182,
+        "number": 187,
         "shape": "normal"
     },
     {
         "card_name": "Lepus Timidys Snowy",
-        "number": 144,
+        "number": 145,
         "shape": "normal"
     },
     {
@@ -944,12 +969,12 @@
     },
     {
         "card_name": "Saraka, Fallen Angel",
-        "number": 164,
+        "number": 167,
         "shape": "normal"
     },
     {
-        "card_name": "Tarumi, World Yamataizer",
-        "number": 170,
+        "card_name": "Phantasm Paradise",
+        "number": 161,
         "shape": "normal"
     },
     {
@@ -963,50 +988,50 @@
     },
     {
         "card_name": "Marry Shepherd",
-        "number": 180,
+        "number": 185,
         "shape": "normal"
+    },
+    {
+        "card_name": "Tarumi, World Yamataizer",
+        "number": 175,
+        "shape": "normal"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Ruine, Discarded Data",
-        "number": 163,
-        "shape": "normal"
-    },
-    {
         "card_name": "Fuma Mishandra",
-        "number": 136,
+        "number": 137,
         "shape": "normal"
     },
     {
         "card_name": "Ayame, Essence of Chaos",
-        "number": 126,
+        "number": 127,
         "shape": "normal"
     },
     {
         "card_name": "Cisa Perlach Augusta",
-        "number": 131,
+        "number": 132,
         "shape": "normal"
     },
     {
         "card_name": "Shirogane, Bravehearted",
-        "number": 165,
+        "number": 168,
         "shape": "normal"
     },
     {
@@ -1023,7 +1048,7 @@
     },
     {
         "card_name": "Mikoto, Mother Goddess",
-        "number": 149,
+        "number": 150,
         "shape": "normal"
     },
     {
@@ -1043,12 +1068,12 @@
     },
     {
         "card_name": "Shuuu, God of Weapons",
-        "number": 168,
+        "number": 171,
         "shape": "normal"
     },
     {
         "card_name": "Miyako, Lamp of Life",
-        "number": 151,
+        "number": 152,
         "shape": "normal"
     },
     {
@@ -1056,12 +1081,12 @@
     },
     {
         "card_name": "Otohime Kanpukugu",
-        "number": 157,
+        "number": 159,
         "shape": "normal"
     },
     {
         "card_name": "Ummu, Antediluvian",
-        "number": 177,
+        "number": 182,
         "shape": "normal"
     },
     {
@@ -1075,7 +1100,7 @@
     },
     {
         "card_name": "Horou, Crested Ibis",
-        "number": 139,
+        "number": 140,
         "shape": "normal"
     },
     {
@@ -1098,7 +1123,7 @@
     },
     {
         "card_name": "Taeyori, the Leader",
-        "number": 169,
+        "number": 173,
         "shape": "normal"
     },
     {
@@ -1128,57 +1153,57 @@
     "a->colorless",
     {
         "card_name": "The Divine Mirror",
-        "number": 186,
-        "shape": "normal"
-    },
-    {
-        "card_name": "The Divine Sword",
-        "number": 187,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Emerald Tablet",
-        "number": 188,
-        "shape": "normal"
-    },
-    {
-        "card_name": "The Great Ark",
-        "number": 189,
-        "shape": "normal"
-    },
-    {
-        "card_name": "The Lesser Key of Solomon",
         "number": 191,
         "shape": "normal"
     },
     {
-        "card_name": "Douraku Kazane, Colorless Tone",
-        "number": 194,
-        "shape": "normal"
-    },
-    {
-        "card_name": "The Divine Jewel",
-        "number": 185,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Chirper Phone",
-        "number": 184,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Ibis Feather",
-        "number": 190,
-        "shape": "normal"
-    },
-    {
-        "card_name": "Nomi no Hanie",
+        "card_name": "The Divine Sword",
         "number": 192,
         "shape": "normal"
     },
     {
-        "card_name": "Treasure Lantern",
+        "card_name": "Emerald Tablet",
         "number": 193,
+        "shape": "normal"
+    },
+    {
+        "card_name": "The Great Ark",
+        "number": 194,
+        "shape": "normal"
+    },
+    {
+        "card_name": "The Lesser Key of Solomon",
+        "number": 196,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Douraku Kazane, Colorless Tone",
+        "number": 199,
+        "shape": "normal"
+    },
+    {
+        "card_name": "The Divine Jewel",
+        "number": 190,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Chirper Phone",
+        "number": 189,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Ibis Feather",
+        "number": 195,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Nomi no Hanie",
+        "number": 197,
+        "shape": "normal"
+    },
+    {
+        "card_name": "Treasure Lantern",
+        "number": 198,
         "shape": "normal"
     },
     {
@@ -1216,7 +1241,7 @@
     },
     {
         "card_name": "Memento Forest",
-        "number": 195,
+        "number": 200,
         "shape": "normal"
     },
     {
@@ -1244,24 +1269,41 @@
         "shape": "token"
     },
     {
-        "card_name": "Homunculus",
+        "card_name": "Faerie",
         "number": 2,
         "shape": "token"
     },
     {
-        "card_name": "Bubble Universe",
+        "card_name": "Homunculus",
         "number": 3,
         "shape": "token"
     },
     {
-        "card_name": "Fujunryu",
+        "card_name": "Bubble Universe",
         "number": 4,
         "shape": "token"
     },
     {
-        "card_name": "Zankurou",
+        "card_name": "Fujunryu",
         "number": 5,
         "shape": "token"
+    },
+    {
+        "card_name": "Zankurou",
+        "number": 6,
+        "shape": "token"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
