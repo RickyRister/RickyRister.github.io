@@ -33,7 +33,7 @@
 		{
 			"name": "Birds of a Feather",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
@@ -1048,7 +1048,7 @@
 			"name": "Ibis Feather",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact — Clue",
+			"type": "Artifact",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/195_Ibis Feather.png"
