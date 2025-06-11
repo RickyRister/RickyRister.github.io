@@ -1,0 +1,1 @@
+Inspired by [Universes Beyond: Touhou](https://rachel-brighton.github.io/previews/2HU) (by Rachel)

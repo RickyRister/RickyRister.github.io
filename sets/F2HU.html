@@ -262,7 +262,7 @@
 	</div>
 
 	<div class="splash-container" id="splash">
-	
+	<p>Inspired by <a href="https://rachel-brighton.github.io/previews/2HU">Universes Beyond: Touhou</a> (by Rachel)</p>
 	</div>
 
 	<div class="grid-container" id="grid">
@@ -300,8 +300,7 @@
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
 			}
-					buttons.style.display = 'none';
-		setCardView();
+					switchView('splash');
 		});
 
 		document.getElementById("sort-by").onchange = displayChangeListener;
