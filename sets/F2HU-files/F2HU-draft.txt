@@ -4,10 +4,10 @@
 			"name": "Zankurou",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Creature — Demon",
-			"collector_number": "6",
+			"type": "Token Legendary Creature — Demon",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/6_Zankurou.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/15_Zankurou.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "1",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/1_Bird.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/6_Bird.png"
 			}
 		},
 		{
@@ -1159,9 +1159,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Homunculus",
-			"collector_number": "3",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/3_Homunculus.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/9_Homunculus.png"
 			}
 		},
 		{
@@ -1229,9 +1229,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "4",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/4_Bubble Universe.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/12_Bubble Universe.png"
 			}
 		},
 		{
@@ -1778,10 +1778,10 @@
 			"name": "Fujunryu",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "5",
+			"type": "Token Legendary Creature — Dragon",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/5_Fujunryu.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/13_Fujunryu.png"
 			}
 		},
 		{
@@ -2049,9 +2049,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie",
-			"collector_number": "2",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/2_Faerie.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/7_Faerie.png"
 			}
 		},
 		{
@@ -2072,6 +2072,136 @@
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/174_Tamako Sant'Angelo.png"
+			}
+		},
+		{
+			"name": "Faerie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/3_Faerie.png"
+			}
+		},
+		{
+			"name": "Faerie Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Army",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/8_Faerie Army.png"
+			}
+		},
+		{
+			"name": "Vial",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Vial",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/1_Vial.png"
+			}
+		},
+		{
+			"name": "Faerie Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/11_Faerie Soldier.png"
+			}
+		},
+		{
+			"name": "Doll",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Doll",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/17_Doll.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/2_Bird.png"
+			}
+		},
+		{
+			"name": "Goat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goat",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/5_Goat.png"
+			}
+		},
+		{
+			"name": "Snowball",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Snowball",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/19_Snowball.png"
+			}
+		},
+		{
+			"name": "Snail",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snail",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/10_Snail.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/18_Food.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/16_Clue.png"
+			}
+		},
+		{
+			"name": "Garment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/4_Garment.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/14_Spirit.png"
 			}
 		},
 	]
