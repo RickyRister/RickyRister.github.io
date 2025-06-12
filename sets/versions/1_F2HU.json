@@ -2085,7 +2085,7 @@
             "number": 11,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Flying",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3821,7 +3821,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Gu0st",
-            "notes": "!related Nana Fumoto, Doll Dealer \n!related Medicine, Queen of Dolls"
+            "notes": "!group EPA\n\n!related Nana Fumoto, Doll Dealer \n!related Medicine, Queen of Dolls"
         },
         {
             "card_name": "Bird",
@@ -3975,7 +3975,7 @@
             "number": 24,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "[i](This artifact has no effects)[/i]",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

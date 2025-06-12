@@ -660,9 +660,26 @@
         "shape": "normal"
     },
     {
+        "card_name": "Doll",
+        "number": 21,
+        "shape": "token"
+    },
+    {
         "card_name": "Casual Arson",
         "number": 79,
         "shape": "normal"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2510,11 +2527,6 @@
     },
     {
         "card_name": "Doll",
-        "number": 21,
-        "shape": "token"
-    },
-    {
-        "card_name": "Doll",
         "number": 22,
         "shape": "token"
     },
@@ -2572,6 +2584,9 @@
         "card_name": "Faerie Soldier",
         "number": 14,
         "shape": "token"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
