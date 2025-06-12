@@ -16,7 +16,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Aishin",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n\n!related Elfin Mint",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo\n\n!related Elfin Mint",
             "image_type": "png"
         },
         {
@@ -35,7 +35,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u95e8\u756a\u795e\u7389",
-            "notes": "!tag FmVA\n!tag game\n\n!related Sasuta no Izuhime",
+            "notes": "!tag FmVA\n!sort FmVA\n!tag game\n\n!related Sasuta no Izuhime",
             "image_type": "png"
         },
         {
@@ -54,7 +54,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Cesium Formiate",
-            "notes": "!tag ZoAM\n!tag album\n!tag ft-quoted",
+            "notes": "!tag ZoAM\n!sort ZoAM\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -73,7 +73,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u75be\u6953\u8fc5\u857e",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag ft-original",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag ft-original",
             "image_type": "png"
         },
         {
@@ -92,7 +92,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -111,7 +111,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": "!tag original\n!tag other\n!tag kaisendo",
+            "notes": "!tag original\n!sort original\n!tag other\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -130,7 +130,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3053\u308d\u3053\u308d",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -149,7 +149,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -168,7 +168,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Eren",
-            "notes": "!tag EPA\n!tag album",
+            "notes": "!tag EPA\n!sort EPA\n!tag album",
             "image_type": "png"
         },
         {
@@ -187,7 +187,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag AI\n!tag game",
+            "notes": "!tag AI\n!sort AI\n!tag game",
             "image_type": "png"
         },
         {
@@ -206,7 +206,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u75be\u6953\u8fc5\u857e",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -225,7 +225,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ScyllaForest",
-            "notes": "!tag EPA\n!tag album\n!tag ft-quoted",
+            "notes": "!tag EPA\n!sort EPA\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -244,7 +244,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag DLW\n!tag game",
+            "notes": "!tag DLW\n!sort DLW\n!tag game",
             "image_type": "png"
         },
         {
@@ -263,7 +263,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u30cf\u3099\u592a",
-            "notes": "!tag OtDE\n!tag game\n!tag ft-quoted",
+            "notes": "!tag OtDE\n!sort OtDE\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -282,7 +282,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag AJoR\n!tag album\n!tag ft-quoted",
+            "notes": "!tag AJoR\n!sort AJoR\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -301,7 +301,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag II\n!tag game\n!tag music",
+            "notes": "!tag II\n!sort II\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -320,7 +320,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u5b87\u5b99\u5875/Pinnku33",
-            "notes": "!tag MB\n!tag game",
+            "notes": "!tag MB\n!sort MB\n!tag game",
             "image_type": "png"
         },
         {
@@ -339,7 +339,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag MB\n!tag game\n!tag music",
+            "notes": "!tag MB\n!sort MB\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -358,7 +358,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u304a\u307d\u5b50/opoko723",
-            "notes": "!tag MB\n!tag game\n!tag music",
+            "notes": "!tag MB\n!sort MB\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -377,7 +377,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u304a\u307d\u5b50/opoko723",
-            "notes": "!tag MB\n!tag game\n!tag music",
+            "notes": "!tag MB\n!sort MB\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -396,7 +396,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8317\u8377\u5ead\u5712/Myogatien",
-            "notes": "!tag MB\n!tag game\n!tag finalboss",
+            "notes": "!tag MB\n!sort MB\n!tag game\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -415,7 +415,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "MagicalMikuri",
-            "notes": "!tag MB\n!tag game",
+            "notes": "!tag MB\n!sort MB\n!tag game",
             "image_type": "png"
         },
         {
@@ -434,7 +434,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Bowstringsmall",
-            "notes": "!tag MB\n!tag game",
+            "notes": "!tag MB\n!sort MB\n!tag game",
             "image_type": "png"
         },
         {
@@ -453,7 +453,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag SoBH\n!tag album",
+            "notes": "!tag SoBH\n!sort SoBH\n!tag album",
             "image_type": "png"
         },
         {
@@ -472,7 +472,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6797\u6a8e",
-            "notes": "!tag SSaFE\n!tag album\n!tag music",
+            "notes": "!tag SSaFE\n!sort SSaFE\n!tag album\n!tag music",
             "image_type": "png"
         },
         {
@@ -491,7 +491,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -510,7 +510,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6797\u6a8e",
-            "notes": "!tag SSaFE\n!tag album\n!tag finalboss",
+            "notes": "!tag SSaFE\n!sort SSaFE\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -529,7 +529,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Zen Saikara",
-            "notes": "!tag EPA\n!tag album\n!tag ft-quoted",
+            "notes": "!tag EPA\n!sort EPA\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -558,7 +558,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "\u6797\u6a8e",
-            "notes": "!tag SSaFE\n!tag album\n!tag ft-quoted\n!tag ft-edited",
+            "notes": "!tag SSaFE\n!sort SSaFE\n!tag album\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
         {
@@ -577,7 +577,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag SoHW\n!tag game",
+            "notes": "!tag SoHW\n!sort SoHW\n!tag game",
             "image_type": "png"
         },
         {
@@ -596,7 +596,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u83d3\u3061\u3083\u3093",
-            "notes": "!tag FDF\n!tag game\n!tag ft-quoted",
+            "notes": "!tag FDF\n!sort FDF\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -615,7 +615,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "LHII00",
-            "notes": "!tag SP\n!tag game\n!tag ft-quoted",
+            "notes": "!tag SP\n!sort SP\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -634,7 +634,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
-            "notes": "!tag SP\n!tag game\n!tag ft-quoted",
+            "notes": "!tag SP\n!sort SP\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -653,7 +653,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "gren",
-            "notes": "!tag PE\n!tag album",
+            "notes": "!tag PE\n!sort PE\n!tag album",
             "image_type": "png"
         },
         {
@@ -672,7 +672,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -691,7 +691,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag CoUD\n!tag album\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -710,7 +710,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag EPA\n!tag album\n!tag ft-quoted",
+            "notes": "!tag EPA\n!sort EPA\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -729,7 +729,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag SoBH\n!tag album",
+            "notes": "!tag SoBH\n!sort SoBH\n!tag album",
             "image_type": "png"
         },
         {
@@ -748,7 +748,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag MPP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag MPP\n!sort MPP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -767,7 +767,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo",
+            "notes": "!tag IBP\n!sort IBP\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -786,7 +786,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3082\u307f\u3061\u3099\u5c71",
-            "notes": "!tag ZoAM\n!tag album\n!tag music\n!tag ft-quoted",
+            "notes": "!tag ZoAM\n!sort ZoAM\n!tag album\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -805,7 +805,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -824,7 +824,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ANMITA",
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music",
+            "notes": "!tag IBP\n!sort IBP\n!tag game\n!tag kaisendo\n!tag music",
             "image_type": "png"
         },
         {
@@ -843,7 +843,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
-            "notes": "!tag TGoS\n!tag album",
+            "notes": "!tag TGoS\n!sort TGoS\n!tag album",
             "image_type": "png"
         },
         {
@@ -862,7 +862,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
+            "notes": "!tag IBP\n!sort IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -881,7 +881,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
+            "notes": "!tag TCL\n!sort TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -900,7 +900,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag WWW\n!tag game\n!tag ft-quoted",
+            "notes": "!tag WWW\n!sort WWW\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -919,7 +919,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag CoUD\n!tag album\n!tag music\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -948,7 +948,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "ryosios",
-            "notes": "!tag SH\n!tag game\n!tag music",
+            "notes": "!tag SH\n!sort SH\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -967,7 +967,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
-            "notes": "!tag CoUD\n!tag album\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -986,7 +986,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag na\n!tag other",
+            "notes": "!tag na\n!sort na\n!tag other",
             "image_type": "png"
         },
         {
@@ -1005,7 +1005,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag SoBH\n!tag album\n!tag ft-quoted",
+            "notes": "!tag SoBH\n!sort SoBH\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1024,7 +1024,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag CoUD\n!tag album\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1043,7 +1043,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag SoHW\n!tag game\n!tag music",
+            "notes": "!tag SoHW\n!sort SoHW\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -1062,7 +1062,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": "!tag UI\n!tag album\n!tag music\n!tag finalboss",
+            "notes": "!tag UI\n!sort UI\n!tag album\n!tag music\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1081,7 +1081,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag GoDS\n!tag game\n!tag finalboss",
+            "notes": "!tag GoDS\n!sort GoDS\n!tag game\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1100,7 +1100,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
+            "notes": "!tag TCL\n!sort TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1119,7 +1119,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag AI\n!tag game",
+            "notes": "!tag AI\n!sort AI\n!tag game",
             "image_type": "png"
         },
         {
@@ -1138,7 +1138,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Clouds",
-            "notes": "!tag HoSS\n!tag album",
+            "notes": "!tag HoSS\n!sort HoSS\n!tag album",
             "image_type": "png"
         },
         {
@@ -1157,7 +1157,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "CHO",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -1176,7 +1176,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag WWW\n!tag game\n!tag music",
+            "notes": "!tag WWW\n!sort WWW\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -1195,7 +1195,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u54c0\u9d09",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1214,7 +1214,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag CoUD\n!tag album",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album",
             "image_type": "png"
         },
         {
@@ -1233,7 +1233,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u30b3\u30eb\u30c6\u30a3",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1252,7 +1252,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3075\u3057\u305f\u3053",
-            "notes": "!tag FmVA\n!tag game\n!tag finalboss",
+            "notes": "!tag FmVA\n!sort FmVA\n!tag game\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1271,7 +1271,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Zen Saikara",
-            "notes": "!tag AoFF\n!tag album",
+            "notes": "!tag AoFF\n!sort AoFF\n!tag album",
             "image_type": "png"
         },
         {
@@ -1290,7 +1290,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag EPA\n!tag album\n!tag ft-quoted",
+            "notes": "!tag EPA\n!sort EPA\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1309,7 +1309,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8352\u91ce\u3000\u6c96",
-            "notes": "!tag SH\n!tag game",
+            "notes": "!tag SH\n!sort SH\n!tag game",
             "image_type": "png"
         },
         {
@@ -1328,7 +1328,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag CoUD\n!tag album",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album",
             "image_type": "png"
         },
         {
@@ -1347,7 +1347,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag CoUD\n!tag album\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1366,7 +1366,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag WWW\n!tag game\n!tag ft-quoted\n!tag ft-edited",
+            "notes": "!tag WWW\n!sort WWW\n!tag game\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
         {
@@ -1385,7 +1385,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag CoUD\n!tag album\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1404,7 +1404,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
-            "notes": "!tag original\n!tag other\n!tag ft-quoted",
+            "notes": "!tag original\n!sort original\n!tag other\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1423,7 +1423,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Gagawa / \u30ac\u30ac\u30ef \u30a4\u30c1",
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag IBP\n!sort IBP\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1442,7 +1442,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag CoUD\n!tag album",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album",
             "image_type": "png"
         },
         {
@@ -1461,7 +1461,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
+            "notes": "!tag TCL\n!sort TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1480,7 +1480,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag SoHW\n!tag game\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag SoHW\n!sort SoHW\n!tag game\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1499,7 +1499,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u304f\u304f\u3099\u308d\u308d",
-            "notes": "!tag SP\n!tag game\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag SP\n!sort SP\n!tag game\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1518,7 +1518,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
-            "notes": "!tag MAitN\n!tag concept\n!tag finalboss",
+            "notes": "!tag MAitN\n!sort MAitN\n!tag concept\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1537,7 +1537,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag SoHW\n!tag game\n!tag music\n!tag ft-quoted",
+            "notes": "!tag SoHW\n!sort SoHW\n!tag game\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1556,7 +1556,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -1575,7 +1575,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag canon\n!tag ft-quoted",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag canon\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1594,7 +1594,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag ft-original",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag ft-original",
             "image_type": "png"
         },
         {
@@ -1613,7 +1613,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1632,7 +1632,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag WWW\n!tag game",
+            "notes": "!tag WWW\n!sort WWW\n!tag game",
             "image_type": "png"
         },
         {
@@ -1651,7 +1651,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "CsCHO2",
-            "notes": "!tag TCL\n!tag game",
+            "notes": "!tag TCL\n!sort TCL\n!tag game",
             "image_type": "png"
         },
         {
@@ -1670,7 +1670,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3078\u3044\u3084",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag music",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag music",
             "image_type": "png"
         },
         {
@@ -1689,7 +1689,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u308a\u3062\u3085",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -1708,7 +1708,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ID\u541b",
-            "notes": "!tag FDF2\n!tag game\n!tag ft-quoted",
+            "notes": "!tag FDF2\n!sort FDF2\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1727,7 +1727,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag AJoR\n!tag album\n!tag ft-quoted",
+            "notes": "!tag AJoR\n!sort AJoR\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1746,7 +1746,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akaim",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1765,7 +1765,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag CoUD\n!tag album\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1784,7 +1784,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Analogue Reverie",
-            "notes": "!tag DLW\n!tag game\n!tag ft-quoted",
+            "notes": "!tag DLW\n!sort DLW\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1803,7 +1803,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag AJoR\n!tag album\n!tag ft-quoted",
+            "notes": "!tag AJoR\n!sort AJoR\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1822,7 +1822,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1841,7 +1841,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag WWW\n!tag game\n!tag finalboss",
+            "notes": "!tag WWW\n!sort WWW\n!tag game\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1860,7 +1860,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "7_0$#1\u042f\u00b5",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -1879,7 +1879,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag UI\n!tag album",
+            "notes": "!tag UI\n!sort UI\n!tag album",
             "image_type": "png"
         },
         {
@@ -1898,7 +1898,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag BW\n!tag album\n!tag music\n!tag ft-quoted\n!tag ft-edited",
+            "notes": "!tag BW\n!sort BW\n!tag album\n!tag music\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
         {
@@ -1917,7 +1917,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Sachisu",
-            "notes": "!tag DLW\n!tag game\n!tag ft-quoted",
+            "notes": "!tag DLW\n!sort DLW\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1936,7 +1936,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "DoujinMelon",
-            "notes": "!tag WWW\n!tag game\n!tag music\n!tag ft-quoted",
+            "notes": "!tag WWW\n!sort WWW\n!tag game\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1955,7 +1955,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag DLW\n!tag game\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag DLW\n!sort DLW\n!tag game\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -1974,7 +1974,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
-            "notes": "!tag ZoAM\n!tag album\n!tag music\n!tag finalboss",
+            "notes": "!tag ZoAM\n!sort ZoAM\n!tag album\n!tag music\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -1993,7 +1993,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2012,7 +2012,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u5927\u4f34\u4e2d\u7d0d\u8a00\u30af\u3099\u30e9\u30fc\u30cd",
-            "notes": "!tag FmVA\n!tag game",
+            "notes": "!tag FmVA\n!sort FmVA\n!tag game",
             "image_type": "png"
         },
         {
@@ -2031,7 +2031,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag CoUD\n!tag album\n!tag ft-quoted",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2050,7 +2050,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag WNSP\n!tag game\n!tag music",
+            "notes": "!tag WNSP\n!sort WNSP\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -2069,7 +2069,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Clouds",
-            "notes": "!tag HoSS\n!tag album",
+            "notes": "!tag HoSS\n!sort HoSS\n!tag album",
             "image_type": "png"
         },
         {
@@ -2088,7 +2088,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": "!tag MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag MPP\n!sort MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2107,7 +2107,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag WWW\n!tag game",
+            "notes": "!tag WWW\n!sort WWW\n!tag game",
             "image_type": "png"
         },
         {
@@ -2126,7 +2126,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag AJoR\n!tag album\n!tag ft-quoted",
+            "notes": "!tag AJoR\n!sort AJoR\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2145,7 +2145,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag MPP\n!sort MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2164,7 +2164,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag CoMCW\n!tag album\n!tag finalboss",
+            "notes": "!tag CoMCW\n!sort CoMCW\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2183,7 +2183,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag CUoO\n!tag game",
+            "notes": "!tag CUoO\n!sort CUoO\n!tag game",
             "image_type": "png"
         },
         {
@@ -2202,7 +2202,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag CUoO\n!tag game\n\n!related Annika A.T.B von Hohenheim",
+            "notes": "!tag CUoO\n!sort CUoO\n!tag game\n\n!related Annika A.T.B von Hohenheim",
             "image_type": "png"
         },
         {
@@ -2221,7 +2221,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -2240,7 +2240,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8033\u603b\u660e\u5c9a",
-            "notes": "!tag SSS\n!tag game\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag SSS\n!sort SSS\n!tag game\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2259,7 +2259,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo\n!tag music",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo\n!tag music",
             "image_type": "png"
         },
         {
@@ -2278,7 +2278,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7eaf\u72d0\u7075\u68a6",
-            "notes": "!tag SSS\n!tag game",
+            "notes": "!tag SSS\n!sort SSS\n!tag game",
             "image_type": "png"
         },
         {
@@ -2297,7 +2297,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PENNY",
-            "notes": "!tag PD\n!tag game",
+            "notes": "!tag PD\n!sort PD\n!tag game",
             "image_type": "png"
         },
         {
@@ -2316,7 +2316,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "scorpion5050",
-            "notes": "!tag FDF2\n!tag game\n!tag canon\n!tag finalboss",
+            "notes": "!tag FDF2\n!sort FDF2\n!tag game\n!tag canon\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2335,7 +2335,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag WWW\n!tag game\n\n!related Reverence U'n-Llisardggy",
+            "notes": "!tag WWW\n!sort WWW\n!tag game\n\n!related Reverence U'n-Llisardggy",
             "image_type": "png"
         },
         {
@@ -2354,7 +2354,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag SoBH\n!tag album\n!tag music\n!tag ft-quoted",
+            "notes": "!tag SoBH\n!sort SoBH\n!tag album\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2373,7 +2373,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6247\u57ce\u3072\u306a",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2392,7 +2392,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "gren",
-            "notes": "!tag AI\n!tag game\n!tag music\n!tag ft-quoted",
+            "notes": "!tag AI\n!sort AI\n!tag game\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2411,7 +2411,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag MB\n!tag game\n!tag music",
+            "notes": "!tag MB\n!sort MB\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -2430,7 +2430,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "reisi",
-            "notes": "!tag AiI\n!tag album\n!tag music\n!tag finalboss",
+            "notes": "!tag AiI\n!sort AiI\n!tag album\n!tag music\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2449,7 +2449,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d41\u6708",
-            "notes": "!tag ASL\n!tag game\n!tag ft-quoted\n!tag ft-edited",
+            "notes": "!tag ASL\n!sort ASL\n!tag game\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
         {
@@ -2468,7 +2468,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3053\u304f\u3053\u3099",
-            "notes": "!tag SoS\n!tag album\n!tag finalboss\n!tag ft-original",
+            "notes": "!tag SoS\n!sort SoS\n!tag album\n!tag finalboss\n!tag ft-original",
             "image_type": "png"
         },
         {
@@ -2487,7 +2487,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "kitairoha",
-            "notes": "!tag BDitB\n!tag game\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag BDitB\n!sort BDitB\n!tag game\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2506,7 +2506,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag AJoR\n!tag album\n!tag music\n!tag ft-quoted",
+            "notes": "!tag AJoR\n!sort AJoR\n!tag album\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2525,7 +2525,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "ANMITA",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag ft-quoted\n!tag ft-edited",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
         {
@@ -2544,7 +2544,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis, Luca Nicoletti",
-            "notes": "!tag ADM\n!tag album",
+            "notes": "!tag ADM\n!sort ADM\n!tag album",
             "image_type": "png"
         },
         {
@@ -2563,7 +2563,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2582,7 +2582,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Aerza",
-            "notes": "!tag SoHW\n!tag game\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag SoHW\n!sort SoHW\n!tag game\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2601,7 +2601,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -2620,7 +2620,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag TPC\n!tag album",
+            "notes": "!tag TPC\n!sort TPC\n!tag album",
             "image_type": "png"
         },
         {
@@ -2639,7 +2639,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7551\u679a\u84c2\u862d",
-            "notes": "!tag ASL\n!tag game",
+            "notes": "!tag ASL\n!sort ASL\n!tag game",
             "image_type": "png"
         },
         {
@@ -2658,7 +2658,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2677,7 +2677,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -2696,7 +2696,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -2715,7 +2715,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -2734,7 +2734,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2753,7 +2753,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -2772,7 +2772,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag LDQ\n!tag game\n!tag canon\n!tag finalboss",
+            "notes": "!tag LDQ\n!sort LDQ\n!tag game\n!tag canon\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2791,7 +2791,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag AJoR\n!tag album\n!tag ft-quoted",
+            "notes": "!tag AJoR\n!sort AJoR\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2810,7 +2810,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo",
+            "notes": "!tag IBP\n!sort IBP\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -2829,7 +2829,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7551\u679a\u84c2\u862d",
-            "notes": "!tag LDQ\n!tag game",
+            "notes": "!tag LDQ\n!sort LDQ\n!tag game",
             "image_type": "png"
         },
         {
@@ -2848,7 +2848,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": "!tag HoSS\n!tag album\n!tag ft-quoted",
+            "notes": "!tag HoSS\n!sort HoSS\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2867,7 +2867,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag RoYM\n!tag album",
+            "notes": "!tag RoYM\n!sort RoYM\n!tag album",
             "image_type": "png"
         },
         {
@@ -2886,7 +2886,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag WWW\n!tag game",
+            "notes": "!tag WWW\n!sort WWW\n!tag game",
             "image_type": "png"
         },
         {
@@ -2905,7 +2905,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u306f\u308b",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2924,7 +2924,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "arufa",
-            "notes": "!tag CtC\n!tag game\n!tag canon\n!tag music\n!tag finalboss",
+            "notes": "!tag CtC\n!sort CtC\n!tag game\n!tag canon\n!tag music\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -2943,7 +2943,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag SoBH\n!tag album\n!tag ft-quoted\n!tag ft-edited",
+            "notes": "!tag SoBH\n!sort SoBH\n!tag album\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
         {
@@ -2962,7 +2962,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag ToUD\n!tag game\n!tag ft-quoted",
+            "notes": "!tag ToUD\n!sort ToUD\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -2981,7 +2981,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Floom",
-            "notes": "!tag UI\n!tag album",
+            "notes": "!tag UI\n!sort UI\n!tag album",
             "image_type": "png"
         },
         {
@@ -3000,7 +3000,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag WWW\n!tag game",
+            "notes": "!tag WWW\n!sort WWW\n!tag game",
             "image_type": "png"
         },
         {
@@ -3019,7 +3019,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag UotAR\n!tag game\n!tag ft-quoted",
+            "notes": "!tag UotAR\n!sort UotAR\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3038,7 +3038,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "last",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo\n!tag ft-quoted",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3057,7 +3057,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Spear",
-            "notes": "!tag EGoA\n!tag album\n!tag finalboss",
+            "notes": "!tag EGoA\n!sort EGoA\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3076,7 +3076,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "NEO_LIBRA_\u5bc4\u751f\u866b",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3095,7 +3095,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Renaisense",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3114,7 +3114,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3133,7 +3133,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "moku2333",
-            "notes": "!tag GoDS\n!tag game",
+            "notes": "!tag GoDS\n!sort GoDS\n!tag game",
             "image_type": "png"
         },
         {
@@ -3152,7 +3152,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3171,7 +3171,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3190,7 +3190,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag RoYM\n!tag album\n!tag finalboss",
+            "notes": "!tag RoYM\n!sort RoYM\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3209,7 +3209,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "PRISWOCAER",
-            "notes": "!tag DLW\n!tag game",
+            "notes": "!tag DLW\n!sort DLW\n!tag game",
             "image_type": "png"
         },
         {
@@ -3228,7 +3228,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag TZAtC\n!tag album\n!tag finalboss",
+            "notes": "!tag TZAtC\n!sort TZAtC\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3247,7 +3247,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "karma",
-            "notes": "!tag RSS\n!tag game\n!tag kaisendo\n!tag ft-quoted",
+            "notes": "!tag RSS\n!sort RSS\n!tag game\n!tag kaisendo\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3266,7 +3266,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u306e\u308a",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3285,7 +3285,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "gren",
-            "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
+            "notes": "!tag TCL\n!sort TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3304,7 +3304,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8033\u603b\u660e\u5c9a",
-            "notes": "!tag EIoS\n!tag game",
+            "notes": "!tag EIoS\n!sort EIoS\n!tag game",
             "image_type": "png"
         },
         {
@@ -3323,7 +3323,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "huyusilver",
-            "notes": "!tag HGoC\n!tag album\n!tag finalboss",
+            "notes": "!tag HGoC\n!sort HGoC\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3342,7 +3342,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u30df\u30c4\u30b3\u30a2",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3361,7 +3361,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag original\n!tag other",
+            "notes": "!tag original\n!sort original\n!tag other",
             "image_type": "png"
         },
         {
@@ -3380,7 +3380,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "AuroraArtz",
-            "notes": "!tag original\n!tag other\n\n!related Hideka, Queen of Dragons",
+            "notes": "!tag original\n!sort original\n!tag other\n\n!related Hideka, Queen of Dragons",
             "image_type": "png"
         },
         {
@@ -3399,7 +3399,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u661f\u6593",
-            "notes": "!tag BW\n!tag album\n!tag finalboss\n!tag ft-quoted\n!tag ft-edited",
+            "notes": "!tag BW\n!sort BW\n!tag album\n!tag finalboss\n!tag ft-quoted\n!tag ft-edited",
             "image_type": "png"
         },
         {
@@ -3418,7 +3418,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag MPP\n!sort MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3437,7 +3437,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3053\u304f\u3053\u3099",
-            "notes": "!tag SoS\n!tag album\n!tag ft-original",
+            "notes": "!tag SoS\n!sort SoS\n!tag album\n!tag ft-original",
             "image_type": "png"
         },
         {
@@ -3456,7 +3456,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
-            "notes": "!tag MAitN\n!tag concept\n!tag finalboss",
+            "notes": "!tag MAitN\n!sort MAitN\n!tag concept\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3475,7 +3475,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u8033\u603b\u660e\u5c9a",
-            "notes": "!tag EIoS\n!tag game\n!tag finalboss",
+            "notes": "!tag EIoS\n!sort EIoS\n!tag game\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3494,7 +3494,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "NnickykunN",
-            "notes": "!tag EIoS\n!tag game",
+            "notes": "!tag EIoS\n!sort EIoS\n!tag game",
             "image_type": "png"
         },
         {
@@ -3513,7 +3513,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Gwen",
-            "notes": "!tag UaUP\n!tag game\n!tag finalboss",
+            "notes": "!tag UaUP\n!sort UaUP\n!tag game\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3532,7 +3532,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag BoSM\n!tag game\n!tag kaisendo",
+            "notes": "!tag BoSM\n!sort BoSM\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3551,7 +3551,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag FoM\n!tag album\n!tag ft-quoted",
+            "notes": "!tag FoM\n!sort FoM\n!tag album\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3570,7 +3570,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag MoDP\n!tag album",
+            "notes": "!tag MoDP\n!sort MoDP\n!tag album",
             "image_type": "png"
         },
         {
@@ -3589,7 +3589,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag OoDD\n!tag album\n!tag finalboss",
+            "notes": "!tag OoDD\n!sort OoDD\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3608,7 +3608,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akaim",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag ft-original",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo\n!tag ft-original",
             "image_type": "png"
         },
         {
@@ -3627,7 +3627,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
-            "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
+            "notes": "!tag TCL\n!sort TCL\n!tag game\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3646,7 +3646,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Sixten",
-            "notes": "!tag EUB\n!tag game\n!tag canon\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag EUB\n!sort EUB\n!tag game\n!tag canon\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3665,7 +3665,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "FarhanMelukis",
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag IBP\n!sort IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3684,7 +3684,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag MPP\n!tag game\n!tag kaisendo",
+            "notes": "!tag MPP\n!sort MPP\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3703,7 +3703,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Moku2333",
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo",
+            "notes": "!tag TLC\n!sort TLC\n!tag game\n!tag kaisendo",
             "image_type": "png"
         },
         {
@@ -3722,7 +3722,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag SoBH\n!tag album\n!tag finalboss",
+            "notes": "!tag SoBH\n!sort SoBH\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3741,7 +3741,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u3081\u308b\u3082\u308b\u3093",
-            "notes": "!tag TGoS\n!tag album\n!tag finalboss",
+            "notes": "!tag TGoS\n!sort TGoS\n!tag album\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3760,7 +3760,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "capitisXurxtovi",
-            "notes": "!tag TGoS\n!tag album\n!tag music\n!tag finalboss\n!tag ft-quoted",
+            "notes": "!tag TGoS\n!sort TGoS\n!tag album\n!tag music\n!tag finalboss\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3779,7 +3779,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag TGAWRA\n!tag album",
+            "notes": "!tag TGAWRA\n!sort TGAWRA\n!tag album",
             "image_type": "png"
         },
         {
@@ -3798,7 +3798,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
-            "notes": "!tag WaVR\n!tag concept\n!tag finalboss\n!tag ft-original",
+            "notes": "!tag WaVR\n!sort WaVR\n!tag concept\n!tag finalboss\n!tag ft-original",
             "image_type": "png"
         },
         {
@@ -3817,7 +3817,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u304d\u3057\u3099\u9ce9",
-            "notes": "!tag TD\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag TD\n!sort TD\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3836,7 +3836,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Sixten",
-            "notes": "!tag EUB\n!tag game\n!tag canon\n!tag ft-quoted",
+            "notes": "!tag EUB\n!sort EUB\n!tag game\n!tag canon\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3855,7 +3855,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u110b\u1163\u11b7",
-            "notes": "!tag TAC\n!tag album\n!tag music\n!tag finalboss",
+            "notes": "!tag TAC\n!sort TAC\n!tag album\n!tag music\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3874,7 +3874,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
-            "notes": "!tag TAC\n!tag album",
+            "notes": "!tag TAC\n!sort TAC\n!tag album",
             "image_type": "png"
         },
         {
@@ -3893,7 +3893,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u6797\u6a8e",
-            "notes": "!tag TAC\n!tag album\n\n!related Sizuka, Dissector of Fairies",
+            "notes": "!tag TAC\n!sort TAC\n!tag album\n\n!related Sizuka, Dissector of Fairies",
             "image_type": "png"
         },
         {
@@ -3912,7 +3912,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Clouds",
-            "notes": "!tag CoLB\n!tag album\n!tag music\n!tag ft-quoted",
+            "notes": "!tag CoLB\n!sort CoLB\n!tag album\n!tag music\n!tag ft-quoted",
             "image_type": "png"
         },
         {
@@ -3931,7 +3931,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "NEO_LIBRA_\u5bc4\u751f\u866b",
-            "notes": "!tag OtTW\n!tag game\n!tag kaisendo\n!tag finalboss",
+            "notes": "!tag OtTW\n!sort OtTW\n!tag game\n!tag kaisendo\n!tag finalboss",
             "image_type": "png"
         },
         {
@@ -3988,7 +3988,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
-            "notes": "!tag CUoO\n!tag game\n\n!related Annika A.T.B von Hohenheim",
+            "notes": "!tag CUoO\n!sort CUoO\n!tag game\n\n!related Annika A.T.B von Hohenheim",
             "image_type": "png"
         },
         {
@@ -4045,7 +4045,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Akinomiya Asuka",
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n\n!related Bird Sign\n!related Birds of a Feather",
+            "notes": "!tag HSoB\n!sort HSoB\n!tag game\n!tag kaisendo\n\n!related Bird Sign\n!related Birds of a Feather",
             "image_type": "png"
         },
         {
@@ -4159,7 +4159,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
-            "notes": "!tag MAiTN\n!tag concept\n\n!related Aelivia Grapeseedling\n!related Yanduo, Dance of Fabric",
+            "notes": "!tag MAiTN\n!sort MAiTN\n!tag concept\n\n!related Aelivia Grapeseedling\n!related Yanduo, Dance of Fabric",
             "image_type": "png"
         },
         {
@@ -4178,7 +4178,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u4f59\u5bc2_\u591c\u98ce\u7eea",
-            "notes": "!tag CoUD\n!tag album\n\n!related Mizuho, Onmyouji\n!related Hazuki, Onmyouji",
+            "notes": "!tag CoUD\n!sort CoUD\n!tag album\n\n!related Mizuho, Onmyouji\n!related Hazuki, Onmyouji",
             "image_type": "png"
         },
         {
@@ -4216,7 +4216,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "CobaltDream",
-            "notes": "!tag TCL\n!tag game\n\n!related Bon, the Greedy Beast \n!related Hideka, Queen of Dragons\n!related Lepus Timidys Snowy\n!related Miyako, Lamp of Life",
+            "notes": "!tag TCL\n!sort TCL\n!tag game\n\n!related Bon, the Greedy Beast \n!related Hideka, Queen of Dragons\n!related Lepus Timidys Snowy\n!related Miyako, Lamp of Life",
             "image_type": "png"
         },
         {
