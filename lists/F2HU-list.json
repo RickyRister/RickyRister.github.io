@@ -1269,23 +1269,43 @@
         "shape": "token"
     },
     {
+        "card_name": "Blood",
+        "number": 19,
+        "shape": "token"
+    },
+    {
         "card_name": "Clue",
-        "number": 16,
+        "number": 20,
         "shape": "token"
     },
     {
         "card_name": "Doll",
-        "number": 17,
+        "number": 21,
+        "shape": "token"
+    },
+    {
+        "card_name": "Doll",
+        "number": 22,
         "shape": "token"
     },
     {
         "card_name": "Food",
-        "number": 18,
+        "number": 23,
+        "shape": "token"
+    },
+    {
+        "card_name": "Sawdust",
+        "number": 24,
         "shape": "token"
     },
     {
         "card_name": "Snowball",
-        "number": 19,
+        "number": 25,
+        "shape": "token"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 26,
         "shape": "token"
     },
     {
@@ -1309,54 +1329,78 @@
         "shape": "token"
     },
     {
-        "card_name": "Bird",
+        "card_name": "Human",
         "number": 6,
         "shape": "token"
     },
     {
-        "card_name": "Faerie",
+        "card_name": "Spirit",
         "number": 7,
         "shape": "token"
     },
     {
-        "card_name": "Faerie Army",
+        "card_name": "Bird",
         "number": 8,
         "shape": "token"
     },
     {
-        "card_name": "Homunculus",
+        "card_name": "Faerie",
         "number": 9,
         "shape": "token"
     },
     {
-        "card_name": "Snail",
+        "card_name": "Faerie Army",
         "number": 10,
         "shape": "token"
     },
     {
-        "card_name": "Faerie Soldier",
+        "card_name": "Homunculus",
         "number": 11,
         "shape": "token"
     },
     {
-        "card_name": "Bubble Universe",
+        "card_name": "Snail",
         "number": 12,
         "shape": "token"
     },
     {
-        "card_name": "Fujunryu",
+        "card_name": "Youkai",
         "number": 13,
         "shape": "token"
     },
     {
-        "card_name": "Spirit",
+        "card_name": "Faerie Soldier",
         "number": 14,
         "shape": "token"
     },
     {
-        "card_name": "Zankurou",
+        "card_name": "Bubble Universe",
         "number": 15,
         "shape": "token"
+    },
+    {
+        "card_name": "Fujunryu",
+        "number": 16,
+        "shape": "token"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 17,
+        "shape": "token"
+    },
+    {
+        "card_name": "Zankurou",
+        "number": 18,
+        "shape": "token"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
