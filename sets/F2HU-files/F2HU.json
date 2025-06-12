@@ -3947,7 +3947,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
-            "notes": "!tag MAiTN\n!group MAiTN\n!tag concept\n\n!related Aelivia Grapeseedling\n!related Yanduo, Dance of Fabric"
+            "notes": "!tag MAiTN\n!group MAitN\n!tag concept\n\n!related Aelivia Grapeseedling\n!related Yanduo, Dance of Fabric"
         },
         {
             "card_name": "Spirit",
@@ -4091,7 +4091,7 @@
             "set": "F2HU",
             "loyalty": "",
             "artist": "Craiyon",
-            "notes": "!related Tenxka Shin"
+            "notes": "!group TCL\n\n!related Tenxka Shin"
         }
     ],
     "version": 1

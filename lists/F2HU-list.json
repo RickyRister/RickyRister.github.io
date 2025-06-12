@@ -1181,36 +1181,6 @@
     {
         "card_name": "er"
     },
-    "a->MAiTN",
-    {
-        "card_name": "Garment",
-        "number": 4,
-        "shape": "token"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
     "a->MAitN",
     {
         "card_name": "Aelivia Grapeseedling",
@@ -1223,7 +1193,9 @@
         "shape": "normal"
     },
     {
-        "card_name": "e"
+        "card_name": "Garment",
+        "number": 4,
+        "shape": "token"
     },
     {
         "card_name": "e"
@@ -1919,6 +1891,11 @@
         "shape": "normal"
     },
     {
+        "card_name": "Doll",
+        "number": 22,
+        "shape": "token"
+    },
+    {
         "card_name": "Treasure",
         "number": 26,
         "shape": "token"
@@ -1937,9 +1914,6 @@
         "card_name": "Treasure Lantern",
         "number": 198,
         "shape": "normal"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2526,11 +2500,6 @@
         "shape": "token"
     },
     {
-        "card_name": "Doll",
-        "number": 22,
-        "shape": "token"
-    },
-    {
         "card_name": "Food",
         "number": 23,
         "shape": "token"
@@ -2584,6 +2553,9 @@
         "card_name": "Faerie Soldier",
         "number": 14,
         "shape": "token"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

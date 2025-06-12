@@ -29,7 +29,6 @@
 	{ "title": "IBP", "cards": [ "!group IBP" ] },
 	{ "title": "II", "cards": [ "!group II" ] },
 	{ "title": "LDQ", "cards": [ "!group LDQ" ] },
-	{ "title": "MAiTN", "cards": [ "!group MAiTN" ] },
 	{ "title": "MAitN", "cards": [ "!group MAitN" ] },
 	{ "title": "MB", "cards": [ "!group MB" ] },
 	{ "title": "MPP", "cards": [ "!group MPP" ] },
