@@ -1149,7 +1149,7 @@
             "number": 138,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "When Hazuki enters, create a 1/1 black and white Spirit creature token with flying.\nTap an untapped creature you control: Target instant or sorcery spell gains lifelink and deathtouch.\nTap another untapped creature you control: Return Hazuki to its owner's hand.",
+            "rules_text": "Lifelink, deathtouch\nWhen Hazuki enters, create a 1/1 black and white Spirit creature token with flying.\nTap an untapped creature you control: Target instant or sorcery spell gains lifelink and deathtouch.\nTap another untapped creature you control: Return Hazuki to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4054,7 +4054,7 @@
             "shape": "token",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "",
+            "artist": "shinmon akika",
             "notes": "!related Senkiusei, the Supernova"
         },
         {
@@ -4090,7 +4090,7 @@
             "shape": "token",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "",
+            "artist": "Craiyon",
             "notes": "!related Tenxka Shin"
         }
     ]
