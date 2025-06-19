@@ -1,4 +1,4 @@
-[CustomCards]
+﻿[CustomCards]
 	[
 		{
 			"name": "Zankurou",
@@ -716,7 +716,7 @@
 		},
 		{
 			"name": "Pale Fanhead, Fan Enjoyer",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Youkai",
 			"collector_number": "160",
@@ -878,7 +878,7 @@
 			"name": "Memento Forest",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Forest",
+			"type": "Legendary Land",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/200_Memento Forest.png"
@@ -2399,6 +2399,7 @@
 	4 Sekito, Shadow-Severing Speed
 	4 Eléonore, Alligator's Bite
 	4 Ophelia, the Writer
+	4 Pale Fanhead, Fan Enjoyer
 	4 Yukiko, Heart of the Swarm
 	4 Nebet Tefet
 	4 Memento Forest
@@ -2444,7 +2445,6 @@
 	8 Oxas, Fairy of Clovers
 	8 Rebirth of Dreams
 	8 Withered Bounty
-	8 Pale Fanhead, Fan Enjoyer
 	8 Marry Shepherd
 	8 Mystia, Daystruck
 	8 Chirper Phone
@@ -2548,7 +2548,7 @@
 	4 Mitori, the Crimson Grudge
 	4 Mizuho, Onmyouji
 	15 Ophelia, the Writer
-	6 Pale Fanhead, Fan Enjoyer
+	15 Pale Fanhead, Fan Enjoyer
 	7 Phantasm Paradise
 	4 Shirogane, Bravehearted
 	7 Shuuu, God of Weapons
