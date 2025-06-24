@@ -21,7 +21,7 @@ def loadPlugins(pluginDir: str) -> list[Plugin]:
 		if path.endswith(".py"):
 			module = import_from_path(os.path.basename(path), path)
 			for name, cls in inspect.getmembers(module, inspect.isclass):
-				if issubclass(cls, Plugin):
+				if cls is not Plugin and issubclass(cls, Plugin):
 					print(f"Found plugin {cls} in {path}")
 					plugins.append(cls())
 
