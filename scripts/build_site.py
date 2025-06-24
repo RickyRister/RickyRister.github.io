@@ -1,38 +1,52 @@
-import os
-import sys
-import shutil
-import json
 import glob
+import json
+import os
 import re
-
-import image_flip
-import card_edge_trimmer
-import list_to_list
-import print_draft_file
-import print_html_for_index
-import print_html_for_search
-import print_html_for_preview
-import print_html_for_card
-import print_html_for_set
-import print_html_for_sets_page
-import print_html_for_deckbuilder
+import shutil
 
 import markdown
 
-#F = Fungustober's notes
+import card_edge_trimmer
+import image_flip
+import list_to_list
+import plugin_loader
+import print_draft_file
+import print_html_for_card
+import print_html_for_deckbuilder
+import print_html_for_index
+import print_html_for_preview
+import print_html_for_search
+import print_html_for_set
+import print_html_for_sets_page
+from plugin_base import Plugin
 
-def genAllCards(codes):
-	card_input = {'cards':[]}
-	set_input = {'sets':[]}
+
+# F = Fungustober's notes
+
+def genAllCards(codes: list[str], plugins: list[Plugin]):
+	card_input = {'cards': []}
+	set_input = {'sets': []}
+
+	for plugin in plugins:
+		plugin.onBeforeGenAllCards(codes)
+
 	#F: ...goes over all the set codes,
 	for code in codes:
 		#CE: non-indented JSON is driving me insane
 		prettifyJSON(os.path.join('sets', code + '-files', code + '.json'))	
 		#F: grabs the corresponding file,
 		with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
-			#F: puts its card data into a temp dictionary,
+			# F: puts its card data into a temp dictionary,
 			raw = json.load(f)
+
+			for plugin in plugins:
+				plugin.onBeforeGenCardsForSet(codes, code)
+
 			for card in raw['cards']:
+
+				for plugin in plugins:
+					plugin.onBeforeGenCard(codes, code, raw, card)
+
 				card['type'] = card['type'].replace('—', '–')
 				card['rules_text'] = card['rules_text'].replace('—', '–')
 				card['special_text'] = card['special_text'].replace('—', '–')
@@ -46,12 +60,24 @@ def genAllCards(codes):
 				if os.path.exists(d_notes_path):
 					with open(d_notes_path, encoding='utf-8-sig') as md:
 						card['designer_notes'] = markdown.markdown(md.read())
+
+				for plugin in plugins:
+					plugin.onAfterGenCard(codes, code, raw, card)
+
 				card_input['cards'].append(card)
 			set_data = {}
 			set_data['set_code'] = code
 			set_data['set_name'] = raw['name']
 			set_data['formats'] = raw['formats']
+
+			for plugin in plugins:
+				plugin.onAfterGenCardsForSet(codes, code, raw, set_data)
+
 			set_input['sets'].append(set_data)
+
+	for plugin in plugins:
+		plugin.onAfterGenAllCards(codes, card_input, set_input)
+
 	#F: opens a path,
 	with open(os.path.join('lists', 'all-cards.json'), 'w', encoding='utf-8-sig') as f:
 		#F: turns the dictionary into a json object, and puts it into the all-cards.json file
@@ -60,11 +86,13 @@ def genAllCards(codes):
 	with open(os.path.join('lists', 'all-sets.json'), 'w', encoding='utf-8-sig') as f:
 		json.dump(set_input, f)
 
+
 def prettifyJSON(filepath):
 	with open(filepath, encoding='utf-8-sig') as f:
 		js_data = json.load(f)
 	with open(filepath, 'w', encoding='utf-8-sig') as f:
 		json.dump(js_data, f, indent=4)
+
 
 def portCustomFiles(custom_dir, export_dir):
 	for entry in os.scandir(custom_dir):
@@ -96,6 +124,10 @@ for entry in os.scandir('.'):
 	if '-spoiler' in entry.name:
 		os.remove(entry)
 
+# load default plugins and custom plugins
+global_plugins = plugin_loader.loadPlugins('scripts/plugins') + plugin_loader.loadPlugins('custom/plugins')
+global_plugins.sort(key=lambda plugin: plugin.priority, reverse=True)
+
 #F: first, get all the set codes
 set_codes = []
 
@@ -121,7 +153,7 @@ set_codes.sort()
 
 #F: then call a previously defined function, which...
 
-genAllCards(set_codes)
+genAllCards(set_codes, global_plugins)
 
 set_order = []
 #F: iterate over set codes again
@@ -131,6 +163,10 @@ for code in set_codes:
 	set_dir = code + '-files'
 	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 		raw = json.load(f)
+
+	for plugin in global_plugins:
+		plugin.onBeforeReprocessSet(set_codes, code, raw)
+
 	if 'draft_structure' in raw and not raw['draft_structure'] == 'none' and not os.path.isfile(os.path.join('sets', code + '-files', code + '-draft.txt')):
 		try:
 			print_draft_file.generateFile(code)
@@ -207,11 +243,17 @@ for code in set_codes:
 		raw['trimmed'] = 'y'
 		card_edge_trimmer.batch_process_images(code)
 
+	for plugin in global_plugins:
+		plugin.onAfterReprocessSet(set_codes, code, raw)
+
 	with open(os.path.join('sets', code + '-files', code + '.json'), 'w', encoding='utf-8-sig') as f:
 		json.dump(raw, f, indent=4)
 
 	#F: list_to_list.convertList is a long and important function
 	list_to_list.convertList(code)
+
+for plugin in global_plugins:
+	plugin.onAfterReprocessAllSets(set_codes)
 
 #CE: print html for card page
 print_html_for_card.generateHTML()
@@ -237,3 +279,6 @@ print_html_for_sets_page.generateHTML()
 print_html_for_search.generateHTML(set_codes)
 print_html_for_deckbuilder.generateHTML(set_codes)
 print_html_for_index.generateHTML()
+
+for plugin in global_plugins:
+	plugin.onGenerateOtherHtml(set_codes)
