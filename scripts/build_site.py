@@ -40,7 +40,7 @@ def genAllCards(codes: list[str], plugins: list[Plugin]):
 			raw = json.load(f)
 
 			for plugin in plugins:
-				plugin.onBeforeGenCardsForSet(codes, code)
+				plugin.onBeforeGenCardsForSet(codes, code, raw)
 
 			for card in raw['cards']:
 
