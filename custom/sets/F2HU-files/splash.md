@@ -20,6 +20,8 @@ I submitted this set to the mse discord's Field Test season 7!
 
 I also recorded all my games during field test. It's not very watchable though because it suffers from all the standard "Ricky stutters a lot and sucks at commentary" problems. I think I'm mostly recording for archival purposes anyways.
 
+If you do decide to watch it, I recommend watching on 2x speed.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=OEpQGoE48aIVt_kc&amp;list=PLsCg0DWx1gT8Y9O67Zr-nHZKgTCDH5adR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

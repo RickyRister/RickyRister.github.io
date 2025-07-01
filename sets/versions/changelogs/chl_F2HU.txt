@@ -1,4 +1,160 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Amanojaku's Folly
+rules_text: Choose one —
+• Destroy target creature with an odd mana value if its power is greater than its toughness
+• Destroy target creature with an even mana value if its toughness is greater than its power => Choose one —
+• Destroy target creature with an odd mana value if its toughness is greater than its power.
+• Destroy target creature with an even mana value if its power is greater than its toughness.
+
+Chii, Toothpick Tsukumogami
+rules_text: {T}: Target creature gets +1/+1 until end of turn. Only activate outside of combat.
+{W}, Sacrifice an artifact: Create a token that's a copy of this creature, except it isn't legendary. => {T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+Exhaust — {2}{W}, Sacrifice X artifacts: Create X tokens that are copies of this creature, except they aren't legendary and don't have this ability. [i](Activate each exhaust ability only once.)[/i]
+
+Janet Arc'Angelo
+rules_text: Flying
+Angel spells you cast cost {1} less to cast.
+When Janet Arc'Angelo enters, you may search your library for an Angel card that doesn't share a name with a creature you control, reveal it, then shuffle and put that card on top. => Flying
+When Janet Arc'Angelo enters, you may search your library for an Angel card that doesn't share a name with a creature you control, reveal it, then shuffle and put that card on top.
+Angel spells you cast cost {1} less to cast.
+
+Lokhens, Blind Night Raven
+pt: 3/1 => 3/3
+
+Ranran, Scarlet Monkey
+type: Legendary Creature — Monkey => Legendary Creature — Monkey Youkai
+
+Cisa Perlach Augusta
+rules_text: Vigilance, trample, haste
+Whenever Cisa enters or attacks, choose one—
+• Put a storied card you own from outside the game into your graveyard. [i](Enchantments and legendary permanents are storied.)[/i]
+• Return target storied card from your graveyard to your hand. 
+• Put a storied card from your hand onto the battlefield. => Vigilance, trample, haste
+Whenever Cisa enters or deals combat damage to a player, choose one—
+• Put a storied card you own from outside the game into your graveyard. [i](Enchantments and legendary permanents are storied.)[/i]
+• Return target storied card from your graveyard to your hand. 
+• Put a storied card from your hand onto the battlefield.
+
+Yanduo, Dance of Fabric
+rules_text: Whenever Yanduo enters, or it attacks with another creature, create a Garment token attached to target creature. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+Whenever an Aura becomes attached to another creature you control, if that creature does not have any other Auras, you gain 1 life and draw a card. => Whenever Yanduo enters, or it attacks with another creature, create a Garment token attached to target unenchanted creature you control. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+Whenever another unenchanted creature you control becomes enchanted, you gain 1 life and draw a card.
+
+Marry Shepherd
+cost: {RW} => {1}{RW}
+rules_text: Multikicker {2}
+When Marry Shepherd enters, create a 0/1 white Goat creature token for each time it was kicked.
+Flying
+Tap an untapped Goat you control: Marry Shepherd gets +1/+0 until end of turn. => When Marry Shepherd enters, create a 0/1 white Goat creature token.
+Flying
+Tap an untapped Goat you control: Marry Shepherd gets +1/+0 until end of turn.
+pt: 0/1 => 1/1
+
+Hikariko Aosagi
+rules_text: Flying
+Whenever Hikariko becomes the target of a spell or ability, return Hikariko to its owner's hand, then discard a card.
+{2}{U}: Return Hikariko from your graveyard to your hand. Only activate if you attacked with three or more creatures with flying this turn. => Flying
+Whenever Hikariko becomes the target of a spell or ability, return Hikariko to its owner's hand, then discard a card.
+
+Yuuto, Out-of-Place Magician
+rules_text: If Yuuto would be put into your graveyard or exile from your library, you may exile it instead. If you do, you may cast Yuuto from exile until end of turn.
+The first noncreature spell you cast each turn costs {1} less to cast. => If Yuuto would be put into your graveyard or exile from your library, you may exile it instead. When you do, you may cast it.
+The first noncreature spell you cast each turn costs {1} less to cast.
+
+Tenmu Suitokuin, Daitengu
+rules_text: Flying
+Ward—Exile two cards from your graveyard
+Whenever Tenmu enters or attacks, you may exile a card from each player's graveyard.
+As long as there are four different names, colors, mana values, and card types among the exiled cards, Tenmu has protection from everything. => Flying
+Ward—Exile two cards from your graveyard
+Whenever Tenmu enters or attacks, you may exile a card from each player's graveyard.
+As long as there are four different colors, mana values, and card types among the exiled cards, Tenmu has protection from everything.
+
+Lethal Entertainment
+cost: {2}{U}{B} => {3}{U}{B}
+
+Yamatoyo no Momohime
+rules_text: Momohime enters tapped and does not untap during your untap step.
+Whenever Momohime enters or attacks, choose two —
+• Target player gains 4 life
+• Target player searches their library for a land card, puts it onto the battlefield tapped, then shuffles.
+• Put three +1/+1 counters on target creature.
+• Return target artifact card from a graveyard to its owner's hand. => Momohime enters tapped and does not untap during your untap step.
+Whenever Momohime enters or attacks, choose two —
+• Target player gains 4 life
+• Put three +1/+1 counters on target creature.
+• Target player searches their library for up to two basic land cards, puts them onto the battlefield tapped, then shuffles.
+• Return target permanent card from a graveyard to its owner's hand.
+
+Horizon Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Bringing Bough[/i] — {0} — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• [i]Promise of a Better World[/i] — {2}{G} — Search your library for a land card, put it onto the battlefield, then shuffle.
+• [i]Olive Tree Uprooting[/i] — {4}{G} — Return each land card from your graveyard to the battlefield => Tiered [i](Choose one additional cost)[/i]
+• [i]Bringing Bough[/i] — {0} — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• [i]Promise of a Better World[/i] — {2} — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+• [i]Olive Tree Uprooting[/i] — {4}{G} — Return each land card from your graveyard to the battlefield
+
+Bird Sign
+type: Sorcery => Instant
+rules_text: Tiered [i](Choose one additional cost)[/i]
+Create X 1/1 white Bird creature tokens with flying.
+• [i]Bird's Fountain[/i] — {0} — X is 1.
+• [i]Heron's Fountain[/i] — {2}{W} — X is the number of nontoken creatures you control.
+• [i]Aosageyser of the Damned[/i] — {5}{W} — X is the number of nonland permanents you control. => Tiered [i](Choose one additional cost)[/i]
+Create X 1/1 white Bird creature tokens with flying.
+• [i]Bird's Fountain[/i] — {0} — X is 1.
+• [i]Heron's Fountain[/i] — {2} — X is 2.
+• [i]Aosageyser of the Damned[/i] — {3}{W} — X is the number of creatures you control.
+
+Shushu, Igniter of Night Skies
+rules_text: Whenever you cast a spell, Shushu deals 1 damage to you. When this ability resolves for the third time each turn, Shushu deals 3 damage to any target and you gain 3 life. => Whenever you cast a spell, Shushu deals 1 damage to you. When this ability resolves for the third, sixth, or ni time each turn, Shushu deals 3 damage to any target and you gain 3 life.
+
+Aelivia Grapeseedling
+rules_text: {B}: Put a deathtouch counter on Aelivia
+{1}{W}: If Aelivia has a counter on it, create a Garment token attached to it. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. It becomes the creature type of your choice. => {B}: Put a deathtouch counter on Aelivia
+{1}{W}: If Aelivia has a counter on it and isn't enchanted, create a Garment token attached to it. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. It becomes the creature type of your choice.
+
+Inasa, Warring Celestial
+cost: {4}{R}{G} => {2}{R}{G}
+pt: 6/6 => 3/4
+
+Yamoto, Steam Age Remnant
+rules_text: Activated abilities of artifacts you control cost {1} less to activate.
+[i]Steam Age Overture [/i]— At the beginning of your end step, if you activated the abilities of three different artifacts this turn, put a +1/+1 counter on Yamoto. => Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+[i]Steam Age Overture [/i]— At the beginning of your end step, if you activated the abilities of three different artifacts this turn, put a +1/+1 counter on Yamoto.
+
+Garment
+pt: 1/1 => 
+
+
+VERSION 2 CHANGELOG
+====================
+
+
+
+Janet Arc'Angelo
+rules_text: Flying
+When Janet Arc'Angelo enters, you may search your library for an Angel card that doesn't share a name with a creature you control, reveal it, then shuffle and put that card on top.
+Angel spells you cast cost {1} less to cast. => Flying
+Angel spells you cast cost {1} less to cast.
+When Janet Arc'Angelo enters, you may search your library for an Angel card that doesn't share a name with a creature you control, reveal it, then shuffle and put that card on top.
+
+Lily White, Fairy Imperator
+rules_text: Flash, 
+Flying, lifelink
+Whenever you gain life, amass Faeries X, where X is the amount of life gained. [i](Put three +1/+1 counters on an Army you control. It's also a Faerie. If you don't control an Army, create a 0/0 black Faerie Army creature token first.)[/i] => Flash, 
+Flying, lifelink
+Whenever you gain life, amass Faeries X, where X is the amount of life gained. [i](Put X +1/+1 counters on an Army you control. It's also a Faerie. If you don't control an Army, create a 0/0 black Faerie Army creature token first.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

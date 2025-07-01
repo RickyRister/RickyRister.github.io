@@ -421,7 +421,7 @@
 			"name": "Ranran, Scarlet Monkey",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature — Monkey",
+			"type": "Legendary Creature — Monkey Youkai",
 			"collector_number": "92",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/92_Ranran, Scarlet Monkey.png"
@@ -817,7 +817,7 @@
 		{
 			"name": "Marry Shepherd",
 			"rarity": "common",
-			"mana_cost": "{R/W}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Faerie",
 			"collector_number": "186",
 			"image_uris": {
@@ -1237,7 +1237,7 @@
 		{
 			"name": "Lethal Entertainment",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{3}{U}{B}",
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
@@ -1648,7 +1648,7 @@
 			"name": "Bird Sign",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/2_Bird Sign.png"
@@ -1967,7 +1967,7 @@
 		{
 			"name": "Inasa, Warring Celestial",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{G}",
+			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Mystic",
 			"collector_number": "141",
 			"image_uris": {
@@ -2323,7 +2323,7 @@
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/200_Cave Leading to Somewhere.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
