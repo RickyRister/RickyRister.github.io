@@ -1,4 +1,360 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Konoha, Uncaptured Raccoon
+
+Kasumi, Submarine Illusion
+
+Megumi, the Mermaid's Dream
+
+Mikoto, Mother Goddess
+
+Miyo and Tsubame, Wavecasters
+
+Otohime Kanpukugu
+
+Bon, the Greedy Beast
+
+Fantasy Withdrawl Syndrome
+
+General Set
+
+Keshika, Flower of Evil
+
+Lokhens, Blind Night Raven
+
+Mariko, the Downtrodden
+
+Meimei, the Wishing Doll
+
+Nix, Messenger of Darkness
+
+Omen of Black Clouds
+
+Padma, Molting Zeal
+
+Salomé, Patasola
+
+Shiran, the Fake Priest
+
+Unane, the Composer
+
+Casual Arson
+
+Kousan, Spear of Chaos
+
+Lightning Word
+
+Magura, the Taotie
+
+Nene, Mountain Shouter
+
+Ranran, Scarlet Monkey
+
+Sekito, Shadow-Severing Speed
+
+Shirane, Thunderbird
+
+Steel is Born from Flame
+
+Tsumugi Enishi
+
+Apple Girlington
+
+The Festival Starts Today
+
+Leaf Ponders the Flower
+
+Munomoto, Bud of Lost Dreams
+
+Eight Million Gods
+
+Oxas, Fairy of Clovers
+
+Rebirth of Dreams
+
+Withered Bounty
+
+Ai Hinoide, Perfect Human
+rules_text: Ai Hinoide enters with a +1/+1 on it for each mana from a nonland source spent to cast it.
+When Ai Hinoide enters, if no mana from a land was spent to cast it, you draw three cards and gain 3 life. => Ai Hinoide enters with a +1/+1 on it for each mana from a nonland source spent to cast it.
+[i]Dream of Humanity[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast it, you draw three cards and gain 3 life.
+
+Ayame, Essence of Chaos
+rules_text: Indestructible
+[i]Delirium[/i] — Ayame can't attack or block unless there are four or more card types among cards in your graveyard
+Whenever Ayame enters or attacks, destroy any number of target permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles. => [i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy all other permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles.
+Ayame can't attack unless there are six or more card types among cards in your graveyard.
+
+Cindy Plum, Rakshasa
+
+Cisa Perlach Augusta
+
+Eléonore, Alligator's Bite
+
+Elfin Mint
+
+Feza, Blessed Pathfinder
+
+Fuma Mishandra
+
+Hazuki, Onmyouji
+
+Horou, Crested Ibis
+
+Kazuha, Compiler of Waka
+
+Lamis Corrosa
+
+Lovia Joutsela, Hiisi
+
+Mitori, the Crimson Grudge
+
+Mizuho, Onmyouji
+
+Ophelia, the Writer
+
+Pale Fanhead, Fan Enjoyer
+
+Phantasm Paradise
+
+Shirogane, Bravehearted
+
+Shuuu, God of Weapons
+
+Taeyori, the Leader
+
+Tenxka Shin
+
+Touko, Harvest God
+rules_text: Whenever Touko enters or attacks, each player may search their library for a basic land card, put it onto the battlefield, then shuffle.
+Touko gets +1/+1 for each land you don't control. => Whenever Touko enters or attacks, each player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Touko gets +1/+1 for each land you don't control.
+
+Ummu, Antediluvian
+
+Yanduo, Dance of Fabric
+
+Yukiko, Heart of the Swarm
+
+Marry Shepherd
+
+Mystia, Daystruck
+
+Nebet Tefet
+
+Hikariko Aosagi
+
+Philippa A.T.B. von Hohenheim
+rules_text: Prowess
+Once each turn, you may pay {0} rather than pay the mana cost for a creature spell you cast with mana value X or less, where X is this creature's power. => Prowess
+[i]Dream of Dr. Jaldabaoth[/i] — Once each turn, you may pay {0} rather than pay the mana cost for a creature spell you cast with mana value X or less, where X is this creature's power.
+
+Shizuka, Solitary Hunter
+
+Yuuto, Out-of-Place Magician
+
+Aimi, Dreaming Heartbroken Girl
+
+Amanozako, Crimson Tyrant
+
+Chieka, the Artist
+
+Mihana, Princess of Greenery
+
+Choo-Eunae, Snake's Bite
+
+Saraka, Fallen Angel
+
+Reverence U'n-Llisardggy
+
+Masahi, the Carefree Princess
+
+Tenmu Suitokuin, Daitengu
+
+Annika A.T.B von Hohenheim
+
+Tensei, the Star God
+
+Seiryuu, Willow Spirit
+
+Musaraku, Source of Nightmares
+
+Lethal Entertainment
+
+Starry Wisdom
+
+An Addendum to the Past
+
+Yomimi, Ultimate Phantom
+
+Shekle, Snowflake Fairy
+cost: {U} => {WU}
+
+Shiina, Deep-Sea Conductor
+
+Birds Return at Dusk
+
+Corin Charite
+
+Cathu, Dreaming Herald
+
+Sunrise Moon Viewing
+
+Everyone's Everlasting Danmaku
+
+Soukai, Rain Dragon
+
+Lepus Timidys Snowy
+
+Tarumi, World Yamataizer
+
+Yamatoyo no Momohime
+
+Fabritis and Iphonea
+
+Medicine, Queen of Dolls
+
+Unrepentant Mantra
+
+Megumu, Newborn Dragon
+rules_text: When Megumu enters, destroy target artifact or land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Megumu gets +1/+0 for each land card in your graveyard. => When Megumu enters, destroy target artifact or land. If a land is destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+Megumu gets +1/+0 for each land card in your graveyard.
+
+Valloside, Pure Suzuran
+
+Ruka, Fawn Spirit
+
+Mayonaka, the Kishin
+cost: {3}{R}{R} => {4}{R}
+
+Iesua, the Forgiver
+cost: {3}{W}{W}{W} => {2}{W}{W}
+rules_text: Lifelink, vigilance
+All damage that would be dealt to you and other permanents you control is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, that source's controller draws that many cards and gains that much life.
+If Ieusa would die, it phases out instead. => Vigilance
+All damage that would be dealt to you and other permanents you control is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, that source's controller draws that many cards and gains that much life.
+If Ieusa would die, it phases out instead.
+pt: 3/7 => 3/4
+
+Reimu, the Final Dream
+
+Noah, Sugar-Spun
+
+Theophilia, the Mad Host
+
+Horizon Sign
+
+Kousen, Drought Deity
+
+Nijie of Earthly Amusements
+
+Fog Sign
+
+Nue Sign
+
+Aoi, Creator Deity
+
+Kiseki, the Pruning Saw
+
+Umikaze, Sea Angel
+
+A Thousand Fathoms Under
+
+High-Angle Shot
+
+Ammolite Light
+
+Tokuko, Divine Swordbearer
+
+Tobiko, Cunning Reporter
+
+Hideka, Queen of Dragons
+
+Shushu, Igniter of Night Skies
+rules_text: Whenever you cast a spell, Shushu deals 1 damage to you. When this ability resolves for the third, sixth, or ni time each turn, Shushu deals 3 damage to any target and you gain 3 life. => Whenever you cast a spell, Shushu deals 1 damage to you. When this ability resolves for the third, sixth, or ninth time each turn, Shushu deals 3 damage to any target and you gain 3 life.
+
+Mitama, Vengeful Spirit
+
+Mirei, Deep-Sea Symphonist
+
+Aelivia Grapeseedling
+
+Shizuka, the Transient Elegance
+rules_text: Vanishing 4 [i](This creature enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Shizuka enters, put four time counters on each other nonland permanent. If they don't have vanishing, they gain vanishing.
+Nonland permanents that don't have vanishing gain vanishing 4 as they enter. => Vanishing 4 [i](This creature enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Shizuka enters, put four time counters on each nonland permanent without vanishing. They gain vanishing.
+Nonland permanents that don't have vanishing gain vanishing X as they enter, where X is the number of time counters on Shizuka.
+
+Ei, the Eternal Stillness
+
+Rachel, Unstable Scientist
+
+Nezu, Wicked Kitsune
+
+Hako, Ark of Death
+
+Mizukami, Aqua Seraph
+
+Miyako, Lamp of Life
+
+Lily White, Fairy Imperator
+
+Rebellion God Force
+cost: {X}{R} => {X}{R}{R}
+rules_text: [i]Strive[/i] — This spell costs “Sacrifice an artifact” more to cast for each target beyond the first.
+Rebellion God Force deals X damage to any number of targets => As an additional cost to cost this spell, you may sacrifice any number of artifacts. This spell costs {1} less to cast for each permanent sacrificed this way.
+Rebellion God Force deals X damage divided as you choose among any number of targets.
+
+An, Kodoma of Tobiume
+rules_text: When An enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+{G}, {T}: Target Forest you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land.
+{U}: Target Forest gains flying until end of turn. => When An enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+{G}, {T}: Target Forest you control becomes a 3/3 Elemental creature with haste until end of turn. It's still a land.
+{U}: Target Forest gains flying until end of turn.
+
+Mumumu, the Morning Star
+
+Nanahiyakumi, Song Saint
+
+Inasa, Warring Celestial
+
+Traitor's Requiem
+
+Yamoto, Steam Age Remnant
+
+Ruine, Discarded Data
+
+Rin Satsuki, Protagonist
+
+Muu, Tragedy Princess
+
+Sizuka, Dissector of Fairies
+
+Datura, Weaver of Death
+
+Tamako Sant'Angelo
+
+Jagiko, Witch of Scrolls
+
+Existential Humankind
+
+Kawauso, Funnel of Desire
+
+Akaste, Shark's Bite
+
+Serene Heikegani, Crustacean
+
+Lycaropia Hearn
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Existential Humankind added.
