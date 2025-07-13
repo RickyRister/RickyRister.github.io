@@ -1,4 +1,37 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Sever Relationship
+
+Ophelia, the Writer
+rules_text: Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{3}, {T}: Mill three cards. Create a 1/1 Spirit creature token with the colors of the first card, put a +1/+1 counter on a permanent that shares a card type with the second card, and gain life equal to the mana value of the third card. => Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{3}, {T}: Mill two cards. Create a 1/1 Spirit creature token with the colors of the first card, then put a +1/+1 counter on creature you control that shares a color with the second card.
+
+Marry Shepherd
+
+Aoi, Creator Deity
+rules_text: When Aoi enters, draw two cards. You may play an additional land this turn.
+[i]Landfall[/i] — Whenever a land you control enters, tap up to one target artifact or creature. It loses all abilities and doesn't untap during its controller's untap step for as long as that land remains tapped.
+{G}{U}: Put a stun counter on target land you control or remove one from it. => When Aoi enters, draw two cards. You may play an additional land this turn.
+[i]Landfall[/i] — Whenever a land you control enters, tap up to one target artifact or creature. It loses all abilities and doesn't untap during its controller's untap step for as long as that land remains tapped.
+pt: 4/5 => 5/6
+
+Akaste, Shark's Bite
+cost: {1}{U}{R} => {1}{B}{R}
+rules_text: Whenever you cast a noncreature spell, Akaste deals 1 damage to each opponent.
+Whenever a permanent you control deals damage to an opponent for the third time each turn, exile the top card of your library. Until the end of your next turn, you may play that card. => Ward—Pay 2 life
+Whenever you cast a noncreature spell, Akaste deals 1 damage to each opponent.
+Whenever an opponent loses life for the third time each turn, exile the top card of your library. Until the end of your next turn, you may play that card.
+
+Lycaropia Hearn
+cost: {1}{U}{R} => {U}{R}
+pt: 3/2 => 2/2
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

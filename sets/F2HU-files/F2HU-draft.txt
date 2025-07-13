@@ -2347,7 +2347,7 @@
 		{
 			"name": "Akaste, Shark's Bite",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Merfolk",
 			"collector_number": "127",
 			"image_uris": {
@@ -2367,7 +2367,7 @@
 		{
 			"name": "Lycaropia Hearn",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Werewolf",
 			"collector_number": "153",
 			"image_uris": {

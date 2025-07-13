@@ -895,8 +895,8 @@
         "set": "F2HU"
     },
     {
-        "card_name": "Choo-Eunae, Snake's Bite",
-        "number": 132,
+        "card_name": "Akaste, Shark's Bite",
+        "number": 127,
         "shape": "normal",
         "set": "F2HU"
     },
@@ -925,8 +925,8 @@
         "set": "F2HU"
     },
     {
-        "card_name": "El\u00e9onore, Alligator's Bite",
-        "number": 136,
+        "card_name": "Choo-Eunae, Snake's Bite",
+        "number": 132,
         "shape": "normal",
         "set": "F2HU"
     },
@@ -955,7 +955,10 @@
         "set": "F2HU"
     },
     {
-        "card_name": "e"
+        "card_name": "El\u00e9onore, Alligator's Bite",
+        "number": 136,
+        "shape": "normal",
+        "set": "F2HU"
     },
     {
         "card_name": "e"
@@ -1144,8 +1147,8 @@
         "set": "F2HU"
     },
     {
-        "card_name": "Akaste, Shark's Bite",
-        "number": 127,
+        "card_name": "Kasumi, Submarine Illusion",
+        "number": 145,
         "shape": "normal",
         "set": "F2HU"
     },
@@ -1168,8 +1171,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Kasumi, Submarine Illusion",
-        "number": 145,
+        "card_name": "Lepus Timidys Snowy",
+        "number": 149,
         "shape": "normal",
         "set": "F2HU"
     },
@@ -1187,24 +1190,6 @@
         "number": 180,
         "shape": "normal",
         "set": "F2HU"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Lepus Timidys Snowy",
-        "number": 149,
-        "shape": "normal",
-        "set": "F2HU"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
