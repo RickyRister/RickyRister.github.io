@@ -2430,7 +2430,7 @@
 	2 Sizuka, Dissector of Fairies
 	2 Tamako Sant'Angelo
 	2 Jagiko, Witch of Scrolls
-[uncommon(4)]
+[uncommon(3)]
 	4 Birds of a Feather
 	4 Fairy Contest
 	4 Golden Hymn
@@ -2534,7 +2534,213 @@
 	8 Ammolite Light
 	8 Tobiko, Cunning Reporter
 	8 Traitor's Requiem
-[wildcard(2)]
+[foil(1)]
+	12 Amanojaku's Folly
+	6 Birds of a Feather
+	12 Chii, Toothpick Tsukumogami
+	6 Fairy Contest
+	6 Golden Hymn
+	6 Janet Arc'Angelo
+	2 Luciana Abatangelo
+	6 Ma Sekisei, Fabled Baker
+	2 Michel Sant'Angelo
+	12 Nana Fumoto, Doll Dealer
+	12 Nunokae, the Grateful Crane
+	2 Nueko, Castle Protector
+	12 Sever Relationship
+	6 Tanboku, Austral Pearl
+	12 Naruko, the Whirlpool
+	12 Konoha, Uncaptured Raccoon
+	6 Kasumi, Submarine Illusion
+	2 Megumi, the Mermaid's Dream
+	2 Mikoto, Mother Goddess
+	6 Miyo and Tsubame, Wavecasters
+	1 Otohime Kanpukugu
+	6 Bon, the Greedy Beast
+	6 Fantasy Withdrawl Syndrome
+	2 General Set
+	2 Keshika, Flower of Evil
+	2 Lokhens, Blind Night Raven
+	2 Mariko, the Downtrodden
+	6 Meimei, the Wishing Doll
+	12 Nix, Messenger of Darkness
+	12 Omen of Black Clouds
+	2 Padma, Molting Zeal
+	6 Salomé, Patasola
+	6 Shiran, the Fake Priest
+	12 Unane, the Composer
+	12 Casual Arson
+	6 Kousan, Spear of Chaos
+	6 Lightning Word
+	6 Magura, the Taotie
+	12 Nene, Mountain Shouter
+	12 Ranran, Scarlet Monkey
+	6 Sekito, Shadow-Severing Speed
+	12 Shirane, Thunderbird
+	2 Steel is Born from Flame
+	12 Tsumugi Enishi
+	12 Apple Girlington
+	2 The Festival Starts Today
+	2 Leaf Ponders the Flower
+	2 Munomoto, Bud of Lost Dreams
+	1 Eight Million Gods
+	12 Oxas, Fairy of Clovers
+	12 Rebirth of Dreams
+	12 Withered Bounty
+	2 Ai Hinoide, Perfect Human
+	2 Ayame, Essence of Chaos
+	1 Cindy Plum, Rakshasa
+	1 Cisa Perlach Augusta
+	6 Eléonore, Alligator's Bite
+	1 Elfin Mint
+	2 Feza, Blessed Pathfinder
+	2 Fuma Mishandra
+	1 Hazuki, Onmyouji
+	2 Horou, Crested Ibis
+	2 Kazuha, Compiler of Waka
+	2 Lamis Corrosa
+	1 Lovia Joutsela, Hiisi
+	1 Mitori, the Crimson Grudge
+	1 Mizuho, Onmyouji
+	6 Ophelia, the Writer
+	6 Pale Fanhead, Fan Enjoyer
+	2 Phantasm Paradise
+	1 Shirogane, Bravehearted
+	2 Shuuu, God of Weapons
+	2 Taeyori, the Leader
+	1 Tenxka Shin
+	2 Touko, Harvest God
+	2 Ummu, Antediluvian
+	2 Yanduo, Dance of Fabric
+	6 Yukiko, Heart of the Swarm
+	12 Marry Shepherd
+	12 Mystia, Daystruck
+	6 Nebet Tefet
+	12 Chirper Phone
+	2 The Great Ark
+	12 Treasure Lantern
+	6 Memento Forest
+	6 Hikariko Aosagi
+	12 Hyp, Wandering White
+	12 Artistic Dedication
+	12 Chirplagarism
+	12 Epro, the Programmer
+	12 Excessive Monologuing
+	12 Fujioki, Soul of Cuckoos
+	1 Gensokyo's Longest Day
+	2 Nua, Captain of the Ark
+	6 Phiased, the Magi
+	2 Philippa A.T.B. von Hohenheim
+	12 Shizuka, Solitary Hunter
+	6 Prune Reality
+	6 Yuuto, Out-of-Place Magician
+	2 Aimi, Dreaming Heartbroken Girl
+	2 Amanozako, Crimson Tyrant
+	12 Ibis Feather
+	6 Sasuta no Izuhime
+	6 Chieka, the Artist
+	1 Mihana, Princess of Greenery
+	6 Choo-Eunae, Snake's Bite
+	6 Saraka, Fallen Angel
+	1 Reverence U'n-Llisardggy
+	6 Masahi, the Carefree Princess
+	6 Tenmu Suitokuin, Daitengu
+	2 Douraku Kazane, Colorless Tone
+	12 Annika A.T.B von Hohenheim
+	1 Mumei, Discarded Pottery
+	2 Tensei, the Star God
+	6 Himemiko, Erased Princess
+	6 Seiryuu, Willow Spirit
+	1 Musaraku, Source of Nightmares
+	2 Yuyuko, Host of the Banquet
+	2 Lethal Entertainment
+	6 Starry Wisdom
+	12 An Addendum to the Past
+	12 Footprints of Treiste
+	2 Yomimi, Ultimate Phantom
+	12 Shekle, Snowflake Fairy
+	2 Shiina, Deep-Sea Conductor
+	6 End of History
+	12 Birds Return at Dusk
+	12 Corin Charite
+	2 Cathu, Dreaming Herald
+	6 Mankind Salvation Plan
+	6 Sunrise Moon Viewing
+	2 Everyone's Everlasting Danmaku
+	2 Soukai, Rain Dragon
+	6 Lepus Timidys Snowy
+	2 Tarumi, World Yamataizer
+	6 The Divine Jewel
+	2 The Divine Mirror
+	2 The Divine Sword
+	2 Yamatoyo no Momohime
+	12 Fabritis and Iphonea
+	2 Medicine, Queen of Dolls
+	2 Unrepentant Mantra
+	1 Megumu, Newborn Dragon
+	2 Valloside, Pure Suzuran
+	12 Ruka, Fawn Spirit
+	1 Mayonaka, the Kishin
+	12 Fiction Sign
+	2 Iesua, the Forgiver
+	2 Reimu, the Final Dream
+	2 Senkiusei, the Supernova
+	12 Noah, Sugar-Spun
+	12 Theophilia, the Mad Host
+	12 Horizon Sign
+	6 Kousen, Drought Deity
+	12 Nomi no Hanie
+	2 Nijie of Earthly Amusements
+	2 Emerald Tablet
+	2 The Lesser Key of Solomon
+	12 Hate Not the Wind
+	12 Bird Sign
+	12 Fog Sign
+	12 Nue Sign
+	2 Aoi, Creator Deity
+	2 Kiseki, the Pruning Saw
+	2 Umikaze, Sea Angel
+	12 A Thousand Fathoms Under
+	12 High-Angle Shot
+	12 Ammolite Light
+	2 Inori, Shrine Maiden of Sakura
+	2 Tokuko, Divine Swordbearer
+	12 Tobiko, Cunning Reporter
+	2 Hideka, Queen of Dragons
+	2 Shushu, Igniter of Night Skies
+	2 Mitama, Vengeful Spirit
+	2 Mirei, Deep-Sea Symphonist
+	2 Aelivia Grapeseedling
+	2 Shizuka, the Transient Elegance
+	1 Ei, the Eternal Stillness
+	2 Rachel, Unstable Scientist
+	2 Nezu, Wicked Kitsune
+	1 Patricia Turing
+	1 Hako, Ark of Death
+	2 Mizukami, Aqua Seraph
+	2 World's End Testament
+	1 Miyako, Lamp of Life
+	2 Lily White, Fairy Imperator
+	6 Rebellion God Force
+	2 An, Kodoma of Tobiume
+	6 Mumumu, the Morning Star
+	2 Nanahiyakumi, Song Saint
+	2 Inasa, Warring Celestial
+	12 Traitor's Requiem
+	2 Yamoto, Steam Age Remnant
+	2 Ruine, Discarded Data
+	2 Jinka, the Yearning Light
+	2 Rin Satsuki, Protagonist
+	2 Muu, Tragedy Princess
+	2 Sizuka, Dissector of Fairies
+	6 Datura, Weaver of Death
+	2 Tamako Sant'Angelo
+	2 Jagiko, Witch of Scrolls
+	6 Far-East El Dorado
+	6 Hollow Mansion
+	6 Rainy Torifune Shrine
+	6 Cave Leading to Somewhere
+[wildcard(1)]
 	6 Amanojaku's Folly
 	15 Birds of a Feather
 	6 Chii, Toothpick Tsukumogami
