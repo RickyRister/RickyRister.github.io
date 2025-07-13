@@ -1,4 +1,477 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Existential Humankind added.
+Kawauso, Funnel of Desire added.
+Akaste, Shark's Bite added.
+Serene Heikegani, Crustacean added.
+Lycaropia Hearn added.
+
+
+Zankurou
+
+Bird
+
+Amanojaku's Folly
+
+Birds of a Feather
+
+Chii, Toothpick Tsukumogami
+
+Fairy Contest
+
+Golden Hymn
+
+Janet Arc'Angelo
+
+Luciana Abatangelo
+
+Ma Sekisei, Fabled Baker
+
+Michel Sant'Angelo
+
+Nana Fumoto, Doll Dealer
+
+Nunokae, the Grateful Crane
+
+Nueko, Castle Protector
+
+Sever Relationship
+
+Tanboku, Austral Pearl
+
+Naruko, the Whirlpool
+
+Konoha, Uncaptured Raccoon
+
+Kasumi, Submarine Illusion
+
+Megumi, the Mermaid's Dream
+
+Mikoto, Mother Goddess
+
+Miyo and Tsubame, Wavecasters
+
+Otohime Kanpukugu
+
+Bon, the Greedy Beast
+
+Fantasy Withdrawl Syndrome
+
+General Set
+
+Keshika, Flower of Evil
+
+Lokhens, Blind Night Raven
+
+Mariko, the Downtrodden
+
+Meimei, the Wishing Doll
+
+Nix, Messenger of Darkness
+
+Omen of Black Clouds
+
+Padma, Molting Zeal
+
+Salomé, Patasola
+
+Shiran, the Fake Priest
+
+Unane, the Composer
+
+Casual Arson
+
+Kousan, Spear of Chaos
+
+Lightning Word
+
+Magura, the Taotie
+
+Nene, Mountain Shouter
+
+Ranran, Scarlet Monkey
+
+Sekito, Shadow-Severing Speed
+
+Shirane, Thunderbird
+
+Steel is Born from Flame
+
+Tsumugi Enishi
+
+Apple Girlington
+
+The Festival Starts Today
+
+Leaf Ponders the Flower
+
+Munomoto, Bud of Lost Dreams
+
+Eight Million Gods
+
+Oxas, Fairy of Clovers
+
+Rebirth of Dreams
+
+Withered Bounty
+
+Ai Hinoide, Perfect Human
+
+Ayame, Essence of Chaos
+
+Cindy Plum, Rakshasa
+
+Cisa Perlach Augusta
+
+Eléonore, Alligator's Bite
+
+Elfin Mint
+
+Feza, Blessed Pathfinder
+
+Fuma Mishandra
+
+Hazuki, Onmyouji
+
+Horou, Crested Ibis
+
+Kazuha, Compiler of Waka
+
+Lamis Corrosa
+
+Lovia Joutsela, Hiisi
+
+Mitori, the Crimson Grudge
+
+Mizuho, Onmyouji
+
+Ophelia, the Writer
+
+Pale Fanhead, Fan Enjoyer
+
+Phantasm Paradise
+
+Shirogane, Bravehearted
+
+Shuuu, God of Weapons
+
+Taeyori, the Leader
+
+Tenxka Shin
+
+Touko, Harvest God
+
+Ummu, Antediluvian
+
+Yanduo, Dance of Fabric
+
+Yukiko, Heart of the Swarm
+
+Marry Shepherd
+
+Mystia, Daystruck
+
+Nebet Tefet
+
+Chirper Phone
+
+The Great Ark
+
+Treasure Lantern
+
+Memento Forest
+
+Hikariko Aosagi
+
+Hyp, Wandering White
+
+Artistic Dedication
+
+Chirplagarism
+
+Epro, the Programmer
+
+Excessive Monologuing
+
+Fujioki, Soul of Cuckoos
+
+Gensokyo's Longest Day
+
+Nua, Captain of the Ark
+
+Phiased, the Magi
+
+Philippa A.T.B. von Hohenheim
+
+Shizuka, Solitary Hunter
+
+Prune Reality
+
+Yuuto, Out-of-Place Magician
+
+Aimi, Dreaming Heartbroken Girl
+
+Amanozako, Crimson Tyrant
+
+Ibis Feather
+
+Sasuta no Izuhime
+
+Chieka, the Artist
+
+Mihana, Princess of Greenery
+
+Choo-Eunae, Snake's Bite
+
+Saraka, Fallen Angel
+
+Reverence U'n-Llisardggy
+
+Masahi, the Carefree Princess
+
+Tenmu Suitokuin, Daitengu
+
+Douraku Kazane, Colorless Tone
+
+Annika A.T.B von Hohenheim
+
+Homunculus
+
+Mumei, Discarded Pottery
+
+Tensei, the Star God
+
+Himemiko, Erased Princess
+
+Seiryuu, Willow Spirit
+
+Musaraku, Source of Nightmares
+
+Yuyuko, Host of the Banquet
+
+Bubble Universe
+
+Lethal Entertainment
+
+Starry Wisdom
+
+An Addendum to the Past
+
+Footprints of Treiste
+
+Yomimi, Ultimate Phantom
+
+Shekle, Snowflake Fairy
+
+Shiina, Deep-Sea Conductor
+
+End of History
+
+Birds Return at Dusk
+
+Corin Charite
+
+Cathu, Dreaming Herald
+
+Mankind Salvation Plan
+
+Sunrise Moon Viewing
+
+Everyone's Everlasting Danmaku
+
+Soukai, Rain Dragon
+
+Lepus Timidys Snowy
+
+Tarumi, World Yamataizer
+
+The Divine Jewel
+
+The Divine Mirror
+
+The Divine Sword
+
+Yamatoyo no Momohime
+
+Fabritis and Iphonea
+
+Medicine, Queen of Dolls
+
+Unrepentant Mantra
+
+Megumu, Newborn Dragon
+
+Valloside, Pure Suzuran
+
+Ruka, Fawn Spirit
+
+Mayonaka, the Kishin
+
+Fiction Sign
+
+Iesua, the Forgiver
+
+Reimu, the Final Dream
+
+Senkiusei, the Supernova
+
+Noah, Sugar-Spun
+
+Theophilia, the Mad Host
+
+Horizon Sign
+
+Kousen, Drought Deity
+
+Nomi no Hanie
+
+Nijie of Earthly Amusements
+
+Emerald Tablet
+
+The Lesser Key of Solomon
+
+Hate Not the Wind
+
+Bird Sign
+
+Fog Sign
+
+Nue Sign
+
+Aoi, Creator Deity
+
+Kiseki, the Pruning Saw
+
+Umikaze, Sea Angel
+
+A Thousand Fathoms Under
+
+High-Angle Shot
+
+Ammolite Light
+
+Inori, Shrine Maiden of Sakura
+
+Tokuko, Divine Swordbearer
+
+Tobiko, Cunning Reporter
+
+Hideka, Queen of Dragons
+
+Fujunryu
+
+Shushu, Igniter of Night Skies
+
+Mitama, Vengeful Spirit
+
+Mirei, Deep-Sea Symphonist
+
+Aelivia Grapeseedling
+
+Shizuka, the Transient Elegance
+
+Ei, the Eternal Stillness
+
+Rachel, Unstable Scientist
+
+Nezu, Wicked Kitsune
+
+Patricia Turing
+
+Hako, Ark of Death
+
+Mizukami, Aqua Seraph
+
+World's End Testament
+
+Miyako, Lamp of Life
+
+Lily White, Fairy Imperator
+
+Rebellion God Force
+
+An, Kodoma of Tobiume
+
+Mumumu, the Morning Star
+
+Nanahiyakumi, Song Saint
+
+Inasa, Warring Celestial
+
+Traitor's Requiem
+
+Yamoto, Steam Age Remnant
+
+Ruine, Discarded Data
+
+Jinka, the Yearning Light
+
+Rin Satsuki, Protagonist
+
+Muu, Tragedy Princess
+
+Sizuka, Dissector of Fairies
+
+Faerie
+
+Datura, Weaver of Death
+
+Tamako Sant'Angelo
+
+Faerie
+
+Faerie Army
+
+Vial
+
+Faerie Soldier
+
+Doll
+
+Bird
+
+Goat
+
+Snowball
+
+Snail
+
+Food
+
+Clue
+
+Garment
+
+Spirit
+
+Sawdust
+
+Treasure
+
+Blood
+
+Youkai
+
+Human
+
+Spirit
+
+Doll
+
+Jagiko, Witch of Scrolls
+
+Far-East El Dorado
+
+Hollow Mansion
+
+Rainy Torifune Shrine
+
+Cave Leading to Somewhere
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
