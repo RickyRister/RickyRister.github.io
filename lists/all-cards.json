@@ -3540,7 +3540,8 @@
             "artist": "\u307d\u306b\u3083",
             "alias": "",
             "notes": "!tag original\n!//group original\n!tag other",
-            "image_type": "png"
+            "image_type": "png",
+            "designer_notes": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/282W5WOrNpg?si=odMmvEv11yA1Vb2i\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
         {
             "card_name": "Fujunryu",
