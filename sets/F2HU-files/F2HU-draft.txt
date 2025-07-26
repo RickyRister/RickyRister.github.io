@@ -1935,13 +1935,13 @@
 			}
 		},
 		{
-			"name": "An, Kodoma of Tobiume",
+			"name": "An, Kodama of Tobiume",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Plant Youkai",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/103_An, Kodoma of Tobiume.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/103_An, Kodama of Tobiume.png"
 			}
 		},
 		{
@@ -2135,13 +2135,13 @@
 			}
 		},
 		{
-			"name": "Goat",
+			"name": "Sheep",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Goat",
-			"collector_number": "5",
+			"type": "Token Creature — Sheep",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/5_Goat.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/6_Sheep.png"
 			}
 		},
 		{
@@ -2249,9 +2249,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/6_Human.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/5_Human.png"
 			}
 		},
 		{
@@ -2469,7 +2469,7 @@
 	2 World's End Testament
 	1 Miyako, Lamp of Life
 	2 Lily White, Fairy Imperator
-	2 An, Kodoma of Tobiume
+	2 An, Kodama of Tobiume
 	2 Nanahiyakumi, Song Saint
 	2 Inasa, Warring Celestial
 	2 Yamoto, Steam Age Remnant
@@ -2777,7 +2777,7 @@
 	1 Miyako, Lamp of Life
 	2 Lily White, Fairy Imperator
 	6 Rebellion God Force
-	2 An, Kodoma of Tobiume
+	2 An, Kodama of Tobiume
 	6 Mumumu, the Morning Star
 	2 Nanahiyakumi, Song Saint
 	2 Inasa, Warring Celestial
@@ -2988,7 +2988,7 @@
 	4 Miyako, Lamp of Life
 	7 Lily White, Fairy Imperator
 	15 Rebellion God Force
-	7 An, Kodoma of Tobiume
+	7 An, Kodama of Tobiume
 	15 Mumumu, the Morning Star
 	7 Nanahiyakumi, Song Saint
 	7 Inasa, Warring Celestial

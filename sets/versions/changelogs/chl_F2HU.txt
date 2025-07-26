@@ -1,4 +1,42 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+An, Kodama of Tobiume added.
+Sheep added.
+
+An, Kodoma of Tobiume removed.
+Goat removed.
+
+Cindy Plum, Rakshasa
+rules_text: First strike, haste
+Cindy Plum attacks each turn if able.
+Cindy Plum can't be blocked by more than one creature and must be blocked by the creature with the greatest power among creatures the defending if able. => First strike, haste
+Cindy Plum attacks each turn if able.
+Cindy Plum can't be blocked by more than one creature and must be blocked by the creature with the greatest power among creatures the defending player controls if able.
+
+Marry Shepherd
+rules_text: When Marry Shepherd enters, create a 0/1 white Goat creature token.
+Flying
+Tap an untapped Goat you control: Marry Shepherd gets +1/+0 until end of turn. => When Marry Shepherd enters, create a 0/1 white Sheep creature token.
+Flying
+Tap an untapped Sheep you control: Marry Shepherd gets +1/+0 until end of turn.
+
+Hyp, Wandering White
+rules_text: Flying
+Whenever Hyp attacks, you may exert it. [i](An exerted creature won't untap during your next untap step.)[/i]
+At the beginning of your upkeep, if Hyp is tapped, create a 0/1 white Goat creature token. => Flying
+Whenever Hyp attacks, you may exert it. [i](An exerted creature won't untap during your next untap step.)[/i]
+At the beginning of your upkeep, if Hyp is tapped, create a 0/1 white Sheep creature token.
+
+Sunrise Moon Viewing
+rules_text: Affinity for legendaries [i](This spell costs {1} less to cast for each legendary you control.)[/i]
+Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle. => Affinity for legendary permanents [i](This spell costs {1} less to cast for each legendary permanent you control.)[/i]
+Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+Human
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

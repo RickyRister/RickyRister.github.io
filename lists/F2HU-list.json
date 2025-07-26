@@ -84,7 +84,7 @@
         "set": "F2HU"
     },
     {
-        "card_name": "An, Kodoma of Tobiume",
+        "card_name": "An, Kodama of Tobiume",
         "number": 103,
         "shape": "normal",
         "set": "F2HU"
@@ -1566,13 +1566,13 @@
         "set": "F2HU"
     },
     {
-        "card_name": "Goat",
+        "card_name": "Human",
         "number": 5,
         "shape": "token",
         "set": "F2HU"
     },
     {
-        "card_name": "Human",
+        "card_name": "Sheep",
         "number": 6,
         "shape": "token",
         "set": "F2HU"
