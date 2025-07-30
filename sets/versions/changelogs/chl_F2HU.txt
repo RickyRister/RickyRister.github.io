@@ -1,4 +1,18 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Akiwaza, Crossroads God added.
+Sonia von Auersperg added.
+
+
+Kasumi, Submarine Illusion
+rules_text: Whenever Kasumi enters or attacks, you may put a creature from your hand onto the battlefield. It's an Illusion in addition to its other types. Return it to your hand at the beginning of the next end step. => Whenever Kasumi attacks, you may put a creature from your hand onto the battlefield. It's an Illusion in addition to its other types. Return it to your hand at the beginning of the next end step.
+
+Serene Heikegani, Crustacean
+rules_text: Whenever another legendary permanent you control enters, target player mills three cards. => Whenever you cast a legendary spell, target player mills three cards.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 An, Kodama of Tobiume added.
