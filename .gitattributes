@@ -1,1 +1,1 @@
-sets/**/img/ filter=lfs diff=lfs merge=lfs -text
+sets/**/img/* filter=lfs diff=lfs merge=lfs -text
