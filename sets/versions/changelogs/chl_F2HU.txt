@@ -1,4 +1,44 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Shizuka, Dissector of Fairies added.
+Yakari, Bridger of Realms added.
+Hasuta, the Blinding Royal added.
+
+Sizuka, Dissector of Fairies removed.
+
+Ayame, Essence of Chaos
+type: Legendary Creature — Elder God => Legendary Creature — Elder Horror God
+
+Cisa Perlach Augusta
+rules_text: Vigilance, trample, haste
+Whenever Cisa enters or deals combat damage to a player, choose one—
+• Put a storied card you own from outside the game into your graveyard. [i](Enchantments and legendary permanents are storied.)[/i]
+• Return target storied card from your graveyard to your hand. 
+• Put a storied card from your hand onto the battlefield. => Vigilance, trample, haste
+Whenever Cisa attacks or deals combat damage to a player, choose one—
+• Put a storied card you own from outside the game into your graveyard. [i](Enchantments and legendary permanents are storied.)[/i]
+• Return target storied card from your graveyard to your hand. 
+• Put a storied card from your hand onto the battlefield.
+
+Taeyori, the Leader
+rules_text: Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{5}, {T}: Look at the top five cards of your library. You may reveal a card with an activated ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+[i]Glory of Everyone [/i]— Activated abilities of creatures you control cost {1} less to activate for each other creature you control. This effect can't reduce the mana in that cost to less than one mana. => Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{5}, {T}: Look at the top five cards of your library. You may reveal a card with an activated ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Creatures you control with activated abilities have haste.
+
+Lepus Timidys Snowy
+
+Kiseki, the Pruning Saw
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you may pay {G}. When you do, destroy target artifact or enchantment and create a Sawdust token. [i](It's an artifact with no abilities)[/i]
+[i]Kintsugi[/i] — {T}, Sacrifice a land and X artifacts: Return target noncreature permanent card with mana value X or less from your graveyard to the battlefield. => When Kiseki enters, destroy target noncreature permanent. Its controller may search their library for a land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice a noncreature permanent: Add four mana of any one color. Spend this mana only to cast spells and only on additional or alternative costs.
+
+Faerie
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Akiwaza, Crossroads God added.
