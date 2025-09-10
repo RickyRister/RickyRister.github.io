@@ -1,4 +1,36 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Dangerous Curiosity added.
+Tsubakurowa, Weather-Wise added.
+
+
+Cathu, Dreaming Herald
+type: Legendary Creature — Horror => Legendary Creature — Horror Scout
+
+Shizuka, the Transient Elegance
+rules_text: Vanishing 4 [i](This creature enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Shizuka enters, put four time counters on each nonland permanent without vanishing. They gain vanishing.
+Nonland permanents that don't have vanishing gain vanishing X as they enter, where X is the number of time counters on Shizuka. => Vanishing 3 [i](This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Shizuka enters, put two time counters on each nonland permanent without vanishing. They gain vanishing.
+Nonland permanents that don't have vanishing gain vanishing 2 as they enter.
+
+Kawauso, Funnel of Desire
+rules_text: When Kawauso enters, you may sacrifice a land. When you do, each player loses 2 life and you draw two cards.
+Whenever a land card is put onto the battlefield or into your hand from your graveyard, you gain 2 life. => When Kawauso enters, you may sacrifice a land. When you do, each player discards two cards.
+Whenever a land card is put onto the battlefield or into your hand from your graveyard, you lose 1 life and draw a card.
+
+Sonia von Auersperg
+pt: 6/6 => 3/5
+
+Hasuta, the Blinding Royal
+type: Legendary Creature — Elder Horror => Legendary Creature — Horror
+cost: {4}{B} => {4}{R}
+rules_text: When Hasuta enters, if it's not your main phase, create two 3/2 black Horror creature tokens. Then if Hasuta was cast, destroy all non-Horror creatures. => First strike
+When Hasuta enters, if it's not your main phase, it deals 5 damage to each non-Horror creature. Then if it was cast, create two 3/2 black Horror creature tokens.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Shizuka, Dissector of Fairies added.
