@@ -1,4 +1,28 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Kikyou, Buried Legend added.
+Drunken Sailor's Charm added.
+Tiny Buddha's Charm added.
+Vengeful Spirit's Charm added.
+
+
+Ranran, Scarlet Monkey
+rules_text: Red creatures attack each turn if able.
+If a red source would deal damage, it deals that much damage plus 1 instead.
+{T}: Target creature becomes red until end of turn. => If a red source would deal damage, it deals that much damage plus 1 instead.
+If a source would deal damage to a red permanent, it deals double that damage instead.
+{T}: Target creature becomes red until end of turn.
+
+Lethal Entertainment
+cost: {3}{U}{B} => {1}{B}
+rules_text: Choose two target creatures controlled by the same player. That player sacrifices one of them. You gain control of the other. => Kicker {3}{U}
+Choose two target creatures controlled by the same player. That player sacrifices one of them. If this spell was kicked, you gain control of the other.
+
+Awaji, Ruler of Nothingness
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Elly, the Immutable Truth added.

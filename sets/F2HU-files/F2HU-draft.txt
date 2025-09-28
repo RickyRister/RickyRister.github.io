@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Dog Youkai",
-			"collector_number": "124",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/124_Konoha, Uncaptured Raccoon.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/126_Konoha, Uncaptured Raccoon.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Snail Youkai",
-			"collector_number": "163",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/163_Kasumi, Submarine Illusion.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/166_Kasumi, Submarine Illusion.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Merfolk Noble",
-			"collector_number": "172",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/172_Megumi, the Mermaid's Dream.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/174_Megumi, the Mermaid's Dream.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "173",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/173_Mikoto, Mother Goddess.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/175_Mikoto, Mother Goddess.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Spirit Youkai",
-			"collector_number": "176",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/176_Miyo and Tsubame, Wavecasters.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/178_Miyo and Tsubame, Wavecasters.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "183",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/183_Otohime Kanpukugu.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/185_Otohime Kanpukugu.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "70",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/70_Lokhens, Blind Night Raven.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/72_Lokhens, Blind Night Raven.png"
 			}
 		},
 		{
@@ -285,16 +285,16 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Peasant",
-			"collector_number": "71",
+			"collector_number": "73",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ricky-mse-hub/sets/F2HU-files/img/71_Mariko, the Downtrodden_back.png"
+					"en": "https://ricky-mse-hub/sets/F2HU-files/img/73_Mariko, the Downtrodden_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/71_Mariko, the Downtrodden_front.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/73_Mariko, the Downtrodden_front.png"
 			}
 		},
 		{
@@ -302,9 +302,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Artifact Creature — Doll",
-			"collector_number": "74",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/74_Meimei, the Wishing Doll.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/76_Meimei, the Wishing Doll.png"
 			}
 		},
 		{
@@ -312,9 +312,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "78",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/78_Nix, Messenger of Darkness.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/80_Nix, Messenger of Darkness.png"
 			}
 		},
 		{
@@ -322,9 +322,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "80",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/80_Omen of Black Clouds.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/82_Omen of Black Clouds.png"
 			}
 		},
 		{
@@ -332,9 +332,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Youkai Zombie",
-			"collector_number": "81",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/81_Padma, Molting Zeal.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/83_Padma, Molting Zeal.png"
 			}
 		},
 		{
@@ -342,9 +342,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Vampire",
-			"collector_number": "82",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/82_Salomé, Patasola.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/84_Salomé, Patasola.png"
 			}
 		},
 		{
@@ -352,9 +352,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "83",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/83_Shiran, the Fake Priest.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/85_Shiran, the Fake Priest.png"
 			}
 		},
 		{
@@ -362,9 +362,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "85",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/85_Unane, the Composer.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/87_Unane, the Composer.png"
 			}
 		},
 		{
@@ -372,9 +372,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/89_Casual Arson.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/91_Casual Arson.png"
 			}
 		},
 		{
@@ -382,9 +382,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact Creature — Equipment Youkai",
-			"collector_number": "95",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/95_Kousan, Spear of Chaos.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/97_Kousan, Spear of Chaos.png"
 			}
 		},
 		{
@@ -392,9 +392,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "97",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/97_Lightning Word.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/99_Lightning Word.png"
 			}
 		},
 		{
@@ -402,9 +402,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Legendary Creature — Demon Beast",
-			"collector_number": "98",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/98_Magura, the Taotie.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/100_Magura, the Taotie.png"
 			}
 		},
 		{
@@ -412,9 +412,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "103",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/103_Nene, Mountain Shouter.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/105_Nene, Mountain Shouter.png"
 			}
 		},
 		{
@@ -422,9 +422,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Monkey Youkai",
-			"collector_number": "104",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/104_Ranran, Scarlet Monkey.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/106_Ranran, Scarlet Monkey.png"
 			}
 		},
 		{
@@ -432,9 +432,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Demon Mount",
-			"collector_number": "106",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/106_Sekito, Shadow-Severing Speed.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/108_Sekito, Shadow-Severing Speed.png"
 			}
 		},
 		{
@@ -442,9 +442,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "107",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/107_Shirane, Thunderbird.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/109_Shirane, Thunderbird.png"
 			}
 		},
 		{
@@ -452,9 +452,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "108",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/108_Steel is Born from Flame.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/110_Steel is Born from Flame.png"
 			}
 		},
 		{
@@ -462,9 +462,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "111",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/111_Tsumugi Enishi.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/113_Tsumugi Enishi.png"
 			}
 		},
 		{
@@ -472,9 +472,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "115",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/115_Apple Girlington.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/117_Apple Girlington.png"
 			}
 		},
 		{
@@ -482,9 +482,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "119",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/119_The Festival Starts Today.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/121_The Festival Starts Today.png"
 			}
 		},
 		{
@@ -492,16 +492,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "125",
+			"collector_number": "127",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://ricky-mse-hub/sets/F2HU-files/img/125_Leaf Ponders the Flower_back.png"
+					"en": "https://ricky-mse-hub/sets/F2HU-files/img/127_Leaf Ponders the Flower_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/125_Leaf Ponders the Flower_front.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/127_Leaf Ponders the Flower_front.png"
 			}
 		},
 		{
@@ -509,9 +509,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Illusion",
-			"collector_number": "127",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/127_Munomoto, Bud of Lost Dreams.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/129_Munomoto, Bud of Lost Dreams.png"
 			}
 		},
 		{
@@ -519,9 +519,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "117",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/117_Eight Million Gods.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/119_Eight Million Gods.png"
 			}
 		},
 		{
@@ -529,9 +529,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "130",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/130_Oxas, Fairy of Clovers.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/132_Oxas, Fairy of Clovers.png"
 			}
 		},
 		{
@@ -539,9 +539,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "132",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/132_Rebirth of Dreams.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/134_Rebirth of Dreams.png"
 			}
 		},
 		{
@@ -549,9 +549,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "138",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/138_Withered Bounty.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/140_Withered Bounty.png"
 			}
 		},
 		{
@@ -559,9 +559,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Homunculus",
-			"collector_number": "140",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/140_Ai Hinoide, Perfect Human.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/142_Ai Hinoide, Perfect Human.png"
 			}
 		},
 		{
@@ -569,9 +569,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Elder Horror God",
-			"collector_number": "144",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/144_Ayame, Essence of Chaos.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/146_Ayame, Essence of Chaos.png"
 			}
 		},
 		{
@@ -579,9 +579,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Demon God",
-			"collector_number": "149",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/149_Cindy Plum, Rakshasa.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/151_Cindy Plum, Rakshasa.png"
 			}
 		},
 		{
@@ -589,9 +589,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "150",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/150_Cisa Perlach Augusta.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/152_Cisa Perlach Augusta.png"
 			}
 		},
 		{
@@ -599,9 +599,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "152",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/152_Eléonore, Alligator's Bite.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/155_Eléonore, Alligator's Bite.png"
 			}
 		},
 		{
@@ -609,9 +609,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Elf Faerie",
-			"collector_number": "153",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/153_Elfin Mint.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/156_Elfin Mint.png"
 			}
 		},
 		{
@@ -619,9 +619,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "156",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/156_Feza, Blessed Pathfinder.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/159_Feza, Blessed Pathfinder.png"
 			}
 		},
 		{
@@ -629,9 +629,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "157",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/157_Fuma Mishandra.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/160_Fuma Mishandra.png"
 			}
 		},
 		{
@@ -639,9 +639,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Youkai Wizard",
-			"collector_number": "158",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/158_Hazuki, Onmyouji.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/161_Hazuki, Onmyouji.png"
 			}
 		},
 		{
@@ -649,9 +649,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "160",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/160_Horou, Crested Ibis.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/163_Horou, Crested Ibis.png"
 			}
 		},
 		{
@@ -659,9 +659,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Spirit Advisor",
-			"collector_number": "165",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/165_Kazuha, Compiler of Waka.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/168_Kazuha, Compiler of Waka.png"
 			}
 		},
 		{
@@ -669,9 +669,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "166",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/166_Lamis Corrosa.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/169_Lamis Corrosa.png"
 			}
 		},
 		{
@@ -679,9 +679,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Youkai Bard",
-			"collector_number": "170",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/170_Lovia Joutsela, Hiisi.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/172_Lovia Joutsela, Hiisi.png"
 			}
 		},
 		{
@@ -689,9 +689,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Youkai Turtle",
-			"collector_number": "174",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/174_Mitori, the Crimson Grudge.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/176_Mitori, the Crimson Grudge.png"
 			}
 		},
 		{
@@ -699,9 +699,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "177",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/177_Mizuho, Onmyouji.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/179_Mizuho, Onmyouji.png"
 			}
 		},
 		{
@@ -709,9 +709,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "182",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/182_Ophelia, the Writer.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/184_Ophelia, the Writer.png"
 			}
 		},
 		{
@@ -719,9 +719,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "184",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/184_Pale Fanhead, Fan Enjoyer.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/186_Pale Fanhead, Fan Enjoyer.png"
 			}
 		},
 		{
@@ -729,9 +729,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "185",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/185_Phantasm Paradise.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/187_Phantasm Paradise.png"
 			}
 		},
 		{
@@ -739,9 +739,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Hero Knight",
-			"collector_number": "192",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/192_Shirogane, Bravehearted.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/194_Shirogane, Bravehearted.png"
 			}
 		},
 		{
@@ -749,9 +749,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Demon God",
-			"collector_number": "196",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/196_Shuuu, God of Weapons.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/198_Shuuu, God of Weapons.png"
 			}
 		},
 		{
@@ -759,9 +759,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Legendary Creature — Spirit Advisor",
-			"collector_number": "197",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/197_Taeyori, the Leader.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/199_Taeyori, the Leader.png"
 			}
 		},
 		{
@@ -769,9 +769,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "202",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/202_Tenxka Shin.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/204_Tenxka Shin.png"
 			}
 		},
 		{
@@ -779,9 +779,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "206",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/206_Touko, Harvest God.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/209_Touko, Harvest God.png"
 			}
 		},
 		{
@@ -789,9 +789,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "207",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/207_Ummu, Antediluvian.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/210_Ummu, Antediluvian.png"
 			}
 		},
 		{
@@ -799,9 +799,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "209",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/209_Yanduo, Dance of Fabric.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/213_Yanduo, Dance of Fabric.png"
 			}
 		},
 		{
@@ -809,9 +809,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Youkai Plant",
-			"collector_number": "211",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/211_Yukiko, Heart of the Swarm.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/215_Yukiko, Heart of the Swarm.png"
 			}
 		},
 		{
@@ -819,9 +819,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "213",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/213_Marry Shepherd.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/217_Marry Shepherd.png"
 			}
 		},
 		{
@@ -829,9 +829,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "214",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/214_Mystia, Daystruck.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/218_Mystia, Daystruck.png"
 			}
 		},
 		{
@@ -839,9 +839,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}",
 			"type": "Legendary Creature — God",
-			"collector_number": "215",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/215_Nebet Tefet.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/219_Nebet Tefet.png"
 			}
 		},
 		{
@@ -849,9 +849,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "218",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/218_Chirper Phone.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/222_Chirper Phone.png"
 			}
 		},
 		{
@@ -859,9 +859,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "223",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/223_The Great Ark.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/227_The Great Ark.png"
 			}
 		},
 		{
@@ -869,9 +869,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment Treasure",
-			"collector_number": "228",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/228_Treasure Lantern.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/232_Treasure Lantern.png"
 			}
 		},
 		{
@@ -1029,9 +1029,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "87",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/87_Amanozako, Crimson Tyrant.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/89_Amanozako, Crimson Tyrant.png"
 			}
 		},
 		{
@@ -1039,9 +1039,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "224",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/224_Ibis Feather.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/228_Ibis Feather.png"
 			}
 		},
 		{
@@ -1059,9 +1059,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Spirit Wizard",
-			"collector_number": "147",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/147_Chieka, the Artist.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/149_Chieka, the Artist.png"
 			}
 		},
 		{
@@ -1069,9 +1069,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "126",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/126_Mihana, Princess of Greenery.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/128_Mihana, Princess of Greenery.png"
 			}
 		},
 		{
@@ -1079,9 +1079,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "148",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/148_Choo-Eunae, Snake's Bite.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/150_Choo-Eunae, Snake's Bite.png"
 			}
 		},
 		{
@@ -1089,9 +1089,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior",
-			"collector_number": "191",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/191_Saraka, Fallen Angel.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/193_Saraka, Fallen Angel.png"
 			}
 		},
 		{
@@ -1099,9 +1099,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "72",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/72_Masahi, the Carefree Princess.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/74_Masahi, the Carefree Princess.png"
 			}
 		},
 		{
@@ -1109,9 +1109,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "200",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/200_Tenmu Suitokuin, Daitengu.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/202_Tenmu Suitokuin, Daitengu.png"
 			}
 		},
 		{
@@ -1119,9 +1119,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Legendary Creature — Youkai Elemental",
-			"collector_number": "230",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/230_Douraku Kazane, Colorless Tone.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/234_Douraku Kazane, Colorless Tone.png"
 			}
 		},
 		{
@@ -1129,9 +1129,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Wizard",
-			"collector_number": "88",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/88_Annika A.T.B von Hohenheim.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/90_Annika A.T.B von Hohenheim.png"
 			}
 		},
 		{
@@ -1159,9 +1159,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — God",
-			"collector_number": "201",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/201_Tensei, the Star God.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/203_Tensei, the Star God.png"
 			}
 		},
 		{
@@ -1179,9 +1179,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Plant Spirit",
-			"collector_number": "135",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/135_Seiryuu, Willow Spirit.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/137_Seiryuu, Willow Spirit.png"
 			}
 		},
 		{
@@ -1189,9 +1189,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Nightmare",
-			"collector_number": "76",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/76_Musaraku, Source of Nightmares.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/78_Musaraku, Source of Nightmares.png"
 			}
 		},
 		{
@@ -1217,11 +1217,11 @@
 		{
 			"name": "Lethal Entertainment",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "168",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/168_Lethal Entertainment.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/71_Lethal Entertainment.png"
 			}
 		},
 		{
@@ -1239,9 +1239,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "113",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/113_An Addendum to the Past.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/115_An Addendum to the Past.png"
 			}
 		},
 		{
@@ -1259,9 +1259,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Demon Spirit",
-			"collector_number": "112",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/112_Yomimi, Ultimate Phantom.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/114_Yomimi, Ultimate Phantom.png"
 			}
 		},
 		{
@@ -1299,9 +1299,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/116_Birds Return at Dusk.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/118_Birds Return at Dusk.png"
 			}
 		},
 		{
@@ -1309,9 +1309,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Vampire",
-			"collector_number": "90",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/90_Corin Charite.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/92_Corin Charite.png"
 			}
 		},
 		{
@@ -1319,9 +1319,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Horror Scout",
-			"collector_number": "146",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/146_Cathu, Dreaming Herald.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/148_Cathu, Dreaming Herald.png"
 			}
 		},
 		{
@@ -1339,9 +1339,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/136_Sunrise Moon Viewing.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/138_Sunrise Moon Viewing.png"
 			}
 		},
 		{
@@ -1349,9 +1349,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "91",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/91_Everyone's Everlasting Danmaku.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/93_Everyone's Everlasting Danmaku.png"
 			}
 		},
 		{
@@ -1369,9 +1369,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Youkai Rabbit Rogue",
-			"collector_number": "167",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/167_Lepus Timidys Snowy.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/170_Lepus Timidys Snowy.png"
 			}
 		},
 		{
@@ -1379,9 +1379,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "199",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/199_Tarumi, World Yamataizer.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/201_Tarumi, World Yamataizer.png"
 			}
 		},
 		{
@@ -1389,9 +1389,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "219",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/219_The Divine Jewel.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/223_The Divine Jewel.png"
 			}
 		},
 		{
@@ -1399,9 +1399,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "220",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/220_The Divine Mirror.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/224_The Divine Mirror.png"
 			}
 		},
 		{
@@ -1409,9 +1409,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "221",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/221_The Divine Sword.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/225_The Divine Sword.png"
 			}
 		},
 		{
@@ -1419,9 +1419,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Mystic Noble",
-			"collector_number": "139",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/139_Yamatoyo no Momohime.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/141_Yamatoyo no Momohime.png"
 			}
 		},
 		{
@@ -1429,9 +1429,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "118",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/118_Fabritis and Iphonea.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/120_Fabritis and Iphonea.png"
 			}
 		},
 		{
@@ -1439,9 +1439,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Artifact Creature — Doll",
-			"collector_number": "73",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/73_Medicine, Queen of Dolls.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/75_Medicine, Queen of Dolls.png"
 			}
 		},
 		{
@@ -1449,9 +1449,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "86",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/86_Unrepentant Mantra.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/88_Unrepentant Mantra.png"
 			}
 		},
 		{
@@ -1459,9 +1459,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "100",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/100_Megumu, Newborn Dragon.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/102_Megumu, Newborn Dragon.png"
 			}
 		},
 		{
@@ -1469,9 +1469,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Youkai Plant",
-			"collector_number": "137",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/137_Valloside, Pure Suzuran.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/139_Valloside, Pure Suzuran.png"
 			}
 		},
 		{
@@ -1479,9 +1479,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Youkai Deer",
-			"collector_number": "133",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/133_Ruka, Fawn Spirit.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/135_Ruka, Fawn Spirit.png"
 			}
 		},
 		{
@@ -1489,9 +1489,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Demon God",
-			"collector_number": "99",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/99_Mayonaka, the Kishin.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/101_Mayonaka, the Kishin.png"
 			}
 		},
 		{
@@ -1519,9 +1519,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "187",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/187_Reimu, the Final Dream.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/189_Reimu, the Final Dream.png"
 			}
 		},
 		{
@@ -1539,9 +1539,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Legendary Creature — Elder Youkai",
-			"collector_number": "129",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/129_Noah, Sugar-Spun.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/131_Noah, Sugar-Spun.png"
 			}
 		},
 		{
@@ -1549,9 +1549,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "109",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/109_Theophilia, the Mad Host.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/111_Theophilia, the Mad Host.png"
 			}
 		},
 		{
@@ -1559,9 +1559,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/121_Horizon Sign.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/123_Horizon Sign.png"
 			}
 		},
 		{
@@ -1569,9 +1569,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "96",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/96_Kousen, Drought Deity.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/98_Kousen, Drought Deity.png"
 			}
 		},
 		{
@@ -1579,9 +1579,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "227",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/227_Nomi no Hanie.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/231_Nomi no Hanie.png"
 			}
 		},
 		{
@@ -1589,9 +1589,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "180",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/180_Nijie of Earthly Amusements.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/182_Nijie of Earthly Amusements.png"
 			}
 		},
 		{
@@ -1599,9 +1599,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "222",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/222_Emerald Tablet.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/226_Emerald Tablet.png"
 			}
 		},
 		{
@@ -1609,9 +1609,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact",
-			"collector_number": "225",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/225_The Lesser Key of Solomon.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/229_The Lesser Key of Solomon.png"
 			}
 		},
 		{
@@ -1639,9 +1639,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/92_Fog Sign.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/94_Fog Sign.png"
 			}
 		},
 		{
@@ -1649,9 +1649,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "79",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/79_Nue Sign.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/81_Nue Sign.png"
 			}
 		},
 		{
@@ -1659,9 +1659,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "142",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/142_Aoi, Creator Deity.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/144_Aoi, Creator Deity.png"
 			}
 		},
 		{
@@ -1669,9 +1669,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "123",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/123_Kiseki, the Pruning Saw.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/125_Kiseki, the Pruning Saw.png"
 			}
 		},
 		{
@@ -1699,9 +1699,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/120_High-Angle Shot.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/122_High-Angle Shot.png"
 			}
 		},
 		{
@@ -1719,9 +1719,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "205",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/205_Tokuko, Divine Swordbearer.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/208_Tokuko, Divine Swordbearer.png"
 			}
 		},
 		{
@@ -1729,9 +1729,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Bird Youkai Ninja",
-			"collector_number": "204",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/204_Tobiko, Cunning Reporter.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/207_Tobiko, Cunning Reporter.png"
 			}
 		},
 		{
@@ -1739,9 +1739,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "159",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/159_Hideka, Queen of Dragons.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/162_Hideka, Queen of Dragons.png"
 			}
 		},
 		{
@@ -1759,9 +1759,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "195",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/195_Shushu, Igniter of Night Skies.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/197_Shushu, Igniter of Night Skies.png"
 			}
 		},
 		{
@@ -1769,9 +1769,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "102",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/102_Mitama, Vengeful Spirit.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/104_Mitama, Vengeful Spirit.png"
 			}
 		},
 		{
@@ -1779,9 +1779,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Youkai Eel Bard",
-			"collector_number": "101",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/101_Mirei, Deep-Sea Symphonist.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/103_Mirei, Deep-Sea Symphonist.png"
 			}
 		},
 		{
@@ -1799,9 +1799,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "194",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/194_Shizuka, the Transient Elegance.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/196_Shizuka, the Transient Elegance.png"
 			}
 		},
 		{
@@ -1809,9 +1809,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "151",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/151_Ei, the Eternal Stillness.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/154_Ei, the Eternal Stillness.png"
 			}
 		},
 		{
@@ -1819,9 +1819,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "186",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/186_Rachel, Unstable Scientist.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/188_Rachel, Unstable Scientist.png"
 			}
 		},
 		{
@@ -1829,9 +1829,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Fox Youkai",
-			"collector_number": "77",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/77_Nezu, Wicked Kitsune.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/79_Nezu, Wicked Kitsune.png"
 			}
 		},
 		{
@@ -1859,9 +1859,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "178",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/178_Mizukami, Aqua Seraph.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/180_Mizukami, Aqua Seraph.png"
 			}
 		},
 		{
@@ -1869,9 +1869,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W/B}{W/B}",
 			"type": "Sorcery",
-			"collector_number": "217",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/217_World's End Testament.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/221_World's End Testament.png"
 			}
 		},
 		{
@@ -1879,9 +1879,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "175",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/175_Miyako, Lamp of Life.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/177_Miyako, Lamp of Life.png"
 			}
 		},
 		{
@@ -1889,9 +1889,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "169",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/169_Lily White, Fairy Imperator.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/171_Lily White, Fairy Imperator.png"
 			}
 		},
 		{
@@ -1899,9 +1899,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/105_Rebellion God Force.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/107_Rebellion God Force.png"
 			}
 		},
 		{
@@ -1909,9 +1909,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Plant Youkai",
-			"collector_number": "114",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/114_An, Kodama of Tobiume.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/116_An, Kodama of Tobiume.png"
 			}
 		},
 		{
@@ -1919,9 +1919,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "75",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/75_Mumumu, the Morning Star.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/77_Mumumu, the Morning Star.png"
 			}
 		},
 		{
@@ -1929,9 +1929,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}{G}",
 			"type": "Legendary Creature — Youkai Mystic",
-			"collector_number": "128",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/128_Nanahiyakumi, Song Saint.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/130_Nanahiyakumi, Song Saint.png"
 			}
 		},
 		{
@@ -1939,9 +1939,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "161",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/161_Inasa, Warring Celestial.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/164_Inasa, Warring Celestial.png"
 			}
 		},
 		{
@@ -1949,9 +1949,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "110",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/110_Traitor's Requiem.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/112_Traitor's Requiem.png"
 			}
 		},
 		{
@@ -1969,9 +1969,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Avatar Spirit",
-			"collector_number": "190",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/190_Ruine, Discarded Data.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/192_Ruine, Discarded Data.png"
 			}
 		},
 		{
@@ -1989,9 +1989,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Kirin Spirit",
-			"collector_number": "189",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/189_Rin Satsuki, Protagonist.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/191_Rin Satsuki, Protagonist.png"
 			}
 		},
 		{
@@ -1999,9 +1999,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "179",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/179_Muu, Tragedy Princess.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/181_Muu, Tragedy Princess.png"
 			}
 		},
 		{
@@ -2009,9 +2009,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Wizard Scientist",
-			"collector_number": "193",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/193_Shizuka, Dissector of Fairies.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/195_Shizuka, Dissector of Fairies.png"
 			}
 		},
 		{
@@ -2039,9 +2039,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "198",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/198_Tamako Sant'Angelo.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/200_Tamako Sant'Angelo.png"
 			}
 		},
 		{
@@ -2249,9 +2249,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "162",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/162_Jagiko, Witch of Scrolls.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/165_Jagiko, Witch of Scrolls.png"
 			}
 		},
 		{
@@ -2269,9 +2269,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Youkai Otter",
-			"collector_number": "164",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/164_Kawauso, Funnel of Desire.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/167_Kawauso, Funnel of Desire.png"
 			}
 		},
 		{
@@ -2279,9 +2279,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Merfolk",
-			"collector_number": "141",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/141_Akaste, Shark's Bite.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/143_Akaste, Shark's Bite.png"
 			}
 		},
 		{
@@ -2299,9 +2299,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Werewolf",
-			"collector_number": "171",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/171_Lycaropia Hearn.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/173_Lycaropia Hearn.png"
 			}
 		},
 		{
@@ -2319,9 +2319,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Vampire",
-			"collector_number": "84",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/84_Sonia von Auersperg.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/86_Sonia von Auersperg.png"
 			}
 		},
 		{
@@ -2329,9 +2329,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "208",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/208_Yakari, Bridger of Realms.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/212_Yakari, Bridger of Realms.png"
 			}
 		},
 		{
@@ -2339,9 +2339,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Horror",
-			"collector_number": "93",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/93_Hasuta, the Blinding Royal.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/95_Hasuta, the Blinding Royal.png"
 			}
 		},
 		{
@@ -2369,9 +2369,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "154",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/154_Elly, the Immutable Truth.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/157_Elly, the Immutable Truth.png"
 			}
 		},
 		{
@@ -2379,9 +2379,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Insect Youkai",
-			"collector_number": "134",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/134_Scuttle Nightbug.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/136_Scuttle Nightbug.png"
 			}
 		},
 		{
@@ -2389,9 +2389,9 @@
 			"rarity": "common",
 			"mana_cost": "{W/U}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "212",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/212_Azure Swirl.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/216_Azure Swirl.png"
 			}
 		},
 		{
@@ -2399,9 +2399,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/131_Princess's Wish.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/133_Princess's Wish.png"
 			}
 		},
 		{
@@ -2419,9 +2419,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "145",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/145_Banka, Tiny Ancient Legacy.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/147_Banka, Tiny Ancient Legacy.png"
 			}
 		},
 		{
@@ -2439,9 +2439,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{B}{R}",
 			"type": "Legendary Planeswalker — Yukari",
-			"collector_number": "210",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/210_Yukari, Terrifying Enigma.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/214_Yukari, Terrifying Enigma.png"
 			}
 		},
 		{
@@ -2449,9 +2449,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Planeswalker — Theone",
-			"collector_number": "203",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/203_Theone Phillips.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/205_Theone Phillips.png"
 			}
 		},
 		{
@@ -2469,9 +2469,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Bird Youkai",
-			"collector_number": "181",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/181_Omote, Information Uploader.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/183_Omote, Information Uploader.png"
 			}
 		},
 		{
@@ -2479,9 +2479,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Planeswalker — Reverence",
-			"collector_number": "188",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/188_Reverence U'n-Llisardggy.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/190_Reverence U'n-Llisardggy.png"
 			}
 		},
 		{
@@ -2489,9 +2489,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "229",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/229_Deep Mutating Cavern.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/233_Deep Mutating Cavern.png"
 			}
 		},
 		{
@@ -2499,9 +2499,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "155",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/155_Erica Leroux, Grand Maestro.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/158_Erica Leroux, Grand Maestro.png"
 			}
 		},
 		{
@@ -2509,9 +2509,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B/G}",
 			"type": "Enchantment",
-			"collector_number": "216",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/216_The Shadow Over Gensokyo.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/220_The Shadow Over Gensokyo.png"
 			}
 		},
 		{
@@ -2519,9 +2519,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "226",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/226_Map Orb.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/230_Map Orb.png"
 			}
 		},
 		{
@@ -2549,9 +2549,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "94",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/94_Instant Brilliant Night.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/96_Instant Brilliant Night.png"
 			}
 		},
 		{
@@ -2559,9 +2559,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "143",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/143_Awaji, Ruler of Nothingness.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/145_Awaji, Ruler of Nothingness.png"
 			}
 		},
 		{
@@ -2569,9 +2569,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "122",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/122_Ichiyou, Ninja Descendant.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/124_Ichiyou, Ninja Descendant.png"
 			}
 		},
 		{
@@ -2579,9 +2579,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "231",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/231_Orwell's Quarantined Utopia.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/235_Orwell's Quarantined Utopia.png"
 			}
 		},
 		{
@@ -2592,6 +2592,46 @@
 			"collector_number": "58",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/58_Yet Another Rain Incident.png"
+			}
+		},
+		{
+			"name": "Kikyou, Buried Legend",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Artifact Creature — Spirit",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/70_Kikyou, Buried Legend.png"
+			}
+		},
+		{
+			"name": "Drunken Sailor's Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/153_Drunken Sailor's Charm.png"
+			}
+		},
+		{
+			"name": "Tiny Buddha's Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/206_Tiny Buddha's Charm.png"
+			}
+		},
+		{
+			"name": "Vengeful Spirit's Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/211_Vengeful Spirit's Charm.png"
 			}
 		}
 	]
@@ -2717,6 +2757,7 @@
 	2 The Shadow Over Gensokyo
 	2 Awaji, Ruler of Nothingness
 	2 Orwell's Quarantined Utopia
+	2 Kikyou, Buried Legend
 [uncommon(3)]
 	4 Birds of a Feather
 	4 Fairy Contest
@@ -2771,6 +2812,9 @@
 	4 Deep Mutating Cavern
 	4 Instant Brilliant Night
 	4 Ichiyou, Ninja Descendant
+	4 Drunken Sailor's Charm
+	4 Tiny Buddha's Charm
+	4 Vengeful Spirit's Charm
 [common(7)]
 	8 Amanojaku's Folly
 	8 Chii, Toothpick Tsukumogami
@@ -3062,6 +3106,10 @@
 	6 Ichiyou, Ninja Descendant
 	2 Orwell's Quarantined Utopia
 	12 Yet Another Rain Incident
+	2 Kikyou, Buried Legend
+	6 Drunken Sailor's Charm
+	6 Tiny Buddha's Charm
+	6 Vengeful Spirit's Charm
 [wildcard(1)]
 	6 Amanojaku's Folly
 	15 Birds of a Feather
@@ -3294,3 +3342,7 @@
 	15 Ichiyou, Ninja Descendant
 	7 Orwell's Quarantined Utopia
 	6 Yet Another Rain Incident
+	7 Kikyou, Buried Legend
+	15 Drunken Sailor's Charm
+	15 Tiny Buddha's Charm
+	15 Vengeful Spirit's Charm
