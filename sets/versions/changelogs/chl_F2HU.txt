@@ -1,4 +1,123 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Elly, the Immutable Truth added.
+Scuttle Nightbug added.
+Azure Swirl added.
+Princess's Wish added.
+Star Independence Day added.
+Banka, Tiny Ancient Legacy added.
+Consonica, the Grand added.
+Yukari, Terrifying Enigma added.
+Theone Phillips added.
+Aiguillon Gifttaenzer added.
+Omote, Information Uploader added.
+Deep Mutating Cavern added.
+Erica Leroux, Grand Maestro added.
+The Shadow Over Gensokyo added.
+Map Orb added.
+Aspect Shift added.
+Kusuko, False God added.
+Instant Brilliant Night added.
+Awaji, Ruler of Nothingness added.
+Ichiyou, Ninja Descendant added.
+Orwell's Quarantined Utopia added.
+Yet Another Rain Incident added.
+
+Memento Forest removed.
+Ammolite Light removed.
+Far-East El Dorado removed.
+Hollow Mansion removed.
+Rainy Torifune Shrine removed.
+Cave Leading to Somewhere removed.
+
+Janet Arc'Angelo
+rules_text: Flying
+When Janet Arc'Angelo enters, you may search your library for an Angel card that doesn't share a name with a creature you control, reveal it, then shuffle and put that card on top.
+Angel spells you cast cost {1} less to cast. => Flying
+Angel spells you cast cost {1} less to cast.
+When Janet Arc'Angelo enters, look at the top five cards of your library. You may reveal a card with mana value four or greater from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+General Set
+rules_text: Emerge from artifact {4}{B} [i](You may cast this spell by sacrificing an artifact and paying the emerge cost reduced by that artifact's mana value.)[/i]
+Menace
+You may cast this card from your graveyard using its emerge ability. => Emerge from artifact {4}{B} [i](You may cast this spell by sacrificing an artifact and paying the emerge cost reduced by that artifact's mana value.)[/i]
+Menace
+[i]Acting While in Pieces[/i] — You may cast this card from your graveyard using its emerge ability.
+
+Ai Hinoide, Perfect Human
+rules_text: Ai Hinoide enters with a +1/+1 on it for each mana from a nonland source spent to cast it.
+[i]Dream of Humanity[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast it, you draw three cards and gain 3 life. => Ai Hinoide enters with a +1/+1 on it for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast it, you draw three cards and gain 3 life.
+
+Ayame, Essence of Chaos
+rules_text: [i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy all other permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles.
+Ayame can't attack unless there are six or more card types among cards in your graveyard. => [i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy target permanent. If there are six or more card types, instead destroy all permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles.
+
+Hikariko Aosagi
+rules_text: Flying
+Whenever Hikariko becomes the target of a spell or ability, return Hikariko to its owner's hand, then discard a card. => Flash
+Flying
+Whenever Hikariko becomes the target of a spell or ability, you may return Hikariko to its owner's hand. If you do, discard a card.
+pt: 2/1 => 1/1
+
+Nua, Captain of the Ark
+rules_text: Play with the top card of your library revealed.
+You may play cards from the top of your library with mana value less than or equal to the greatest power among creatures you attacked with this turn.
+Nua crews Vehicles as though its power were X greater, where X is the mana value of the top card of your library. => Nua crews Vehicles as though its power were 2 greater.
+Whenever Nua becomes tapped, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+[i]Landfall[/i] — Whenever a land enters under your control, untap Nua.
+
+Philippa A.T.B. von Hohenheim
+rules_text: Prowess
+[i]Dream of Dr. Jaldabaoth[/i] — Once each turn, you may pay {0} rather than pay the mana cost for a creature spell you cast with mana value X or less, where X is this creature's power. => Prowess
+[i]Tria Prima[/i] — Once each turn, you may pay {0} rather than pay the mana cost for a creature spell you cast with mana value X or less, where X is this creature's power.
+
+Bubble Universe
+rules_text: Whenever you cast a noncreature spell, exile the top card of your library.
+Whenever this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs. => At the beginning of your upkeep, exile the top card of your library.
+When this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.
+
+Shekle, Snowflake Fairy
+cost: {WU} => {U}
+
+Lepus Timidys Snowy
+rules_text: Whenever Snowy attacks, gain control of target nonland permanent defending player controls until the end of your next turn unless that player has you create a Treasure token.
+[i]Snow Concealment[/i] — {U}, Sacrifice an artifact: Return Snowy to its owner's hand.
+[i]C40H56 Homing Missile[/i] — {R}, Sacrifice an artifact: Snowy deals 2 damage to any target. => Whenever Snowy attacks, create a Treasure token.
+[i]Snow Concealment[/i] — {U}, Sacrifice an artifact: Return Snowy to its owner's hand.
+[i]C40H56 Homing Missile[/i] — {R}, Sacrifice an artifact: Snowy deals 2 damage to any target.
+
+Medicine, Queen of Dolls
+rules_text: Deathtouch
+At the beginning of your end step, choose one—
+• Create a 1/1 colorless Doll artifact creature token.
+• Return target Doll creature card from your graveyard to the battlefield.
+• Return target creature card from your graveyard to the battlefield if its mana value is less than or equal to the number of Dolls you control. => Deathtouch
+At the beginning of your end step, choose one—
+• Create a 1/1 colorless Doll artifact creature token.
+• Return target creature card from your graveyard to the battlefield if its mana value is less than or equal to the number of Dolls you control.
+
+Senkiusei, the Supernova
+rules_text: Vigilance
+Whenever Senkiusei enters or attacks, create a 1/1 white Human creature token, then you gain 1 life for each creature you control. => Vigilance
+Whenever Senkiusei enters or attacks, create a 1/1 white Human creature token. Your opponents can't cast spells this turn.
+
+Reverence U'n-Llisardggy
+type: Legendary Creature — Elder God => Planeswalker — Reverence
+cost: {3}{U}{R} => {2}{W}{U}{B}
+rules_text: Whenever Reverence enters or attacks, create a blue enchantment token named Bubble Universe with “Whenever you cast a noncreature spell, exile the top card of your library.” and “When this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.”
+When Reverence leaves the battlefield, return all enchantments to their owner's hands. => [+2]: Create a blue enchantment token named Bubble Universe with “At the beginning of your upkeep, exile the top card of your library.” and “When this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.”
+[+1]: Return a permanent you control to its owner's hand.
+[-4]: Choose a creature. Return all other nonland permanents to their owner's hands.
+pt: 2/5 => 
+special_text:  => [+2]: Create a blue enchantment token named Bubble Universe with “At the beginning of your upkeep, exile the top card of your library.” and “When this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.”
+[+1]: Return a permanent you control to its owner's hand.
+[-4]: Choose a creature. Return all other nonland permanents to their owner's hands.
+loyalty:  => 5
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Dangerous Curiosity added.
