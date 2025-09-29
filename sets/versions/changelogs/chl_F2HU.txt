@@ -1,4 +1,58 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Homura, Blacksmith of Living Flame added.
+Mitsuru, Formless Thunder God added.
+Toyomi, Former Sea Queen added.
+Poetry Immortal's Charm added.
+Winter Spirit's Charm added.
+Seiko, Spirited Away added.
+Hanezu, Definer of Fantasy added.
+Mysterious Festival added.
+
+
+Ayame, Essence of Chaos
+rules_text: [i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy target permanent. If there are six or more card types, instead destroy all permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles. => [i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy target permanent. If there are six or more card types, instead destroy all other permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles.
+
+Reverence U'n-Llisardggy
+type: Planeswalker — Reverence => Legendary Planeswalker — Reverence
+rules_text: [+2]: Create a blue enchantment token named Bubble Universe with “At the beginning of your upkeep, exile the top card of your library.” and “When this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.”
+[+1]: Return a permanent you control to its owner's hand.
+[-4]: Choose a creature. Return all other nonland permanents to their owner's hands. => [+1]: Create a blue enchantment token named Bubble Universe with “At the beginning of your upkeep, exile the top card of your library.” and “When this leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.”
+[+1]: Draw two cards, then put a card from your hand on top of your library.
+[-4]: Choose a creature. Return all other nonland permanents to their owner's hands.
+special_text: [+2]: Create a blue enchantment token named Bubble Universe with “At the beginning of your upkeep, exile the top card of your library.” and “When this enchantment leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.”
+[+1]: Return a permanent you control to its owner's hand.
+[-4]: Choose a creature. Return all other nonland permanents to their owner's hands. => [+1]: Create a blue enchantment token named Bubble Universe with “At the beginning of your upkeep, exile the top card of your library.” and “When this leaves the battlefield, you may play any number of cards exiled by it without paying their mana costs.”
+[+1]: Draw two cards, then put a card from your hand on top of your library.
+[-4]: Choose a creature. Return all other nonland permanents to their owner's hands.
+loyalty: 5 => 4
+
+Ichiyou, Ninja Descendant
+rules_text: Ninjutsu {2}{G} [i]({2}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Ichiyou enters or attacks, you may return a nonland permanent you control to its owner's hand. When you do, target creature gets +2/+2 until end of turn and must be blocked this turn if able. => Ninjutsu {2}{G} [i]({2}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Ichiyou enters or attacks, you may return a nonland permanent you control to its owner's hand. When you do, target creature gets +2/+2 until end of turn.
+
+Tiny Buddha's Charm
+rules_text: Choose one —
+• Your opponents can't cast spells this turn.
+• Put a +1/+1 counter on up to three target creatures.
+• You gain 5 life. => Choose one —
+• Your opponents can't cast spells or activate non-mana abilities this turn.
+• Put a +1/+1 counter on up to three target creatures.
+• You gain 5 life.
+
+Vengeful Spirit's Charm
+rules_text: Choose one —
+• Return target creature card from your graveyard to your hand.
+• Target creature gets -1/-1 until end of turn for each card in your graveyard.
+• Destroy target artifact. Its controller draws a card. Draw a card. => Choose one —
+• Return target creature card from your graveyard to your hand.
+• Target creature gets -1/-1 for each creature card in your graveyard.
+• Destroy target artifact. Its controller draws a card. Draw a card.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Kikyou, Buried Legend added.
