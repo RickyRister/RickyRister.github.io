@@ -1,4 +1,58 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Dancing Plague added.
+Akira, Jazzy Detective added.
+Ayaka, Newborn Bass added.
+Mitsuki and Mashu added.
+Ceramic Graveyard added.
+
+
+Amanojaku's Folly
+cost: {1}{W} => {W}
+
+Janet Arc'Angelo
+rules_text: Flying
+Angel spells you cast cost {1} less to cast.
+When Janet Arc'Angelo enters, look at the top five cards of your library. You may reveal a card with mana value four or greater from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Flying
+When Janet Arc'Angelo enters, harmonize. [i](Trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Look at the top five cards of your library. You may reveal a card with mana value four or greater from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Angel spells you cast cost {1} less to cast.
+
+Luciana Abatangelo
+rules_text: Flying, vigilance
+When Luciana enters, create a colorless Saga enchantment token with “r{3}—At the beginning of the next end step, destroy all creatures.” Then harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — You may put a lore counter on a Saga you control or remove one from it. => Flying, vigilance
+When Luciana enters, create a colorless Saga enchantment token with “r{3}—At the beginning of the next end step, destroy all creatures”.
+Whenever Luciana attacks, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — You may put a lore counter on a Saga you control or remove one from it.
+
+Nanahiyakumi, Song Saint
+rules_text: Whenever Nanahiyakumi enters or attacks, create your choice of a Food token or Clue token.
+Whenever you sacrifice an artifact token, Nanahiyakumi gets +1/+1 until end of turn. If you sacrificed a Food, scry 1. If you sacrificed a Clue, you gain 2 life. => Whenever Nanahiyakumi enters or attacks, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Create your choice of a Food token or Clue token.
+Whenever you sacrifice an artifact, put a +1/+1 counter on target creature.
+
+Akiwaza, Crossroads God
+type: Legendary Creature — God Bard => Legendary Creature — God
+
+Scuttle Nightbug
+
+Erica Leroux, Grand Maestro
+
+Aspect Shift
+cost: {1}{W} => {X}{W}
+rules_text: Target nonland permanent phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Draw a card. => X target nonland permanents phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Draw a card.
+
+The Grand Theatre
+
+Geo-Poetry
+cost: {R}{G} => {1}{RG}
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Clamor of the Festival added.
