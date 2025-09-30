@@ -1,4 +1,105 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Clamor of the Festival added.
+Null Recreator added.
+The Dreamyard added.
+The Grand Theatre added.
+Geo-Poetry added.
+
+
+Luciana Abatangelo
+rules_text: Flying, vigilance
+When Luciana enters, create a colorless Saga enchantment token with “r{3}—At the beginning of the next end step, destroy all creatures”.
+Whenever Luciana attacks, you may put a lore counter on target Saga you control or remove one from it. => Flying, vigilance
+When Luciana enters, create a colorless Saga enchantment token with “r{3}—At the beginning of the next end step, destroy all creatures.” Then harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — You may put a lore counter on a Saga you control or remove one from it.
+
+Lokhens, Blind Night Raven
+type: Legendary Creature — Youkai Bird => Legendary Creature — Youkai Bird Bard
+rules_text: Flying, haste
+Lokhens gets +1/+1 as long as you discarded a card this turn, gets +1/+1 as long as you sacrificed a nonland permanent this turn, and gets +1/+1 as long as you lost life this turn. => Flying, haste
+Whenever Lokhens attacks, if you lost life, discarded a card, or sacrificed a nonland permanent this turn, harmonize. Then if you did all three, harmonize again. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Lokhens gets +2/+1 until end of turn.
+pt: 3/3 => 2/2
+
+Unane, the Composer
+rules_text: Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{2}, {T}: Return target card from your graveyard to your hand unless an opponent pays 3 life or discards a card. => Spirited [i](When this creature enters, you may activate one of its activated abilities without paying its cost.)[/i]
+{2}, {T}: Harmonize [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Return target card from your graveyard to your hand unless an opponent pays 2 life.
+
+Lovia Joutsela, Hiisi
+rules_text: As Lovia enters, choose a creature an opponent controls.
+[i]Mastermind of the Twisted Strings[/i] — You may exert Lovia as it attacks. When you do, gain control of the chosen creature until the end of your next turn. => As Lovia enters, choose a creature an opponent controls.
+You may exert Lovia as it attacks. When you do, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Gain control of the chosen creature until your next turn.
+
+Ophelia, the Writer
+type: Legendary Creature — Spirit Bard => Legendary Creature — Spirit Advisor
+
+Senkiusei, the Supernova
+rules_text: Vigilance
+Whenever Senkiusei enters or attacks, create a 1/1 white Human creature token. Your opponents can't cast spells this turn. => Vigilance
+Whenever Senkiusei enters or attacks, your opponents can't cast spells this turn. Harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i] 
+Harmony — Create a 1/1 white Human creature token.
+
+Mirei, Deep-Sea Symphonist
+rules_text: Mirei and other Youkai you control have Ward—Pay 3 life.
+[i]Rachmaninoff in the Deep[/i] — At the beginning of combat on your turn, you may discard a card. When you do, target creature gains haste until end of turn and target creature can't block this turn. => At the beginning of combat on your turn, you may discard a card. If you do, harmonize [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Target creature gains haste until end of turn and target creature can't block this turn.
+
+Nanahiyakumi, Song Saint
+type: Legendary Creature — Youkai Mystic => Legendary Creature — Youkai Mystic Bard
+
+Akaste, Shark's Bite
+type: Legendary Creature — Merfolk => Legendary Creature — Merfolk Bard
+rules_text: Ward—Pay 2 life
+Whenever you cast a noncreature spell, Akaste deals 1 damage to each opponent.
+Whenever an opponent loses life for the third time each turn, exile the top card of your library. Until the end of your next turn, you may play that card. => Whenever you cast a noncreature spell, Akaste deals 1 damage to each opponent.
+Whenever an opponent loses life for the third time each turn, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Exile the top card of your library. Until the end of your next turn, you may play that card.
+
+Akiwaza, Crossroads God
+type: Legendary Creature — God => Legendary Creature — God Bard
+
+Hasuta, the Blinding Royal
+rules_text: First strike
+When Hasuta enters, if it's not your main phase, it deals 5 damage to each non-Horror creature. Then if it was cast, create two 3/2 black Horror creature tokens. => First strike
+Whenever Hasuta enters or attacks, other Horrors you control get +2/+0 until end of turn.
+When Hasuta enters, if it's not your main phase, it deals 5 damage to each non-Horror creature.
+
+Yukari, Terrifying Enigma
+rules_text: [+2]: Until your next turn, target nonland permanent phases out. Its controller mills three cards.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield. => [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield.
+special_text: [+2]: Until your next turn, target nonland permanent phases out. Its controller mills three cards.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield. => [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield.
+
+Erica Leroux, Grand Maestro
+cost: {2}{U}{B}{R} => {2}{R}{W}{B}
+rules_text: Each other creature you control has this creature's activated abilities.
+{T}: You may exile a noncreature, nonland card from your hand or graveyard with mana value less than or equal to this creature's. If you do, cast a copy of it without paying its mana cost.
+{T}: Goad target creature with mana less than or equal to this creature's. => Each Bard you control has “{T}: Harmonize” [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+
+Orwell's Quarantined Utopia
+
+Mysterious Festival
+rules_text: As this land enters, choose a creature type.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
+{T}: Add one mana of any color. Only activate this ability if you control a creature of the chosen type. => As this land enters, choose a creature type.
+{T}: Add {C}
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
+{T}: Add one mana of any color. This mana can't be spent to cast a creature spell. Only activate this ability if you control a creature of the chosen type.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Homura, Blacksmith of Living Flame added.
