@@ -995,7 +995,7 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
-            "notes": "!tag original\n!//group original\n!tag other"
+            "notes": "!//group original\n!tag other"
         },
         {
             "card_name": "Oxas, Fairy of Clovers",
@@ -2374,7 +2374,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Mill four cards. Then put an instant, sorcery, or land card from among the milled cards into your hand.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The girl dug a trench in the earth and made a hole in the sky, from which seawater poured. As she gathered up rain clouds and caused massive cloudbursts, the sea became wider and deeper.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3313,7 +3313,7 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
-            "notes": "!tag original\n!//group original\n!tag other"
+            "notes": "!tag original\n!//group original\n!tag th18p\n!tag finalboss"
         },
         {
             "card_name": "Fujunryu",
@@ -4909,7 +4909,7 @@
             "loyalty": "",
             "artist": "\u3078\u3099\u3089\u307b\u3099\u3046",
             "alias": "",
-            "notes": "!tag ToUC\n!tag album\n!tag hifuu"
+            "notes": "!tag ToUC\n!tag hifuu"
         },
         {
             "card_name": "Yet Another Rain Incident",
@@ -5175,7 +5175,7 @@
             "loyalty": "",
             "artist": "\u306d\u308b\u305e\u3046",
             "alias": "",
-            "notes": "!tag HMoJ\n!tag album\n!tag hifuu"
+            "notes": "!tag HMoJ\n!tag hifuu"
         },
         {
             "card_name": "Null Recreator",
@@ -5251,7 +5251,7 @@
             "loyalty": "",
             "artist": "\u3086\u305f\u308d\u3046",
             "alias": "",
-            "notes": "!tag HoD\n!tag album\n!tag hifuu"
+            "notes": "!tag HoD\n!tag hifuu"
         },
         {
             "card_name": "Dancing Plague",
@@ -5270,7 +5270,7 @@
             "loyalty": "",
             "artist": "103anon",
             "alias": "",
-            "notes": "!tag EPA\n!tag album"
+            "notes": "!tag EPA\n!tag album\n!tag music"
         },
         {
             "card_name": "Akira, Jazzy Detective",
@@ -5368,5 +5368,5 @@
             "notes": "!tag FW\n!tag album\n!tag finalboss"
         }
     ],
-    "version": 17
+    "version": 18
 }

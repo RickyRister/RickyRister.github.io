@@ -1039,7 +1039,7 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
-            "notes": "!tag original\n!//group original\n!tag other",
+            "notes": "!//group original\n!tag other",
             "image_type": "png"
         },
         {
@@ -2491,7 +2491,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Mill four cards. Then put an instant, sorcery, or land card from among the milled cards into your hand.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The girl dug a trench in the earth and made a hole in the sky, from which seawater poured. As she gathered up rain clouds and caused massive cloudbursts, the sea became wider and deeper.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3479,7 +3479,7 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
-            "notes": "!tag original\n!//group original\n!tag other",
+            "notes": "!tag original\n!//group original\n!tag th18p\n!tag finalboss",
             "image_type": "png",
             "designer_notes": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/282W5WOrNpg?si=odMmvEv11yA1Vb2i\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
@@ -5160,7 +5160,7 @@
             "loyalty": "",
             "artist": "\u3078\u3099\u3089\u307b\u3099\u3046",
             "alias": "",
-            "notes": "!tag ToUC\n!tag album\n!tag hifuu",
+            "notes": "!tag ToUC\n!tag hifuu",
             "image_type": "png"
         },
         {
@@ -5440,7 +5440,7 @@
             "loyalty": "",
             "artist": "\u306d\u308b\u305e\u3046",
             "alias": "",
-            "notes": "!tag HMoJ\n!tag album\n!tag hifuu",
+            "notes": "!tag HMoJ\n!tag hifuu",
             "image_type": "png"
         },
         {
@@ -5520,7 +5520,7 @@
             "loyalty": "",
             "artist": "\u3086\u305f\u308d\u3046",
             "alias": "",
-            "notes": "!tag HoD\n!tag album\n!tag hifuu",
+            "notes": "!tag HoD\n!tag hifuu",
             "image_type": "png"
         },
         {
@@ -5540,7 +5540,7 @@
             "loyalty": "",
             "artist": "103anon",
             "alias": "",
-            "notes": "!tag EPA\n!tag album",
+            "notes": "!tag EPA\n!tag album\n!tag music",
             "image_type": "png"
         },
         {
