@@ -1,4 +1,16 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Mikoto, Tyrant Queen added.
+
+
+Erica Leroux, Grand Maestro
+rules_text: Each Bard you control has “{T}: Harmonize” [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => Tap an untapped Bard that you control: Harmonize. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Dancing Plague added.
