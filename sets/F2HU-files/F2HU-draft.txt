@@ -617,7 +617,7 @@
 		{
 			"name": "Feza, Blessed Pathfinder",
 			"rarity": "rare",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Youkai Bird",
 			"collector_number": "166",
 			"image_uris": {
@@ -727,7 +727,7 @@
 		{
 			"name": "Phantasm Paradise",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{U}",
+			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "197",
 			"image_uris": {
@@ -1117,7 +1117,7 @@
 		{
 			"name": "Douraku Kazane, Colorless Tone",
 			"rarity": "rare",
-			"mana_cost": "{1}",
+			"mana_cost": "{2}",
 			"type": "Legendary Creature — Youkai Elemental",
 			"collector_number": "250",
 			"image_uris": {
@@ -2308,7 +2308,7 @@
 			"name": "Akiwaza, Crossroads God",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — God",
+			"type": "Legendary Creature — God Bard",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/2_Akiwaza, Crossroads God.png"
@@ -2338,7 +2338,7 @@
 			"name": "Hasuta, the Blinding Royal",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
-			"type": "Legendary Creature — Horror",
+			"type": "Legendary Creature — Horror God",
 			"collector_number": "100",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/100_Hasuta, the Blinding Royal.png"

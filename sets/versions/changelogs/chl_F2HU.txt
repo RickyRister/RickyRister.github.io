@@ -1,4 +1,259 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Janet Arc'Angelo
+rules_text: Flying
+When Janet Arc'Angelo enters, harmonize. [i](Trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Look at the top five cards of your library. You may reveal a card with mana value four or greater from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Angel spells you cast cost {1} less to cast. => Flying
+When Janet enters, harmonize. [i](Trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Look at the top five cards of your library. You may reveal a card with mana value four or greater from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Angel spells you cast cost {1} less to cast.
+
+Mariko, the Downtrodden
+
+Meimei, the Wishing Doll
+rules_text: Whenever Meimei attacks, choose any number. Put a wish counter on Meimei for each mode chosen
+• Search your library for a card and put it into your graveyard, then shuffle.
+• Put a card from your graveyard on top of your library.
+• Draw a card.
+When Meimei leaves the battlefield, you lose 2 life for each wish counter on it. => Whenever Meimei attacks, choose any number. Put a wish counter on Meimei for each mode chosen
+• Search your library for a card and put it into your graveyard, then shuffle.
+• Put a card from your graveyard on top of your library.
+• Draw a card.
+When Meimei leaves the battlefield, you lose 2 life for each wish counter on her.
+
+Salomé, Patasola
+rules_text: Menace, lifelink
+At the beginning of your end step, if you lost life, discarded a card, or sacrificed a nonland permanent this turn, put a +1/+1 counter on Salomé. Then if you did all three, put another +1/+1 counter on it. => Menace, lifelink
+At the beginning of your end step, if you lost life, discarded a card, or sacrificed a nonland permanent this turn, put a +1/+1 counter on Salomé. Then if you did all three, put another +1/+1 counter on her.
+
+Sekito, Shadow-Severing Speed
+rules_text: Haste
+Whenever Sekito attacks, if it isn't saddled, torment yourself. [i](To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]
+Saddle 1 [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] => Haste
+Whenever Sekito attacks, if she isn't saddled, torment yourself. [i](To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]
+Saddle 1 [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i]
+
+Ai Hinoide, Perfect Human
+rules_text: Ai Hinoide enters with a +1/+1 on it for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast it, you draw three cards and gain 3 life. => Ai Hinoide enters with a +1/+1 on her for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast her, you draw three cards and gain 3 life.
+
+Feza, Blessed Pathfinder
+cost: {G}{W} => {1}{G}{W}
+pt: 1/1 => 2/2
+
+Lamis Corrosa
+rules_text: Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, it becomes a Vampire in addition to its other types.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able. => Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, she becomes a Vampire in addition to its other types.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able.
+
+Lovia Joutsela, Hiisi
+rules_text: As Lovia enters, choose a creature an opponent controls.
+You may exert Lovia as it attacks. When you do, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Gain control of the chosen creature until your next turn. => As Lovia enters, choose a creature an opponent controls.
+You may exert Lovia as she attacks. When you do, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Gain control of the chosen creature until your next turn.
+
+Phantasm Paradise
+cost: {3}{G}{U} => {2}{G}{U}
+rules_text: Whenever this enchantment enters or you cast a noncreature spell, untap each creature you control.
+Whenever you activate an ability of a creature with {T} and at least one mana in its activation cost, draw a card. => Whenever you cast a noncreature spell, untap each creature you control.
+Whenever you activate an ability of a creature with {T} and at least one mana in its activation cost, draw a card.
+
+Shuuu, God of Weapons
+rules_text: At the beginning of combat on your turn, you may exile an Equipment card from your hand or graveyard. Then create of token copy of each Equipment card exiled by Shuuu and attach them to Shuuu. Exile them at the beginning of the next cleanup step. => At the beginning of combat on your turn, you may exile an Equipment card from your hand or graveyard. Then create of token copy of each Equipment card exiled by Shuuu and attach them to her. Exile them at the beginning of the next cleanup step.
+
+Yanduo, Dance of Fabric
+rules_text: Whenever Yanduo enters, or it attacks with another creature, create a Garment token attached to target unenchanted creature you control. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+Whenever another unenchanted creature you control becomes enchanted, you gain 1 life and draw a card. => Whenever Yanduo enters, or she attacks with another creature, create a Garment token attached to target unenchanted creature you control. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+Whenever another unenchanted creature you control becomes enchanted, you gain 1 life and draw a card.
+
+Mystia, Daystruck
+rules_text: Flying
+Tap an untapped creature you control: Untap Mystia. If you do, prevent all combat damage that would be dealt to and dealt by it this turn. Any player may activate this ability. => Flying
+Tap an untapped creature you control: Untap Mystia. If you do, prevent all combat damage that would be dealt to and dealt by her this turn. Any player may activate this ability.
+
+Hyp, Wandering White
+rules_text: Flying
+Whenever Hyp attacks, you may exert it. [i](An exerted creature won't untap during your next untap step.)[/i]
+At the beginning of your upkeep, if Hyp is tapped, create a 0/1 white Sheep creature token. => Flying
+Whenever Hyp attacks, you may exert her. [i](An exerted creature won't untap during your next untap step.)[/i]
+At the beginning of your upkeep, if Hyp is tapped, create a 0/1 white Sheep creature token.
+
+Nua, Captain of the Ark
+rules_text: Nua crews Vehicles as though its power were 2 greater.
+Whenever Nua becomes tapped, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+[i]Landfall[/i] — Whenever a land enters under your control, untap Nua. => Nua crews Vehicles as though her power were 2 greater.
+Whenever Nua becomes tapped, she explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+[i]Landfall[/i] — Whenever a land enters under your control, untap Nua.
+
+Philippa A.T.B. von Hohenheim
+rules_text: Prowess
+[i]Tria Prima[/i] — Once each turn, you may pay {0} rather than pay the mana cost for a creature spell you cast with mana value X or less, where X is this creature's power. => Prowess
+[i]Tria Prima[/i] — Once each turn, you may pay {0} rather than pay the mana cost for a creature spell you cast with mana value X or less, where X is Philippa's power.
+
+Yuuto, Out-of-Place Magician
+rules_text: If Yuuto would be put into your graveyard or exile from your library, you may exile it instead. When you do, you may cast it.
+The first noncreature spell you cast each turn costs {1} less to cast. => If Yuuto would be put into your graveyard or exile from your library, you may exile her instead. When you do, you may cast her.
+The first noncreature spell you cast each turn costs {1} less to cast.
+
+Sasuta no Izuhime
+rules_text: Prowess
+Whenever a counter is put on an enchantment you control, create a 1/1 black Bird creature token with flying. This ability triggers only once each turn. => Prowess
+Whenever a counter is put on an enchantment you control, create a 1/1 black Bird creature token with flying.
+
+Douraku Kazane, Colorless Tone
+cost: {1} => {2}
+rules_text: Whenever you cast a spell, Douraku gains that spell's colors until end of turn.
+Douraku gets +1/+1 for each color it is.
+As long as Douraku is white, it has lifelink. The same is true for blue and hexproof, black and menace, red and first strike, and green and trample. => Whenever you cast a spell, Douraku gains that spell's colors until end of turn.
+Douraku gets +1/+1 for each color she is.
+As long as Douraku is white, she has lifelink. The same is true for blue and hexproof, black and menace, red and first strike, and green and trample.
+
+Seiryuu, Willow Spirit
+rules_text: {T}: Add {G}.
+[i]Green Willow Legend[/i] — When Seiryuu dies, you may exile it from your graveyard. If you do, it gains “Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if it has four or more growth counters on it, return it to the battlefield with two +1/+1 counters and a finality counter on it.” => {T}: Add {G}.
+[i]Green Willow Legend[/i] — When Seiryuu dies, you may exile her from your graveyard. If you do, she gains “Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if she has four or more growth counters on her, return her to the battlefield with two +1/+1 counters and a finality counter on it.”
+
+Musaraku, Source of Nightmares
+rules_text: Flying
+Whenever Musaraku attacks, if defending player has no cards in hand, monstrosity 3 [i](If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)[/i]
+Whenever Musaraku becomes monstrous or attacks while monstrous, you may have it become a copy of target creature card in a graveyard until end of turn, except it has flying. => Flying
+Whenever Musaraku attacks, if defending player has no cards in hand, monstrosity 3 [i](If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)[/i]
+Whenever Musaraku becomes monstrous or attacks while monstrous, you may have her become a copy of target creature card in a graveyard until end of turn, except it has flying.
+
+Yuyuko, Host of the Banquet
+rules_text: Vigilance, lifelink
+When Yuyuko enters, if it didn't enter from a graveyard, each player may put a creature card from their graveyard onto the battlefield. Then create a 1/1 white Spirit creature token with flying for each creature on the battlefield. => Vigilance, lifelink
+When Yuyuko enters, if she didn't enter from a graveyard, each player may put a creature card from their graveyard onto the battlefield. Then create a 1/1 white Spirit creature token with flying for each creature on the battlefield.
+
+Corin Charite
+rules_text: Flying
+When Corin enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Activated abilities of blood tokens you control can't be activated. => Flying
+When Corin enters, create a Blood token.
+Activated abilities of blood tokens you control can't be activated.
+
+Valloside, Pure Suzuran
+rules_text: {G}: Exile target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on Valloside. 
+You may remove three +1/+1 counters from Valloside as it attacks. When you do, you may search your library for a land card, put it onto the battlefield tapped, then shuffle. => {G}: Exile target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on Valloside. 
+You may remove three +1/+1 counters from Valloside as she attacks. When you do, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
+
+Mayonaka, the Kishin
+rules_text: As an additional cost to cast this spell, sacrifice one or more lands.
+Trample
+When Mayonaka enters, if a mountain was sacrificed to cast it, destroy target nonbasic land. The same is true for forest and artifact, and swamp and creature. => As an additional cost to cast this spell, sacrifice one or more lands.
+Trample
+When Mayonaka enters, if a mountain was sacrificed to cast her, destroy target nonbasic land. The same is true for forest and artifact, and swamp and creature.
+pt: 5/4 => 6/5
+
+Iesua, the Forgiver
+rules_text: Vigilance
+All damage that would be dealt to you and other permanents you control is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, that source's controller draws that many cards and gains that much life.
+If Ieusa would die, it phases out instead. => Vigilance
+All damage that would be dealt to you and other permanents you control is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, that source's controller draws that many cards and gains that much life.
+If Iesua would die, she phases out instead.
+
+Nomi no Hanie
+rules_text: You may exert Hanie as it attacks. When you do, it gets +2/+0 until end of turn. [i](An exerted creature won't untap during your next untap step.)[/i]
+{W}: Hanie gains first strike until end of turn.
+{G}: Hanie gains trample until end of turn. => You may exert Hanie as she attacks. When you do, she gets +2/+0 until end of turn. [i](An exerted creature won't untap during your next untap step.)[/i]
+{W}: Hanie gains first strike until end of turn.
+{G}: Hanie gains trample until end of turn.
+
+Umikaze, Sea Angel
+rules_text: Umikaze enters tapped with three stun counters on it.
+Umikaze and other Youkai you control have ward {1}.
+[i]Eudaimonia[/i] — Whenever Umikaze becomes untapped, scry 2. => Umikaze enters tapped with three stun counters on her.
+Umikaze and other Youkai you control have ward {1}.
+[i]Eudaimonia[/i] — Whenever Umikaze becomes untapped, scry 2.
+
+Aelivia Grapeseedling
+rules_text: {B}: Put a deathtouch counter on Aelivia
+{1}{W}: If Aelivia has a counter on it and isn't enchanted, create a Garment token attached to it. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. It becomes the creature type of your choice. => {B}: Put a deathtouch counter on Aelivia
+{1}{W}: If Aelivia has a counter on her and isn't enchanted, create a Garment token attached to her. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. It becomes the creature type of your choice.
+
+Ei, the Eternal Stillness
+rules_text: Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped still remain tapped.)[/i]
+All creatures have vigilance.
+{4}: Ei phases out. Only activate as a sorcery. => Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped remain tapped.)[/i]
+All creatures have vigilance.
+{4}: Ei phases out. Only activate as a sorcery.
+
+Muu, Tragedy Princess
+rules_text: [i]Gensokyo Genesis[/i] — When Muu enters, if it wasn't cast, sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.
+Muu gets +1/+1 for each nonbasic land you control. => [i]Gensokyo Genesis[/i] — When Muu enters, if she wasn't cast, sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.
+Muu gets +1/+1 for each nonbasic land you control.
+
+Lycaropia Hearn
+
+Akiwaza, Crossroads God
+type: Legendary Creature — God => Legendary Creature — God Bard
+
+Hasuta, the Blinding Royal
+type: Legendary Creature — Horror => Legendary Creature — Horror God
+
+Elly, the Immutable Truth
+rules_text: Flash
+Elly enters with a +1/+1 counter on it for each nonbasic land you control. => Flash
+Elly enters with a +1/+1 counter on her for each nonbasic land you control.
+
+Princess's Wish
+rules_text: You may put a storied card you own from outside the game into your hand. [i](Enchantments and legendary permanents are storied.)[/i]
+Exile this spell.
+Cycling {G} [i]({G}, Discard this card: Draw a card.)[/i] => You may put a storied card you own from outside the game into your hand. [i](Enchantments and legendary permanents are storied.)[/i]
+Exile this spell.
+Cycling {G}
+
+Consonica, the Grand
+rules_text: When Consonica enters, if at least three mana of one color and at least three different colors of mana was spent to cast it, look at the top seven cards of your library. You may put an artifact card, a creature card, an enchantment card, a land card, and/or a planeswalker card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. => When Consonica enters, if at least three mana of one color and at least three different colors of mana was spent to cast her, look at the top seven cards of your library. You may put an artifact card, a creature card, an enchantment card, a land card, and/or a planeswalker card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+Instant Brilliant Night
+
+Homura, Blacksmith of Living Flame
+rules_text: As long as Homura isn't on the battlefield, it's an artifact in addition to its other types.
+First strike
+Whenever you cycle Homura or it deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+Cycling {1}{R} => As long as Homura isn't on the battlefield, it's an artifact in addition to its other types.
+First strike
+Whenever you cycle Homura or she deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+Cycling {1}{R}
+
+Mitsuru, Formless Thunder God
+rules_text: As long as Mitsuru isn't on the battlefield, it's an enchantment in addition to its other types.
+Menace
+Whenever you cycle Mitsuru or it deals combat damage to a player, up to one target creature gets -1/-1 for each card in your hand.
+Cycling {3}{B} => As long as Mitsuru isn't on the battlefield, it's an enchantment in addition to its other types.
+Menace
+Whenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 for each card in your hand.
+Cycling {3}{B}
+
+Toyomi, Former Sea Queen
+rules_text: As long as Toyomi isn't on the battlefield, it's a land in addition to its other types.
+Trample
+Whenever you cycle Toyomi or it deals combat damage to a player, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
+Cycling {2}{G} => As long as Toyomi isn't on the battlefield, it's a land in addition to its other types.
+Trample
+Whenever you cycle Toyomi or she deals combat damage to a player, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
+Cycling {2}{G}
+
+The Grand Theatre
+
+Mikoto, Tyrant Queen
+rules_text: Reach
+[i]Fossilized Moment[/i] — When Mikoto enters, if it was cast, until the end of your next turn, life totals can't change, and permanents can't enter the battlefield. => Reach
+[i]Fossilized Moment[/i] — When Mikoto enters, if she was cast, until the end of your next turn, life totals can't change, and permanents can't enter the battlefield.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Mikoto, Tyrant Queen added.
