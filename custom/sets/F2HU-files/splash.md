@@ -8,6 +8,21 @@ Special Thanks:
 
 ---
 
+All cards are tagged with the acronym of the source material, so for example, you can search `tag:HSoB` to look up all cards from Holow Song of Birds.
+
+Some more tags:
+- `tag:game`: Source material is from an actual fangame.
+- `tag:album`: Source material is from a fake fangame album.
+- `tag:hifuu`: Source material is from a hifuu album.
+- `tag:concept`: Source material is from a fake fangame concept.
+- `tag:music`: Card name references a music track.
+- `tag:finalboss`: Card is related to a final boss character.
+- `tag:canon`: Card represents the fangame appearance of a canon character.
+- `tag:kaisendo`: Source material is from a kaisendo game/album/event.
+- `tag:original`: Character is a one-off and not part of some greater work.
+
+---
+
 Final Boss Medley I made back in 2022. 
 
 Sorta gives you an idea of the rabbit hole that is the Touhou danmaku fangames / fake fangame album scene.
