@@ -1,4 +1,180 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Ma Sekisei, Fabled Baker
+rules_text: Artifacts you control are Food in addition to their other types [i](This does not give them the Food ability)[/i]
+When Ma Sekisei enters, create a Sawdust token [i](It's an artifact with no abilities)[/i]
+{1}{W}, Sacrifice a Food: Target creature can't attack this turn. => Artifacts you control are Food in addition to their other types. [i](This does not give them the Food ability)[/i]
+When Ma Sekisei enters, create a Sawdust token. [i](It's an artifact with no abilities)[/i]
+{1}{W}, Sacrifice a Food: Target creature can't attack this turn.
+
+Lokhens, Blind Night Raven
+rules_text: Flying, haste
+Whenever Lokhens attacks, if you lost life, discarded a card, or sacrificed a nonland permanent this turn, harmonize. Then if you did all three, harmonize again. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Lokhens gets +2/+1 until end of turn. => Flying, haste
+Whenever Lokhens attacks, if you lost life, discarded a card, or sacrificed a nonland permanent this turn, harmonize. Then if you did all three, harmonize again. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Lokhens gets +2/+2 until end of turn.
+
+Meimei, the Wishing Doll
+rules_text: Whenever Meimei attacks, choose any number. Put a wish counter on Meimei for each mode chosen
+• Search your library for a card and put it into your graveyard, then shuffle.
+• Put a card from your graveyard on top of your library.
+• Draw a card.
+When Meimei leaves the battlefield, you lose 2 life for each wish counter on her. => Whenever Meimei attacks, choose any number. Put a wish counter on Meimei for each mode chosen.
+• Search your library for a card and put it into your graveyard, then shuffle.
+• Put a card from your graveyard on top of your library.
+• Draw a card.
+When Meimei leaves the battlefield, you lose 2 life for each wish counter on her.
+
+Steel is Born from Flame
+cost: {3}{R} => {2}{R}
+
+Tsumugi Enishi
+rules_text: [i]Red Marriage[/i] — Creatures you control have soulbond and “This creature gets +1/+0 as long it's paired with a creature with soulbond.” => [i]Red Marriage[/i] — Creatures you control have soulbond. [i](You may pair a creature with soulbond with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]
+Other paired creatures you control get +1/+0.
+
+Apple Girlington
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a Food token.
+As long as you've sacrificed a Food this turn, Apple Girlington must be blocked if able. => [i]Landfall[/i] — Whenever a land you control enters, create a Food token.
+As long as you've sacrificed a Food this turn, Apple Girlington gets +1/+1 and must be blocked if able.
+pt: 3/3 => 2/2
+
+Ai Hinoide, Perfect Human
+rules_text: Ai Hinoide enters with a +1/+1 on her for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast her, you draw three cards and gain 3 life. => Ai Hinoide enters with a +1/+1 counter on her for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast her, you draw three cards and gain 3 life.
+
+Lamis Corrosa
+rules_text: Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, she becomes a Vampire in addition to its other types.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able. => Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, she becomes a Vampire in addition to her other types.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able.
+
+Artistic Dedication
+rules_text: Enchant creature you control
+Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on it and draw a card.
+At the beginning of your end step, if enchanted creature didn't attack this turn, sacrifice this Aura. => Enchant creature you control
+Whenever enchanted creature deals combat damage to a player, draw a card if that creature has a counter on it. Then put a +1/+1 counter on that creature.
+
+Aimi, Dreaming Heartbroken Girl
+rules_text: Kicker—{3}{B}
+When Aimi enters, you lose 1 life and draw a card. If this spell was kicked, you may repeat that process any number of times. => Kicker—{3}{B}
+When Aimi enters, you lose 1 life and draw a card. If this spell was kicked, you may repeat that process up to seven times.
+
+Mumei, Discarded Pottery
+rules_text: First strike
+Whenever Mumei enters or attacks, exile up to one target artifact card from your graveyard
+When Mumei dies, return all cards exiled by it to its owner's hand.
+Fleeting {W} [i](You may cast this spell for its fleeting cost. If you do, sacrifice it at the beginning of the next end step.)[/i] => First strike
+Whenever Mumei enters or attacks, exile up to one target artifact card from your graveyard.
+When Mumei dies, return all cards exiled by her to her owner's hand.
+Fleeting {W} [i](You may cast this spell for its fleeting cost. If you do, sacrifice it at the beginning of the next end step.)[/i]
+
+Musaraku, Source of Nightmares
+rules_text: Flying
+Whenever Musaraku attacks, if defending player has no cards in hand, monstrosity 3 [i](If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)[/i]
+Whenever Musaraku becomes monstrous or attacks while monstrous, you may have her become a copy of target creature card in a graveyard until end of turn, except it has flying. => Flying
+Whenever Musaraku attacks, if defending player has no cards in hand, monstrosity 3. [i](If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)[/i]
+Whenever Musaraku becomes monstrous or attacks while monstrous, you may have her become a copy of target creature card in a graveyard until end of turn, except it has flying.
+
+Starry Wisdom
+cost: {5}{U}{U} => {6}{U}{U}
+
+Corin Charite
+rules_text: Flying
+When Corin enters, create a Blood token.
+Activated abilities of blood tokens you control can't be activated. => Flying
+When Corin enters, create a Blood token.
+Activated abilities of Blood tokens you control can't be activated.
+
+Mayonaka, the Kishin
+rules_text: As an additional cost to cast this spell, sacrifice one or more lands.
+Trample
+When Mayonaka enters, if a mountain was sacrificed to cast her, destroy target nonbasic land. The same is true for forest and artifact, and swamp and creature. => As an additional cost to cast this spell, sacrifice one or more lands.
+Trample
+When Mayonaka enters, if a Mountain was sacrificed to cast her, destroy target nonbasic land. The same is true for Forest and artifact, and Swamp and creature.
+
+Emerald Tablet
+rules_text: Whenever equipped creature attacks, reveal the top X cards of your library, where X is the number of attacking creatures. You may put a creature card from among them into your hand. Put the rest on the bottom of your library in a random order.
+Whenever equipped creature attacks with six or more other creatures, you may exile this artifact. When you do, take an extra turn after this one.
+Equip {1} => Whenever equipped creature attacks with two or more other creatures, draw a card.
+Whenever equipped creature attacks with six or more other creatures, you may exile this artifact. When you do, take an extra turn after this one.
+Equip {1}
+
+The Lesser Key of Solomon
+rules_text: This spell costs {1} less to cast for each instant and sorcery card in your graveyard
+{T}: The next spell you cast this turn costs {1} less to cast for each instant and sorcery card in your graveyard. => This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+This artifact enters tapped.
+{T}: The next spell you cast this turn costs {1} less to cast for each instant and sorcery card in your graveyard.
+
+Aelivia Grapeseedling
+rules_text: {B}: Put a deathtouch counter on Aelivia
+{1}{W}: If Aelivia has a counter on her and isn't enchanted, create a Garment token attached to her. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. It becomes the creature type of your choice. => {B}: Put a deathtouch counter on Aelivia.
+{1}{W}: If Aelivia has a counter on her and isn't enchanted, create a Garment token attached to her. [i](It's a white Aura enchantment token with “Enchant creature” and “Enchanted creature gets +1/+1.”)[/i]
+{3}{G}: If Aelivia is enchanted, you may put a creature card from your hand onto the battlefield. It becomes the creature type of your choice.
+
+World's End Testament
+rules_text: Choose one —
+• Destroy all non-Angel creatures
+• Destroy all non-Demon creatures => Choose one —
+• Destroy all non-Angel creatures.
+• Destroy all non-Demon creatures.
+
+Sonia von Auersperg
+rules_text: Flying
+At the beginning of each of your main phases, you lose 3 life, draw a card, and add {B}{B}{B}.
+At the beginning of your end step, you may sacrifice another creature. When you do, Sonia deals 3 damage to any target and you gain 3 life. => Flying
+At the beginning of each of your main phases, you lose 3 life, draw a card, and add {B}{B}{B}.
+At the beginning of your end step, you may sacrifice another creature. When you do, you gain 3 life.
+
+Princess's Wish
+rules_text: You may put a storied card you own from outside the game into your hand. [i](Enchantments and legendary permanents are storied.)[/i]
+Exile this spell.
+Cycling {G} => You may put a storied card you own from outside the game into your hand. [i](Enchantments and legendary permanents are storied.)[/i]
+Exile this spell.
+
+The Shadow Over Gensokyo
+
+Map Orb
+rules_text: When this artifact enters, exile the top two cards of your library.
+{1}, Sacrifice this artifact: Choose one —
+• Put a card exiled by this artifact into your hand.
+• Create a 1/1 white Faeries creature token with flying. => When this artifact enters, exile the top two cards of your library.
+{1}, Sacrifice this artifact: Choose one —
+• Put a card exiled by this artifact into your hand.
+• Create a 1/1 white Faerie creature token with flying.
+
+Instant Brilliant Night
+
+Awaji, Ruler of Nothingness
+
+Orwell's Quarantined Utopia
+
+Yet Another Rain Incident
+rules_text: Tap target creature and put X stun counters on it, where X is equal to the number of blue instant cards in your graveyard.
+Draw a card. => Tap target creature and put X stun counters on it, where X is equal to the number of cards name Yet Another Rain Incident in your graveyard.
+Draw a card.
+
+Hanezu, Definer of Fantasy
+rules_text: [+1]: Put a +1/+1 counter on target permanent. It becomes the permanent card type of your choice. [i](It loses all other card types)[/i]
+[-2]: Choose a card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type. => [+1]: Target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type.
+special_text: [+1]: Put a +1/+1 counter on target permanent. It becomes the permanent card type of your choice. [i](It loses all other card types)[/i]
+[-2]: Choose a card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type. => [+1]: Target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type.
+
+Clamor of the Festival
+
+Geo-Poetry
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

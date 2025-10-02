@@ -450,7 +450,7 @@
 		{
 			"name": "Steel is Born from Flame",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"collector_number": "116",
 			"image_uris": {
@@ -1227,7 +1227,7 @@
 		{
 			"name": "Starry Wisdom",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{6}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
