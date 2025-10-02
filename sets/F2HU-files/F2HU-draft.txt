@@ -1718,7 +1718,7 @@
 			"name": "Tokuko, Divine Swordbearer",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Legendary Creature — Spirit",
+			"type": "Legendary Creature — Spirit Noble",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://ricky-mse-hub/sets/F2HU-files/img/220_Tokuko, Divine Swordbearer.png"
@@ -2705,13 +2705,13 @@
 			}
 		},
 		{
-			"name": "Mysterious Festival",
+			"name": "Festival Entrance",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/253_Mysterious Festival.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/252_Festival Entrance.png"
 			}
 		},
 		{
@@ -2749,9 +2749,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ricky-mse-hub/sets/F2HU-files/img/252_The Grand Theatre.png"
+				"en": "https://ricky-mse-hub/sets/F2HU-files/img/253_The Grand Theatre.png"
 			}
 		},
 		{
@@ -3017,7 +3017,7 @@
 	4 Vengeful Spirit's Charm
 	4 Poetry Immortal's Charm
 	4 Winter Spirit's Charm
-	4 Mysterious Festival
+	4 Festival Entrance
 	4 Clamor of the Festival
 	4 The Grand Theatre
 	4 Dancing Plague
@@ -3326,7 +3326,7 @@
 	6 Winter Spirit's Charm
 	1 Seiko, Spirited Away
 	1 Hanezu, Definer of Fantasy
-	6 Mysterious Festival
+	6 Festival Entrance
 	6 Clamor of the Festival
 	1 Null Recreator
 	2 The Dreamyard
@@ -3581,7 +3581,7 @@
 	15 Winter Spirit's Charm
 	4 Seiko, Spirited Away
 	4 Hanezu, Definer of Fantasy
-	15 Mysterious Festival
+	15 Festival Entrance
 	15 Clamor of the Festival
 	4 Null Recreator
 	7 The Dreamyard

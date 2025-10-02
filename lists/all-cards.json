@@ -3426,7 +3426,7 @@
             "card_name": "Tokuko, Divine Swordbearer",
             "color": "WG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Spirit",
+            "type": "Legendary Creature \u2013 Spirit Noble",
             "number": 220,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
@@ -5404,11 +5404,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "Mysterious Festival",
+            "card_name": "Festival Entrance",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 253,
+            "number": 252,
             "color_identity": "C",
             "cost": "",
             "rules_text": "As this land enters, choose a creature type.\n{T}: Add {C}\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.\n{T}: Add one mana of any color. This mana can't be spent to cast a creature spell. Only activate this ability if you control a creature of the chosen type.",
@@ -5420,7 +5420,7 @@
             "loyalty": "",
             "artist": "Ryann Thierry",
             "alias": "",
-            "notes": "!tag FSF\n!tag game",
+            "notes": "!tag FSF\n!tag game\n!tag music",
             "image_type": "png"
         },
         {
@@ -5488,7 +5488,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 252,
+            "number": 253,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Tap an untapped Bard you control: Harmonize [i](Trigger up to one harmony of one permanent you control.)[/i]\nHarmony \u2013 Add one mana of any color.",

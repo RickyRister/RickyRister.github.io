@@ -1,4 +1,15 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Festival Entrance added.
+
+Mysterious Festival removed.
+
+Tokuko, Divine Swordbearer
+type: Legendary Creature — Spirit => Legendary Creature — Spirit Noble
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
