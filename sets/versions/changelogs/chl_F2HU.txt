@@ -1,4 +1,137 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Memento Forest added.
+Deep-Stratum Limestone added.
+Overture of an Euphonious Act added.
+Kumoame, Rain Maiden added.
+Far-East El Dorado added.
+Cave Leading to Somewhere added.
+Hollow Mansion added.
+Otherland's Edge added.
+Zheng Shu, Tranquil Beast added.
+Rainy Torifune Shrine added.
+Distant Sky Realm added.
+
+Ceramic Graveyard removed.
+
+Nana Fumoto, Doll Dealer
+rules_text: Whenever an opponent casts a spell, that player may pay {1}. If they don't, you create a 1/1 colorless Doll artifact creature token.[i]
+Fumani[/i] — Whenever Nana attacks, Dolls you control get +1/+1 and gain flying until end of turn. => Whenever an opponent casts their first spell each turn, create a 1/1 colorless Doll artifact creature token unless that player pays {1}.[i]
+Fumani[/i] — Whenever Nana attacks, Dolls you control get +1/+1 and gain flying until end of turn.
+
+Padma, Molting Zeal
+rules_text: {1}, {T}: Exile target card from a graveyard.
+Boast—{3}{B}: Exile target creature with mana value less than or equal to the number of cards exiled by Padma until Padma leaves the battlefield. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => {T}: Exile target card from a graveyard.
+Boast—{3}{B}: Exile target creature with mana value less than or equal to the number of cards exiled by Padma until Padma leaves the battlefield. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Unane, the Composer
+
+Munomoto, Bud of Lost Dreams
+type: Legendary Creature — Illusion => Legendary Creature — Illusion Spirit
+
+Rebirth of Dreams
+rules_text: Target creature gains indestructible and hexproof until end of turn. Scry 2. => Put up to three target cards from graveyards on the bottom of their owner's libraries in a random order.
+Draw a card.
+
+Mitori, the Crimson Grudge
+cost: {1}{W}{U} => {2}{W}{U}
+pt: 2/2 => 2/3
+
+Marry Shepherd
+rules_text: When Marry Shepherd enters, create a 0/1 white Sheep creature token.
+Flying
+Tap an untapped Sheep you control: Marry Shepherd gets +1/+0 until end of turn. => Flying
+When Marry Shepherd enters, create a 0/1 white Sheep creature token.
+Tap an untapped Sheep you control: Marry Shepherd gets +1/+0 until end of turn.
+
+Artistic Dedication
+rules_text: Enchant creature you control
+Whenever enchanted creature deals combat damage to a player, draw a card if that creature has a counter on it. Then put a +1/+1 counter on that creature. => Enchant creature you control
+Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on it. If it already has a counter on it, you may draw a card instead.
+
+Fujioki, Soul of Cuckoos
+rules_text: Flying
+When Fujioki enters, if you have a card with flying in your graveyard, draw a card. => Flying
+When Fujioki enters, draw a card if you have a card with flying in your graveyard.
+
+Yamatoyo no Momohime
+rules_text: Momohime enters tapped and does not untap during your untap step.
+Whenever Momohime enters or attacks, choose two —
+• Target player gains 4 life
+• Put three +1/+1 counters on target creature.
+• Target player searches their library for up to two basic land cards, puts them onto the battlefield tapped, then shuffles.
+• Return target permanent card from a graveyard to its owner's hand. => Momohime enters tapped and does not untap during your untap step.
+Whenever Momohime enters or attacks, choose two —
+• Target player gains 4 life
+• Put three +1/+1 counters on target permanent.
+• Untap target land you control. It becomes a 2/2 Elemental creature with haste that's still a land.
+• Return target permanent card from a graveyard to its owner's hand.
+
+Fabritis and Iphonea
+rules_text: Whenever this creature or a basic land you control enters, scry 1.
+[i]Mendel's Sanctuary[/i] — At the beginning of your upkeep, if you control three or more basic lands, you may pay {1}{G} and sacrifice this creature. When you do, search your library for a creature card with mana value 3 and put it on the battlefield, then shuffle. => Whenever a basic land you control enters, scry 1.
+[i]Mendel's Sanctuary[/i] — At the beginning of your upkeep, if you control three or more basic lands, you may pay {1}{G} and sacrifice this creature. When you do, search your library for a creature card with mana value 3 and put it on the battlefield, then shuffle.
+
+Noah, Sugar-Spun
+rules_text: Whenever Noah attacks, create a Food token.
+Whenever you sacrifice a Food, target creature gains your choice of vigilance, trample, indestructible, or reach until end of turn. => Whenever Noah attacks, create a Food token.
+{2}, Sacrifice a Food: Target creature gains your choice of trample or indestructible until end of turn.
+
+Aoi, Creator Deity
+rules_text: When Aoi enters, draw two cards. You may play an additional land this turn.
+[i]Landfall[/i] — Whenever a land you control enters, tap up to one target artifact or creature. It loses all abilities and doesn't untap during its controller's untap step for as long as that land remains tapped. => When Aoi enters, draw two cards. You may play an additional land this turn.
+[i]Landfall[/i] — If a land you control would enter, you may have it enter tapped and with up to one stun counter on it. When you do, tap target artifact or creature. It loses all abilities and doesn't untap during its controller's untap step for as long as that land remains tapped.
+
+Umikaze, Sea Angel
+rules_text: Umikaze enters tapped with three stun counters on her.
+Umikaze and other Youkai you control have ward {1}.
+[i]Eudaimonia[/i] — Whenever Umikaze becomes untapped, scry 2. => Umikaze enters tapped with two stun counters on her.
+Other Youkai you control have ward {1}.
+[i]Eudaimonia[/i] — Whenever Umikaze becomes untapped, scry 2.
+
+Mirei, Deep-Sea Symphonist
+rules_text: At the beginning of combat on your turn, you may discard a card. If you do, harmonize [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Target creature gains haste until end of turn and target creature can't block this turn. => At the beginning of combat on your turn, you may discard a card. If you do, harmonize [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Target creature gains haste and trample until end of turn.
+
+Rachel, Unstable Scientist
+
+Doll
+
+Sawdust
+
+Human
+
+Akiwaza, Crossroads God
+
+The Shadow Over Gensokyo
+rules_text: At the beginning of your upkeep, surveil 1. Then if you have seven or more cards in your graveyard, you may sacrifice this enchantment. When you do, you may put a Horror creature card from your hand or graveyard onto the battlefield. => At the beginning of your upkeep, surveil 1. Then if you have five or more card types among cards in your graveyard, you may sacrifice this enchantment. When you do, put a Horror creature card with mana value 6 or less from your hand or graveyard onto the battlefield.
+
+Ichiyou, Ninja Descendant
+pt: 4/4 => 3/3
+
+Tiny Buddha's Charm
+rules_text: Choose one —
+• Your opponents can't cast spells or activate non-mana abilities this turn.
+• Put a +1/+1 counter on up to three target creatures.
+• You gain 5 life. => Choose one —
+• Target permanent gains hexproof and indestructible until end of turn.
+• Put a +1/+1 counter on each of up to three target creatures.
+• You gain 5 life.
+
+Geo-Poetry
+rules_text: At the beginning of your upkeep, sacrifice a land. Then return another land card from your graveyard to the battlefield.
+Cycling {2} => At the beginning of your upkeep, you may sacrifice a land. If you do, return another land card from your graveyard to the battlefield.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Akira, Jazzy Detective
+rules_text: Whenever you cast a spell with even mana value, if the previous spell you cast this turn has odd mana value, harmonize. [i](Trigger up to one harmony of one permanent you control.)[/i] 
+Harmony — Target player discards a card, then exiles the top card of their library face-down. Put that card into that player's hand at the beginning of the next end step. => Whenever you cast a spell, if you've cast a spell with odd mana value and a spell with even mana value this turn, you may harmonize. Do this only once each turn. [i](To harmonize, trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Discard a card, then draw a card.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Festival Entrance added.
