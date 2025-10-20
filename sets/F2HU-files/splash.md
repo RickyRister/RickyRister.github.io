@@ -40,3 +40,18 @@ If you do decide to watch it, I recommend watching on 2x speed.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=OEpQGoE48aIVt_kc&amp;list=PLsCg0DWx1gT8Y9O67Zr-nHZKgTCDH5adR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
+I submitted this set to the mse discord's Field Test season 8!
+This time, Rachel's 2HU set was also submitted!
+So we can finally play the two sets together like they were some sort of Touhou block constructed.
+
+I mostly built decks using only cards from the two Touhou sets, but I did build with other sets a few times.
+Someone else submitted a [Universes Beyond: RPG Maker](https://supergb-denny.github.io/previews/RPGM) set, which I was quite a fan of, so that was one of the other sets I built with more often.
+
+I also recorded all my games this time. Again, It's not very watchable because it suffers from all the standard "Ricky stutters a lot and sucks at commentary" problems.
+
+If you do decide to watch it, I recommend watching on 2x speed.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=OEpQGoE48aIVt_kc&amp;list=PLsCg0DWx1gT9MIQ1TXFtTHdBTcjSrpoHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
