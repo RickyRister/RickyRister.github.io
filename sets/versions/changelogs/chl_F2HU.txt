@@ -1,4 +1,159 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+Shiran, the Fake Priest
+rules_text: Flying, lifelink
+Whenever Shiran attacks, put a +1/+1 counter on it, then repeat the following process for each +1/+1 counter on it. Exile the top card of defending player's library. You lose life equal to its mana value. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell. => Flying, lifelink
+Whenever Shiran attacks, put a +1/+1 counter on her, then repeat the following process for each +1/+1 counter on her. Exile the top card of defending player's library. You lose life equal to its mana value. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+
+Apple Girlington
+cost: {G}{G} => {1}{G}
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a Food token.
+As long as you've sacrificed a Food this turn, Apple Girlington gets +1/+1 and must be blocked if able. => When Apple Girlington enters, create a Food token.
+As long as you've sacrificed a Food this turn, Apple Girlington gets +1/+1 and must be blocked if able.
+
+Leaf Ponders the Flower
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on up to one target creature. Then scry 1. => [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature you control. Then scry 1.
+
+Oxas, Fairy of Clovers
+
+Withered Bounty
+rules_text: Enchant land
+When this aura enters, create a Food token.
+Enchanted land has “{T}: Add one mana of any color.”
+Whenever enchanted land is tapped for mana, you may sacrifice a Food. If you do, add one mana of any color. => Enchant land
+When this Aura enters, create a Food token.
+Enchanted land has “{T}: Add one mana of any color.”
+Whenever enchanted land is tapped for mana, you may sacrifice a Food. If you do, add one mana of any color.
+
+Lamis Corrosa
+cost: {1}{B}{R} => {B}{R}
+rules_text: Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, she becomes a Vampire in addition to her other types.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able. => Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, she becomes a Vampire Noble.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able.
+pt: 1/1 => 2/2
+
+Mizuho, Onmyouji
+cost: {2}{U}{B} => {3}{U}{B}
+
+Phantasm Paradise
+cost: {2}{G}{U} => {3}{G}{U}
+
+Touko, Harvest God
+rules_text: Whenever Touko enters or attacks, each player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Touko gets +1/+1 for each land you don't control. => Whenever Touko enters or attacks, each player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Touko gets +1/+1 for each land controlled by the opponent who controls the most lands.
+
+Yukiko, Heart of the Swarm
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, up to one target creature loses all abilities and becomes a green Insect creature with base power and toughness 1/1 and flying and deathtouch. => [i]Landfall[/i] — Whenever a land you control enters, up to one target creature loses all abilities and becomes a green Insect creature with base power and toughness 1/1 and flying and deathtouch.
+Prevent all damage that would be dealt to Yukiko by Insects.
+
+Hikariko Aosagi
+rules_text: Flash
+Flying
+Whenever Hikariko becomes the target of a spell or ability, you may return Hikariko to its owner's hand. If you do, discard a card. => Flash
+Flying
+Whenever Hikariko becomes the target of a spell or ability, you may return her to her owner's hand. If you do, discard a card.
+
+Hyp, Wandering White
+rules_text: Flying
+Whenever Hyp attacks, you may exert her. [i](An exerted creature won't untap during your next untap step.)[/i]
+At the beginning of your upkeep, if Hyp is tapped, create a 0/1 white Sheep creature token. => Flying
+Whenever Hyp attacks, you may exert him. [i](An exerted creature won't untap during your next untap step.)[/i]
+At the beginning of your upkeep, if Hyp is tapped, create a 0/1 white Sheep creature token.
+
+Himemiko, Erased Princess
+rules_text: When Himemiko enters, you may search your library for an Equipment card and put it into your graveyard, then shuffle. 
+Whenever Himemiko deals combat damage to a player, return target Equipment card with mana value less than or equal to that amount of damage from your graveyard to the battlefield. => When Himemiko enters, you may search your library for an artifact card and put it into your graveyard, then shuffle. 
+Whenever Himemiko deals combat damage to a player, return target Equipment card with mana value less than or equal to that amount of damage from your graveyard to the battlefield.
+
+Seiryuu, Willow Spirit
+rules_text: {T}: Add {G}.
+[i]Green Willow Legend[/i] — When Seiryuu dies, you may exile her from your graveyard. If you do, she gains “Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if she has four or more growth counters on her, return her to the battlefield with two +1/+1 counters and a finality counter on it.” => {T}: Add {G}.
+[i]Green Willow Legend[/i] — {G}, Exile Seiryuu from your graveyard: She gains “Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if she has four or more growth counters on her, return her to the battlefield with two +1/+1 counters and a finality counter on it.”
+
+Cathu, Dreaming Herald
+rules_text: Flying
+You may look at the top card of your library at any time.
+As long as Cathu is attacking, you may cast creature spells from the top of your library as though they had flash. If it's before the declare blockers step, they enter tapped and attacking. => Flying
+You may look at the top card of your library at any time.
+As long as Cathu is attacking, you may cast creature spells from the top of your library as though they had flash.
+
+Fabritis and Iphonea
+rules_text: Whenever a basic land you control enters, scry 1.
+[i]Mendel's Sanctuary[/i] — At the beginning of your upkeep, if you control three or more basic lands, you may pay {1}{G} and sacrifice this creature. When you do, search your library for a creature card with mana value 3 and put it on the battlefield, then shuffle. => Whenever a basic land you control enters, scry 1.
+[i]Mendel's Sanctuary[/i] — At the beginning of your upkeep, if you control three or more basic lands, you may pay {1}{G} and sacrifice this creature. When you do, search your library for a green creature card with mana value 3 and put it on the battlefield, then shuffle.
+
+Horizon Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Bringing Bough[/i] — {0} — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• [i]Promise of a Better World[/i] — {2} — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+• [i]Olive Tree Uprooting[/i] — {4}{G} — Return each land card from your graveyard to the battlefield => Tiered [i](Choose one additional cost)[/i]
+• [i]Bringing Bough[/i] — {0} — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• [i]Promise of a Better World[/i] — {2} — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+• [i]Olive Tree Uprooting[/i] — {4}{G} — Return each land card from your graveyard to the battlefield.
+
+Kousen, Drought Deity
+rules_text: Haste
+Whenever a player taps a nonbasic land, that land doesn't untap during its controller's next untap step unless they have Kousen deals 1 damage to them. => Haste
+Whenever an opponent activates an ability of a land, if it's not a mana ability, Kousen deals 1 damage to that player.
+
+Hate Not the Wind
+cost: {2}{U} => {3}{U}
+
+Shushu, Igniter of Night Skies
+rules_text: Whenever you cast a spell, Shushu deals 1 damage to you. When this ability resolves for the third, sixth, or ninth time each turn, Shushu deals 3 damage to any target and you gain 3 life. => Whenever you cast a spell, Shushu deals 1 damage to you.
+Whenever you cast your third, sixth, or ninth spell each turn, Shushu deals 3 damage to any target and you gain 3 life.
+pt: 2/3 => 3/3
+
+Inasa, Warring Celestial
+rules_text: Trample
+Whenever a land is put into a graveyard from the battlefield, you may choose one that hasn't been chosen this turn —
+• Inasa deals 3 damage to any target
+• Creatures without flying can't block this turn.
+• Search your library for a land card, put it onto the battlefield tapped, then shuffle. => Trample
+Whenever a land is put into a graveyard from the battlefield on your turn, you may choose one that hasn't been chosen this turn —
+• Inasa deals 3 damage to any target
+• Creatures without flying can't block this turn.
+• Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+pt: 3/4 => 4/3
+
+Food
+rules_text: {1}, {T}, Sacrifice this token: You gain 3 life. => {2}, {T}, Sacrifice this token: You gain 3 life.
+
+Map Orb
+rules_text: When this artifact enters, exile the top two cards of your library.
+{1}, Sacrifice this artifact: Choose one —
+• Put a card exiled by this artifact into your hand.
+• Create a 1/1 white Faerie creature token with flying. => When this artifact enters, exile the top two cards of your library.
+{1}: Sacrifice this artifact: Choose one —
+• Put a card exiled by this artifact into your hand.
+• Create a 1/1 white Faerie creature token with flying.
+
+Hanezu, Definer of Fantasy
+
+The Grand Theatre
+rules_text: {T}: Add {C}.
+{T}, Tap an untapped Bard you control: Harmonize [i](Trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Add one mana of any color. => {T}: Add {C}.
+{T}, Tap an untapped Bard you control: Harmonize. Activate only as a sorcery. [i](To harmonize, trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Add one mana of any color.
+
+Otherland's Edge
+rules_text: {T}, Pay 1 life: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. It enters tapped unless you pay 2 life. => {T}, Pay 1 life: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. It enters tapped unless you pay 2 life.
+
+Zheng Shu, Tranquil Beast
+cost: {1}{W} => {2}{W}
+
+Distant Sky Realm
+rules_text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. It enters tapped unless you control another land of the same basic land type. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. It enters tapped unless you control another land of the same land type.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Memento Forest added.

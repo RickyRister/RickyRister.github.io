@@ -470,7 +470,7 @@
 		{
 			"name": "Apple Girlington",
 			"rarity": "common",
-			"mana_cost": "{G}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Youkai",
 			"collector_number": "126",
 			"image_uris": {
@@ -667,7 +667,7 @@
 		{
 			"name": "Lamis Corrosa",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "180",
 			"image_uris": {
@@ -697,7 +697,7 @@
 		{
 			"name": "Mizuho, Onmyouji",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "192",
 			"image_uris": {
@@ -727,7 +727,7 @@
 		{
 			"name": "Phantasm Paradise",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "200",
 			"image_uris": {
@@ -1617,7 +1617,7 @@
 		{
 			"name": "Hate Not the Wind",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
@@ -2897,7 +2897,7 @@
 		{
 			"name": "Zheng Shu, Tranquil Beast",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Kirin Bard",
 			"collector_number": "31",
 			"image_uris": {
