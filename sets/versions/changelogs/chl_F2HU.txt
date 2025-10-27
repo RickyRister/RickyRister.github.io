@@ -1,4 +1,29 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Ceramic Graveyard added.
+
+Star Independence Day removed.
+Kikyou, Buried Legend removed.
+
+Cindy Plum, Rakshasa
+rules_text: First strike, haste
+Cindy Plum attacks each turn if able.
+Cindy Plum can't be blocked by more than one creature and must be blocked by the creature with the greatest power among creatures the defending player controls if able. => First strike, haste
+Cindy Plum attacks each turn if able.
+Cindy Plum must be blocked by each creature with the greatest power among creatures the defending player controls if able.
+
+Tiny Buddha's Charm
+rules_text: Choose one —
+• Target permanent gains hexproof and indestructible until end of turn.
+• Put a +1/+1 counter on each of up to three target creatures.
+• You gain 5 life. => Choose one —
+• Exile target creature you control, then return it to the battlefield under its owner's control.
+• Put a +1/+1 counter on each of up to three target creatures.
+• You gain 5 life.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 
