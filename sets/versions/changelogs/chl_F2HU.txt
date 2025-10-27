@@ -1,4 +1,12 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+God's Toy added.
+Gensokyo's Final Day added.
+
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Ceramic Graveyard added.
