@@ -1,4 +1,83 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Testament's Star Chapter added.
+Abyssal Abandoned Metropolis added.
+Diva's Device added.
+Riko Toone, Divine Diva added.
+Immortal Lotus added.
+Beanstalk Linking Heaven and Earth added.
+Vinca Wars added.
+Yuyuko, Sakurachill Blossom added.
+
+World's End Testament removed.
+Rainy Torifune Shrine removed.
+
+Shirane, Thunderbird
+rules_text: Flying
+Whenever a source you control deals noncombat damage to a creature, that creature can't block this turn.
+Whenever you expend 5, Shirane deals 1 damage to any target. [i](You expend 5 as you spend your fifth total mana to cast spells during a turn.)[/i] => Flying
+Whenever a source you control deals noncombat damage to a creature, that creature can't block this turn.
+Whenever you cast a spell with mana value 4 or greater, Shirane deals 1 damage to any target.
+
+Hazuki, Onmyouji
+rules_text: Lifelink, deathtouch
+When Hazuki enters, create a 1/1 black and white Spirit creature token with flying.
+Tap an untapped creature you control: Target instant or sorcery spell gains lifelink and deathtouch.
+Tap another untapped creature you control: Return Hazuki to its owner's hand. => Lifelink, deathtouch
+When Hazuki enters, create a 1/1 black and white Spirit creature token with flying.
+Tap an untapped creature you control: Target spell gains lifelink and deathtouch. [i](If it becomes a permanent, it keeps the abilities indefinitely.)[/i]
+Tap another untapped creature you control: Return Hazuki to its owner's hand.
+
+Lamis Corrosa
+rules_text: Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on it, she becomes a Vampire Noble.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able. => Whenever you attack with one or more Vampires, put a +1/+1 counter on Lamis. Then if Lamis has three or more +1/+1 counters on her, she becomes a Vampire Noble.
+When Lamis becomes a Vampire, gain control of target creature until end of turn. Tap it. It is attacking and must be blocked this turn if able.
+
+Touko, Harvest God
+
+Cathu, Dreaming Herald
+
+Mumumu, the Morning Star
+rules_text: Flying
+Ward—Discard a card
+As an additional cost to cast Demon spells, you may pay 2 life any number of times. Those spells cost {1} less to cast for each 2 life you paid.
+Whenever a player discards a card, put a +1/+1 counter on Mumumu. => Flying
+Ward—Discard a card
+As an additional cost to cast Demon spells, you may pay 2 life any number of times. Those spells cost {1} less to cast for each 2 life you paid.
+Whenever a player discards a card, put a +1/+1 counter on each Demon you control.
+
+Omote, Information Uploader
+rules_text: Flash
+Flying
+[i]Package Interception —[/i] When Omote enters, look at the top card of target player's library. You may have that player mill a card. If you do, each player loses life equal to that card's mana value.
+{1}{U}{B}: Return Omote to its owner's hand. => Flash
+Flying
+[i]Package Interception —[/i] When Omote enters, look at the top card of target player's library. You may have that player mill a card. If you do, each player loses life equal to that card's mana value.
+{1}{U}{B}: Return Omote to her owner's hand.
+
+Deep Mutating Cavern
+rules_text: {T}: Add {C}.
+{2}: This land becomes a 2/2 creature with all creature types until end of turn. It's still a land. You may have it get +1/-1 or -1/+1 until end of turn.
+{1}: If this land is a creature, it gets +1/-1 or -1/+1 until end of turn. => {T}: Add {C}.
+{2}: This land becomes your choice of a 3/1, 2/2, or 1/3 creature with all creature types until end of turn. It's still a land.
+
+Overture of an Euphonious Act
+rules_text: Draw a card, then discard a card. Harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Orchestrate {R} [i](You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)[/i]
+Reprise {R} [i](As you cast an instant or sorcery spell, you may exile one card with reprise from your graveyard and pay its reprise cost. If you do, add its effects to that spell.)[/i] => Scry 2. Harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Orchestrate {R} [i](You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)[/i]
+Reprise {R} [i](As you cast an instant or sorcery spell, you may exile one card with reprise from your graveyard and pay its reprise cost. If you do, add its effects to that spell.)[/i]
+
+Otherland's Edge
+rules_text: {T}, Pay 1 life: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. It enters tapped unless you pay 2 life. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. It enters tapped unless you pay 2 life.
+
+Gensokyo's Final Day
+pt: 3/3 => 
+
+
+VERSION 24 CHANGELOG
 ====================
 
 God's Toy added.
