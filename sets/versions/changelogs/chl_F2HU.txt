@@ -1,4 +1,74 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Muneyuki, Merchant Sailor added.
+Shinyoku, Figment of Some God added.
+Sakura, Decision Maker added.
+Mamo, the Mastermind added.
+OC added.
+Illusion added.
+
+
+Sever Relationship
+rules_text: Choose one or both—
+• Exile target creature you control, then return it to the battlefield under its owner's control
+• Exile target creature you don't control. Return it to the battlefield under its owner's control at the beginning of the next end step => Exile up to two target creatures controlled by different players. Return one to the battlefield and the other to the battlefield at the beginning of the next end step. [i](They enter under their owner's control)[/i]
+
+Kousan, Spear of Chaos
+rules_text: Kousan and equipped creature has first strike as long as its attacking.
+Whenever Kousan or equipped creature attacks, goad target creature defending player controls.
+Reconfigure {R} [i]({R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => Kousan and equipped creature has first strike as long as she's attacking.
+Whenever Kousan or equipped creature attacks, goad target creature defending player controls.
+Reconfigure {R} [i]({R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Rebirth of Dreams
+rules_text: Put up to three target cards from graveyards on the bottom of their owner's libraries in a random order.
+Draw a card. => Put up to three target cards from graveyards on the bottom of their owner's libraries in a random order. When you do, draw a card.
+
+Chirper Phone
+type: Artifact => Artifact — Equipment
+
+The Great Ark
+rules_text: {1}: Exile target creature you control until The Great Ark leaves the battlefield.
+Whenever The Great Ark attacks or blocks, you may put any number of cards exiled by it onto the battlefield.
+Crew 4 => Vigilance
+{1}: Exile target creature you control until The Great Ark leaves the battlefield.
+Whenever The Great Ark attacks or blocks, you may put any number of cards exiled by it onto the battlefield.
+Crew 4
+pt: 8/8 => 7/7
+
+Nua, Captain of the Ark
+rules_text: Nua crews Vehicles as though her power were 2 greater.
+Whenever Nua becomes tapped, she explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+[i]Landfall[/i] — Whenever a land enters under your control, untap Nua. => Whenever a permanent is returned to its owner's hand, scry 1.
+Whenever Nua becomes tapped, choose a card type, then reveal the top card of your library. If it's the chosen type, put it into your hand.
+[i]Landfall[/i] — Whenever a land enters under your control, untap Nua.
+pt: 2/4 => 4/4
+
+Emerald Tablet
+type: Artifact => Artifact — Equipment
+
+Yamoto, Steam Age Remnant
+rules_text: Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+[i]Steam Age Overture [/i]— At the beginning of your end step, if you activated the abilities of three different artifacts this turn, put a +1/+1 counter on Yamoto. => Golden Age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana unless you're in a renaissance.
+
+Akiwaza, Crossroads God
+cost: {3}{W} => {2}{W}{W}
+
+Yet Another Rain Incident
+rules_text: Tap target creature and put X stun counters on it, where X is equal to the number of cards name Yet Another Rain Incident in your graveyard.
+Draw a card. => Tap target creature and put X stun counters on it, where X is the number of cards named Yet Another Rain Incident in your graveyard.
+Draw a card.
+
+Yuyuko, Sakurachill Blossom
+rules_text: If one or more tokens would be created under your control, you may create that many tapped Evolving Wilds tokens instead. [i](It's a Land with “{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.”)[/i] => If one or more tokens would be created under your control, you may create that many tapped Evolving Wilds tokens instead. Do this only once each turn. [i](Evolving Wilds is a Land with “{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.”)[/i]
+
+Distant Sky Realm
+type: Land => Kindred Land — Illusion
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Testament's Star Chapter added.
