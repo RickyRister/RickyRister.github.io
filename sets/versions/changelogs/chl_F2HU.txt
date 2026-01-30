@@ -1,4 +1,78 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Empty News added.
+Evolving Wilds added.
+Sea of Lament added.
+Sumomo, Misantropic Artist added.
+Sayuri, Fire Spirit added.
+Steam Age Overture added.
+Annie, the Bygone Fleet added.
+Leyline of the Underworld added.
+Reconsidered Paths added.
+Eirin and Kaguya added.
+Munomoto, Returning Dream added.
+Amane Shin added.
+Chieko, Bright Sparrow added.
+Ammolite Light added.
+Cage of Marital Vows added.
+Hallusehyen, False God added.
+Vallenria Cinal added.
+
+
+The Festival Starts Today
+rules_text: Whenever you activate an ability of a creature with {T} and at least one mana in its activation cost, scry 1. If this is the fifth time this ability has resolved this turn, reveal the top card of your library. If it's a permanent card, put it onto the battlefield. => Whenever you activate an ability of a creature with {T} and at least one mana in its activation cost, you scry 1 and gain 1 life. If this is the fifth time this ability resolved this turn, you may put a permanent card from your hand onto the battlefield.
+
+Shirogane, Bravehearted
+
+Everyone's Everlasting Danmaku
+
+Lepus Timidys Snowy
+rules_text: Whenever Snowy attacks, create a Treasure token.
+[i]Snow Concealment[/i] — {U}, Sacrifice an artifact: Return Snowy to its owner's hand.
+[i]C40H56 Homing Missile[/i] — {R}, Sacrifice an artifact: Snowy deals 2 damage to any target. => Whenever Snowy attacks, create a Treasure token.
+[i]Snow Concealment[/i] — {U}, Sacrifice an artifact: Return Snowy to its owner's hand.
+[i]C40H56 Homing Missile[/i] — {1}{R}, Sacrifice an artifact: Snowy deals 2 damage to any target.
+
+Yamoto, Steam Age Remnant
+
+Poetry Immortal's Charm
+rules_text: Choose one —
+• Target creature must block this turn if able.
+• Put target card from a graveyard on top of its owner's library.
+• Target artifact or non-Aura enchantment becomes a 3/3 creature in addition to its other types until end of turn. => Choose one —
+• Untap target creature. It must block this turn if able.
+• Put target card from a graveyard on the top or bottom of its owner's library.
+• Target artifact or non-Aura enchantment becomes a 3/3 creature in addition to its other types until end of turn.
+
+Clamor of the Festival
+
+Kumoame, Rain Maiden
+
+Muneyuki, Merchant Sailor
+type: Creature — Human Citizen Pirate => Legendary Creature — Human Pirate
+
+Mamo, the Mastermind
+cost: {5}{B}{G} => {3}{B}{G}
+rules_text: When Mamo enters, gain control of target nonland permanent. It gains “Players may cast this permanent from the battlefield on their turn.” [i](They gain control of it once they do.)[/i]
+Opponents can't cast spells from the battlefield.
+Evoke {1}{B}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When Mamo enters, destroy target nonland permanent with mana value 3 or less. If Mamo escaped, gain control of that permanent instead
+Escape—{3}{B}{G}{U}, Exile six cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+pt: 5/4 => 4/3
+
+OC
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++ {WB}: OC enters with a +1/+1 counter and a lifelink counter on it.
++ {GU}: When OC enters, draw a card.
++ {1}{RG}: OC enters with two +1/+1 counters and a trample counter on it.
++ {1}{BR}: When OC enters, it deals damage equal to its power to target creature or planeswalker. => Spree [i](Choose one or more additional costs.)[/i]
++ {WB}: OC enters with a +1/+1 counter and a lifelink counter on it.
++ {GU}: When OC enters, draw a card.
++ {1}{GW}: OC enters with two +1/+1 counters on it.
++ {1}{BR}: When OC enters, it deals damage equal to its power to target creature or planeswalker.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Muneyuki, Merchant Sailor added.
