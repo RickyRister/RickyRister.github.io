@@ -5,7 +5,7 @@
 			<name>F2HU</name>
 			<longname>Universes Beyond: Touhou Fangames/Albums</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-30</releasedate>
+			<releasedate>2026-02-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -195,7 +195,7 @@ When Ma Sekisei enters, create a Sawdust token. (It&apos;s an artifact with no a
 			<name>Michel Sant&apos;Angelo</name>
 			<text>Flash
 Flying
-Angel spells you cast have convoke.
+Angel spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting a creature spell pays for {1} or one mana of that creature&apos;s color.)
 Whenever Michel Sant&apos;Angelo attacks, put a +1/+1 counter on each Angel you control.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/22_Michel Sant&apos;Angelo.png" num="22">F2HU</set>
 			<prop>
@@ -269,7 +269,7 @@ If a creature is attacking you, you may cast Nueko from your graveyard by discar
 		</card>
 		<card>
 			<name>Sever Relationship</name>
-			<text>Exile up to two target creatures controlled by different players. Return one to the battlefield and the other to the battlefield at the beginning of the next end step. (They enter under their owner&apos;s control)</text>
+			<text>Exile up to two target creatures controlled by different players. Return one to the battlefield (now) and the other to the battlefield at the beginning of the next end step. (They enter under their owner&apos;s control)</text>
 			<set rarity="common" picurl="https://ricky-mse-hub/sets/F2HU-files/img/31_Sever Relationship.png" num="31">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -446,7 +446,7 @@ Whenever Bon enters or attacks, target player chooses one — That player draws 
 		<card>
 			<name>Fantasy Withdrawl Syndrome</name>
 			<text>Target player reveals their hand. You choose a nonland card from it. That player discards that card.
-Until your next turn, noncreature spells cost an additional &quot;Pay 1 life&quot; to cast. You lose 1 life.</text>
+Until your next turn, noncreature spells cost an additional 1 life to cast. You lose 1 life.</text>
 			<set rarity="uncommon" picurl="https://ricky-mse-hub/sets/F2HU-files/img/76_Fantasy Withdrawl Syndrome.png" num="76">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -481,7 +481,7 @@ Acting While in Pieces — You may cast this card from your graveyard using its 
 		</card>
 		<card>
 			<name>Keshika, Flower of Evil</name>
-			<text>At the beginning of each player&apos;s combat, put a flower counter on another target creature that player controls. It has &quot;this creature gets +1/-1 and can&apos;t block.&quot;
+			<text>At the beginning of each player&apos;s combat, put a flower counter on another target creature that player controls. It gains &quot;this creature gets +1/-1 and can&apos;t block.&quot;
 Whenever a creature with one or more flower counters on it dies, its controller draws that many cards and loses that much life.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/80_Keshika, Flower of Evil.png" num="80">F2HU</set>
 			<prop>
@@ -652,7 +652,7 @@ At the beginning of your end step, if you lost life, discarded a card, or sacrif
 		<card>
 			<name>Shiran, the Fake Priest</name>
 			<text>Flying, lifelink
-Whenever Shiran attacks, put a +1/+1 counter on her, then repeat the following process for each +1/+1 counter on her. Exile the top card of defending player&apos;s library. You lose life equal to its mana value. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.</text>
+Whenever Shiran attacks, put a +1/+1 counter on her, then repeat the following process for each +1/+1 counter on her. Exile the top card of defending player&apos;s library and you lose life equal to its mana value. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast spells this way.</text>
 			<set rarity="uncommon" picurl="https://ricky-mse-hub/sets/F2HU-files/img/97_Shiran, the Fake Priest.png" num="97">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -706,7 +706,7 @@ Harmony — Return target card from your graveyard to your hand unless an oppone
 		</card>
 		<card>
 			<name>Kousan, Spear of Chaos</name>
-			<text>Kousan and equipped creature has first strike as long as she&apos;s attacking.
+			<text>As long as it&apos;s your turn, Kousan and equipped creature have first strike.
 Whenever Kousan or equipped creature attacks, goad target creature defending player controls.
 Reconfigure {R} ({R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
 			<set rarity="uncommon" picurl="https://ricky-mse-hub/sets/F2HU-files/img/113_Kousan, Spear of Chaos.png" num="113">F2HU</set>
@@ -1272,7 +1272,7 @@ Harmony — Gain control of the chosen creature until your next turn.</text>
 		</card>
 		<card>
 			<name>Mitori, the Crimson Grudge</name>
-			<text>As Mitori enters, choose the name of a nonland card. When you do, return all permanents with the chosen name to their owner&apos;s hands
+			<text>As Mitori enters, choose a nonland card name. When you do, return all permanents with the chosen name to their owner&apos;s hands
 Players can&apos;t cast spells with the chosen name.
 Permanents with the chosen name can&apos;t enter the battlefield.</text>
 			<set rarity="mythic" picurl="https://ricky-mse-hub/sets/F2HU-files/img/206_Mitori, the Crimson Grudge.png" num="206">F2HU</set>
@@ -1453,7 +1453,7 @@ Touko gets +1/+1 for each land controlled by the opponent who controls the most 
 		<card>
 			<name>Ummu, Antediluvian</name>
 			<text>Ummu can&apos;t attack or block unless your library has twenty or fewer cards in it.
-If you would draw a card, instead you mill 5 cards, then put a card from among them into your hand.
+If you would draw a card, instead you mill five cards, then put a card from among them into your hand.
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/246_Ummu, Antediluvian.png" num="246">F2HU</set>
 			<prop>
@@ -1471,8 +1471,8 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 		</card>
 		<card>
 			<name>Yanduo, Dance of Fabric</name>
-			<text>Whenever Yanduo enters, or she attacks with another creature, create a Garment token attached to target unenchanted creature you control. (It&apos;s a white Aura enchantment token with &quot;enchant creature&quot; and &quot;enchanted creature gets +1/+1.)
-Whenever another unenchanted creature you control becomes enchanted, you gain 1 life and draw a card.</text>
+			<text>Whenever Yanduo enters, or she attacks with another creature, create a Garment token attached to target unenchanted creature you control. (It&apos;s a white Aura enchantment token with &quot;enchant creature&quot; and &quot;enchanted creature gets +1/+1.&quot;)
+Whenever another unenchanted creature you control becomes enchanted, you draw a card and gain 1 life.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/250_Yanduo, Dance of Fabric.png" num="250">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -1863,7 +1863,7 @@ The first noncreature spell you cast each turn costs {1} less to cast.</text>
 		</card>
 		<card>
 			<name>Aimi, Dreaming Heartbroken Girl</name>
-			<text>Kicker—{3}{B}
+			<text>Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)
 When Aimi enters, you lose 1 life and draw a card. If this spell was kicked, you may repeat that process up to seven times.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/70_Aimi, Dreaming Heartbroken Girl.png" num="70">F2HU</set>
 			<prop>
@@ -2228,7 +2228,7 @@ When this enchantment leaves the battlefield, you may play any number of cards e
 		</card>
 		<card>
 			<name>Lethal Entertainment</name>
-			<text>Kicker {3}{U}
+			<text>Kicker {3}{U} (You may pay an additional {3}{U} as you cast this spell.)
 Choose two target creatures controlled by the same player. That player sacrifices one of them. If this spell was kicked, you gain control of the other.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/81_Lethal Entertainment.png" num="81">F2HU</set>
 			<prop>
@@ -2384,7 +2384,7 @@ Counter target spell.</text>
 		<card>
 			<name>Corin Charite</name>
 			<text>Flying
-When Corin enters, create a Blood token.
+When Corin enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
 Activated abilities of Blood tokens you control can&apos;t be activated.</text>
 			<set rarity="common" picurl="https://ricky-mse-hub/sets/F2HU-files/img/107_Corin Charite.png" num="107">F2HU</set>
 			<prop>
@@ -2455,7 +2455,7 @@ Search your library for up to two basic land cards, reveal those cards, put one 
 		</card>
 		<card>
 			<name>Everyone&apos;s Everlasting Danmaku</name>
-			<text>Whenever a creature you control deals combat damage to a player, if it&apos;s a color that hasn&apos;t been chosen for this enchantment this turn, you may choose one of its colors. When you do, this enchantment deals 1 damage to any target.</text>
+			<text>Whenever a creature you control deals combat damage to a player, choose one of its colors. When you choose a color that hasn&apos;t been chosen this way this turn, this enchantment deals 1 damage to any target.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/108_Everyone&apos;s Everlasting Danmaku.png" num="108">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -2572,7 +2572,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Yamatoyo no Momohime</name>
-			<text>Momohime enters tapped and does not untap during your untap step.
+			<text>Momohime enters tapped and doesn&apos;t untap during your untap step.
 Whenever Momohime enters or attacks, choose two —
 • Target player gains 4 life
 • Put three +1/+1 counters on target permanent.
@@ -2705,7 +2705,7 @@ Hunting Season Vigilante — Whenever an opponent casts a spell or activates a n
 			<name>Mayonaka, the Kishin</name>
 			<text>As an additional cost to cast this spell, sacrifice one or more lands.
 Trample
-When Mayonaka enters, if a Mountain was sacrificed to cast her, destroy target nonbasic land. The same is true for Forest and artifact, and Swamp and creature.</text>
+When Mayonaka enters, if a Mountain was sacrificed to cast her, destroy target nonbasic land. The same is true for Forest and target artifact, and Swamp and target creature.</text>
 			<set rarity="mythic" picurl="https://ricky-mse-hub/sets/F2HU-files/img/117_Mayonaka, the Kishin.png" num="117">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -2817,7 +2817,7 @@ Harmony — Create a 1/1 white Human creature token.</text>
 		</card>
 		<card>
 			<name>Theophilia, the Mad Host</name>
-			<text>Whenever Theophilia attacks, each player discards a card, then draws a card. Theophilia gets +1/+1 until end of turn for each player who did not discard a nonland card this way.</text>
+			<text>Whenever Theophilia attacks, each player discards a card, then draws a card. Theophilia gets +1/+1 until end of turn for each player who didn&apos;t discard a nonland card this way.</text>
 			<set rarity="common" picurl="https://ricky-mse-hub/sets/F2HU-files/img/129_Theophilia, the Mad Host.png" num="129">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -3383,7 +3383,7 @@ At the beginning of each opponent&apos;s upkeep, that player exiles a card from 
 		</card>
 		<card>
 			<name>Mizukami, Aqua Seraph</name>
-			<text>Whenever you attack, mill three cards. If all of them are noncreature, nonland cards, monstrosity 1. (If this creature isn&apos;t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+			<text>Whenever you attack, mill three cards. If all of them were noncreature, nonland cards, monstrosity 1. (If this creature isn&apos;t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
 When Mizukami becomes monstrous, exile up to one target nonland card with mana value 4 or less from your graveyard. Cast a copy of it without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/211_Mizukami, Aqua Seraph.png" num="211">F2HU</set>
 			<prop>
@@ -4559,7 +4559,7 @@ Harmony — Goad target creature. (Until your next turn, that creature attacks e
 		</card>
 		<card>
 			<name>Aspect Shift</name>
-			<text>X target nonland permanents phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+			<text>X target nonland permanents phase out.
 Draw a card.</text>
 			<set rarity="common" picurl="https://ricky-mse-hub/sets/F2HU-files/img/5_Aspect Shift.png" num="5">F2HU</set>
 			<prop>
@@ -4738,7 +4738,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Homura, Blacksmith of Living Flame</name>
-			<text>As long as Homura isn&apos;t on the battlefield, it&apos;s an artifact in addition to its other types.
+			<text>As long as Homura isn&apos;t on the battlefield, she&apos;s an artifact in addition to her other types.
 First strike
 Whenever you cycle Homura or she deals combat damage to a player, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
 Cycling {1}{R}</text>
@@ -4758,7 +4758,7 @@ Cycling {1}{R}</text>
 		</card>
 		<card>
 			<name>Mitsuru, Formless Thunder God</name>
-			<text>As long as Mitsuru isn&apos;t on the battlefield, it&apos;s an enchantment in addition to its other types.
+			<text>As long as Mitsuru isn&apos;t on the battlefield, she&apos;s an enchantment in addition to her other types.
 Menace
 Whenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 for each card in your hand.
 Cycling {3}{B}</text>
@@ -4778,7 +4778,7 @@ Cycling {3}{B}</text>
 		</card>
 		<card>
 			<name>Toyomi, Former Sea Queen</name>
-			<text>As long as Toyomi isn&apos;t on the battlefield, it&apos;s a land in addition to its other types.
+			<text>As long as Toyomi isn&apos;t on the battlefield, she&apos;s a land in addition to her other types.
 Trample
 Whenever you cycle Toyomi or she deals combat damage to a player, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
 Cycling {2}{G}</text>
@@ -5322,7 +5322,7 @@ Harmony — Put a +1/+1 counter on each creature you control with power less tha
 		<card>
 			<name>Immortal Lotus</name>
 			<text>{T}, Sacrifice this artifact: Add three mana of any one color.
-When this artifact dies, return it to your hand at the beginning of the next end step.</text>
+When this artifact is put into a graveyard from the battlefield, return it to your hand at the beginning of the next end step.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/272_Immortal Lotus.png" num="272">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -5603,7 +5603,7 @@ Ruine has flying as long as a card you own in exile has flying. The same is true
 		<card>
 			<name>Sumomo, Misantropic Artist</name>
 			<text>Flying
-Whenever Sumomo attacks, draw a card and add {U}{R}{W}. Then discard your hand unless you cast a noncreature spell with mana value 4 or greater.</text>
+Whenever Sumomo attacks, draw a card and add {U}{R}{W}. Then you may cast a noncreature spell with mana value 4 or greater from your hand. If you don&apos;t, discard your hand.</text>
 			<set rarity="rare" picurl="https://ricky-mse-hub/sets/F2HU-files/img/234_Sumomo, Misantropic Artist.png" num="234">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -5798,7 +5798,7 @@ When Chieko enters, target creature or artifact you control gains &quot;{T}: Tap
 		<card>
 			<name>Cage of Marital Vows</name>
 			<text>When this enchantment enters, exile target nonland permanent you don&apos;t control until this enchantment leaves the battlefield.
-Sacrifice this enchantment: The next time target creature dies this turn, return it to the battlefield under its owner&apos;s control</text>
+Sacrifice this enchantment: When target creature next dies this turn, return it from the graveyard to the battlefield under its owner&apos;s control</text>
 			<set rarity="uncommon" picurl="https://ricky-mse-hub/sets/F2HU-files/img/8_Cage of Marital Vows.png" num="8">F2HU</set>
 			<prop>
 				<layout>normal</layout>

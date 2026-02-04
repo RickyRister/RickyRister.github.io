@@ -1,4 +1,160 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+Michel Sant'Angelo
+rules_text: Flash
+Flying
+Angel spells you cast have convoke.
+Whenever Michel Sant'Angelo attacks, put a +1/+1 counter on each Angel you control. => Flash
+Flying
+Angel spells you cast have convoke. [i](Your creatures can help cast those spells. Each creature you tap while casting a creature spell pays for {1} or one mana of that creature's color.)[/i]
+Whenever Michel Sant'Angelo attacks, put a +1/+1 counter on each Angel you control.
+
+Sever Relationship
+rules_text: Exile up to two target creatures controlled by different players. Return one to the battlefield and the other to the battlefield at the beginning of the next end step. [i](They enter under their owner's control)[/i] => Exile up to two target creatures controlled by different players. Return one to the battlefield [i](now)[/i] and the other to the battlefield at the beginning of the next end step. [i](They enter under their owner's control)[/i]
+
+Fantasy Withdrawl Syndrome
+rules_text: Target player reveals their hand. You choose a nonland card from it. That player discards that card.
+Until your next turn, noncreature spells cost an additional “Pay 1 life” to cast. You lose 1 life. => Target player reveals their hand. You choose a nonland card from it. That player discards that card.
+Until your next turn, noncreature spells cost an additional 1 life to cast. You lose 1 life.
+
+Keshika, Flower of Evil
+rules_text: At the beginning of each player's combat, put a flower counter on another target creature that player controls. It has “this creature gets +1/-1 and can't block.”
+Whenever a creature with one or more flower counters on it dies, its controller draws that many cards and loses that much life. => At the beginning of each player's combat, put a flower counter on another target creature that player controls. It gains “this creature gets +1/-1 and can't block.”
+Whenever a creature with one or more flower counters on it dies, its controller draws that many cards and loses that much life.
+
+Shiran, the Fake Priest
+rules_text: Flying, lifelink
+Whenever Shiran attacks, put a +1/+1 counter on her, then repeat the following process for each +1/+1 counter on her. Exile the top card of defending player's library. You lose life equal to its mana value. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell. => Flying, lifelink
+Whenever Shiran attacks, put a +1/+1 counter on her, then repeat the following process for each +1/+1 counter on her. Exile the top card of defending player's library and you lose life equal to its mana value. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast spells this way.
+
+Kousan, Spear of Chaos
+rules_text: Kousan and equipped creature has first strike as long as she's attacking.
+Whenever Kousan or equipped creature attacks, goad target creature defending player controls.
+Reconfigure {R} [i]({R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => As long as it's your turn, Kousan and equipped creature have first strike.
+Whenever Kousan or equipped creature attacks, goad target creature defending player controls.
+Reconfigure {R} [i]({R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Mitori, the Crimson Grudge
+rules_text: As Mitori enters, choose the name of a nonland card. When you do, return all permanents with the chosen name to their owner's hands
+Players can't cast spells with the chosen name.
+Permanents with the chosen name can't enter the battlefield. => As Mitori enters, choose a nonland card name. When you do, return all permanents with the chosen name to their owner's hands
+Players can't cast spells with the chosen name.
+Permanents with the chosen name can't enter the battlefield.
+
+Ummu, Antediluvian
+rules_text: Ummu can't attack or block unless your library has twenty or fewer cards in it.
+If you would draw a card, instead you mill 5 cards, then put a card from among them into your hand.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i] => Ummu can't attack or block unless your library has twenty or fewer cards in it.
+If you would draw a card, instead you mill five cards, then put a card from among them into your hand.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Yanduo, Dance of Fabric
+rules_text: Whenever Yanduo enters, or she attacks with another creature, create a Garment token attached to target unenchanted creature you control. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.)[/i]
+Whenever another unenchanted creature you control becomes enchanted, you gain 1 life and draw a card. => Whenever Yanduo enters, or she attacks with another creature, create a Garment token attached to target unenchanted creature you control. [i](It's a white Aura enchantment token with “enchant creature” and “enchanted creature gets +1/+1.”)[/i]
+Whenever another unenchanted creature you control becomes enchanted, you draw a card and gain 1 life.
+
+Aimi, Dreaming Heartbroken Girl
+rules_text: Kicker—{3}{B}
+When Aimi enters, you lose 1 life and draw a card. If this spell was kicked, you may repeat that process up to seven times. => Kicker {3}{B} [i](You may pay an additional {3}{B} as you cast this spell.)[/i]
+When Aimi enters, you lose 1 life and draw a card. If this spell was kicked, you may repeat that process up to seven times.
+
+Lethal Entertainment
+rules_text: Kicker {3}{U}
+Choose two target creatures controlled by the same player. That player sacrifices one of them. If this spell was kicked, you gain control of the other. => Kicker {3}{U} [i](You may pay an additional {3}{U} as you cast this spell.)[/i]
+Choose two target creatures controlled by the same player. That player sacrifices one of them. If this spell was kicked, you gain control of the other.
+
+Corin Charite
+rules_text: Flying
+When Corin enters, create a Blood token.
+Activated abilities of Blood tokens you control can't be activated. => Flying
+When Corin enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Activated abilities of Blood tokens you control can't be activated.
+
+Everyone's Everlasting Danmaku
+rules_text: Whenever a creature you control deals combat damage to a player, if it's a color that hasn't been chosen for this enchantment this turn, you may choose one of its colors. When you do, this enchantment deals 1 damage to any target. => Whenever a creature you control deals combat damage to a player, choose one of its colors. When you choose a color that hasn't been chosen this way this turn, this enchantment deals 1 damage to any target.
+
+Yamatoyo no Momohime
+rules_text: Momohime enters tapped and does not untap during your untap step.
+Whenever Momohime enters or attacks, choose two —
+• Target player gains 4 life
+• Put three +1/+1 counters on target permanent.
+• Untap target land you control. It becomes a 2/2 Elemental creature with haste that's still a land.
+• Return target permanent card from a graveyard to its owner's hand. => Momohime enters tapped and doesn't untap during your untap step.
+Whenever Momohime enters or attacks, choose two —
+• Target player gains 4 life
+• Put three +1/+1 counters on target permanent.
+• Untap target land you control. It becomes a 2/2 Elemental creature with haste that's still a land.
+• Return target permanent card from a graveyard to its owner's hand.
+
+Mayonaka, the Kishin
+rules_text: As an additional cost to cast this spell, sacrifice one or more lands.
+Trample
+When Mayonaka enters, if a Mountain was sacrificed to cast her, destroy target nonbasic land. The same is true for Forest and artifact, and Swamp and creature. => As an additional cost to cast this spell, sacrifice one or more lands.
+Trample
+When Mayonaka enters, if a Mountain was sacrificed to cast her, destroy target nonbasic land. The same is true for Forest and target artifact, and Swamp and target creature.
+
+Theophilia, the Mad Host
+rules_text: Whenever Theophilia attacks, each player discards a card, then draws a card. Theophilia gets +1/+1 until end of turn for each player who did not discard a nonland card this way. => Whenever Theophilia attacks, each player discards a card, then draws a card. Theophilia gets +1/+1 until end of turn for each player who didn't discard a nonland card this way.
+
+Mizukami, Aqua Seraph
+rules_text: Whenever you attack, mill three cards. If all of them are noncreature, nonland cards, monstrosity 1. [i](If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)[/i]
+When Mizukami becomes monstrous, exile up to one target nonland card with mana value 4 or less from your graveyard. Cast a copy of it without paying its mana cost. => Whenever you attack, mill three cards. If all of them were noncreature, nonland cards, monstrosity 1. [i](If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)[/i]
+When Mizukami becomes monstrous, exile up to one target nonland card with mana value 4 or less from your graveyard. Cast a copy of it without paying its mana cost.
+
+Aspect Shift
+rules_text: X target nonland permanents phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Draw a card. => X target nonland permanents phase out.
+Draw a card.
+
+Homura, Blacksmith of Living Flame
+rules_text: As long as Homura isn't on the battlefield, it's an artifact in addition to its other types.
+First strike
+Whenever you cycle Homura or she deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+Cycling {1}{R} => As long as Homura isn't on the battlefield, she's an artifact in addition to her other types.
+First strike
+Whenever you cycle Homura or she deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+Cycling {1}{R}
+
+Mitsuru, Formless Thunder God
+rules_text: As long as Mitsuru isn't on the battlefield, it's an enchantment in addition to its other types.
+Menace
+Whenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 for each card in your hand.
+Cycling {3}{B} => As long as Mitsuru isn't on the battlefield, she's an enchantment in addition to her other types.
+Menace
+Whenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 for each card in your hand.
+Cycling {3}{B}
+
+Toyomi, Former Sea Queen
+rules_text: As long as Toyomi isn't on the battlefield, it's a land in addition to its other types.
+Trample
+Whenever you cycle Toyomi or she deals combat damage to a player, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
+Cycling {2}{G} => As long as Toyomi isn't on the battlefield, she's a land in addition to her other types.
+Trample
+Whenever you cycle Toyomi or she deals combat damage to a player, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
+Cycling {2}{G}
+
+Overture of an Euphonious Act
+
+Immortal Lotus
+rules_text: {T}, Sacrifice this artifact: Add three mana of any one color.
+When this artifact dies, return it to your hand at the beginning of the next end step. => {T}, Sacrifice this artifact: Add three mana of any one color.
+When this artifact is put into a graveyard from the battlefield, return it to your hand at the beginning of the next end step.
+
+Sumomo, Misantropic Artist
+rules_text: Flying
+Whenever Sumomo attacks, draw a card and add {U}{R}{W}. Then discard your hand unless you cast a noncreature spell with mana value 4 or greater. => Flying
+Whenever Sumomo attacks, draw a card and add {U}{R}{W}. Then you may cast a noncreature spell with mana value 4 or greater from your hand. If you don't, discard your hand.
+
+Cage of Marital Vows
+rules_text: When this enchantment enters, exile target nonland permanent you don't control until this enchantment leaves the battlefield.
+Sacrifice this enchantment: The next time target creature dies this turn, return it to the battlefield under its owner's control => When this enchantment enters, exile target nonland permanent you don't control until this enchantment leaves the battlefield.
+Sacrifice this enchantment: When target creature next dies this turn, return it from the graveyard to the battlefield under its owner's control
+
+
+VERSION 27 CHANGELOG
 ====================
 
 Empty News added.
