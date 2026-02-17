@@ -1,4 +1,68 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+Fantasy Withdrawal Syndrome added.
+Scroll of Forgotten Fables added.
+
+Fantasy Withdrawl Syndrome removed.
+
+Nunokae, the Grateful Crane
+rules_text: Flying, lifelink
+[i]Reciprocity[/i] — At the beginning of each end step, each player who targeted Nunokae with a spell or ability this turn draws a card. => Flying, lifelink
+At the beginning of each end step, each player who targeted Nunokae with a spell or ability this turn draws a card.
+
+Munomoto, Bud of Lost Dreams
+rules_text: Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If you do, put a +1/+1 on Munomoto. Do this only once each turn. => Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If this is the first time this ability has resolved this turn, put a +1/+1 on Munomoto.
+
+Ai Hinoide, Perfect Human
+rules_text: Ai Hinoide enters with a +1/+1 counter on her for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if no mana from a land was spent to cast her, you draw three cards and gain 3 life. => Ai Hinoide enters with a +1/+1 counter on her for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if she was cast and no mana from a land was spent to cast her, you draw three cards and gain 3 life.
+
+Kazuha, Compiler of Waka
+rules_text: Prowess
+Whenever Kazuha attacks, exile the top three cards of your library. Create a colorless Saga enchantment token with “r{1},r{2},r{3} — Until end of turn, you may play the Nth card exiled this way, where N is the number of lore counters on this saga.” => Prowess
+Whenever Kazuha attacks, exile the top two cards of your library. Create a colorless Saga enchantment token with “r{1},r{2} — Until end of turn, you may play the Nth card exiled this way, where N is the number of lore counters on this saga.”
+
+Philippa A.T.B. von Hohenheim
+
+Annika A.T.B von Hohenheim
+
+Kousen, Drought Deity
+rules_text: Haste
+Whenever an opponent activates an ability of a land, if it's not a mana ability, Kousen deals 1 damage to that player. => Haste
+Whenever an opponent activates an ability of a nonbasic land, Kousen deals 1 damage to that player unless that player puts a stun counter on that land.
+
+Fog Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Bad Cloud[/i] — {0} — This spell deals 2 damage to any target.
+• [i]Night Mist Corin[/i] — {1} — This spell deals 2 damage divided as you choose among one or two targets.
+• [i]Bat and Mouse [/i]— {4}{R} — This spell deals 4 damage divided as you choose among any number of targets. => Tiered [i](Choose one additional cost)[/i]
+• [i]Bad Cloud[/i] — {0} — This spell deals 2 damage to any target.
+• [i]Night Mist Corin[/i] — {2} — This spell deals 2 damage divided as you choose among one or two targets.
+• [i]Bat and Mouse [/i]— {4}{R} — This spell deals 4 damage divided as you choose among any number of targets.
+
+Tsubakurowa, Weather-Wise
+
+The Dreamyard
+rules_text: {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a spell with an activated ability or to pay for an activated ability. => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a spell with an activated ability or to activate an ability.
+
+God's Toy
+pt: 1/1 => 2/2
+
+Sumomo, Misantropic Artist
+rules_text: Flying
+Whenever Sumomo attacks, draw a card and add {U}{R}{W}. Then you may cast a noncreature spell with mana value 4 or greater from your hand. If you don't, discard your hand. => Flying
+Whenever Sumomo attacks, draw a card and add {U}{R}{W}. When you do, you may cast a noncreature spell with mana value 4 or greater from your hand. If you don't, discard your hand.
+
+Munomoto, Returning Dream
+rules_text: Whenever Munomoto enters or attacks, look at the bottom card of your library. You may put that card on top of your library.
+Munomoto gets +3/+3 as long as you've put a card on the bottom of your library from anywhere this turn. => At the beginning of combat on your turn, if you've put a card on the bottom of your library from anywhere this turn, Munomoto gets +2/+2 until end of turn and you put the bottom card of your library into your hand
+
+
+VERSION 28 CHANGELOG
 ====================
 
 
