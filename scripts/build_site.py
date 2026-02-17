@@ -15,6 +15,7 @@ import print_html_for_card
 import print_html_for_set
 import print_html_for_sets_page
 import print_html_for_deckbuilder
+import print_html_for_deck_page
 
 import markdown
 
@@ -159,7 +160,7 @@ for code in set_codes:
 			print_draft_file.generateFile(code)
 			print('Generated draft file for {0}.'.format(code))
 		except Exception as e:
-			print('Unable to generate draft file for {0}: {1}'.format(code, e))
+			print('! Unable to generate draft file for {0}: {1}'.format(code, e))
 
 	# CE: Trice
 	if not os.path.isfile(os.path.join('custom', 'sets', code + '-files', code + '.xml')):
@@ -167,7 +168,7 @@ for code in set_codes:
 			print_cockatrice_file.generateFile(code)
 			print('Generated Cockatrice file for {0}.'.format(code))
 		except Exception as e:
-			print('Unable to generate Cockatrice file for {0}: {1}'.format(code, e))
+			print('! Unable to generate Cockatrice file for {0}: {1}'.format(code, e))
 
 	#CE: this code is all for version history
 	if 'version' not in raw:
@@ -269,4 +270,5 @@ for code in set_codes:
 print_html_for_sets_page.generateHTML()
 print_html_for_search.generateHTML(set_codes)
 print_html_for_deckbuilder.generateHTML(set_codes)
+print_html_for_deck_page.generateHTML(set_codes)
 print_html_for_index.generateHTML()
