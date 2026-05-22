@@ -1048,7 +1048,7 @@
 			"name": "Sasuta no Izuhime",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Spirit Monk",
+			"type": "Legendary Creature — Spirit Cleric",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://RickyRister.github.io/sets/F2HU-files/img/29_Sasuta no Izuhime.png"
@@ -1518,7 +1518,7 @@
 			"name": "Reimu, the Final Dream",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Human Monk",
+			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "222",
 			"image_uris": {
 				"en": "https://RickyRister.github.io/sets/F2HU-files/img/222_Reimu, the Final Dream.png"
@@ -1708,7 +1708,7 @@
 			"name": "Inori, Shrine Maiden of Sakura",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — Human Monk",
+			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://RickyRister.github.io/sets/F2HU-files/img/16_Inori, Shrine Maiden of Sakura.png"
@@ -2125,13 +2125,13 @@
 			}
 		},
 		{
-			"name": "Food",
+			"name": "Weapon",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "25",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/25t_Food.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/29t_Weapon.png"
 			}
 		},
 		{
@@ -3076,14 +3076,14 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/29t_Evolving Wilds.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/30t_Evolving Wilds.png"
 			}
 		},
 		{
 			"name": "Sea of Lament",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "293",
@@ -3239,6 +3239,16 @@
 			"collector_number": "276",
 			"image_uris": {
 				"en": "https://RickyRister.github.io/sets/F2HU-files/img/276_Scroll of Forgotten Fables.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/25t_Food.png"
 			}
 		}
 	]
@@ -3463,6 +3473,7 @@
 	4 Sakura, Decision Maker
 	4 OC
 	4 Empty News
+	4 Sea of Lament
 	4 Cage of Marital Vows
 	4 Hallusehyen, False God
 [common(6)]
@@ -3533,7 +3544,6 @@
 	8 Diva's Device
 	8 Yuyuko, Sakurachill Blossom
 	8 Distant Sky Realm
-	8 Sea of Lament
 	8 Sayuri, Fire Spirit
 	8 Reconsidered Paths
 	8 Chieko, Bright Sparrow
@@ -3607,7 +3617,6 @@
 	8 Diva's Device
 	8 Yuyuko, Sakurachill Blossom
 	8 Distant Sky Realm
-	8 Sea of Lament
 	8 Sayuri, Fire Spirit
 	8 Reconsidered Paths
 	8 Chieko, Bright Sparrow
@@ -3891,7 +3900,7 @@
 	6 OC
 	2 Ruine, Discarded Data
 	6 Empty News
-	12 Sea of Lament
+	6 Sea of Lament
 	2 Sumomo, Misantropic Artist
 	12 Sayuri, Fire Spirit
 	2 Steam Age Overture
@@ -4185,7 +4194,7 @@
 	15 OC
 	7 Ruine, Discarded Data
 	15 Empty News
-	6 Sea of Lament
+	15 Sea of Lament
 	7 Sumomo, Misantropic Artist
 	6 Sayuri, Fire Spirit
 	7 Steam Age Overture

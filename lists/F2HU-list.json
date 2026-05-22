@@ -2492,6 +2492,14 @@
         "position": ""
     },
     {
+        "card_name": "Sea of Lament",
+        "number": 293,
+        "shape": "normal",
+        "set": "F2HU",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Cave Leading to Somewhere",
         "number": 279,
         "shape": "normal",
@@ -2510,14 +2518,6 @@
     {
         "card_name": "Otherland's Edge",
         "number": 292,
-        "shape": "normal",
-        "set": "F2HU",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sea of Lament",
-        "number": 293,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2617,8 +2617,16 @@
         "position": ""
     },
     {
-        "card_name": "Evolving Wilds",
+        "card_name": "Weapon",
         "number": 29,
+        "shape": "token",
+        "set": "F2HU",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Evolving Wilds",
+        "number": 30,
         "shape": "token",
         "set": "F2HU",
         "rotated": false,
@@ -2767,9 +2775,6 @@
         "set": "F2HU",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

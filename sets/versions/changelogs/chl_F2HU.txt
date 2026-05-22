@@ -1,4 +1,108 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Weapon added.
+
+
+Ai Hinoide, Perfect Human
+rules_text: Ai Hinoide enters with a +1/+1 counter on her for each mana from a nonland source spent to cast it.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if she was cast and no mana from a land was spent to cast her, you draw three cards and gain 3 life. => Ai Hinoide enters with a +1/+1 counter on her for each mana from a nonland source spent to cast her.
+[i]Idea of Fantasy[/i] — When Ai Hinoide enters, if she was cast and no mana from a land was spent to cast her, you draw three cards and gain 3 life.
+
+Ayame, Essence of Chaos
+rules_text: [i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy target permanent. If there are six or more card types, instead destroy all other permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles. => Indestructible
+[i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy target permanent. If there are six or more card types, instead destroy all permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles.
+
+Sasuta no Izuhime
+type: Legendary Creature — Spirit Monk => Legendary Creature — Spirit Cleric
+
+Reimu, the Final Dream
+type: Legendary Creature — Human Monk => Legendary Creature — Human Cleric
+
+Kousen, Drought Deity
+rules_text: Haste
+Whenever an opponent activates an ability of a nonbasic land, Kousen deals 1 damage to that player unless that player puts a stun counter on that land. => Haste
+Whenever a player activates an ability of a nonbasic land, Kousen deals 1 damage to that player unless that player puts a stun counter on a land they control.
+
+Inori, Shrine Maiden of Sakura
+type: Legendary Creature — Human Monk => Legendary Creature — Human Cleric
+
+Ei, the Eternal Stillness
+rules_text: Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped remain tapped.)[/i]
+All creatures have vigilance.
+{4}: Ei phases out. Only activate as a sorcery. => Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped remain tapped. Untapped creatures can still attack.)[/i]
+{4}: Ei phases out. Only activate as a sorcery.
+
+Mumumu, the Morning Star
+rules_text: Flying
+Ward—Discard a card
+As an additional cost to cast Demon spells, you may pay 2 life any number of times. Those spells cost {1} less to cast for each 2 life you paid.
+Whenever a player discards a card, put a +1/+1 counter on each Demon you control. => Flying
+Ward—Discard a card
+Whenever a player discards a card, put a +1/+1 counter on each Demon you control.
+Pay 2 life: Add one mana of any color. Spend this mana only to cast Demon spells.
+
+Shizuka, Dissector of Fairies
+rules_text: At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie creature token with flying.
+{1}, {T}, Sacrifice X Faeries: Search your library or graveyard for a creature card with mana value X or less and put it onto the battlefield with X +1/+1 counters on it. If you searched your library this way, shuffle. Activate only as a sorcery. => At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie creature token with flying.
+{T}, Sacrifice X Faeries: Search your library or graveyard for a creature card with mana value X or less and put it onto the battlefield with X +1/+1 counters on it. If you searched your library this way, shuffle. Activate only as a sorcery.
+pt: 1/4 => 2/5
+
+Hasuta, the Blinding Royal
+rules_text: First strike
+Whenever Hasuta enters or attacks, other Horrors you control get +2/+0 until end of turn.
+When Hasuta enters, if it's not your main phase, it deals 5 damage to each non-Horror creature. => Whenever Hasuta enters or attacks, Horrors you control get +2/+0 and gain first strike until end of turn.
+When Hasuta enters, if it's not your main phase, she deals 5 damage to each non-Horror creature.
+
+Mitsuru, Formless Thunder God
+rules_text: As long as Mitsuru isn't on the battlefield, she's an enchantment in addition to her other types.
+Menace
+Whenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 for each card in your hand.
+Cycling {3}{B} => As long as Mitsuru isn't on the battlefield, she's an enchantment in addition to her other types.
+Menace
+Whenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 until end of turn for each card type among cards in your graveyard.
+Cycling {3}{B}
+
+Toyomi, Former Sea Queen
+rules_text: As long as Toyomi isn't on the battlefield, she's a land in addition to her other types.
+Trample
+Whenever you cycle Toyomi or she deals combat damage to a player, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
+Cycling {2}{G} => As long as Toyomi isn't on the battlefield, she's a land in addition to her other types.
+Trample
+Whenever you cycle Toyomi or she deals combat damage to a player, you gain 1 life and mill a card for each card type among cards in your graveyard.
+Cycling {2}{G}
+
+Immortal Lotus
+rules_text: {T}, Sacrifice this artifact: Add three mana of any one color.
+When this artifact is put into a graveyard from the battlefield, return it to your hand at the beginning of the next end step. => {T}, Sacrifice this artifact: Add three mana of any one color.
+At the beginning of your upkeep, you may return Immortal Lotus from your graveyard to your hand. If you do, you lose 1 life.
+
+Vinca Wars
+pt: 1/1 => 1/2
+
+Mamo, the Mastermind
+rules_text: When Mamo enters, destroy target nonland permanent with mana value 3 or less. If Mamo escaped, gain control of that permanent instead
+Escape—{3}{B}{G}{U}, Exile six cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i] => When Mamo enters, destroy target nonland permanent with mana value 3 or less. If Mamo escaped, gain control of that permanent instead.
+When Mamo dies, put her on the bottom of her owner's library.
+Escape—{3}{B}{G}{U}, Exile six cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Sea of Lament
+rules_text: This land enters tapped unless you lost life, discarded a card, or sacrificed a nonland permanent this turn.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. => This land enters tapped unless you lost life, discarded a card, or sacrificed a nonland permanent this turn.
+As this land enters, choose two colors.
+{T}: Add one mana of any of the chosen colors.
+
+Munomoto, Returning Dream
+rules_text: At the beginning of combat on your turn, if you've put a card on the bottom of your library from anywhere this turn, Munomoto gets +2/+2 until end of turn and you put the bottom card of your library into your hand => At the beginning of your end step, if you've put a card on the bottom of your library from anywhere this turn, Munomoto gets +2/+2 until the end of your next turn and you draw a card.
+
+Amane Shin
+rules_text: At the beginning of each end step, each opponent chooses two nonland permanents they control. Shuffle all nonland permanents you control other than Amane and all nonland permanents you don't control that wasn't chosen into their owner's libraries. => Ward—Shuffle two nonland permanents you control into their owner's libraries.
+At the beginning of each end step, each player chooses two nonland permanents they control. Shuffle the rest into their owner's libraries.
+
+Cage of Marital Vows
+
+
+VERSION 29 CHANGELOG
 ====================
 
 Fantasy Withdrawal Syndrome added.
