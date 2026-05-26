@@ -75,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Angel Bard",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/17_Janet Arc'Angelo.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/18_Janet Arc'Angelo.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel Bard",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/19_Luciana Abatangelo.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/20_Luciana Abatangelo.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Youkai Peasant",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/20_Ma Sekisei, Fabled Baker.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/21_Ma Sekisei, Fabled Baker.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/22_Michel Sant'Angelo.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/23_Michel Sant'Angelo.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/24_Nana Fumoto, Doll Dealer.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/25_Nana Fumoto, Doll Dealer.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/27_Nunokae, the Grateful Crane.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/28_Nunokae, the Grateful Crane.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Youkai Golem",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/25_Nueko, Castle Protector.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/26_Nueko, Castle Protector.png"
 			}
 		},
 		{
@@ -1045,13 +1045,13 @@
 			}
 		},
 		{
-			"name": "Sasuta no Izuhime",
+			"name": "Izuhime, Shrine Maiden",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Spirit Cleric",
-			"collector_number": "29",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/29_Sasuta no Izuhime.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/17_Izuhime, Shrine Maiden.png"
 			}
 		},
 		{
@@ -1149,9 +1149,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/23_Mumei, Discarded Pottery.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/24_Mumei, Discarded Pottery.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 		{
 			"name": "Starry Wisdom",
 			"rarity": "uncommon",
-			"mana_cost": "{6}{U}{U}",
+			"mana_cost": "{7}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "63",
 			"image_uris": {
@@ -1329,9 +1329,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/21_Mankind Salvation Plan.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/22_Mankind Salvation Plan.png"
 			}
 		},
 		{
@@ -1969,9 +1969,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/18_Jinka, the Yearning Light.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/19_Jinka, the Yearning Light.png"
 			}
 		},
 		{
@@ -2699,9 +2699,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/26_Null Recreator.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/27_Null Recreator.png"
 			}
 		},
 		{
@@ -2929,9 +2929,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://RickyRister.github.io/sets/F2HU-files/img/28_Riko Toone, Divine Diva.png"
+				"en": "https://RickyRister.github.io/sets/F2HU-files/img/29_Riko Toone, Divine Diva.png"
 			}
 		},
 		{
@@ -3424,7 +3424,7 @@
 	4 Phiased, the Magi
 	4 Prune Reality
 	4 Yuuto, Out-of-Place Magician
-	4 Sasuta no Izuhime
+	4 Izuhime, Shrine Maiden
 	4 Chieka, the Artist
 	4 Choo-Eunae, Snake's Bite
 	4 Saraka, Fallen Angel
@@ -3724,7 +3724,7 @@
 	2 Aimi, Dreaming Heartbroken Girl
 	2 Amanozako, Crimson Tyrant
 	12 Ibis Feather
-	6 Sasuta no Izuhime
+	6 Izuhime, Shrine Maiden
 	6 Chieka, the Artist
 	1 Mihana, Princess of Greenery
 	6 Choo-Eunae, Snake's Bite
@@ -4018,7 +4018,7 @@
 	7 Aimi, Dreaming Heartbroken Girl
 	7 Amanozako, Crimson Tyrant
 	6 Ibis Feather
-	15 Sasuta no Izuhime
+	15 Izuhime, Shrine Maiden
 	15 Chieka, the Artist
 	4 Mihana, Princess of Greenery
 	15 Choo-Eunae, Snake's Bite

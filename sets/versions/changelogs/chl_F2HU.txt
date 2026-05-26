@@ -1,4 +1,60 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Izuhime, Shrine Maiden added.
+
+Sasuta no Izuhime removed.
+
+Eléonore, Alligator's Bite
+rules_text: At the beginning of your end step, clash with an opponent. The winner draws two cards and the loser discards a card. [i](Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)[/i]
+Put a card from your hand on top of your library: Eléonore gets +1/+1 until end of turn. => At the beginning of your end step, clash with an opponent. If you win, exile the top two cards of your library. You may play them until the end of your next turn. [i](Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)[/i]
+Put a card from your hand on top of your library: Eléonore gets +1/+1 until end of turn.
+
+Starry Wisdom
+cost: {6}{U}{U} => {7}{U}{U}
+
+Iesua, the Forgiver
+rules_text: Vigilance
+All damage that would be dealt to you and other permanents you control is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, that source's controller draws that many cards and gains that much life.
+If Iesua would die, she phases out instead. => Vigilance
+All damage that would be dealt to other permanents is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, that source's controller draws that many cards and gains that much life.
+If Iesua would die, she phases out instead.
+
+Theophilia, the Mad Host
+
+Rachel, Unstable Scientist
+rules_text: Whenever you cast a noncreature spell, you may sacrifice a nonland permanent. If you do, draw a card and note that permanent's mana value.
+[i]Melancholy of the Lost Scientist[/i] — At the beginning of your end step, if the total mana value noted this turn is 10 or greater, Rachel deals 10 damage to each opponent. => Whenever you cast a noncreature spell, you may sacrifice a nonland permanent. If you do, draw a card and note that permanent's mana value.
+At the beginning of your end step, if the total mana value noted this turn is 10 or greater, Rachel deals 10 damage to each opponent.
+
+Testament's Star Chapter
+
+Erica Leroux, Grand Maestro
+rules_text: Tap an untapped Bard that you control: Harmonize. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => Tap an untapped Bard that you control: Harmonize. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Bards you control get +1/+1 until end of turn.
+
+Mikoto, Tyrant Queen
+rules_text: Reach
+[i]Fossilized Moment[/i] — When Mikoto enters, if she was cast, until the end of your next turn, life totals can't change, and permanents can't enter the battlefield. => Reach
+[i]Fossilized Moment[/i] — When Mikoto enters, if she was cast, until the end of your next turn, life totals can't change, and permanents your opponents control enter phased out.
+
+Mamo, the Mastermind
+rules_text: When Mamo enters, destroy target nonland permanent with mana value 3 or less. If Mamo escaped, gain control of that permanent instead.
+When Mamo dies, put her on the bottom of her owner's library.
+Escape—{3}{B}{G}{U}, Exile six cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i] => When Mamo enters, gain control of target creature or artifact with mana value 3 or less. Then destroy it unless Mamo escaped.
+When Mamo dies, put her on the bottom of her owner's library.
+Escape—{3}{B}{G}{U}, Exile six cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Sayuri, Fire Spirit
+rules_text: Whenever Sayuri deals combat damage to a player, you may sacrifice her. When you do, destroy target artifact or land. If a land is destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. => Sacrifice Sayuri: Destroy target artifact or land whose controller was dealt damage by Sayuri this turn. If a land is destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Cage of Marital Vows
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Weapon added.

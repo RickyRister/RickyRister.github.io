@@ -5,7 +5,7 @@
 			<name>F2HU</name>
 			<longname>Universes Beyond: Touhou Fangames/Albums</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-21</releasedate>
+			<releasedate>2026-05-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -138,7 +138,7 @@ Exile target creature if it&apos;s attacking or if this spell was kicked.</text>
 When Janet enters, harmonize. (Trigger up to one harmony of one permanent you control.)
 Harmony — Look at the top five cards of your library. You may reveal a card with mana value four or greater from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 Angel spells you cast cost {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/17_Janet Arc&apos;Angelo.png" num="17">F2HU</set>
+			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/18_Janet Arc&apos;Angelo.png" num="18">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -158,7 +158,7 @@ Angel spells you cast cost {1} less to cast.</text>
 When Luciana enters, create a colorless Saga enchantment token with &quot;r{3}—At the beginning of the next end step, destroy all creatures&quot;.
 Whenever Luciana attacks, harmonize. (Trigger up to one harmony of a permanent you control.)
 Harmony — You may put a lore counter on a Saga you control or remove one from it.</text>
-			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/19_Luciana Abatangelo.png" num="19">F2HU</set>
+			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/20_Luciana Abatangelo.png" num="20">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -177,7 +177,7 @@ Harmony — You may put a lore counter on a Saga you control or remove one from 
 			<text>Artifacts you control are Food in addition to their other types. (This does not give them the Food ability)
 When Ma Sekisei enters, create a Sawdust token. (It&apos;s an artifact with no abilities)
 {1}{W}, Sacrifice a Food: Target creature can&apos;t attack this turn.</text>
-			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/20_Ma Sekisei, Fabled Baker.png" num="20">F2HU</set>
+			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/21_Ma Sekisei, Fabled Baker.png" num="21">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -197,7 +197,7 @@ When Ma Sekisei enters, create a Sawdust token. (It&apos;s an artifact with no a
 Flying
 Angel spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting a creature spell pays for {1} or one mana of that creature&apos;s color.)
 Whenever Michel Sant&apos;Angelo attacks, put a +1/+1 counter on each Angel you control.</text>
-			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/22_Michel Sant&apos;Angelo.png" num="22">F2HU</set>
+			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/23_Michel Sant&apos;Angelo.png" num="23">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -215,7 +215,7 @@ Whenever Michel Sant&apos;Angelo attacks, put a +1/+1 counter on each Angel you 
 			<name>Nana Fumoto, Doll Dealer</name>
 			<text>Whenever an opponent casts their first spell each turn, create a 1/1 colorless Doll artifact creature token unless that player pays {1}.
 Fumani — Whenever Nana attacks, Dolls you control get +1/+1 and gain flying until end of turn.</text>
-			<set rarity="common" picurl="https://RickyRister.github.io/sets/F2HU-files/img/24_Nana Fumoto, Doll Dealer.png" num="24">F2HU</set>
+			<set rarity="common" picurl="https://RickyRister.github.io/sets/F2HU-files/img/25_Nana Fumoto, Doll Dealer.png" num="25">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -233,7 +233,7 @@ Fumani — Whenever Nana attacks, Dolls you control get +1/+1 and gain flying un
 			<name>Nunokae, the Grateful Crane</name>
 			<text>Flying, lifelink
 At the beginning of each end step, each player who targeted Nunokae with a spell or ability this turn draws a card.</text>
-			<set rarity="common" picurl="https://RickyRister.github.io/sets/F2HU-files/img/27_Nunokae, the Grateful Crane.png" num="27">F2HU</set>
+			<set rarity="common" picurl="https://RickyRister.github.io/sets/F2HU-files/img/28_Nunokae, the Grateful Crane.png" num="28">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -253,7 +253,7 @@ At the beginning of each end step, each player who targeted Nunokae with a spell
 Flying
 Untapped creatures you control get +0/+2.
 If a creature is attacking you, you may cast Nueko from your graveyard by discarding a card in addition to paying its other costs.</text>
-			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/25_Nueko, Castle Protector.png" num="25">F2HU</set>
+			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/26_Nueko, Castle Protector.png" num="26">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1106,7 +1106,7 @@ Whenever Cisa attacks or deals combat damage to a player, choose one—
 		</card>
 		<card>
 			<name>Eléonore, Alligator&apos;s Bite</name>
-			<text>At the beginning of your end step, clash with an opponent. The winner draws two cards and the loser discards a card. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
+			<text>At the beginning of your end step, clash with an opponent. If you win, exile the top two cards of your library. You may play them until the end of your next turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 Put a card from your hand on top of your library: Eléonore gets +1/+1 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/181_Eléonore, Alligator&apos;s Bite.png" num="181">F2HU</set>
 			<prop>
@@ -1916,10 +1916,10 @@ Exhaust — {2}: Draw a card. (Activate each exhaust ability only once.)</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Sasuta no Izuhime</name>
+			<name>Izuhime, Shrine Maiden</name>
 			<text>Prowess
 Whenever a counter is put on an enchantment you control, create a 1/1 black Bird creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/29_Sasuta no Izuhime.png" num="29">F2HU</set>
+			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/17_Izuhime, Shrine Maiden.png" num="17">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2104,7 +2104,7 @@ When Annika enters, create a 1/1 black Homunculus creature token and a Vial toke
 Whenever Mumei enters or attacks, exile up to one target artifact card from your graveyard.
 When Mumei dies, return all cards exiled by her to her owner&apos;s hand.
 Fleeting {W} (You may cast this spell for its fleeting cost. If you do, sacrifice it at the beginning of the next end step.)</text>
-			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/23_Mumei, Discarded Pottery.png" num="23">F2HU</set>
+			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/24_Mumei, Discarded Pottery.png" num="24">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2254,8 +2254,8 @@ Draw three cards.</text>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>6UU</manacost>
-				<cmc>8</cmc>
+				<manacost>7UU</manacost>
+				<cmc>9</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -2424,7 +2424,7 @@ As long as Cathu is attacking, you may cast creature spells from the top of your
 			<name>Mankind Salvation Plan</name>
 			<text>Affinity for legendary permanents (This spell costs {1} less to cast for each legendary permanent you control.)
 Return any number of target creature cards from your graveyard with total mana value 5 or less to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/21_Mankind Salvation Plan.png" num="21">F2HU</set>
+			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/22_Mankind Salvation Plan.png" num="22">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2743,7 +2743,7 @@ When Mayonaka enters, if a Mountain was sacrificed to cast her, destroy target n
 		<card>
 			<name>Iesua, the Forgiver</name>
 			<text>Vigilance
-All damage that would be dealt to you and other permanents you control is dealt to Iesua instead.
+All damage that would be dealt to other permanents is dealt to Iesua instead.
 Whenever a source deals damage to Iesua, that source&apos;s controller draws that many cards and gains that much life.
 If Iesua would die, she phases out instead.</text>
 			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/15_Iesua, the Forgiver.png" num="15">F2HU</set>
@@ -3313,7 +3313,7 @@ Nonland permanents that don&apos;t have vanishing gain vanishing 2 as they enter
 		<card>
 			<name>Rachel, Unstable Scientist</name>
 			<text>Whenever you cast a noncreature spell, you may sacrifice a nonland permanent. If you do, draw a card and note that permanent&apos;s mana value.
-Melancholy of the Lost Scientist — At the beginning of your end step, if the total mana value noted this turn is 10 or greater, Rachel deals 10 damage to each opponent.</text>
+At the beginning of your end step, if the total mana value noted this turn is 10 or greater, Rachel deals 10 damage to each opponent.</text>
 			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/221_Rachel, Unstable Scientist.png" num="221">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -3588,7 +3588,7 @@ Activated abilities of artifacts you control cost {1} less to activate. This eff
 			<text>Flash
 When Jinka enters, phase out another target creature you control. Note that creature&apos;s name.
 At the beginning of your upkeep, if you don&apos;t control a permanent with the noted name, look at the top card of your library. If it has the noted name, you may reveal it and put it into your hand.</text>
-			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/18_Jinka, the Yearning Light.png" num="18">F2HU</set>
+			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/19_Jinka, the Yearning Light.png" num="19">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4506,7 +4506,7 @@ Package Interception — When Omote enters, look at the top card of target playe
 		<card>
 			<name>Erica Leroux, Grand Maestro</name>
 			<text>Tap an untapped Bard that you control: Harmonize. (To harmonize, trigger up to one harmony of a permanent you control.)
-Harmony — Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+Harmony — Bards you control get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/184_Erica Leroux, Grand Maestro.png" num="184">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -4909,7 +4909,7 @@ Once each turn, you may play a card exiled by this enchantment.</text>
 			<text>When Null Recreator enters, create a 1/1 colorless artifact Doll creature token.
 Dolls you control get +1/+1.
 As long as it&apos;s your turn, Dolls you control have hexproof and indestructible.</text>
-			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/26_Null Recreator.png" num="26">F2HU</set>
+			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/27_Null Recreator.png" num="27">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5045,7 +5045,7 @@ Whenever one or more Youkai you control deals combat damage to a player, draw a 
 		<card>
 			<name>Mikoto, Tyrant Queen</name>
 			<text>Reach
-Fossilized Moment — When Mikoto enters, if she was cast, until the end of your next turn, life totals can&apos;t change, and permanents can&apos;t enter the battlefield.</text>
+Fossilized Moment — When Mikoto enters, if she was cast, until the end of your next turn, life totals can&apos;t change, and permanents your opponents control enter phased out.</text>
 			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/205_Mikoto, Tyrant Queen.png" num="205">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -5302,7 +5302,7 @@ Equip {1}</text>
 			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
 Whenever you cast a spell with mana value 4 or greater, harmonize. (Trigger up to one harmony of a permanent you control.)
 Harmony — Put a +1/+1 counter on each creature you control with power less than Riko&apos;s power.</text>
-			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/28_Riko Toone, Divine Diva.png" num="28">F2HU</set>
+			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/29_Riko Toone, Divine Diva.png" num="29">F2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5457,7 +5457,7 @@ At the beginning of your upkeep, look at the top and bottom card of your library
 		</card>
 		<card>
 			<name>Mamo, the Mastermind</name>
-			<text>When Mamo enters, destroy target nonland permanent with mana value 3 or less. If Mamo escaped, gain control of that permanent instead.
+			<text>When Mamo enters, gain control of target creature or artifact with mana value 3 or less. Then destroy it unless Mamo escaped.
 When Mamo dies, put her on the bottom of her owner&apos;s library.
 Escape—{3}{B}{G}{U}, Exile six cards from your graveyard (You may cast this card from your graveyard for its escape cost.)</text>
 			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/202_Mamo, the Mastermind.png" num="202">F2HU</set>
@@ -5619,7 +5619,7 @@ Whenever Sumomo attacks, draw a card and add {U}{R}{W}. When you do, you may cas
 		</card>
 		<card>
 			<name>Sayuri, Fire Spirit</name>
-			<text>Whenever Sayuri deals combat damage to a player, you may sacrifice her. When you do, destroy target artifact or land. If a land is destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<text>Sacrifice Sayuri: Destroy target artifact or land whose controller was dealt damage by Sayuri this turn. If a land is destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
 			<set rarity="common" picurl="https://RickyRister.github.io/sets/F2HU-files/img/260_Sayuri, Fire Spirit.png" num="260">F2HU</set>
 			<prop>
 				<layout>normal</layout>
