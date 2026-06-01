@@ -1,4 +1,32 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+
+Kousen, Drought Deity
+rules_text: Haste
+Whenever a player activates an ability of a nonbasic land, Kousen deals 1 damage to that player unless that player puts a stun counter on a land they control. => Haste
+Whenever a player activates an ability of a nonbasic land, Kousen deals 1 damage to that player unless that player puts a stun counter on a land they control without a stun counter on it.
+
+Hanezu, Definer of Fantasy
+rules_text: [+1]: Target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type. => [+1]: Another target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type.
+special_text: [+1]: Target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type. => [+1]: Another target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type.
+
+Sumomo, Misantropic Artist
+rules_text: Flying
+Whenever Sumomo attacks, draw a card and add {U}{R}{W}. When you do, you may cast a noncreature spell with mana value 4 or greater from your hand. If you don't, discard your hand. => Flying
+Whenever Sumomo attacks, draw a card and add one mana of any color. When you do, you may cast a noncreature spell with mana value 4 or greater from your hand. If you don't, discard your hand.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 Izuhime, Shrine Maiden added.

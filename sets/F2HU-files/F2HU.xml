@@ -5,7 +5,7 @@
 			<name>F2HU</name>
 			<longname>Universes Beyond: Touhou Fangames/Albums</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-26</releasedate>
+			<releasedate>2026-05-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2855,7 +2855,7 @@ Harmony — Create a 1/1 white Human creature token.</text>
 		<card>
 			<name>Kousen, Drought Deity</name>
 			<text>Haste
-Whenever a player activates an ability of a nonbasic land, Kousen deals 1 damage to that player unless that player puts a stun counter on a land they control.</text>
+Whenever a player activates an ability of a nonbasic land, Kousen deals 1 damage to that player unless that player puts a stun counter on a land they control without a stun counter on it.</text>
 			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/114_Kousen, Drought Deity.png" num="114">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -4852,7 +4852,7 @@ Cycling {2}{G}</text>
 		</card>
 		<card>
 			<name>Hanezu, Definer of Fantasy</name>
-			<text>[+1]: Target permanent loses all card types until your next turn.
+			<text>[+1]: Another target permanent loses all card types until your next turn.
 [-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can&apos;t cast spells of the chosen type.
 [-7]: Choose a card type. Exile all permanents of that type.</text>
 			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/188_Hanezu, Definer of Fantasy.png" num="188">F2HU</set>
@@ -5602,7 +5602,7 @@ As this land enters, choose two colors.
 		<card>
 			<name>Sumomo, Misantropic Artist</name>
 			<text>Flying
-Whenever Sumomo attacks, draw a card and add {U}{R}{W}. When you do, you may cast a noncreature spell with mana value 4 or greater from your hand. If you don&apos;t, discard your hand.</text>
+Whenever Sumomo attacks, draw a card and add one mana of any color. When you do, you may cast a noncreature spell with mana value 4 or greater from your hand. If you don&apos;t, discard your hand.</text>
 			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/234_Sumomo, Misantropic Artist.png" num="234">F2HU</set>
 			<prop>
 				<layout>normal</layout>
