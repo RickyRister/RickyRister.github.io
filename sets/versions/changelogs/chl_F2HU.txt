@@ -1,4 +1,77 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+
+
+Sakura, Decision Maker
+rules_text: Reach
+When Sakura enters, scry 1.
+Whenever you attack, you may return Sakura to her owner's hand. If you do, the next time a creature deals combat damage to a player this turn, draw a card. => Reach
+When Sakura enters, scry 1.
+At the beginning of combat on your turn, you may return Sakura to her owner's hand. If you do, the next time a creature deals combat damage to a player this turn, draw a card.
+
+
+VERSION 33 CHANGELOG
+====================
+
+Dorothy, Hardworking Bee added.
+
+
+Unane, the Composer
+pt: 2/1 => 2/2
+
+Treasure Lantern
+rules_text: Whenever equipped creature attacks or Treasure Lantern is sacrificed, you scry 1, gain 1 life, and exile up to one target card from a graveyard.
+{T}, Sacrifice Treasure Lantern: Add one mana of any color.
+Equip {0} => Whenever equipped creature attacks or Treasure Lantern is sacrificed, you scry 1, gain 1 life, and exile up to one target card from a graveyard.
+{T}, Sacrifice Treasure Lantern: Add one mana of any color.
+Equip {0}. Activate only once each turn.
+
+Yomimi, Ultimate Phantom
+rules_text: Haste
+Yomimi attacks each turn if able.
+{T}: Another target creature you control gets +X/+0 until end of turn, where X is Yomimi's power, and attacks this turn if able. => Trample, Haste
+Yomimi attacks each turn if able.
+{T}: Another target creature you control gets +X/+0 until end of turn, where X is Yomimi's power, and attacks this turn if able.
+
+An, Kodama of Tobiume
+rules_text: When An enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+{G}, {T}: Target Forest you control becomes a 3/3 Elemental creature with haste until end of turn. It's still a land.
+{U}: Target Forest gains flying until end of turn. => When An enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+{G}, {T}: Target Forest you control becomes a 3/3 Elemental creature with haste until end of turn. It's still a land. Activate only during your turn.
+{U}: Target Forest gains flying until end of turn.
+
+Faerie
+
+Vial
+pt: 1/1 => 
+
+Erica Leroux, Grand Maestro
+rules_text: Tap an untapped Bard that you control: Harmonize. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Bards you control get +1/+1 until end of turn. => Vigilance
+Tap an untapped Bard that you control: Harmonize. [i](To harmonize, trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Bards you control get +1/+1 until end of turn.
+
+Akira, Jazzy Detective
+rules_text: Whenever you cast a spell, if you've cast a spell with odd mana value and a spell with even mana value this turn, you may harmonize. Do this only once each turn. [i](To harmonize, trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Discard a card, then draw a card. => Whenever you cast your second spell each turn, harmonize. [i](To harmonize, trigger up to one harmony of one permanent you control.)[/i]
+Harmony — Discard a card, then draw a card.
+
+Sakura, Decision Maker
+rules_text: Reach
+At the beginning of your upkeep, look at the top and bottom card of your library. You may exchange them.
+{T}: Put the top and bottom cards of your library into your graveyard. => Reach
+When Sakura enters, scry 1.
+Whenever you attack, you may return Sakura to her owner's hand. If you do, the next time a creature deals combat damage to a player this turn, draw a card.
+
+Scroll of Forgotten Fables
+cost: {2} => {1}
+rules_text: {1}, {T}: This artifact deals 2 damage to any target. Only activate if you put a card on the bottom of your library from anywhere this turn. => {2}, {T}: This artifact deals 2 damage to any target. Only activate if you put a card on the bottom of your library from anywhere this turn.
+
+Food
+
+
+VERSION 32 CHANGELOG
 ====================
 
 
