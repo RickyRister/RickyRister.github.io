@@ -374,7 +374,7 @@ Whenever Megumi attacks, choose up to one creature defending player controls. It
 		<card>
 			<name>Mikoto, Mother Goddess</name>
 			<text>Lifelink
-When Mikoto enters, if she was cast, reveal cards from the top of your library until you reveal a creature card with mana value 4, then put it onto the battlefield under your control. Put the rest on the bottom of your library in a random order. Then do the same for mana value 3 and mana value 2.</text>
+When Mikoto enters, if she was cast, reveal cards from the top of your library until you have revealed creature cards with mana value 2, 3, and 4. Put the first of each of those cards revealed this way onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
 			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/205_Mikoto, Mother Goddess.png" num="205">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -1087,7 +1087,7 @@ Cindy Plum must be blocked by each creature with the greatest power among creatu
 			<name>Cisa Perlach Augusta</name>
 			<text>Vigilance, trample, haste
 Whenever Cisa attacks or deals combat damage to a player, choose one—
-• Put a storied card you own from outside the game into your graveyard. (Enchantments and legendary permanents are storied.)
+• Put a storied card you own from outside the game into your graveyard. (Enchantments and legendaries are storied.)
 • Return target storied card from your graveyard to your hand. 
 • Put a storied card from your hand onto the battlefield.</text>
 			<set rarity="mythic" picurl="https://RickyRister.github.io/sets/F2HU-files/img/178_Cisa Perlach Augusta.png" num="178">F2HU</set>
@@ -2263,7 +2263,7 @@ Draw three cards.</text>
 		</card>
 		<card>
 			<name>An Addendum to the Past</name>
-			<text>Mill three cards, then you may return a land or storied card from your graveyard to your hand. (Enchantments and legendary permanents are storied.)</text>
+			<text>Mill three cards, then you may return a land or storied card from your graveyard to your hand. (Enchantments and legendaries are storied.)</text>
 			<set rarity="common" picurl="https://RickyRister.github.io/sets/F2HU-files/img/134_An Addendum to the Past.png" num="134">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -3453,7 +3453,7 @@ Whenever you gain life, amass Faeries X, where X is the amount of life gained. (
 		</card>
 		<card>
 			<name>Rebellion God Force</name>
-			<text>As an additional cost to cost this spell, you may sacrifice any number of artifacts. This spell costs {1} less to cast for each permanent sacrificed this way.
+			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Rebellion God Force deals X damage divided as you choose among any number of targets.</text>
 			<set rarity="uncommon" picurl="https://RickyRister.github.io/sets/F2HU-files/img/125_Rebellion God Force.png" num="125">F2HU</set>
 			<prop>
@@ -4343,7 +4343,7 @@ Cycle of Water Above the Firmament — When Azure Swirl enters, for each player,
 		</card>
 		<card>
 			<name>Princess&apos;s Wish</name>
-			<text>You may put a storied card you own from outside the game into your hand. (Enchantments and legendary permanents are storied.)
+			<text>You may put a storied card you own from outside the game into your hand. (Enchantments and legendaries are storied.)
 Exile this spell.</text>
 			<set rarity="rare" picurl="https://RickyRister.github.io/sets/F2HU-files/img/153_Princess&apos;s Wish.png" num="153">F2HU</set>
 			<prop>
