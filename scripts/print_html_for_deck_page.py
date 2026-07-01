@@ -5,6 +5,11 @@ import json
 def generateHTML(codes):
 	output_html_file = "deck.html"
 
+	with open(os.path.join('resources', 'site-config.json'), encoding='utf-8-sig') as f:
+		config = json.load(f)
+		base_url = config.get('base_url', '')
+		hub_name = base_url.split('https://')[1].split('.github.io')[0] if 'https://' in base_url else 'unknown'
+
 	# Start creating the HTML file content
 	html_content = '''<html>
 <head>
@@ -13,9 +18,15 @@ def generateHTML(codes):
 	<link rel="stylesheet" href="./resources/mana.css">
 	<link rel="stylesheet" href="./resources/header.css">
 	<link rel="stylesheet" href="./resources/card-text.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 <script title="root">
 	const rootPath = ".";
+	const SUPABASE_URL = 'https://mtjkkvtcmejzcpjmropd.supabase.co';
+	const SUPABASE_KEY = 'sb_publishable_Hgyr2JJRsJRa1pYwoz-ijQ_ozfwnp9t';
+	const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+	const hubName = "''' + hub_name + '''";
 </script>
 <style>
 	@font-face {
@@ -39,6 +50,9 @@ def generateHTML(codes):
 	}
 	.deck-display-container {
 		height: 100%;
+		width: 100%;
+		max-width: 1200px;
+		margin: auto;
 		border: 1px solid #d5d9d9;
 		border-top: 4px solid #171717;
 		border-bottom: 4px solid #171717;
@@ -97,7 +111,7 @@ def generateHTML(codes):
 	.deck-columns-container {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-		gap: 15px;
+		gap: 0px;
 	}
 	@media (max-width: 1200px) {
 		.deck-columns-container {
@@ -105,7 +119,7 @@ def generateHTML(codes):
 		}
 	}
 	.deck-col {
-		padding: 0 15px;
+		padding: 0 12px;
 	}
 	.deck-section {
 		margin-bottom: 20px;
@@ -312,7 +326,13 @@ def generateHTML(codes):
 		<div class="deck-display-container">
 			<div class="deck-main-area">
 				<div class="deck-header">
-					<div id="deck-title">Loading Deck...</div>
+					<div style="display: flex; flex-direction: column; gap: 2px;">
+						<div style="display: flex; align-items: baseline; gap: 15px;">
+							<div id="deck-title">Loading Deck...</div>
+							<div id="deck-format" style="font-size: 16px; color: #666; font-style: italic;"></div>
+						</div>
+						<div id="deck-hub" style="font-size: 12px; color: #888;"></div>
+					</div>
 					<div class="dropdown-container">
 						View cards as<select id="view-select" onchange="setView(this.value)">
 							<option value="text">Text</option>
@@ -322,6 +342,7 @@ def generateHTML(codes):
 						<select id="export-menu" onchange="if(this.value != 'default') exportFile(this.value)">
 							<option value="default">Export ...</option>
 							<option value="clipboard">Copy text</option>
+							<option value="deck-image">Deck Image</option>
 							<option value="export-dek">Export .dek</option>
 							<option value="export-txt">Export .txt</option>
 							<option value="export-cod">Export .cod</option>
@@ -349,7 +370,41 @@ def generateHTML(codes):
 		html_content += f.read()
 
 	html_content += '''
-			loadDeckFromHash();
+			const urlParams = new URLSearchParams(window.location.search);
+			const deckId = urlParams.get('id');
+			
+			if (deckId) {
+				const { data, error } = await _supabase
+					.from('decks')
+					.select('*')
+					.eq('id', deckId)
+					.eq('hub', hubName)
+					.single();
+
+				if (error) {
+					console.error('Error fetching deck:', error);
+					loadDeckFromHash();
+				} else {
+					currentDeck = {
+						name: data.name,
+						format: data.format,
+						main: data.mainboard,
+						side: data.sideboard
+					};
+					document.getElementById("deck-title").innerText = currentDeck.name || "Untitled Deck";
+					document.getElementById("deck-format").innerText = (currentDeck.format && currentDeck.format !== "None") ? currentDeck.format : "";
+					document.title = (currentDeck.name || "Deck") + " - Magic the Egg";
+					render();
+					
+					// Autopopulate first card
+					const allCards = lookupCards(currentDeck.main.concat(currentDeck.side));
+					if (allCards.length > 0) {
+						showCardInGrid(allCards[0].stats);
+					}
+				}
+			} else {
+				loadDeckFromHash();
+			}
 		});
 
 		function loadDeckFromHash() {
@@ -361,11 +416,12 @@ def generateHTML(codes):
 					// Old JSON format
 					currentDeck = JSON.parse(decoded);
 				} else {
-					// New compact format: Name|MainCards|SideCards
+					// New compact format: Name|Format|MainCards|SideCards
 					const parts = decoded.split('|');
 					const name = parts[0];
-					const mainStr = parts[1] || "";
-					const sideStr = parts[2] || "";
+					const format = parts.length > 3 ? parts[1] : "None";
+					const mainStr = parts.length > 3 ? parts[2] : (parts[1] || "");
+					const sideStr = parts.length > 3 ? parts[3] : (parts[2] || "");
 
 					const parsePart = (str) => {
 						if (!str) return [];
@@ -377,11 +433,13 @@ def generateHTML(codes):
 
 					currentDeck = {
 						name: name,
+						format: format,
 						main: parsePart(mainStr),
 						side: parsePart(sideStr)
 					};
 				}
 				document.getElementById("deck-title").innerText = currentDeck.name || "Untitled Deck";
+				document.getElementById("deck-format").innerText = (currentDeck.format && currentDeck.format !== "None") ? currentDeck.format : "";
 				document.title = (currentDeck.name || "Deck") + " - Magic the Egg";
 				render();
 				
@@ -473,6 +531,55 @@ def generateHTML(codes):
 		async function exportFile(export_as) {
 			let deck_text = "";
 			let deck_name = currentDeck.name || "Untitled Deck";
+
+			if (export_as == "deck-image") {
+				const container = document.getElementById("deck-scroll-container");
+				const oldView = currentView;
+				
+				// Force images view if not already there
+				if (currentView !== 'images') {
+					setView('images');
+					document.getElementById("view-select").value = "images";
+				}
+
+				// Wait for images to potentially load
+				await new Promise(resolve => setTimeout(resolve, 500));
+
+				const spoilerCont = container.querySelector(".spoiler-container");
+				if (spoilerCont) {
+					// Temporary style changes for better capture
+					const originalBackground = spoilerCont.style.background;
+					const originalPadding = spoilerCont.style.padding;
+					const originalWidth = spoilerCont.style.width;
+					
+					spoilerCont.style.background = "#f3f3f3";
+					spoilerCont.style.padding = "20px";
+					spoilerCont.style.width = "fit-content";
+					spoilerCont.style.marginRight = "0"; // remove the negative margin trick for capture
+
+					html2canvas(spoilerCont, {
+						useCORS: true,
+						allowTaint: true,
+						backgroundColor: "#f3f3f3",
+						scale: 2 // Higher quality
+					}).then(canvas => {
+						const link = document.createElement('a');
+						link.download = deck_name + ".png";
+						link.href = canvas.toDataURL("image/png");
+						link.click();
+
+						// Restore styles
+						spoilerCont.style.background = originalBackground;
+						spoilerCont.style.padding = originalPadding;
+						spoilerCont.style.width = originalWidth;
+						spoilerCont.style.marginRight = "-70px";
+					});
+				}
+
+				document.getElementById("export-menu").value = "default";
+				return;
+			}
+
 			let export_cod = (export_as == "export-cod");
 
 			if (export_cod) {

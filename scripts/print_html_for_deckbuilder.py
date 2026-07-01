@@ -1,20 +1,40 @@
 import os
 import sys
+import json
 
 def generateHTML(codes):
 	output_html_file = "deckbuilder.html"
+
+	with open(os.path.join('resources', 'site-config.json'), encoding='utf-8-sig') as f:
+		config = json.load(f)
+		base_url = config.get('base_url', '')
+		hub_name = base_url.split('https://')[1].split('.github.io')[0] if 'https://' in base_url else 'unknown'
 
 	# Start creating the HTML file content
 	html_content = '''<html>
 <head>
 	<title>Deckbuilder</title>
-	<link rel="icon" type="image/x-icon" href="./img/deck.png">
+	<link rel="icon" type="image/x-icon" href="./img/deckbuilder.png">
 	<link rel="stylesheet" href="./resources/mana.css">
 	<link rel="stylesheet" href="./resources/header.css">
 	<link rel="stylesheet" href="./resources/card-text.css">
+	<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 <script title="root">
 	const rootPath = ".";
+	const SUPABASE_URL = 'https://mtjkkvtcmejzcpjmropd.supabase.co';
+	const SUPABASE_KEY = 'sb_publishable_Hgyr2JJRsJRa1pYwoz-ijQ_ozfwnp9t';
+	const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+	const hubName = "''' + hub_name + '''";
+
+	function generateShortId(length = 10) {
+		const chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+		let result = '';
+		for (let i = 0; i < length; i++) {
+			result += chars.charAt(Math.floor(Math.random() * chars.length));
+		}
+		return result;
+	}
 </script>
 <style>
 	@font-face {
@@ -63,16 +83,43 @@ def generateHTML(codes):
 		overflow-y: hidden;
 	}
 	.deckbuilder-search-grid {
-		width: 80%;
+		width: 95%;
 		max-width: 1200px;
 		min-height: 36px;
 		display: grid;
-		grid-template-columns: 4fr 1fr;
+		grid-template-columns: 5fr 2fr 1fr;
 		gap: 8px;
-		padding: 5px 10%;
+		padding: 5px 2.5%;
 		border-bottom: 1px solid #898989;
 		justify-items: center;
 		align-items: center;
+	}
+	.search-row {
+		display: grid;
+		grid-template-columns: 3fr 1.5fr 1.5fr 1fr 3fr;
+		gap: 5px;
+		padding: 5px 10px;
+		border-bottom: 1px solid #d5d9d9;
+		cursor: pointer;
+		font-size: 12px;
+		align-items: center;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	.search-row:hover {
+		background-color: #e9e9e9;
+	}
+	.search-row div {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+	.search-row-header {
+		font-weight: bold;
+		background-color: #e0e0e0;
+		position: sticky;
+		top: 0;
+		z-index: 1;
 	}
 	input {
 		width: 100%;
@@ -146,10 +193,14 @@ def generateHTML(codes):
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		width: 98%;
-		overflow-y: scroll;
 		gap: 3px;
 		justify-items: center;
 		padding: 1%;
+	}
+	.search-image-grid .img-container {
+		width: 100%;
+		min-height: 150px;
+		aspect-ratio: 2.5 / 3.5;
 	}
 	@media ( max-width: 750px ) {
 		.image-grid {
@@ -288,7 +339,7 @@ def generateHTML(codes):
 		max-width: 1200px;
 		min-height: 36px;
 		display: grid;
-		grid-template-columns: 1.5fr .65fr .75fr .5fr .75fr;
+		grid-template-columns: 1.5fr 1fr .65fr .75fr .75fr;
 		gap: 3px;
 		padding: 5px 2.5%;
 		border-bottom: 1px solid #898989;
@@ -296,6 +347,9 @@ def generateHTML(codes):
 		align-items: center;
 	}
 	.deck-info-grid select {
+		width: 100%;
+	}
+	#search-display {
 		width: 100%;
 	}
 	.deck-count {
@@ -405,7 +459,9 @@ def generateHTML(codes):
 			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
 			<img class="sg-icon" id="header-search" onclick="goToSearch()">
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -414,8 +470,22 @@ def generateHTML(codes):
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 	</script>
 	<div id="myContextMenu" class="rc-menu">
@@ -441,6 +511,10 @@ def generateHTML(codes):
 						<option value="descending">Desc</option>
 					</select>
 				</div>
+				<select name="search-display" id="search-display">
+					<option value="cards">Cards</option>
+					<option value="text">Text</option>
+				</select>
 			</div>
 			<div class="search-results-container">
 				<div class="search-image-grid-container">
@@ -457,6 +531,9 @@ def generateHTML(codes):
 			</div>
 			<div class="deck-info-grid">
 				<input type="text" value="Untitled Deck" id="deck-name" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<select name="format-select" class="format-select" id="format-select">
+					<option value="None">Format ...</option>
+				</select>
 				<div id="deck-count" class="deck-count">
 					(0 / 0)
 				</div>
@@ -464,7 +541,6 @@ def generateHTML(codes):
 					<option value="text">Text</option>
 					<option value="images">Images</option>
 				</select>
-				<div></div> <!-- empty div for spacing -->
 				<select name="file-menu" class="file-menu" id="file-menu">
 					<option value="default">Actions ...</option>
 					<option value="new">New deck</option>
@@ -472,6 +548,7 @@ def generateHTML(codes):
 					<option value="import-clipboard">Load from clipboard</option>
 					<option value="clipboard">Copy to clipboard</option>
 					<option value="save">Save deck</option>
+					<option value="save-hash">Open deck page</option>
 					<option value="export-dek">Export .dek</option>
 					<option value="export-txt">Export .txt</option>
 					<option value="export-cod">Export .cod</option>
@@ -558,6 +635,18 @@ def generateHTML(codes):
 						sets_json = data; 
 				}).catch(error => console.error('Error:', error));
 
+			await fetch(rootPath + '/lists/formats.json')
+					.then(response => response.json())
+					.then(data => {
+						const select = document.getElementById("format-select");
+						data.formats.forEach(f => {
+							const option = document.createElement("option");
+							option.value = f;
+							option.innerText = f;
+							select.appendChild(option);
+						});
+				}).catch(error => console.error('Error:', error));
+
 			cardGrid = document.getElementById("imagesOnlyGrid");
 			card_list_arrayified.sort(compareFunction);
 
@@ -576,6 +665,7 @@ def generateHTML(codes):
 
 		document.getElementById("sort-by").onchange = displayChangeListener;
 		document.getElementById("sort-order").onchange = displayChangeListener;
+		document.getElementById("search-display").onchange = displayChangeListener;
 
 		document.getElementById("file-menu").addEventListener("change", function(event) {
 			let option = document.getElementById("file-menu").value;
@@ -597,7 +687,11 @@ def generateHTML(codes):
 			}
 			else if (option == "save")
 			{
-				saveDeck();
+				saveToCloud();
+			}
+			else if (option == "save-hash")
+			{
+				openHashedDeck();
 			}
 			else if (option == "clipboard" || option.startsWith("export"))
 			{
@@ -801,11 +895,36 @@ def generateHTML(codes):
 			search();
 		}
 
+		let currentRenderIndex = 0;
+		const CHUNK_SIZE = 100;
+		let searchObserver = null;
+		let currentProcessedResults = [];
+
 		function search() {
 			searchTerms = document.getElementById("search").value.toLowerCase();
+			const displayMode = document.getElementById("search-display").value;
+
+			const resultsContainer = document.querySelector(".search-image-grid-container");
+			if (resultsContainer) resultsContainer.scrollTop = 0;
 
 			cardGrid = document.getElementById("imagesOnlyGrid");
 			cardGrid.innerHTML = "";
+			search_results = [];
+			currentRenderIndex = 0;
+
+			if (searchObserver) {
+				searchObserver.disconnect();
+			}
+
+			if (displayMode === "text") {
+				cardGrid.style.display = "block";
+				const header = document.createElement("div");
+				header.className = "search-row search-row-header";
+				header.innerHTML = "<div>Name</div><div>Sets</div><div>Cost</div><div>P/T</div><div>Type</div>";
+				cardGrid.appendChild(header);
+			} else {
+				cardGrid.style.display = "grid";
+			}
 
 			for (const card of card_list_arrayified) {
 				if (card.shape.includes("token") && !searchTerms.includes("*t:token") && !searchTerms.includes("t:token"))
@@ -815,55 +934,137 @@ def generateHTML(codes):
 
 				searched = searchAllTokens(card, tokenizeTerms(searchTerms));
 
-				if (searched)
+				if (searched && !containsCard(search_results, card))
 				{
 					search_results.push(card);
 				}
 			}
 
-			for (let i = 0; i < search_results.length; i++)
-			{
-				const imgContainer = document.createElement("div");
-				const card_stats = search_results[i];
-				const id = card_stats.set + "-" + card_stats.number + "-" + document.getElementById("display").value;
-				imgContainer.className = "img-container";
-				const card_sr_grid = gridifyCard(search_results[i], true, true);
-				const card_sr = card_sr_grid.getElementsByTagName("img")[0];
-
-				card_sr.onmouseover = function() {
-					cgc = document.getElementById("card-grid-container");
-					cgc.innerHTML = "";
-					const gridified_card = gridifyCard(card_stats, true);
-					gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
-					gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
-					if (card_stats.shape.includes("double"))
-					{
-						gridified_card.getElementsByTagName("button")[0].onclick = function() {
-							imgFlip("image-grid-card", card_stats.rotated);
-						}
-					}
-					cgc.appendChild(gridified_card);
-				};
-
-				card_sr.onclick = function() {
-					addCardToDeck(JSON.stringify(card_stats));
-				}
-				card_sr.style.cursor = "pointer";
-
-				contextMenu = document.getElementById("myContextMenu");
-				card_sr.addEventListener("contextmenu", (event) => {
-					event.preventDefault(); // Prevent default context menu
-
-					contextMenu.style.display = "block";
-					contextMenu.style.left = event.pageX + "px";
-					contextMenu.style.top = event.pageY + "px";
-
-					active_card = JSON.stringify(card_stats);
+			// Pre-process results for the current display mode
+			if (displayMode === "text") {
+				const groupedResults = [];
+				const seenNames = new Set();
+				
+				// Create a quick lookup for sets to avoid O(n^2) later
+				const setLookup = {};
+				card_list_arrayified.forEach(c => {
+					if (!setLookup[c.card_name]) setLookup[c.card_name] = new Set();
+					setLookup[c.card_name].add(c.set);
 				});
 
-				imgContainer.appendChild(card_sr);
-				cardGrid.appendChild(imgContainer);
+				search_results.forEach(card => {
+					if (!seenNames.has(card.card_name)) {
+						seenNames.add(card.card_name);
+						const cardSets = Array.from(setLookup[card.card_name]).join(", ");
+						groupedResults.push({ ...card, allSets: cardSets });
+					}
+				});
+				currentProcessedResults = groupedResults;
+			} else {
+				currentProcessedResults = search_results;
 			}
+
+			renderNextChunk();
+		}
+
+		function renderNextChunk() {
+			const displayMode = document.getElementById("search-display").value;
+			const cardGrid = document.getElementById("imagesOnlyGrid");
+			
+			const oldSentinel = document.getElementById("search-sentinel");
+			if (oldSentinel) oldSentinel.remove();
+
+			const nextChunk = currentProcessedResults.slice(currentRenderIndex, currentRenderIndex + CHUNK_SIZE);
+			
+			nextChunk.forEach(card_stats => {
+				if (displayMode === "text") {
+					const row = document.createElement("div");
+					row.className = "search-row";
+					const pt = (card_stats.pt || "").replace(/\\//g, "/");
+					const cleanCost = card_stats.cost.replace(/{(.*?)}/g, (match, p1) => {
+						return p1.length > 1 ? p1.split('').join('/') : p1;
+					});
+					row.innerHTML = `<div>${card_stats.card_name}</div>
+									 <div>${card_stats.allSets}</div>
+									 <div>${cleanCost}</div>
+									 <div>${pt}</div>
+									 <div>${card_stats.type}</div>`;
+					row.onmouseover = () => renderPreview(card_stats);
+					row.onclick = () => addCardToDeck(JSON.stringify(card_stats));
+					row.addEventListener("contextmenu", (event) => {
+						event.preventDefault();
+						showContextMenu(event, card_stats);
+					});
+					cardGrid.appendChild(row);
+				} else {
+					const imgContainer = document.createElement("div");
+					imgContainer.className = "img-container";
+					const card_sr_grid = gridifyCard(card_stats, true, true);
+					const card_sr = card_sr_grid.getElementsByTagName("img")[0];
+					card_sr.onmouseover = () => renderPreview(card_stats);
+					card_sr.onclick = () => addCardToDeck(JSON.stringify(card_stats));
+					card_sr.style.cursor = "pointer";
+					card_sr.addEventListener("contextmenu", (event) => {
+						event.preventDefault();
+						showContextMenu(event, card_stats);
+					});
+					imgContainer.appendChild(card_sr);
+					cardGrid.appendChild(imgContainer);
+				}
+			});
+
+			currentRenderIndex += CHUNK_SIZE;
+
+			if (currentRenderIndex < currentProcessedResults.length) {
+				const sentinel = document.createElement("div");
+				sentinel.id = "search-sentinel";
+				sentinel.style.height = "20px";
+				cardGrid.appendChild(sentinel);
+
+				if (!searchObserver) {
+					searchObserver = new IntersectionObserver((entries) => {
+						if (entries[0].isIntersecting) {
+							renderNextChunk();
+						}
+					}, { root: document.querySelector(".search-image-grid-container"), threshold: 0.1 });
+				}
+				searchObserver.observe(sentinel);
+			}
+		}
+
+		function renderPreview(card_stats) {
+			const cgc = document.getElementById("card-grid-container");
+			cgc.innerHTML = "";
+			const gridified_card = gridifyCard(card_stats, true);
+			gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
+			gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
+			if (card_stats.shape.includes("double")) {
+				gridified_card.getElementsByTagName("button")[0].onclick = function() {
+					imgFlip("image-grid-card", card_stats.rotated);
+				}
+			}
+			cgc.appendChild(gridified_card);
+		}
+
+		function showContextMenu(event, card_stats) {
+			const contextMenu = document.getElementById("myContextMenu");
+			contextMenu.style.display = "block";
+			contextMenu.style.left = event.pageX + "px";
+			contextMenu.style.top = event.pageY + "px";
+			active_card = JSON.stringify(card_stats);
+		}
+
+		function containsCard(list, card)
+		{
+			for (const li of list)
+			{
+				if (li.card_name == card.card_name && li.cost == card.cost)
+				{
+					return true;
+				}
+			}
+
+			return false;
 		}
 
 		'''
@@ -1220,7 +1421,7 @@ def generateHTML(codes):
 			}
 		}
 
-		function saveDeck() {
+		function openHashedDeck() {
 			const deckName = document.getElementById("deck-name").value;
 			let mainParts = [];
 			let sideParts = [];
@@ -1243,9 +1444,51 @@ def generateHTML(codes):
 				sideParts.push(`${card.set}.${card.number}.${count}`);
 			});
 
-			const compactString = `${deckName}|${mainParts.join(',')}|${sideParts.join(',')}`;
+			const compactString = `${deckName}|${document.getElementById("format-select").value}|${mainParts.join(',')}|${sideParts.join(',')}`;
 			const hash = btoa(compactString);
 			window.open(rootPath + "/deck#" + hash, "_blank");
+			document.getElementById("file-menu").value = "default";
+		}
+
+		async function saveToCloud() {
+			const deckName = document.getElementById("deck-name").value;
+			const deckFormat = document.getElementById("format-select").value;
+			const deckId = generateShortId();
+			
+			const mainboardData = [];
+			const mainMap = new Map();
+			deck.forEach(cardStr => {
+				mainMap.set(cardStr, (mainMap.get(cardStr) || 0) + 1);
+			});
+			mainMap.forEach((count, cardStr) => {
+				const card = JSON.parse(cardStr);
+				mainboardData.push({ set: card.set, num: card.number, count: count });
+			});
+
+			const sideboardData = [];
+			const sideMap = new Map();
+			sideboard.forEach(cardStr => {
+				sideMap.set(cardStr, (sideMap.get(cardStr) || 0) + 1);
+			});
+			sideMap.forEach((count, cardStr) => {
+				const card = JSON.parse(cardStr);
+				sideboardData.push({ set: card.set, num: card.number, count: count });
+			});
+
+			const { data, error } = await _supabase
+				.from('decks')
+				.insert([
+					{ id: deckId, name: deckName, format: deckFormat, mainboard: mainboardData, sideboard: sideboardData, hub: hubName }
+				])
+				.select();
+
+			if (error) {
+				console.error('Error saving deck:', error);
+				alert('Failed to save deck to cloud.');
+			} else {
+				const shareUrl = window.location.origin + window.location.pathname.replace('deckbuilder', 'deck') + '?id=' + deckId;
+				window.open(shareUrl, "_blank");
+			}
 			document.getElementById("file-menu").value = "default";
 		}
 
@@ -1417,6 +1660,7 @@ def generateHTML(codes):
 		snippet = f.read()
 		html_content += snippet
 
+	# ඞ sus
 	html_content += '''
 	</script>
 </body>
