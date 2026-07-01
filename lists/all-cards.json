@@ -17,8 +17,11 @@
             "loyalty": "",
             "artist": "Aishin",
             "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo\n\n!related Elfin Mint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bird",
@@ -37,8 +40,11 @@
             "loyalty": "",
             "artist": "\u95e8\u756a\u795e\u7389",
             "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "!tag FmVA\n!//group FmVA\n!tag game\n\n!related Sasuta no Izuhime",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amanojaku's Folly",
@@ -57,8 +63,11 @@
             "loyalty": "",
             "artist": "Cesium Formiate",
             "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "!tag ZoAM\n!//group ZoAM\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Birds of a Feather",
@@ -77,8 +86,11 @@
             "loyalty": "",
             "artist": "\u75be\u6953\u8fc5\u857e",
             "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag ft-original",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chii, Toothpick Tsukumogami",
@@ -97,8 +109,11 @@
             "loyalty": "",
             "artist": "\u6d77\u6e90",
             "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fairy Contest",
@@ -117,8 +132,11 @@
             "loyalty": "",
             "artist": "\u6d77\u6e90",
             "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "!tag original\n!//group original\n!tag other\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Golden Hymn",
@@ -137,8 +155,11 @@
             "loyalty": "",
             "artist": "\u3053\u308d\u3053\u308d",
             "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Janet Arc'Angelo",
@@ -157,8 +178,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Luciana Abatangelo",
@@ -177,8 +201,11 @@
             "loyalty": "",
             "artist": "Eren",
             "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "!tag EPA\n!//group EPA\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ma Sekisei, Fabled Baker",
@@ -197,8 +224,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "!tag AI\n!//group AI\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Michel Sant'Angelo",
@@ -217,8 +247,11 @@
             "loyalty": "",
             "artist": "\u75be\u6953\u8fc5\u857e",
             "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nana Fumoto, Doll Dealer",
@@ -237,8 +270,11 @@
             "loyalty": "",
             "artist": "ScyllaForest",
             "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "!tag EPA\n!//group EPA\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nunokae, the Grateful Crane",
@@ -257,8 +293,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "!tag DLW\n!//group DLW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nueko, Castle Protector",
@@ -277,8 +316,11 @@
             "loyalty": "",
             "artist": "\u30cf\u3099\u592a",
             "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "!tag OtDE\n!//group OtDE\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sever Relationship",
@@ -297,8 +339,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "!tag AJoR\n!//group AJoR\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tanboku, Austral Pearl",
@@ -317,8 +362,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "!tag II\n!//group II\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Naruko, the Whirlpool",
@@ -337,8 +385,11 @@
             "loyalty": "",
             "artist": "\u5b87\u5b99\u5875/Pinnku33",
             "alias": "",
-            "notes": "!tag MB\n!//group MB\n!tag game",
-            "image_type": "png"
+            "position": "16",
+            "rotated": false,
+            "notes": "!tag MB\n!//group MB\n!tag game\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Konoha, Uncaptured Raccoon",
@@ -357,8 +408,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
-            "notes": "!tag MB\n!//group MB\n!tag game\n!tag music",
-            "image_type": "png"
+            "position": "17",
+            "rotated": false,
+            "notes": "!tag MB\n!//group MB\n!tag game\n!tag music\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kasumi, Submarine Illusion",
@@ -377,8 +431,11 @@
             "loyalty": "",
             "artist": "\u304a\u307d\u5b50/opoko723",
             "alias": "",
-            "notes": "!tag MB\n!//group MB\n!tag game\n!tag music",
-            "image_type": "png"
+            "position": "18",
+            "rotated": false,
+            "notes": "!tag MB\n!//group MB\n!tag game\n!tag music\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Megumi, the Mermaid's Dream",
@@ -397,8 +454,11 @@
             "loyalty": "",
             "artist": "\u304a\u307d\u5b50/opoko723",
             "alias": "",
-            "notes": "!tag MB\n!//group MB\n!tag game\n!tag music",
-            "image_type": "png"
+            "position": "19",
+            "rotated": false,
+            "notes": "!tag MB\n!//group MB\n!tag game\n!tag music\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mikoto, Mother Goddess",
@@ -417,8 +477,11 @@
             "loyalty": "",
             "artist": "\u8317\u8377\u5ead\u5712/Myogatien",
             "alias": "",
-            "notes": "!tag MB\n!//group MB\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "position": "20",
+            "rotated": false,
+            "notes": "!tag MB\n!//group MB\n!tag game\n!tag finalboss\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Miyo and Tsubame, Wavecasters",
@@ -437,8 +500,11 @@
             "loyalty": "",
             "artist": "MagicalMikuri",
             "alias": "",
-            "notes": "!tag MB\n!//group MB\n!tag game",
-            "image_type": "png"
+            "position": "21",
+            "rotated": false,
+            "notes": "!tag MB\n!//group MB\n!tag game\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Otohime Kanpukugu",
@@ -457,8 +523,11 @@
             "loyalty": "",
             "artist": "Bowstringsmall",
             "alias": "",
-            "notes": "!tag MB\n!//group MB\n!tag game",
-            "image_type": "png"
+            "position": "22",
+            "rotated": false,
+            "notes": "!tag MB\n!//group MB\n!tag game\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bon, the Greedy Beast",
@@ -477,8 +546,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "!tag SoBH\n!//group SoBH\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fantasy Withdrawal Syndrome",
@@ -497,8 +569,11 @@
             "loyalty": "",
             "artist": "\u6797\u6a8e",
             "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "!tag SSaFE\n!//group SSaFE\n!tag album\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "General Set",
@@ -517,8 +592,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keshika, Flower of Evil",
@@ -537,8 +615,11 @@
             "loyalty": "",
             "artist": "\u6797\u6a8e",
             "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "!tag SSaFE\n!//group SSaFE\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lokhens, Blind Night Raven",
@@ -557,8 +638,11 @@
             "loyalty": "",
             "artist": "Zen Saikara",
             "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "!tag EPA\n!//group EPA\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mariko, the Downtrodden",
@@ -577,6 +661,7 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "28",
             "card_name2": "Claramary, Queen of Sweets",
             "color2": "WB",
             "type2": "Legendary Creature \u2013 Human Noble",
@@ -588,8 +673,11 @@
             "loyalty2": "",
             "artist2": "\u6797\u6a8e",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag SSaFE\n!//group SSaFE\n!tag album\n!tag ft-quoted\n!tag ft-edited",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Meimei, the Wishing Doll",
@@ -608,8 +696,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "!tag SoHW\n!//group SoHW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nix, Messenger of Darkness",
@@ -628,8 +719,11 @@
             "loyalty": "",
             "artist": "\u83d3\u3061\u3083\u3093",
             "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "!tag FDF1\n!//group FDF1\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Omen of Black Clouds",
@@ -648,8 +742,11 @@
             "loyalty": "",
             "artist": "LHII00",
             "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "!tag SP\n!//group SP\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Padma, Molting Zeal",
@@ -668,8 +765,11 @@
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
             "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "!tag SP\n!//group SP\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Salom\u00e9, Patasola",
@@ -688,8 +788,11 @@
             "loyalty": "",
             "artist": "gren",
             "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "!tag PE\n!//group PE\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shiran, the Fake Priest",
@@ -708,8 +811,11 @@
             "loyalty": "",
             "artist": "\u6d77\u6e90",
             "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unane, the Composer",
@@ -728,8 +834,11 @@
             "loyalty": "",
             "artist": "Gren",
             "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Casual Arson",
@@ -748,8 +857,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "!tag EPA\n!//group EPA\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kousan, Spear of Chaos",
@@ -768,8 +880,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "!tag SoBH\n!//group SoBH\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lightning Word",
@@ -788,8 +903,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "!tag MPP\n!//group MPP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Magura, the Taotie",
@@ -808,8 +926,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "!tag IBP\n!//group IBP\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nene, Mountain Shouter",
@@ -828,8 +949,11 @@
             "loyalty": "",
             "artist": "\u3082\u307f\u3061\u3099\u5c71",
             "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "!tag ZoAM\n!//group ZoAM\n!tag album\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ranran, Scarlet Monkey",
@@ -848,8 +972,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sekito, Shadow-Severing Speed",
@@ -868,8 +995,11 @@
             "loyalty": "",
             "artist": "ANMITA",
             "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "!tag IBP\n!//group IBP\n!tag game\n!tag kaisendo\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shirane, Thunderbird",
@@ -888,8 +1018,11 @@
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
             "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "!tag TGoS\n!//group TGoS\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steel is Born from Flame",
@@ -908,8 +1041,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "!tag IBP\n!//group IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tsumugi Enishi",
@@ -928,8 +1064,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "!tag TCL\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Apple Girlington",
@@ -948,8 +1087,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Festival Starts Today",
@@ -968,8 +1110,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leaf Ponders the Flower",
@@ -988,6 +1133,7 @@
             "loyalty": "",
             "artist": "ryosios",
             "alias": "",
+            "position": "48",
             "card_name2": "Flower Ponders the Leaf",
             "color2": "G",
             "type2": "Enchantment",
@@ -999,8 +1145,11 @@
             "loyalty2": "",
             "artist2": "ryosios",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag SH\n!//group SH\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Munomoto, Bud of Lost Dreams",
@@ -1019,8 +1168,11 @@
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
             "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eight Million Gods",
@@ -1039,8 +1191,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "!//group original\n!tag other",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oxas, Fairy of Clovers",
@@ -1059,8 +1214,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "!tag SoBH\n!//group SoBH\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rebirth of Dreams",
@@ -1079,8 +1237,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Withered Bounty",
@@ -1099,8 +1260,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "!tag SoHW\n!//group SoHW\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ai Hinoide, Perfect Human",
@@ -1119,8 +1283,11 @@
             "loyalty": "",
             "artist": "AuroraArtz",
             "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "!tag UI\n!//group UI\n!tag album\n!tag music\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ayame, Essence of Chaos",
@@ -1139,8 +1306,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "!tag GoDS\n!//group GoDS\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cindy Plum, Rakshasa",
@@ -1159,8 +1329,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "!tag TCL\n!//group TCL\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cisa Perlach Augusta",
@@ -1179,8 +1352,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "!tag AI\n!//group AI\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "El\u00e9onore, Alligator's Bite",
@@ -1199,8 +1375,11 @@
             "loyalty": "",
             "artist": "Clouds",
             "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "!tag HoSS\n!//group HoSS\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elfin Mint",
@@ -1219,8 +1398,11 @@
             "loyalty": "",
             "artist": "CHO",
             "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feza, Blessed Pathfinder",
@@ -1239,8 +1421,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fuma Mishandra",
@@ -1259,8 +1444,11 @@
             "loyalty": "",
             "artist": "\u54c0\u9d09",
             "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hazuki, Onmyouji",
@@ -1279,8 +1467,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horou, Crested Ibis",
@@ -1299,8 +1490,11 @@
             "loyalty": "",
             "artist": "\u30b3\u30eb\u30c6\u30a3",
             "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kazuha, Compiler of Waka",
@@ -1319,8 +1513,11 @@
             "loyalty": "",
             "artist": "\u3075\u3057\u305f\u3053",
             "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "!tag FmVA\n!//group FmVA\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lamis Corrosa",
@@ -1339,8 +1536,11 @@
             "loyalty": "",
             "artist": "Zen Saikara",
             "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "!tag AoFF\n!//group AoFF\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lovia Joutsela, Hiisi",
@@ -1359,8 +1559,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "!tag EPA\n!//group EPA\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mitori, the Crimson Grudge",
@@ -1379,8 +1582,11 @@
             "loyalty": "",
             "artist": "\u8352\u91ce\u3000\u6c96",
             "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "!tag SH\n!//group SH\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mizuho, Onmyouji",
@@ -1399,8 +1605,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ophelia, the Writer",
@@ -1419,8 +1628,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pale Fanhead, Fan Enjoyer",
@@ -1439,8 +1651,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game\n!tag ft-quoted\n!tag ft-edited",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phantasm Paradise",
@@ -1459,8 +1674,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shirogane, Bravehearted",
@@ -1479,8 +1697,11 @@
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
             "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "!tag original\n!tag other\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shuuu, God of Weapons",
@@ -1499,8 +1720,11 @@
             "loyalty": "",
             "artist": "Gagawa / \u30ac\u30ac\u30ef \u30a4\u30c1",
             "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "!tag IBP\n!//group IBP\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Taeyori, the Leader",
@@ -1519,8 +1743,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tenxka Shin",
@@ -1539,8 +1766,11 @@
             "loyalty": "",
             "artist": "AuroraArtz",
             "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "!tag TCL\n!//group TCL\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Touko, Harvest God",
@@ -1559,8 +1789,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "!tag SoHW\n!//group SoHW\n!tag game\n!tag finalboss\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ummu, Antediluvian",
@@ -1579,8 +1812,11 @@
             "loyalty": "",
             "artist": "\u304f\u304f\u3099\u308d\u308d",
             "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "!tag SP\n!//group SP\n!tag game\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yanduo, Dance of Fabric",
@@ -1599,8 +1835,11 @@
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
             "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "!tag MAitN\n!//group MAitN\n!tag concept\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yukiko, Heart of the Swarm",
@@ -1619,8 +1858,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "!tag SoHW\n!//group SoHW\n!tag game\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Marry Shepherd",
@@ -1639,8 +1881,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mystia, Daystruck",
@@ -1659,8 +1904,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag canon\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nebet Tefet",
@@ -1679,8 +1927,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag ft-original",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chirper Phone",
@@ -1699,8 +1950,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Great Ark",
@@ -1719,8 +1973,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure Lantern",
@@ -1739,8 +1996,11 @@
             "loyalty": "",
             "artist": "CsCHO2",
             "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "!tag TCL\n!//group TCL\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hikariko Aosagi",
@@ -1759,8 +2019,11 @@
             "loyalty": "",
             "artist": "\u308a\u3062\u3085",
             "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hyp, Wandering White",
@@ -1779,8 +2042,11 @@
             "loyalty": "",
             "artist": "ID\u541b",
             "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "!tag FDF2\n!//group FDF2\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Artistic Dedication",
@@ -1799,8 +2065,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "!tag AJoR\n!//group AJoR\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chirplagarism",
@@ -1819,8 +2088,11 @@
             "loyalty": "",
             "artist": "Akaim",
             "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Epro, the Programmer",
@@ -1839,8 +2111,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Excessive Monologuing",
@@ -1859,8 +2134,11 @@
             "loyalty": "",
             "artist": "Analogue Reverie",
             "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "!tag DLW\n!//group DLW\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fujioki, Soul of Cuckoos",
@@ -1879,8 +2157,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "!tag AJoR\n!//group AJoR\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gensokyo's Longest Day",
@@ -1899,8 +2180,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nua, Captain of the Ark",
@@ -1919,8 +2203,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phiased, the Magi",
@@ -1939,8 +2226,11 @@
             "loyalty": "",
             "artist": "7_0$#1\u042f\u00b5",
             "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Philippa A.T.B. von Hohenheim",
@@ -1959,8 +2249,11 @@
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
             "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "!tag UI\n!//group UI\n!tag albums",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shizuka, Solitary Hunter",
@@ -1979,8 +2272,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "!tag BW\n!//group BW\n!tag album\n!tag music\n!tag ft-quoted\n!tag ft-edited",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prune Reality",
@@ -1999,8 +2295,11 @@
             "loyalty": "",
             "artist": "Sachisu",
             "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "!tag DLW\n!//group DLW\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yuuto, Out-of-Place Magician",
@@ -2019,8 +2318,11 @@
             "loyalty": "",
             "artist": "DoujinMelon",
             "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aimi, Dreaming Heartbroken Girl",
@@ -2039,8 +2341,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "!tag DLW\n!//group DLW\n!tag game\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amanozako, Crimson Tyrant",
@@ -2059,8 +2364,11 @@
             "loyalty": "",
             "artist": "\u7532\u9178\u94ef\u6f02\u6d6e",
             "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "!tag ZoAM\n!//group ZoAM\n!tag album\n!tag music\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ibis Feather",
@@ -2079,8 +2387,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Izuhime, Shrine Maiden",
@@ -2099,8 +2410,11 @@
             "loyalty": "",
             "artist": "\u5927\u4f34\u4e2d\u7d0d\u8a00\u30af\u3099\u30e9\u30fc\u30cd",
             "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "!tag FmVA\n!//group FmVA\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chieka, the Artist",
@@ -2119,8 +2433,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mihana, Princess of Greenery",
@@ -2139,8 +2456,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "!tag WNSP\n!//group WNSP\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Choo-Eunae, Snake's Bite",
@@ -2159,8 +2479,11 @@
             "loyalty": "",
             "artist": "Clouds",
             "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "!tag HoSS\n!//group HoSS\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Saraka, Fallen Angel",
@@ -2179,8 +2502,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "!tag MPP\n!//group MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Masahi, the Carefree Princess",
@@ -2199,8 +2525,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "!tag AJoR\n!//group AJoR\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tenmu Suitokuin, Daitengu",
@@ -2219,8 +2548,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "!tag MPP\n!//group MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Douraku Kazane, Colorless Tone",
@@ -2239,8 +2571,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "!tag CoMCW\n!//group CoMCW\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Annika A.T.B von Hohenheim",
@@ -2259,8 +2594,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "!tag CUoO\n!//group CUoO\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Homunculus",
@@ -2279,8 +2617,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "!tag CUoO\n!//group CUoO\n!tag game\n\n!related Annika A.T.B von Hohenheim",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mumei, Discarded Pottery",
@@ -2299,8 +2640,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tensei, the Star God",
@@ -2319,8 +2663,11 @@
             "loyalty": "",
             "artist": "\u8033\u603b\u660e\u5c9a",
             "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "!tag SSS\n!//group SSS\n!tag game\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Himemiko, Erased Princess",
@@ -2339,8 +2686,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seiryuu, Willow Spirit",
@@ -2359,8 +2709,11 @@
             "loyalty": "",
             "artist": "\u7eaf\u72d0\u7075\u68a6",
             "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "!tag SSS\n!//group SSS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Musaraku, Source of Nightmares",
@@ -2379,8 +2732,11 @@
             "loyalty": "",
             "artist": "PENNY",
             "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "!tag PD\n!//group PD\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yuyuko, Host of the Banquet",
@@ -2399,8 +2755,11 @@
             "loyalty": "",
             "artist": "scorpion5050",
             "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "!tag FDF2\n!//group FDF2\n!tag game\n!tag canon\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bubble Universe",
@@ -2419,8 +2778,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game\n\n!related Reverence U'n-Llisardggy",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lethal Entertainment",
@@ -2439,8 +2801,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "!tag SoBH\n!//group SoBH\n!tag album\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Starry Wisdom",
@@ -2459,8 +2824,11 @@
             "loyalty": "",
             "artist": "\u6247\u57ce\u3072\u306a",
             "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "An Addendum to the Past",
@@ -2479,8 +2847,11 @@
             "loyalty": "",
             "artist": "gren",
             "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "!tag AI\n!//group AI\n!tag game\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Footprints of Treiste",
@@ -2499,8 +2870,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "!tag MB\n!//group MB\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yomimi, Ultimate Phantom",
@@ -2519,8 +2893,11 @@
             "loyalty": "",
             "artist": "reisi",
             "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "!tag AiI\n!//group AiI\n!tag album\n!tag music\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shekle, Snowflake Fairy",
@@ -2539,8 +2916,11 @@
             "loyalty": "",
             "artist": "\u6d41\u6708",
             "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "!tag ASL\n!//group ASL\n!tag game\n!tag ft-quoted\n!tag ft-edited",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shiina, Deep-Sea Conductor",
@@ -2559,8 +2939,11 @@
             "loyalty": "",
             "artist": "\u3053\u304f\u3053\u3099",
             "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "!tag SoS\n!//group SoS\n!tag album\n!tag finalboss\n!tag ft-original",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "End of History",
@@ -2579,8 +2962,11 @@
             "loyalty": "",
             "artist": "kitairoha",
             "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "!tag BDitB\n!//group BDitB\n!tag game\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Birds Return at Dusk",
@@ -2599,8 +2985,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "!tag AJoR\n!//group AJoR\n!tag album\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Corin Charite",
@@ -2619,8 +3008,11 @@
             "loyalty": "",
             "artist": "ANMITA",
             "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo\n!tag ft-quoted\n!tag ft-edited",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cathu, Dreaming Herald",
@@ -2639,8 +3031,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis, Luca Nicoletti",
             "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "!tag ADM\n!//group ADM\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mankind Salvation Plan",
@@ -2659,8 +3054,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sunrise Moon Viewing",
@@ -2679,8 +3077,11 @@
             "loyalty": "",
             "artist": "Aerza",
             "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "!tag SoHW\n!//group SoHW\n!tag game\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Everyone's Everlasting Danmaku",
@@ -2699,8 +3100,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soukai, Rain Dragon",
@@ -2719,8 +3123,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "!tag TPC\n!//group TPC\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lepus Timidys Snowy",
@@ -2739,8 +3146,11 @@
             "loyalty": "",
             "artist": "\u5e73\u884c\u5e73\u6676",
             "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "!tag ASL\n!//group ASL\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tarumi, World Yamataizer",
@@ -2759,8 +3169,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Divine Jewel",
@@ -2779,8 +3192,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Divine Mirror",
@@ -2799,8 +3215,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Divine Sword",
@@ -2819,8 +3238,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yamatoyo no Momohime",
@@ -2839,8 +3261,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fabritis and Iphonea",
@@ -2859,8 +3284,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Medicine, Queen of Dolls",
@@ -2879,8 +3307,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "!tag LDQ\n!//group LDQ\n!tag game\n!tag canon\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unrepentant Mantra",
@@ -2899,8 +3330,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "!tag AJoR\n!//group AJoR\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Megumu, Newborn Dragon",
@@ -2919,8 +3353,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "!tag IBP\n!//group IBP\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valloside, Pure Suzuran",
@@ -2939,8 +3376,11 @@
             "loyalty": "",
             "artist": "\u7551\u679a\u84c2\u862d",
             "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "!tag LDQ\n!//group LDQ\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ruka, Fawn Spirit",
@@ -2959,8 +3399,11 @@
             "loyalty": "",
             "artist": "AuroraArtz",
             "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "!tag HoSS\n!//group HoSS\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mayonaka, the Kishin",
@@ -2979,8 +3422,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "!tag RoYM\n!//group RoYM\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fiction Sign",
@@ -2999,8 +3445,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Iesua, the Forgiver",
@@ -3019,8 +3468,11 @@
             "loyalty": "",
             "artist": "\u306f\u308b",
             "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reimu, the Final Dream",
@@ -3039,8 +3491,11 @@
             "loyalty": "",
             "artist": "arufa",
             "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "!tag CtC\n!//group CtC\n!tag game\n!tag canon\n!tag music\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Senkiusei, the Supernova",
@@ -3059,8 +3514,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "!tag SoBH\n!//group SoBH\n!tag album\n!tag ft-quoted\n!tag ft-edited",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Noah, Sugar-Spun",
@@ -3079,8 +3537,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "!tag ToUD\n!//group ToUD\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Theophilia, the Mad Host",
@@ -3099,8 +3560,11 @@
             "loyalty": "",
             "artist": "Floom",
             "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "!tag UI\n!//group UI\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horizon Sign",
@@ -3119,8 +3583,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kousen, Drought Deity",
@@ -3139,8 +3606,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "!tag UotAR\n!//group UotAR\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nomi no Hanie",
@@ -3159,8 +3629,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nijie of Earthly Amusements",
@@ -3179,8 +3652,11 @@
             "loyalty": "",
             "artist": "Spear",
             "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "!tag EGoA\n!//group EGoA\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Emerald Tablet",
@@ -3199,8 +3675,11 @@
             "loyalty": "",
             "artist": "NEO_LIBRA_\u5bc4\u751f\u866b",
             "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Lesser Key of Solomon",
@@ -3219,8 +3698,11 @@
             "loyalty": "",
             "artist": "Renaisense",
             "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hate Not the Wind",
@@ -3239,8 +3721,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bird Sign",
@@ -3259,8 +3744,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "!tag GoDS\n!//group GoDS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fog Sign",
@@ -3279,8 +3767,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nue Sign",
@@ -3299,8 +3790,11 @@
             "loyalty": "",
             "artist": "\u6d77\u6e90",
             "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aoi, Creator Deity",
@@ -3319,8 +3813,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "!tag RoYM\n!//group RoYM\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kiseki, the Pruning Saw",
@@ -3339,8 +3836,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "!tag DLW\n!//group DLW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Umikaze, Sea Angel",
@@ -3359,8 +3859,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "!tag TZAtC\n!//group TZAtC\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A Thousand Fathoms Under",
@@ -3379,8 +3882,11 @@
             "loyalty": "",
             "artist": "karma",
             "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "!tag RSS\n!//group RSS\n!tag game\n!tag kaisendo\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "High-Angle Shot",
@@ -3399,8 +3905,11 @@
             "loyalty": "",
             "artist": "\u306e\u308a",
             "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inori, Shrine Maiden of Sakura",
@@ -3419,8 +3928,11 @@
             "loyalty": "",
             "artist": "\u8033\u603b\u660e\u5c9a",
             "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "!tag EIoS\n!//group EIoS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tokuko, Divine Swordbearer",
@@ -3439,8 +3951,11 @@
             "loyalty": "",
             "artist": "huyusilver",
             "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "!tag HGoC\n!//group HGoC\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tobiko, Cunning Reporter",
@@ -3459,8 +3974,11 @@
             "loyalty": "",
             "artist": "\u30df\u30c4\u30b3\u30a2",
             "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hideka, Queen of Dragons",
@@ -3479,8 +3997,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "!tag original\n!//group original\n!tag th18p\n!tag finalboss",
             "image_type": "png",
+            "v_mana": "",
             "designer_notes": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/282W5WOrNpg?si=odMmvEv11yA1Vb2i\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
         {
@@ -3500,8 +4021,11 @@
             "loyalty": "",
             "artist": "AuroraArtz",
             "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "!tag original\n!//group original\n!tag other\n\n!related Hideka, Queen of Dragons",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shushu, Igniter of Night Skies",
@@ -3520,8 +4044,11 @@
             "loyalty": "",
             "artist": "\u661f\u6593",
             "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "!tag BW\n!//group BW\n!tag album\n!tag finalboss\n!tag ft-quoted\n!tag ft-edited",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mitama, Vengeful Spirit",
@@ -3540,8 +4067,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "!tag MPP\n!//group MPP\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mirei, Deep-Sea Symphonist",
@@ -3560,8 +4090,11 @@
             "loyalty": "",
             "artist": "\u3053\u304f\u3053\u3099",
             "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "!tag SoS\n!//group SoS\n!tag album\n!tag ft-original",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aelivia Grapeseedling",
@@ -3580,8 +4113,11 @@
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
             "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "!tag MAitN\n!//group MAitN\n!tag concept\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shizuka, the Transient Elegance",
@@ -3600,8 +4136,11 @@
             "loyalty": "",
             "artist": "\u8033\u603b\u660e\u5c9a",
             "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "!tag EIoS\n!//group EIoS\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ei, the Eternal Stillness",
@@ -3620,8 +4159,11 @@
             "loyalty": "",
             "artist": "NnickykunN",
             "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "!tag EIoS\n!//group EIoS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rachel, Unstable Scientist",
@@ -3640,8 +4182,11 @@
             "loyalty": "",
             "artist": "Gwen",
             "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "!tag UaUP\n!//group UaUP\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nezu, Wicked Kitsune",
@@ -3660,8 +4205,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "!tag BoSM\n!//group BoSM\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Patricia Turing",
@@ -3680,8 +4228,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "!tag FoM\n!//group FoM\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hako, Ark of Death",
@@ -3700,8 +4251,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "!tag MoDP\n!//group MoDP\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mizukami, Aqua Seraph",
@@ -3720,8 +4274,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "!tag OoDD\n!//group OoDD\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Testament's Star Chapter",
@@ -3740,8 +4297,11 @@
             "loyalty": "",
             "artist": "Akaim",
             "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo\n!tag ft-original",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Miyako, Lamp of Life",
@@ -3760,8 +4320,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "!tag TCL\n!//group TCL\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lily White, Fairy Imperator",
@@ -3780,8 +4343,11 @@
             "loyalty": "",
             "artist": "Sixten",
             "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "!tag EUB\n!//group EUB\n!tag game\n!tag canon\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rebellion God Force",
@@ -3800,8 +4366,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "!tag IBP\n!//group IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "An, Kodama of Tobiume",
@@ -3820,8 +4389,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "!tag MPP\n!//group MPP\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mumumu, the Morning Star",
@@ -3840,8 +4412,11 @@
             "loyalty": "",
             "artist": "Moku2333",
             "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "!tag TLC\n!//group TLC\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nanahiyakumi, Song Saint",
@@ -3860,8 +4435,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "!tag SoBH\n!//group SoBH\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inasa, Warring Celestial",
@@ -3880,8 +4458,11 @@
             "loyalty": "",
             "artist": "\u3081\u308b\u3082\u308b\u3093",
             "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "!tag TGoS\n!//group TGoS\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Traitor's Requiem",
@@ -3900,8 +4481,11 @@
             "loyalty": "",
             "artist": "capitisXurxtovi",
             "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "!tag TGoS\n!//group TGoS\n!tag album\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yamoto, Steam Age Remnant",
@@ -3920,8 +4504,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "!tag TGAWRA\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jinka, the Yearning Light",
@@ -3940,8 +4527,11 @@
             "loyalty": "",
             "artist": "\u304d\u3057\u3099\u9ce9",
             "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "!tag TD\n!//group TD\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rin Satsuki, Protagonist",
@@ -3960,8 +4550,11 @@
             "loyalty": "",
             "artist": "Sixten",
             "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "!tag EUB\n!//group EUB\n!tag game\n!tag canon\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Muu, Tragedy Princess",
@@ -3980,8 +4573,11 @@
             "loyalty": "",
             "artist": "\u110b\u1163\u11b7",
             "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "!tag TAC\n!//group TAC\n!tag album\n!tag music\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shizuka, Dissector of Fairies",
@@ -4000,8 +4596,11 @@
             "loyalty": "",
             "artist": "\u7269\u90e8\u6bd2\u9f13",
             "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "!tag TAC\n!//group TAC\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Faerie",
@@ -4020,8 +4619,11 @@
             "loyalty": "",
             "artist": "\u6797\u6a8e",
             "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "!tag TAC\n!//group TAC\n!tag album\n\n!related Shizuka, Dissector of Fairies",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Datura, Weaver of Death",
@@ -4040,8 +4642,11 @@
             "loyalty": "",
             "artist": "Clouds",
             "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "!tag CoLB\n!//group CoLB\n!tag album\n!tag music\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tamako Sant'Angelo",
@@ -4060,8 +4665,11 @@
             "loyalty": "",
             "artist": "NEO_LIBRA_\u5bc4\u751f\u866b",
             "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "!tag OtTW\n!//group OtTW\n!tag game\n!tag kaisendo\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Faerie",
@@ -4080,8 +4688,11 @@
             "loyalty": "",
             "artist": "kusogappa",
             "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "!related Fairy Contest\n!related Map Orb",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Faerie Army",
@@ -4100,8 +4711,11 @@
             "loyalty": "",
             "artist": "\u5357\u8fba\u5317\u7dd2",
             "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "!related Lily White, Fairy Imperator",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vial",
@@ -4120,8 +4734,11 @@
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
             "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "!tag CUoO\n!//group CUoO\n!tag game\n\n!related Annika A.T.B von Hohenheim",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Faerie Soldier",
@@ -4140,8 +4757,11 @@
             "loyalty": "",
             "artist": "Fat",
             "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "!related Mihana, Princess of Greenery",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Doll",
@@ -4160,8 +4780,11 @@
             "loyalty": "",
             "artist": "Gu0st",
             "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "!//group EPA\n\n!related Nana Fumoto, Doll Dealer \n!related Medicine, Queen of Dolls\n!related Null Creator",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bird",
@@ -4180,8 +4803,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n\n!related Bird Sign\n!related Birds of a Feather",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sheep",
@@ -4200,8 +4826,11 @@
             "loyalty": "",
             "artist": "\u9c7c\u76d0\u6e0d\u7269",
             "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "!related Hyp, Wandering White\n!related Marry Shepherd",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Snowball",
@@ -4220,8 +4849,11 @@
             "loyalty": "",
             "artist": "\u5927\u6c5f\u5c71",
             "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "!related Shekle, Snowflake Fairy",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Snail",
@@ -4240,8 +4872,11 @@
             "loyalty": "",
             "artist": "aaaam0",
             "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "!related Masahi, the Carefree Princess",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weapon",
@@ -4260,8 +4895,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "!related Homura, Blacksmith of Living Flame",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clue",
@@ -4280,8 +4918,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "!related Nanahiyakumi, Song Saint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garment",
@@ -4300,8 +4941,11 @@
             "loyalty": "",
             "artist": "\u51b0\u5757\u5757\u5feb\u7b77",
             "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "!tag MAitN\n!//group MAitN\n!tag concept\n\n!related Aelivia Grapeseedling\n!related Yanduo, Dance of Fabric",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -4320,8 +4964,11 @@
             "loyalty": "",
             "artist": "\u4f59\u5bc2_\u591c\u98ce\u7eea",
             "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "!tag CoUD\n!//group CoUD\n!tag album\n\n!related Mizuho, Onmyouji\n!related Hazuki, Onmyouji",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sawdust",
@@ -4340,8 +4987,11 @@
             "loyalty": "",
             "artist": "Famartin",
             "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "!related Ma Sekisei, Fabled Baker",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -4360,8 +5010,11 @@
             "loyalty": "",
             "artist": "CobaltDream",
             "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "!tag TCL\n!//group TCL\n!tag game\n\n!related Bon, the Greedy Beast \n!related Hideka, Queen of Dragons\n!related Lepus Timidys Snowy\n!related Miyako, Lamp of Life",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood",
@@ -4380,8 +5033,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "!related Corin Charite",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Youkai",
@@ -4400,8 +5056,11 @@
             "loyalty": "",
             "artist": "mefomefo",
             "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "!related Bon, the Greedy Beast",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Human",
@@ -4420,8 +5079,11 @@
             "loyalty": "",
             "artist": "shinmon akika",
             "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "!related Senkiusei, the Supernova\n!related Dancing Plague",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -4440,8 +5102,11 @@
             "loyalty": "",
             "artist": "changetofantasy",
             "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "!related Miyo and Tsubame, Wavecasters\n!related Yuyuko, Host of the Banquet",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Doll",
@@ -4460,8 +5125,11 @@
             "loyalty": "",
             "artist": "Craiyon",
             "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "!//group TCL\n\n!related Tenxka Shin",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jagiko, Witch of Scrolls",
@@ -4480,8 +5148,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "!tag AoFF\n!//group AoFF\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Existential Humankind",
@@ -4500,8 +5171,11 @@
             "loyalty": "",
             "artist": "CDJAM",
             "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "!tag DLW\n!//group DLW\n!tag game\n!tag music\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kawauso, Funnel of Desire",
@@ -4520,8 +5194,11 @@
             "loyalty": "",
             "artist": "\u307d\u306b\u3083",
             "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "!tag SoBH\n!//group SoBH\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Akaste, Shark's Bite",
@@ -4540,8 +5217,11 @@
             "loyalty": "",
             "artist": "Clouds",
             "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "!tag HoSS\n!//group HoSS\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Serene Heikegani, Crustacean",
@@ -4560,8 +5240,11 @@
             "loyalty": "",
             "artist": "moku2333",
             "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "!tag WWW\n!//group WWW\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lycaropia Hearn",
@@ -4580,8 +5263,11 @@
             "loyalty": "",
             "artist": "\u3059\u30fc",
             "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "!tag BDitB\n!//group BDitB\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Akiwaza, Crossroads God",
@@ -4600,8 +5286,11 @@
             "loyalty": "",
             "artist": "\u6953\u6804Mapler",
             "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "!tag SP\n!//group SP\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sonia von Auersperg",
@@ -4620,8 +5309,11 @@
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
             "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "!tag BDitB\n!//group BDitB\n!tag game\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yakari, Bridger of Realms",
@@ -4640,8 +5332,11 @@
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
             "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "!tag PE\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hasuta, the Blinding Royal",
@@ -4660,8 +5355,11 @@
             "loyalty": "",
             "artist": "FarhanMelukis, Luca Nicoletti",
             "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "!tag ADM\n!//group ADM\n!tag album\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dangerous Curiosity",
@@ -4680,8 +5378,11 @@
             "loyalty": "",
             "artist": "Kishin_suiito",
             "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "!tag CoBD\n!tag game\n!tag music\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tsubakurowa, Weather-Wise",
@@ -4700,8 +5401,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elly, the Immutable Truth",
@@ -4720,8 +5424,11 @@
             "loyalty": "",
             "artist": "\u30ab\u30ba",
             "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "!tag taisei\n!tag game\n!tag music\n!tag finalboss\n!tag canon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scuttle Nightbug",
@@ -4740,8 +5447,11 @@
             "loyalty": "",
             "artist": "Afens",
             "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "!tag taisei\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Azure Swirl",
@@ -4760,8 +5470,11 @@
             "loyalty": "",
             "artist": "\u308c\u3089\u308a\u3093",
             "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "!tag SP\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Princess's Wish",
@@ -4780,8 +5493,11 @@
             "loyalty": "",
             "artist": "\u591c\u89a9\u30ab\u30bf\u30ea",
             "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "!tag HGoC\n!tag album\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Banka, Tiny Ancient Legacy",
@@ -4800,8 +5516,11 @@
             "loyalty": "",
             "artist": "\u7406\u548c\u62b9\u8336",
             "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "!tag TCL\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consonica, the Grand",
@@ -4820,8 +5539,12 @@
             "loyalty": "",
             "artist": "FarhanMelukis",
             "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "!tag original\n!tag CnD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": "",
+            "designer_notes": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/opGcI8TXigU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
         {
             "card_name": "Yukari, Terrifying Enigma",
@@ -4840,8 +5563,11 @@
             "loyalty": "5",
             "artist": "Yuriniel",
             "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "!tag FDF2\n!tag game\n!tag canon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Theone Phillips",
@@ -4860,8 +5586,11 @@
             "loyalty": "3",
             "artist": "Lunarthic",
             "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "!tag GoDS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aiguillon Gifttaenzer",
@@ -4880,8 +5609,11 @@
             "loyalty": "",
             "artist": "Lunarthic",
             "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "!tag GoDS\n!tag game\n\n!relatedTheone Phillips",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Omote, Information Uploader",
@@ -4900,8 +5632,11 @@
             "loyalty": "",
             "artist": "Primary Dragon",
             "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "!tag FSF\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reverence U'n-Llisardggy",
@@ -4920,8 +5655,11 @@
             "loyalty": "4",
             "artist": "Wavy",
             "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "!tag WWW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deep Mutating Cavern",
@@ -4940,8 +5678,11 @@
             "loyalty": "",
             "artist": "Pendleton Ward",
             "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "!tag ADM\n!tag album\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Erica Leroux, Grand Maestro",
@@ -4960,8 +5701,11 @@
             "loyalty": "",
             "artist": "Zen Saikara",
             "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "!tag EPA\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Shadow Over Gensokyo",
@@ -4980,8 +5724,11 @@
             "loyalty": "",
             "artist": "katari",
             "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "!tag GoDS\n!tag ADM\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Map Orb",
@@ -5000,8 +5747,11 @@
             "loyalty": "",
             "artist": "\u95e8\u756a\u795e\u7389",
             "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "!tag FmVA",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aspect Shift",
@@ -5020,8 +5770,11 @@
             "loyalty": "",
             "artist": "\u5427\u5566\u5427\u5566",
             "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kusuko, False God",
@@ -5040,8 +5793,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
-            "notes": "!tag MPP\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "position": "250",
+            "rotated": false,
+            "notes": "!tag MPP\n!tag game\n!tag kaisendo\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Instant Brilliant Night",
@@ -5060,8 +5816,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "!tag concept\n!tag BftD\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Awaji, Ruler of Nothingness",
@@ -5080,8 +5839,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": "!tag concept\n!tag BftD\n!tag finalboss\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ichiyou, Ninja Descendant",
@@ -5100,8 +5862,11 @@
             "loyalty": "",
             "artist": "ANMITA",
             "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "!tag BoSM\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orwell's Quarantined Utopia",
@@ -5120,8 +5885,11 @@
             "loyalty": "",
             "artist": "\u3078\u3099\u3089\u307b\u3099\u3046",
             "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": "!tag ToUC\n!tag hifuu\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yet Another Rain Incident",
@@ -5140,8 +5908,11 @@
             "loyalty": "",
             "artist": "\u72ac\u72ac",
             "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drunken Sailor's Charm",
@@ -5160,8 +5931,11 @@
             "loyalty": "",
             "artist": "PRISWOCAER",
             "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "!tag WWW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tiny Buddha's Charm",
@@ -5180,8 +5954,11 @@
             "loyalty": "",
             "artist": "Needless",
             "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": "!tag TCL\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vengeful Spirit's Charm",
@@ -5200,8 +5977,11 @@
             "loyalty": "",
             "artist": "\u63d0\u7763\u3055\u3093",
             "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": "!tag MPP\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Homura, Blacksmith of Living Flame",
@@ -5220,8 +6000,11 @@
             "loyalty": "",
             "artist": "Lunarthic",
             "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "!tag GoDS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mitsuru, Formless Thunder God",
@@ -5240,8 +6023,11 @@
             "loyalty": "",
             "artist": "Lunarthic",
             "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "!tag GoDS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Toyomi, Former Sea Queen",
@@ -5260,8 +6046,11 @@
             "loyalty": "",
             "artist": "Lunarthic",
             "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "!tag GoDS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Poetry Immortal's Charm",
@@ -5280,8 +6069,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": "!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Winter Spirit's Charm",
@@ -5300,8 +6092,11 @@
             "loyalty": "",
             "artist": "Zen Saikara",
             "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "!tag original\n!tag CnD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seiko, Spirited Away",
@@ -5320,8 +6115,11 @@
             "loyalty": "3",
             "artist": "Mefomefo",
             "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": "!tag OP\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hanezu, Definer of Fantasy",
@@ -5340,8 +6138,11 @@
             "loyalty": "4",
             "artist": "\u6797\u6a8e",
             "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": "!tag SSaFE\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Festival Entrance",
@@ -5360,8 +6161,11 @@
             "loyalty": "",
             "artist": "Ryann Thierry",
             "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "!tag FSF\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clamor of the Festival",
@@ -5380,8 +6184,11 @@
             "loyalty": "",
             "artist": "\u306d\u308b\u305e\u3046",
             "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "!tag HMoJ\n!tag hifuu\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Null Recreator",
@@ -5400,8 +6207,11 @@
             "loyalty": "",
             "artist": "\u7551\u679a\u84c2\u862d",
             "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "!tag LDQ\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Dreamyard",
@@ -5420,8 +6230,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": "!tag CoUD\n!tag album\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Grand Theatre",
@@ -5440,8 +6253,11 @@
             "loyalty": "",
             "artist": "Zen Saikara",
             "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "!tag EPA\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Geo-Poetry",
@@ -5460,8 +6276,11 @@
             "loyalty": "",
             "artist": "\u3086\u305f\u308d\u3046",
             "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "!tag HoD\n!tag hifuu\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dancing Plague",
@@ -5480,8 +6299,11 @@
             "loyalty": "",
             "artist": "103anon",
             "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "!tag EPA\n!tag album\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Akira, Jazzy Detective",
@@ -5500,8 +6322,11 @@
             "loyalty": "",
             "artist": "AzuRemilia",
             "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "!tag EPA\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ayaka, Newborn Bass",
@@ -5520,8 +6345,11 @@
             "loyalty": "",
             "artist": "Meriki",
             "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": "!tag EPA\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mitsuki and Mashu",
@@ -5540,8 +6368,11 @@
             "loyalty": "",
             "artist": "\u304d\u3055\u3089\u304d\u3099",
             "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "!tag SoS\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mikoto, Tyrant Queen",
@@ -5560,18 +6391,21 @@
             "loyalty": "",
             "artist": "PumpkinPielex",
             "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "!tag FW\n!tag album\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Memento Forest",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land",
+            "type": "Land \u2013 Forest",
             "number": 291,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control a basic Forest.\n{T}: Add {G}.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
+            "rules_text": "[i]({T}: Add {G}.)[/i]\nThis land enters tapped unless you control a basic land.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5580,18 +6414,21 @@
             "loyalty": "",
             "artist": "\u3078\u3044\u3084",
             "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deep-Stratum Limestone",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land",
+            "type": "Land \u2013 Mountain",
             "number": 283,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control a basic Mountain.\n{T}: Add {R}.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
+            "rules_text": "[i]({T}: Add {R}.)[/i]\nThis land enters tapped unless you control a basic land.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5600,8 +6437,11 @@
             "loyalty": "",
             "artist": "\u8ed2\u5d0e\u98a8\u6797",
             "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "!tag AI\n!tag album\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overture of an Euphonious Act",
@@ -5620,8 +6460,11 @@
             "loyalty": "",
             "artist": "Zen Saikara",
             "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "!tag EPA\n!tag album\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kumoame, Rain Maiden",
@@ -5640,18 +6483,21 @@
             "loyalty": "",
             "artist": "ID\u541b",
             "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "!tag NoA\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Far-East El Dorado",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land",
+            "type": "Land \u2013 Plains",
             "number": 287,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control a basic Plains.\n{T}: Add {W}.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
+            "rules_text": "[i]({T}: Add {W}.)[/i]\nThis land enters tapped unless you control a basic land.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5660,8 +6506,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "!tag HSoB\n!//group HSoB\n!tag game\n!tag kaisendo\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cave Leading to Somewhere",
@@ -5680,18 +6529,21 @@
             "loyalty": "",
             "artist": "Alixiron",
             "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": "!tag UaUP\n!//group UaUP\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hollow Mansion",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land",
+            "type": "Land \u2013 Swamp",
             "number": 290,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control a basic Swamp.\n{T}: Add {B}.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
+            "rules_text": "[i]({T}: Add {B}.)[/i]\nThis land enters tapped unless you control a basic land.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5700,8 +6552,11 @@
             "loyalty": "",
             "artist": "\u9752\u8449 HAL",
             "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "!tag IBP\n!//group IBP\n!tag game\n!tag kaisendo\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Otherland's Edge",
@@ -5720,8 +6575,11 @@
             "loyalty": "",
             "artist": "Ocha",
             "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "!tag HoSS\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zheng Shu, Tranquil Beast",
@@ -5740,18 +6598,21 @@
             "loyalty": "",
             "artist": "\u1102\u1161\u1110\u1162",
             "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "!tag ZoAM\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abyssal Abandoned Metropolis",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land",
+            "type": "Land \u2013 Island",
             "number": 279,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "This land enters tapped unless you control a basic Island.\n{T}: Add {U}.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
+            "rules_text": "[i]({T}: Add {U}.)[/i]\nThis land enters tapped unless you control a basic land.\n{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5760,8 +6621,11 @@
             "loyalty": "",
             "artist": "\u6953\u6804Mapler",
             "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "!tag WNSP\n!//group WNSP\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ceramic Graveyard",
@@ -5780,8 +6644,11 @@
             "loyalty": "",
             "artist": "\u767d\u5d0e\u307d\u3068\u3075",
             "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "God's Toy",
@@ -5800,8 +6667,11 @@
             "loyalty": "",
             "artist": "\u6211\u59bb\u6d1b\u91ac",
             "alias": "",
-            "notes": "!tag FDF3\n!tag game",
-            "image_type": "png"
+            "position": "288",
+            "rotated": false,
+            "notes": "!tag FDF3\n!tag game\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gensokyo's Final Day",
@@ -5820,8 +6690,11 @@
             "loyalty": "",
             "artist": "\u9b3c\u753b\u7b26",
             "alias": "",
-            "notes": "!tag CtC\n!//group CtC\n!tag game",
-            "image_type": "png"
+            "position": "289",
+            "rotated": false,
+            "notes": "!tag CtC\n!//group CtC\n!tag game\n!tag rachel",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Diva's Device",
@@ -5840,8 +6713,11 @@
             "loyalty": "",
             "artist": "last",
             "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": "!tag MPP\n!tag game\n!tag kaisendo\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Riko Toone, Divine Diva",
@@ -5860,8 +6736,11 @@
             "loyalty": "",
             "artist": "\u304d\u3058\u9ce9",
             "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "!tag MPP\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Immortal Lotus",
@@ -5880,8 +6759,11 @@
             "loyalty": "",
             "artist": "\u661f\u9f8d",
             "alias": "",
+            "position": "292",
+            "rotated": false,
             "notes": "!tag ASL\n!tag game\n!tag music\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beanstalk Linking Heaven and Earth",
@@ -5900,8 +6782,11 @@
             "loyalty": "",
             "artist": "\u624d\u77f3",
             "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": "!tag OtTW\n!tag game\n!tag kaisendo\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vinca Wars",
@@ -5920,8 +6805,11 @@
             "loyalty": "",
             "artist": "\u63d0\u7763\u3055\u3093",
             "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": "!tag WNSP\n!//group WNSP\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yuyuko, Sakurachill Blossom",
@@ -5940,8 +6828,11 @@
             "loyalty": "",
             "artist": "\u30ec\u30bf\u30ea\u30e0",
             "alias": "",
+            "position": "295",
+            "rotated": false,
             "notes": "!tag RSS\n!tag game\n!tag music\n!tag kaisendo\n!tag canon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Muneyuki, Merchant Sailor",
@@ -5960,8 +6851,11 @@
             "loyalty": "",
             "artist": "\u59ee",
             "alias": "",
+            "position": "296",
+            "rotated": false,
             "notes": "!tag TGAwRA\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shinyoku, Figment of Some God",
@@ -5980,8 +6874,11 @@
             "loyalty": "",
             "artist": "\u98d8\u6e38\u8f7b\u98ce\u65c5, tommyvideo",
             "alias": "",
+            "position": "297",
+            "rotated": false,
             "notes": "!tag UVoI\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Distant Sky Realm",
@@ -6000,8 +6897,11 @@
             "loyalty": "",
             "artist": "\u98d8\u6e38\u8f7b\u98ce\u65c5",
             "alias": "",
+            "position": "298",
+            "rotated": false,
             "notes": "!tag UVoI\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sakura, Decision Maker",
@@ -6020,8 +6920,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "299",
+            "rotated": false,
             "notes": "!tag FL\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mamo, the Mastermind",
@@ -6040,8 +6943,11 @@
             "loyalty": "",
             "artist": "\u8679\u7530\u307e\u3057\u3099\u308b",
             "alias": "",
+            "position": "300",
+            "rotated": false,
             "notes": "!tag SoHW\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "OC",
@@ -6060,8 +6966,11 @@
             "loyalty": "",
             "artist": "\u4e1c\u65b9\u7eee\u6a31\u7ed8\u5236\u4f5c\u7ec4",
             "alias": "",
+            "position": "301",
+            "rotated": false,
             "notes": "!tag CIV\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Illusion",
@@ -6080,8 +6989,11 @@
             "loyalty": "",
             "artist": "\u98d8\u6e38\u8f7b\u98ce\u65c5",
             "alias": "",
+            "position": "302",
+            "rotated": false,
             "notes": "!related Shinyoku, Figment of Some God",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ruine, Discarded Data",
@@ -6100,8 +7012,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "303",
+            "rotated": false,
             "notes": "!tag WaVR\n!//group WaVR\n!tag concept\n!tag finalboss\n!tag ft-original",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Empty News",
@@ -6120,6 +7035,7 @@
             "loyalty": "",
             "artist": "\u3086\u305f\u308d\u3046",
             "alias": "",
+            "position": "304",
             "card_name2": "The Other Side",
             "color2": "",
             "type2": "Land",
@@ -6131,8 +7047,11 @@
             "loyalty2": "",
             "artist2": "\u3086\u305f\u308d\u3046",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag TVSO\n!tag hifuu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Evolving Wilds",
@@ -6151,8 +7070,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "305",
+            "rotated": false,
             "notes": "!related Yuyuko, Sakurachill Blossom",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sea of Lament",
@@ -6171,8 +7093,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "306",
+            "rotated": false,
             "notes": "!tag AJoR\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sumomo, Misantropic Artist",
@@ -6191,8 +7116,11 @@
             "loyalty": "",
             "artist": "crazytreasurestudio",
             "alias": "",
+            "position": "307",
+            "rotated": false,
             "notes": "!tag game\n!tag PoD\n!tag finalboss\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sayuri, Fire Spirit",
@@ -6211,8 +7139,11 @@
             "loyalty": "",
             "artist": "Team Dream Compass",
             "alias": "",
+            "position": "308",
+            "rotated": false,
             "notes": "!tag TSS\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steam Age Overture",
@@ -6231,8 +7162,11 @@
             "loyalty": "",
             "artist": "\u5427\u5566\u5427\u5566",
             "alias": "",
+            "position": "309",
+            "rotated": false,
             "notes": "!tag TGAWRA\n!tag album\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Annie, the Bygone Fleet",
@@ -6251,8 +7185,11 @@
             "loyalty": "",
             "artist": "\u9e22\u9e22\u9e22\u9e22\u5b50",
             "alias": "",
+            "position": "310",
+            "rotated": false,
             "notes": "!tag TGAWRA\n!tag album\n!tag finalboxx",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leyline of the Underworld",
@@ -6271,8 +7208,11 @@
             "loyalty": "",
             "artist": "\u307b\u309a\u306b\u3083",
             "alias": "",
+            "position": "311",
+            "rotated": false,
             "notes": "!tag IBP\n!tag game\n!tag music",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reconsidered Paths",
@@ -6291,8 +7231,11 @@
             "loyalty": "",
             "artist": "Kale Hakaido",
             "alias": "",
-            "notes": "!tag IW\n!tag hifuu",
-            "image_type": "png"
+            "position": "312",
+            "rotated": false,
+            "notes": "!tag IW\n!tag hifuu\n!tag music",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eirin and Kaguya",
@@ -6311,8 +7254,11 @@
             "loyalty": "",
             "artist": "\u6211\u59bb\u6d1b\u91ac",
             "alias": "",
+            "position": "313",
+            "rotated": false,
             "notes": "!tag FDF3\n!tag game\n!tag finalboss\n!tag canon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Munomoto, Returning Dream",
@@ -6331,8 +7277,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "314",
+            "rotated": false,
             "notes": "!tag WaVR\n!tag concept",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amane Shin",
@@ -6351,8 +7300,11 @@
             "loyalty": "",
             "artist": "\u3082\u307f\u3061\u3099\u5c71",
             "alias": "",
+            "position": "315",
+            "rotated": false,
             "notes": "!tag TCL\n!tag game\n!tag finalboss",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chieko, Bright Sparrow",
@@ -6371,8 +7323,11 @@
             "loyalty": "",
             "artist": "FanTouhouMusic",
             "alias": "",
+            "position": "316",
+            "rotated": false,
             "notes": "!tag EoCA\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ammolite Light",
@@ -6391,8 +7346,11 @@
             "loyalty": "",
             "artist": "gren",
             "alias": "",
+            "position": "317",
+            "rotated": false,
             "notes": "!tag TCL\n!//group TCL\n!tag game\n!tag ft-quoted",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cage of Marital Vows",
@@ -6411,8 +7369,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
-            "notes": "!tag BLUE\n!tag hifuu",
-            "image_type": "png"
+            "position": "318",
+            "rotated": false,
+            "notes": "!tag BLUE\n!tag hifuu\n!tag music",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hallusehyen, False God",
@@ -6431,8 +7392,11 @@
             "loyalty": "",
             "artist": "\u4e91\u7edd\u4e07\u91cc",
             "alias": "",
+            "position": "319",
+            "rotated": false,
             "notes": "!tag TUO\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vallenria Cinal",
@@ -6451,8 +7415,11 @@
             "loyalty": "",
             "artist": "\u4e91\u7edd\u4e07\u91cc",
             "alias": "",
+            "position": "320",
+            "rotated": false,
             "notes": "!tag TUO\n!tag game",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scroll of Forgotten Fables",
@@ -6471,8 +7438,11 @@
             "loyalty": "",
             "artist": "Meriki",
             "alias": "",
+            "position": "321",
+            "rotated": false,
             "notes": "!tag aoff\n!tag album",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Food",
@@ -6491,8 +7461,11 @@
             "loyalty": "",
             "artist": "Akinomiya Asuka",
             "alias": "",
+            "position": "322",
+            "rotated": false,
             "notes": "!related Apple Girlington\n!related Nanahiyakumi, Song Saint\n!related Noah, Sugar-Spun\n!related Withered Bounty\n!related Dorothy, Hardworking Bee",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dorothy, Hardworking Bee",
@@ -6511,8 +7484,11 @@
             "loyalty": "",
             "artist": "PrimaryDragon",
             "alias": "",
+            "position": "323",
+            "rotated": false,
             "notes": "!tag LoOZ\n!tag game\n!tag kaisendo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         }
     ]
 }

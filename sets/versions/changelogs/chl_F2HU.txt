@@ -1,4 +1,50 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Memento Forest
+type: Land => Land — Forest
+rules_text: This land enters tapped unless you control a basic Forest.
+{T}: Add {G}.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card. => [i]({T}: Add {G}.)[/i]
+This land enters tapped unless you control a basic land.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.
+
+Deep-Stratum Limestone
+type: Land => Land — Mountain
+rules_text: This land enters tapped unless you control a basic Mountain.
+{T}: Add {R}.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card. => [i]({T}: Add {R}.)[/i]
+This land enters tapped unless you control a basic land.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.
+
+Far-East El Dorado
+type: Land => Land — Plains
+rules_text: This land enters tapped unless you control a basic Plains.
+{T}: Add {W}.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card. => [i]({T}: Add {W}.)[/i]
+This land enters tapped unless you control a basic land.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.
+
+Hollow Mansion
+type: Land => Land — Swamp
+rules_text: This land enters tapped unless you control a basic Swamp.
+{T}: Add {B}.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card. => [i]({T}: Add {B}.)[/i]
+This land enters tapped unless you control a basic land.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.
+
+Abyssal Abandoned Metropolis
+type: Land => Land — Island
+rules_text: This land enters tapped unless you control a basic Island.
+{T}: Add {U}.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card. => [i]({T}: Add {U}.)[/i]
+This land enters tapped unless you control a basic land.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card.
+
+
+VERSION 35 CHANGELOG
 ====================
 
 
