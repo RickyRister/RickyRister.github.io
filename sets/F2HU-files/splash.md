@@ -11,6 +11,7 @@ Special Thanks:
 All cards are tagged with the acronym of the source material, so for example, you can search `tag:HSoB` to look up all cards from Holow Song of Birds.
 
 Some more tags:
+
 - `tag:game`: Source material is from an actual fangame.
 - `tag:album`: Source material is from a fake fangame album.
 - `tag:hifuu`: Source material is from a hifuu album.

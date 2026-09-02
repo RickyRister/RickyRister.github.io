@@ -1,4 +1,72 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+Hansha, Messenger Figment added.
+
+Corin Charite
+rules_text: Flying
+When Corin enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Activated abilities of Blood tokens you control can't be activated. => Flying
+When Corin enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Activated abilities of Blood tokens you control can't be activated.
+
+Fiction Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Eastern Tale![/i] — {0} — Surveil 1, then draw a card.
+• [i]Fanhead Canon![/i] — {1} — Draw two cards, then discard a card.
+• [i]Against All Canons![/i] — {4}{U} — Surveil 3, then draw three cards. => Tiered [i](Choose one additional cost.)[/i]
+• [i]Eastern Tale![/i] — {0} — Surveil 1, then draw a card.
+• [i]Fanhead Canon![/i] — {1} — Draw two cards, then discard a card.
+• [i]Against All Canons![/i] — {4}{U} — Surveil 3, then draw three cards.
+
+Horizon Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Bringing Bough[/i] — {0} — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• [i]Promise of a Better World[/i] — {2} — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+• [i]Olive Tree Uprooting[/i] — {4}{G} — Return each land card from your graveyard to the battlefield. => Tiered [i](Choose one additional cost.)[/i]
+• [i]Bringing Bough[/i] — {0} — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• [i]Promise of a Better World[/i] — {2} — Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+• [i]Olive Tree Uprooting[/i] — {4}{G} — Return each land card from your graveyard to the battlefield.
+
+Bird Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+Create X 1/1 white Bird creature tokens with flying.
+• [i]Bird's Fountain[/i] — {0} — X is 1.
+• [i]Heron's Fountain[/i] — {2} — X is 2.
+• [i]Aosageyser of the Damned[/i] — {3}{W} — X is the number of creatures you control. => Tiered [i](Choose one additional cost.)[/i]
+Create X 1/1 white Bird creature tokens with flying.
+• [i]Bird's Fountain[/i] — {0} — X is 1.
+• [i]Heron's Fountain[/i] — {2} — X is 2.
+• [i]Aosageyser of the Damned[/i] — {3}{W} — X is the number of creatures you control.
+
+Fog Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Bad Cloud[/i] — {0} — This spell deals 2 damage to any target.
+• [i]Night Mist Corin[/i] — {2} — This spell deals 2 damage divided as you choose among one or two targets.
+• [i]Bat and Mouse [/i]— {4}{R} — This spell deals 4 damage divided as you choose among any number of targets. => Tiered [i](Choose one additional cost.)[/i]
+• [i]Bad Cloud[/i] — {0} — This spell deals 2 damage to any target.
+• [i]Night Mist Corin[/i] — {2} — This spell deals 2 damage divided as you choose among one or two targets.
+• [i]Bat and Mouse [/i]— {4}{R} — This spell deals 4 damage divided as you choose among any number of targets.
+
+Nue Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Danmaku Ammit[/i] — {0} — Target player sacrifices a creature or planeswalker.
+• [i]Armored Aumaan[/i] — 1[b]B[/b] — Destroy target creature or planeswalker.
+• [i]A Baal-like Yours Truly [/i]— {3}{B} — Exile target creature or planeswalker and target player's graveyard. => Tiered [i](Choose one additional cost.)[/i]
+• [i]Danmaku Ammit[/i] — {0} — Target player sacrifices a creature or planeswalker.
+• [i]Armored Aumaan[/i] — 1[b]B[/b] — Destroy target creature or planeswalker.
+• [i]A Baal-like Yours Truly [/i]— {3}{B} — Exile target creature or planeswalker and target player's graveyard.
+
+Ammolite Light
+rules_text: Choose one—
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. You lose 2 life.
+• Exile target player's graveyard. => Choose one—
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. You lose 1 life.
+• Exile target player's graveyard.
+
+
+
+VERSION 36 CHANGELOG
 ====================
 
 
