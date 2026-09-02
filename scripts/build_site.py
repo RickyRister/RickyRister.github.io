@@ -129,7 +129,7 @@ for entry in os.scandir('.'):
 		os.remove(entry)
 
 #CE: auto-generate site-config.json
-repo_name = os.path.basename(os.getcwd())
+repo_name = os.path.basename(os.getcwd()).lower()
 default_config = {
 	"base_url": f"https://{repo_name}"
 }
@@ -325,7 +325,7 @@ def check_for_decks():
 		with open(os.path.join('resources', 'site-config.json'), encoding='utf-8-sig') as f:
 			config = json.load(f)
 			base_url = config.get('base_url', '')
-			hub_name = base_url.split('https://')[1].split('.github.io')[0] if 'https://' in base_url else 'unknown'
+			hub_name = base_url.split('https://')[1].split('.github.io')[0].lower() if 'https://' in base_url else 'unknown'
 		
 		url = f"https://mtjkkvtcmejzcpjmropd.supabase.co/rest/v1/decks?hub=eq.{hub_name}&select=id&limit=1"
 		req = urllib.request.Request(url)
