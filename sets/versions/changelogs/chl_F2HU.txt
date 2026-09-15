@@ -1,4 +1,132 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Oracular Zeitgeist added.
+Minamo and Suzuri added.
+Country of Flood added.
+Saline Petrichor added.
+Mana Gloriosa, Alchemist added.
+Kokorolia Staff added.
+
+Abyssal Abandoned Metropolis removed.
+
+Nana Fumoto, Doll Dealer
+artist: ScyllaForest => Shiny Vixen
+
+Shuuu, God of Weapons
+flavor_text: [i][/i] => [i]“My name is Chiyou! The sword of those who were buried as oni!”[/i]
+
+Amanozako, Crimson Tyrant
+pt: 6/6 => 7/5
+
+The Lesser Key of Solomon
+type: Legendary Artifact => Legendary Artifact — Book
+
+Shizuka, the Transient Elegance
+
+Miyako, Lamp of Life
+rules_text: Whenever you cast a spell, if at least three colors of mana was spent to cast it, you scry 1, gain 1 life, and create a Treasure token. Then if at least five colors of mana was spent to cast it, you draw a card and put a +1/+1 counter on a creature you control. => Whenever you cast a spell, if at least one color of mana was spent to cast it, you gain 1 life. The same is true for two colors and “scry 1”, three colors and “create a treasure token”, four colors and “put a +1/+1 counter on a creature”, and five colors and “draw a card”
+
+Princess's Wish
+flavor_text: [i][/i] => [i]A vast pool of water spread across the sky. The water that spilled from it rained down on Gensokyo without end. And within that sea, she was there.[/i]
+
+Drunken Sailor's Charm
+rules_text: Choose one —
+• Tap target untapped creature. If you control that creature, draw a card.
+• Target creature gains flying until end of turn. Untap it.
+• Return target creature or enchantment to its owner's hand. => Choose one —
+• Tap target untapped creature. If you control that creature, draw a card. Otherwise, put a stun counter on it.
+• Target creature gains flying until end of turn. Untap it.
+• Destroy target enchantment.
+
+Tiny Buddha's Charm
+rules_text: Choose one —
+• Exile target creature you control, then return it to the battlefield under its owner's control.
+• Put a +1/+1 counter on each of up to three target creatures.
+• You gain 5 life. => Choose one —
+• Exile target creature or artifact you control, then return it to the battlefield under its owner's control.
+• Put a +1/+1 counter on each of up to three target creatures.
+• You gain 5 life.
+
+Poetry Immortal's Charm
+rules_text: Choose one —
+• Untap target creature. It must block this turn if able.
+• Put target card from a graveyard on the top or bottom of its owner's library.
+• Target artifact or non-Aura enchantment becomes a 3/3 creature in addition to its other types until end of turn. => Choose one —
+• Untap target creature. It must attack or block this turn if able.
+• Put target card from a graveyard on the top or bottom of its owner's library.
+• Target artifact or non-Aura enchantment becomes a 4/4 creature in addition to its other types until end of turn.
+
+Winter Spirit's Charm
+rules_text: Choose one —
+• Return target spell to its owner's hand.
+• Put two stun counters on target nonland permanent.
+• Surveil 3. => Choose one —
+• Return target spell to its owner's hand.
+• Put two stun counters on target nonland permanent.
+• Target player mills three cards. Draw a card.
+
+Clamor of the Festival
+flavor_text: [i]In the stifling summer heat, a special day begins for the two[/i] => [i]In the stifling summer heat, a special day begins.[/i]
+
+Memento Forest
+flavor_text: [i][/i] => [i]The melodious chirping of birds could be heard from the forest's depths.[/i]
+
+Deep-Stratum Limestone
+flavor_text: [i][/i] => [i]Hidden in the deepest section of the cave was an intelligence that transcended time itself.[/i]
+
+Far-East El Dorado
+flavor_text: [i][/i] => [i]A sea has no place in Gensokyo, and a sea of golden sand even less so.[/i]
+
+Hollow Mansion
+flavor_text: [i][/i] => [i]The underground mansion, all too quiet. Calamity-eating fangs lurked in the darkness.[/i]
+
+Ceramic Graveyard
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{T}, Discard a card that shares a name with a legendary permanent you control: Draw a card. => {T}: Add {C}.
+{T}, Reappropriate artifact: Put target artifact card from your graveyard on top of your library. [i](To reappropriate artifact, exile exactly two artifact cards from your hand and/or graveyard.)[/i]
+
+Ruine, Discarded Data
+pt: 0/0 => 1/1
+
+Steam Age Overture
+cost: {1}{R} => {R}
+rules_text: Golden Age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+This spell deals 2 damage to any target.
+If you're in a renaissance, add {R}{R}{R}. You can't spend this mana to cast nonartifact spells. => Golden Age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+This spell deals 2 damage to any target.
+If you're in a renaissance, exile the top three cards of your library. You may play one of those cards until your next turn.
+
+Yukari, Terrifying Enigma
+rules_text: [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield. => [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield under your control.
+special_text: [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield. => [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Target player exiles three nonland cards from their graveyard. Another target player chooses one of those cards. Until end of turn, you may cast a copy of that card without paying its mana cost.
+[-10]: Target player mills twenty cards. Put any number of creature cards from their graveyard onto the battlefield under your control.
+
+Hanezu, Definer of Fantasy
+rules_text: [+1]: Another target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type. => [+1]: Another target permanent loses all card types until your next turn.
+[0]: Target player reveals their hand. Choose a nonland card type. That player puts all cards of the chosen type on the bottom of their library in any order, then draws that many cards.
+[-7]: Choose a card type. Exile all permanents of that type.
+special_text: [+1]: Another target permanent loses all card types until your next turn.
+[-2]: Choose a nonland card type. Until your next turn, permanents of the chosen type lose all abilities, and players can't cast spells of the chosen type.
+[-7]: Choose a card type. Exile all permanents of that type. => [+1]: Another target permanent loses all card types until your next turn.
+[0]: Target player reveals their hand. Choose a nonland card type. That player puts all cards of the chosen type on the bottom of their library in any order, then draws that many cards.
+[-7]: Choose a card type. Exile all permanents of that type.
+
+Hansha, Messenger Figment
+artist: 飘游轻风旅 => Shiny Vixen
+
+
+VERSION 37 CHANGELOG
 ====================
 
 Hansha, Messenger Figment added.

@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Hako, Ark of Death",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Mayonaka, the Kishin",
-        "number": 118,
+        "number": 120,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Eight Million Gods",
-        "number": 138,
+        "number": 140,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Patricia Turing",
-        "number": 55,
+        "number": 56,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Musaraku, Source of Nightmares",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Megumu, Newborn Dragon",
-        "number": 119,
+        "number": 121,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Mihana, Princess of Greenery",
-        "number": 147,
+        "number": 149,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -93,11 +93,11 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "302"
+        "position": "301"
     },
     {
         "card_name": "Aelivia Grapeseedling",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Amanozako, Crimson Tyrant",
-        "number": 103,
+        "number": 105,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "An, Kodama of Tobiume",
-        "number": 135,
+        "number": 137,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -125,11 +125,11 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "284"
+        "position": "283"
     },
     {
         "card_name": "Nua, Captain of the Ark",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Aimi, Dreaming Heartbroken Girl",
-        "number": 71,
+        "number": 72,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Everyone's Everlasting Danmaku",
-        "number": 109,
+        "number": 111,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "The Festival Starts Today",
-        "number": 140,
+        "number": 142,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -165,11 +165,11 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "282"
+        "position": "281"
     },
     {
         "card_name": "Philippa A.T.B. von Hohenheim",
-        "number": 57,
+        "number": 58,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -177,7 +177,7 @@
     },
     {
         "card_name": "General Set",
-        "number": 78,
+        "number": 79,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Hasuta, the Blinding Royal",
-        "number": 111,
+        "number": 113,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Kiseki, the Pruning Saw",
-        "number": 144,
+        "number": 146,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "Shiina, Deep-Sea Conductor",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Keshika, Flower of Evil",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Homura, Blacksmith of Living Flame",
-        "number": 112,
+        "number": 114,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -233,11 +233,11 @@
     },
     {
         "card_name": "Leaf Ponders the Flower",
-        "number": 146,
+        "number": 148,
         "shape": "modal double faced",
         "set": "F2HU",
         "rotated": false,
-        "position": "323"
+        "position": "322"
     },
     {
         "card_name": "Inori, Shrine Maiden of Sakura",
@@ -249,7 +249,7 @@
     },
     {
         "card_name": "Soukai, Rain Dragon",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Lethal Entertainment",
-        "number": 82,
+        "number": 83,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Mirei, Deep-Sea Symphonist",
-        "number": 120,
+        "number": 122,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Munomoto, Bud of Lost Dreams",
-        "number": 148,
+        "number": 150,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "Umikaze, Sea Angel",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -297,15 +297,15 @@
     },
     {
         "card_name": "Leyline of the Underworld",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "303"
+        "position": "302"
     },
     {
         "card_name": "Mitama, Vengeful Spirit",
-        "number": 121,
+        "number": 123,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -313,11 +313,11 @@
     },
     {
         "card_name": "Munomoto, Returning Dream",
-        "number": 149,
+        "number": 151,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "306"
+        "position": "305"
     },
     {
         "card_name": "Luciana Abatangelo",
@@ -325,11 +325,11 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "8"
+        "position": "15"
     },
     {
         "card_name": "Yamoto, Steam Age Remnant",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -337,23 +337,23 @@
     },
     {
         "card_name": "Lokhens, Blind Night Raven",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "27"
     },
     {
-        "card_name": "Steam Age Overture",
-        "number": 128,
+        "card_name": "Steel is Born from Flame",
+        "number": 131,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "301"
+        "position": "43"
     },
     {
         "card_name": "Nanahiyakumi, Song Saint",
-        "number": 150,
+        "number": 152,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -373,27 +373,27 @@
         "shape": "modal double faced",
         "set": "F2HU",
         "rotated": false,
-        "position": "325"
+        "position": "324"
     },
     {
         "card_name": "Mariko, the Downtrodden",
-        "number": 85,
+        "number": 86,
         "shape": "modal double faced",
         "set": "F2HU",
         "rotated": false,
-        "position": "321"
+        "position": "320"
     },
     {
-        "card_name": "Steel is Born from Flame",
-        "number": 129,
+        "card_name": "Yomimi, Ultimate Phantom",
+        "number": 135,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "43"
+        "position": "122"
     },
     {
         "card_name": "Princess's Wish",
-        "number": 153,
+        "number": 155,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -417,23 +417,23 @@
     },
     {
         "card_name": "Medicine, Queen of Dolls",
-        "number": 87,
+        "number": 88,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "140"
     },
     {
-        "card_name": "Yomimi, Ultimate Phantom",
-        "number": 133,
+        "card_name": "Akira, Jazzy Detective",
+        "number": 104,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "122"
+        "position": "266"
     },
     {
         "card_name": "Toyomi, Former Sea Queen",
-        "number": 161,
+        "number": 163,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -457,23 +457,23 @@
     },
     {
         "card_name": "Mitsuru, Formless Thunder God",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "255"
     },
     {
-        "card_name": "Akira, Jazzy Detective",
-        "number": 102,
+        "card_name": "Clamor of the Festival",
+        "number": 109,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "266"
+        "position": "260"
     },
     {
         "card_name": "Valloside, Pure Suzuran",
-        "number": 163,
+        "number": 165,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -497,23 +497,23 @@
     },
     {
         "card_name": "Nezu, Wicked Kitsune",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "179"
     },
     {
-        "card_name": "Clamor of the Festival",
-        "number": 107,
+        "card_name": "Instant Brilliant Night",
+        "number": 115,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "260"
+        "position": "246"
     },
     {
         "card_name": "Yamatoyo no Momohime",
-        "number": 165,
+        "number": 167,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -529,7 +529,7 @@
     },
     {
         "card_name": "Phiased, the Magi",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -537,23 +537,23 @@
     },
     {
         "card_name": "Padma, Molting Zeal",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "31"
     },
     {
-        "card_name": "Instant Brilliant Night",
-        "number": 113,
+        "card_name": "Kousan, Spear of Chaos",
+        "number": 116,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "246"
+        "position": "36"
     },
     {
         "card_name": "Ichiyou, Ninja Descendant",
-        "number": 143,
+        "number": 145,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -565,11 +565,11 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "310"
+        "position": "309"
     },
     {
         "card_name": "Prune Reality",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -577,27 +577,27 @@
     },
     {
         "card_name": "Sonia von Auersperg",
-        "number": 99,
+        "number": 101,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "227"
     },
     {
-        "card_name": "Kousan, Spear of Chaos",
-        "number": 114,
+        "card_name": "Kousen, Drought Deity",
+        "number": 117,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "36"
+        "position": "153"
     },
     {
         "card_name": "Sakura, Decision Maker",
-        "number": 157,
+        "number": 159,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "315"
+        "position": "314"
     },
     {
         "card_name": "Fairy Contest",
@@ -609,7 +609,7 @@
     },
     {
         "card_name": "Starry Wisdom",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -617,23 +617,23 @@
     },
     {
         "card_name": "Unrepentant Mantra",
-        "number": 101,
+        "number": 103,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "141"
     },
     {
-        "card_name": "Kousen, Drought Deity",
-        "number": 115,
+        "card_name": "Lightning Word",
+        "number": 118,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "153"
+        "position": "37"
     },
     {
         "card_name": "Scuttle Nightbug",
-        "number": 158,
+        "number": 160,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Yuuto, Out-of-Place Magician",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -657,23 +657,23 @@
     },
     {
         "card_name": "Bon, the Greedy Beast",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "23"
     },
     {
-        "card_name": "Lightning Word",
-        "number": 116,
+        "card_name": "Magura, the Taotie",
+        "number": 119,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "37"
+        "position": "38"
     },
     {
         "card_name": "Seiryuu, Willow Spirit",
-        "number": 159,
+        "number": 161,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -697,23 +697,23 @@
     },
     {
         "card_name": "Dangerous Curiosity",
-        "number": 74,
+        "number": 75,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "230"
     },
     {
-        "card_name": "Magura, the Taotie",
-        "number": 117,
+        "card_name": "Rebellion God Force",
+        "number": 127,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "38"
+        "position": "186"
     },
     {
         "card_name": "Sunrise Moon Viewing",
-        "number": 160,
+        "number": 162,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -737,23 +737,23 @@
     },
     {
         "card_name": "Datura, Weaver of Death",
-        "number": 75,
+        "number": 76,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "198"
     },
     {
-        "card_name": "Rebellion God Force",
-        "number": 125,
+        "card_name": "Sekito, Shadow-Severing Speed",
+        "number": 128,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "186"
+        "position": "41"
     },
     {
         "card_name": "An Addendum to the Past",
-        "number": 134,
+        "number": 136,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -765,7 +765,7 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "9"
+        "position": "2"
     },
     {
         "card_name": "Epro, the Programmer",
@@ -777,23 +777,23 @@
     },
     {
         "card_name": "Existential Humankind",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "221"
     },
     {
-        "card_name": "Sekito, Shadow-Severing Speed",
-        "number": 126,
+        "card_name": "Steam Age Overture",
+        "number": 130,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "41"
+        "position": "300"
     },
     {
         "card_name": "Apple Girlington",
-        "number": 136,
+        "number": 138,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -817,7 +817,7 @@
     },
     {
         "card_name": "Fantasy Withdrawal Syndrome",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -825,7 +825,7 @@
     },
     {
         "card_name": "Annika A.T.B von Hohenheim",
-        "number": 104,
+        "number": 106,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -833,7 +833,7 @@
     },
     {
         "card_name": "Birds Return at Dusk",
-        "number": 137,
+        "number": 139,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "15"
+        "position": "0"
     },
     {
         "card_name": "Fiction Sign",
@@ -857,7 +857,7 @@
     },
     {
         "card_name": "Masahi, the Carefree Princess",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -865,7 +865,7 @@
     },
     {
         "card_name": "Ayaka, Newborn Bass",
-        "number": 105,
+        "number": 107,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -873,7 +873,7 @@
     },
     {
         "card_name": "Fabritis and Iphonea",
-        "number": 139,
+        "number": 141,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -897,7 +897,7 @@
     },
     {
         "card_name": "Meimei, the Wishing Doll",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -905,7 +905,7 @@
     },
     {
         "card_name": "Casual Arson",
-        "number": 106,
+        "number": 108,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -913,7 +913,7 @@
     },
     {
         "card_name": "High-Angle Shot",
-        "number": 141,
+        "number": 143,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -937,7 +937,7 @@
     },
     {
         "card_name": "Mumumu, the Morning Star",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -945,7 +945,7 @@
     },
     {
         "card_name": "Corin Charite",
-        "number": 108,
+        "number": 110,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -953,7 +953,7 @@
     },
     {
         "card_name": "Horizon Sign",
-        "number": 142,
+        "number": 144,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -965,7 +965,7 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "2"
+        "position": "8"
     },
     {
         "card_name": "Hate Not the Wind",
@@ -977,7 +977,7 @@
     },
     {
         "card_name": "Salom\u00e9, Patasola",
-        "number": 97,
+        "number": 99,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -985,7 +985,7 @@
     },
     {
         "card_name": "Fog Sign",
-        "number": 110,
+        "number": 112,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -993,7 +993,7 @@
     },
     {
         "card_name": "Konoha, Uncaptured Raccoon",
-        "number": 145,
+        "number": 147,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1017,7 +1017,7 @@
     },
     {
         "card_name": "Shiran, the Fake Priest",
-        "number": 98,
+        "number": 100,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1025,7 +1025,7 @@
     },
     {
         "card_name": "Nene, Mountain Shouter",
-        "number": 122,
+        "number": 124,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1033,7 +1033,7 @@
     },
     {
         "card_name": "Noah, Sugar-Spun",
-        "number": 151,
+        "number": 153,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1057,15 +1057,15 @@
     },
     {
         "card_name": "Ammolite Light",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "309"
+        "position": "308"
     },
     {
         "card_name": "Overture of an Euphonious Act",
-        "number": 123,
+        "number": 125,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1073,7 +1073,7 @@
     },
     {
         "card_name": "Oxas, Fairy of Clovers",
-        "number": 152,
+        "number": 154,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1085,27 +1085,27 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "308"
+        "position": "307"
     },
     {
-        "card_name": "Naruko, the Whirlpool",
+        "card_name": "Minamo and Suzuri",
         "number": 53,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "16"
+        "position": "328"
     },
     {
         "card_name": "God's Toy",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "281"
+        "position": "280"
     },
     {
         "card_name": "Ranran, Scarlet Monkey",
-        "number": 124,
+        "number": 126,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1113,7 +1113,7 @@
     },
     {
         "card_name": "Rebirth of Dreams",
-        "number": 154,
+        "number": 156,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1128,16 +1128,16 @@
         "position": "5"
     },
     {
-        "card_name": "Serene Heikegani, Crustacean",
-        "number": 59,
+        "card_name": "Naruko, the Whirlpool",
+        "number": 54,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "224"
+        "position": "16"
     },
     {
         "card_name": "Nix, Messenger of Darkness",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1145,7 +1145,7 @@
     },
     {
         "card_name": "Shirane, Thunderbird",
-        "number": 127,
+        "number": 129,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1153,11 +1153,11 @@
     },
     {
         "card_name": "Reconsidered Paths",
-        "number": 155,
+        "number": 157,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "304"
+        "position": "303"
     },
     {
         "card_name": "Dorothy, Hardworking Bee",
@@ -1165,19 +1165,19 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "292"
+        "position": "291"
     },
     {
-        "card_name": "Shekle, Snowflake Fairy",
+        "card_name": "Serene Heikegani, Crustacean",
         "number": 60,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "123"
+        "position": "224"
     },
     {
         "card_name": "Nue Sign",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1185,7 +1185,7 @@
     },
     {
         "card_name": "Theophilia, the Mad Host",
-        "number": 130,
+        "number": 132,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1193,7 +1193,7 @@
     },
     {
         "card_name": "Ruka, Fawn Spirit",
-        "number": 156,
+        "number": 158,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1208,16 +1208,16 @@
         "position": "85"
     },
     {
-        "card_name": "Shizuka, Solitary Hunter",
-        "number": 62,
+        "card_name": "Shekle, Snowflake Fairy",
+        "number": 61,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "95"
+        "position": "123"
     },
     {
         "card_name": "Omen of Black Clouds",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1225,7 +1225,7 @@
     },
     {
         "card_name": "Traitor's Requiem",
-        "number": 131,
+        "number": 133,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1233,11 +1233,11 @@
     },
     {
         "card_name": "Vallenria Cinal",
-        "number": 162,
+        "number": 164,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "312"
+        "position": "311"
     },
     {
         "card_name": "Nana Fumoto, Doll Dealer",
@@ -1248,24 +1248,24 @@
         "position": "11"
     },
     {
-        "card_name": "A Thousand Fathoms Under",
-        "number": 65,
+        "card_name": "Shizuka, Solitary Hunter",
+        "number": 63,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "165"
+        "position": "95"
     },
     {
-        "card_name": "Unane, the Composer",
-        "number": 100,
+        "card_name": "Saline Petrichor",
+        "number": 98,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "34"
+        "position": "330"
     },
     {
         "card_name": "Tsumugi Enishi",
-        "number": 132,
+        "number": 134,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1273,7 +1273,7 @@
     },
     {
         "card_name": "Withered Bounty",
-        "number": 164,
+        "number": 166,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1288,26 +1288,31 @@
         "position": "12"
     },
     {
-        "card_name": "Yet Another Rain Incident",
-        "number": 68,
+        "card_name": "A Thousand Fathoms Under",
+        "number": 66,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "250"
+        "position": "165"
     },
     {
-        "card_name": "e"
+        "card_name": "Unane, the Composer",
+        "number": 102,
+        "shape": "normal",
+        "set": "F2HU",
+        "rotated": false,
+        "position": "34"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Yuyuko, Sakurachill Blossom",
-        "number": 166,
+        "number": 168,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "288"
+        "position": "287"
     },
     {
         "card_name": "Sever Relationship",
@@ -1318,7 +1323,12 @@
         "position": "14"
     },
     {
-        "card_name": "e"
+        "card_name": "Yet Another Rain Incident",
+        "number": 69,
+        "shape": "normal",
+        "set": "F2HU",
+        "rotated": false,
+        "position": "250"
     },
     {
         "card_name": "e"
@@ -1344,7 +1354,7 @@
     "a->gold",
     {
         "card_name": "Mitori, the Crimson Grudge",
-        "number": 207,
+        "number": 210,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1352,7 +1362,7 @@
     },
     {
         "card_name": "Mizuho, Onmyouji",
-        "number": 211,
+        "number": 214,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1360,7 +1370,7 @@
     },
     {
         "card_name": "Lovia Joutsela, Hiisi",
-        "number": 201,
+        "number": 203,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1368,7 +1378,7 @@
     },
     {
         "card_name": "Cathu, Dreaming Herald",
-        "number": 174,
+        "number": 176,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1376,7 +1386,7 @@
     },
     {
         "card_name": "Ei, the Eternal Stillness",
-        "number": 180,
+        "number": 182,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1384,7 +1394,7 @@
     },
     {
         "card_name": "Nijie of Earthly Amusements",
-        "number": 215,
+        "number": 218,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1392,7 +1402,7 @@
     },
     {
         "card_name": "Megumi, the Mermaid's Dream",
-        "number": 204,
+        "number": 207,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1400,7 +1410,7 @@
     },
     {
         "card_name": "Jagiko, Witch of Scrolls",
-        "number": 194,
+        "number": 196,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1408,7 +1418,7 @@
     },
     {
         "card_name": "Hideka, Queen of Dragons",
-        "number": 191,
+        "number": 193,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1416,7 +1426,7 @@
     },
     {
         "card_name": "Feza, Blessed Pathfinder",
-        "number": 186,
+        "number": 188,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1424,7 +1434,7 @@
     },
     {
         "card_name": "Tamako Sant'Angelo",
-        "number": 237,
+        "number": 241,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1432,7 +1442,7 @@
     },
     {
         "card_name": "Mizukami, Aqua Seraph",
-        "number": 212,
+        "number": 215,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1440,7 +1450,7 @@
     },
     {
         "card_name": "Lamis Corrosa",
-        "number": 198,
+        "number": 200,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1448,7 +1458,7 @@
     },
     {
         "card_name": "Inasa, Warring Celestial",
-        "number": 193,
+        "number": 195,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1456,7 +1466,7 @@
     },
     {
         "card_name": "Tokuko, Divine Swordbearer",
-        "number": 245,
+        "number": 249,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1464,7 +1474,7 @@
     },
     {
         "card_name": "Yakari, Bridger of Realms",
-        "number": 250,
+        "number": 254,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1472,7 +1482,7 @@
     },
     {
         "card_name": "Omote, Information Uploader",
-        "number": 216,
+        "number": 219,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1480,7 +1490,7 @@
     },
     {
         "card_name": "Akaste, Shark's Bite",
-        "number": 168,
+        "number": 170,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1488,7 +1498,7 @@
     },
     {
         "card_name": "Rin Satsuki, Protagonist",
-        "number": 225,
+        "number": 229,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1496,7 +1506,7 @@
     },
     {
         "card_name": "Touko, Harvest God",
-        "number": 246,
+        "number": 250,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1504,7 +1514,7 @@
     },
     {
         "card_name": "Yanduo, Dance of Fabric",
-        "number": 251,
+        "number": 255,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1512,15 +1522,15 @@
     },
     {
         "card_name": "Ruine, Discarded Data",
-        "number": 226,
+        "number": 230,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "296"
+        "position": "295"
     },
     {
         "card_name": "Choo-Eunae, Snake's Bite",
-        "number": 176,
+        "number": 178,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1528,7 +1538,7 @@
     },
     {
         "card_name": "Geo-Poetry",
-        "number": 257,
+        "number": 261,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1536,7 +1546,7 @@
     },
     {
         "card_name": "Banka, Tiny Ancient Legacy",
-        "number": 173,
+        "number": 175,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1544,7 +1554,7 @@
     },
     {
         "card_name": "Drunken Sailor's Charm",
-        "number": 179,
+        "number": 181,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1552,7 +1562,7 @@
     },
     {
         "card_name": "Tenmu Suitokuin, Daitengu",
-        "number": 239,
+        "number": 243,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1560,7 +1570,7 @@
     },
     {
         "card_name": "El\u00e9onore, Alligator's Bite",
-        "number": 182,
+        "number": 184,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1568,7 +1578,7 @@
     },
     {
         "card_name": "Pale Fanhead, Fan Enjoyer",
-        "number": 219,
+        "number": 223,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1576,7 +1586,7 @@
     },
     {
         "card_name": "Chieka, the Artist",
-        "number": 175,
+        "number": 177,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1584,7 +1594,7 @@
     },
     {
         "card_name": "Miyo and Tsubame, Wavecasters",
-        "number": 210,
+        "number": 213,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1592,7 +1602,7 @@
     },
     {
         "card_name": "Winter Spirit's Charm",
-        "number": 249,
+        "number": 253,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1600,7 +1610,7 @@
     },
     {
         "card_name": "Vengeful Spirit's Charm",
-        "number": 248,
+        "number": 252,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1608,7 +1618,7 @@
     },
     {
         "card_name": "Poetry Immortal's Charm",
-        "number": 221,
+        "number": 225,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1616,7 +1626,7 @@
     },
     {
         "card_name": "Tiny Buddha's Charm",
-        "number": 243,
+        "number": 247,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1624,7 +1634,7 @@
     },
     {
         "card_name": "Ophelia, the Writer",
-        "number": 217,
+        "number": 220,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1632,7 +1642,7 @@
     },
     {
         "card_name": "Tobiko, Cunning Reporter",
-        "number": 244,
+        "number": 248,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1640,7 +1650,7 @@
     },
     {
         "card_name": "Dancing Plague",
-        "number": 256,
+        "number": 260,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1648,23 +1658,23 @@
     },
     {
         "card_name": "Sayuri, Fire Spirit",
-        "number": 262,
+        "number": 266,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "300"
+        "position": "299"
     },
     {
         "card_name": "Beanstalk Linking Heaven and Earth",
-        "number": 255,
+        "number": 259,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "286"
+        "position": "285"
     },
     {
         "card_name": "Azure Swirl",
-        "number": 254,
+        "number": 258,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1672,7 +1682,7 @@
     },
     {
         "card_name": "Mystia, Daystruck",
-        "number": 260,
+        "number": 264,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1686,11 +1696,11 @@
     },
     {
         "card_name": "Vinca Wars",
-        "number": 265,
+        "number": 269,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "287"
+        "position": "286"
     },
     {
         "card_name": "er"
@@ -1709,7 +1719,7 @@
     },
     {
         "card_name": "Hazuki, Onmyouji",
-        "number": 190,
+        "number": 192,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1717,15 +1727,15 @@
     },
     {
         "card_name": "Muneyuki, Merchant Sailor",
-        "number": 213,
+        "number": 216,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "289"
+        "position": "288"
     },
     {
         "card_name": "Kawauso, Funnel of Desire",
-        "number": 196,
+        "number": 198,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1733,7 +1743,7 @@
     },
     {
         "card_name": "Cindy Plum, Rakshasa",
-        "number": 177,
+        "number": 179,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1741,7 +1751,7 @@
     },
     {
         "card_name": "Elfin Mint",
-        "number": 183,
+        "number": 185,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1749,7 +1759,7 @@
     },
     {
         "card_name": "Awaji, Ruler of Nothingness",
-        "number": 171,
+        "number": 173,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1757,7 +1767,7 @@
     },
     {
         "card_name": "Tenxka Shin",
-        "number": 241,
+        "number": 245,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1765,15 +1775,15 @@
     },
     {
         "card_name": "Mamo, the Mastermind",
-        "number": 203,
+        "number": 205,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "293"
+        "position": "292"
     },
     {
         "card_name": "Kazuha, Compiler of Waka",
-        "number": 197,
+        "number": 199,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1781,7 +1791,7 @@
     },
     {
         "card_name": "Ai Hinoide, Perfect Human",
-        "number": 167,
+        "number": 169,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1789,7 +1799,7 @@
     },
     {
         "card_name": "Lily White, Fairy Imperator",
-        "number": 200,
+        "number": 202,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1797,31 +1807,31 @@
     },
     {
         "card_name": "Lycaropia Hearn",
-        "number": 202,
+        "number": 204,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "225"
     },
     {
-        "card_name": "Shizuka, Dissector of Fairies",
-        "number": 231,
+        "card_name": "Oracular Zeitgeist",
+        "number": 221,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "196"
+        "position": "327"
     },
     {
-        "card_name": "Reimu, the Final Dream",
-        "number": 223,
+        "card_name": "Mana Gloriosa, Alchemist",
+        "number": 206,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "148"
+        "position": "331"
     },
     {
         "card_name": "Aoi, Creator Deity",
-        "number": 170,
+        "number": 172,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1829,7 +1839,7 @@
     },
     {
         "card_name": "Tensei, the Star God",
-        "number": 240,
+        "number": 244,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1837,31 +1847,31 @@
     },
     {
         "card_name": "Rachel, Unstable Scientist",
-        "number": 222,
+        "number": 226,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "178"
     },
     {
-        "card_name": "Shizuka, the Transient Elegance",
-        "number": 232,
+        "card_name": "Shizuka, Dissector of Fairies",
+        "number": 235,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "176"
+        "position": "196"
     },
     {
-        "card_name": "Shushu, Igniter of Night Skies",
-        "number": 233,
+        "card_name": "Reimu, the Final Dream",
+        "number": 227,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "172"
+        "position": "148"
     },
     {
         "card_name": "Elly, the Immutable Truth",
-        "number": 184,
+        "number": 186,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1869,7 +1879,7 @@
     },
     {
         "card_name": "Testament's Star Chapter",
-        "number": 264,
+        "number": 268,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1877,31 +1887,31 @@
     },
     {
         "card_name": "Kasumi, Submarine Illusion",
-        "number": 195,
+        "number": 197,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "18"
     },
     {
-        "card_name": "The Shadow Over Gensokyo",
-        "number": 263,
+        "card_name": "Shizuka, the Transient Elegance",
+        "number": 236,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "242"
+        "position": "176"
     },
     {
-        "card_name": "Saraka, Fallen Angel",
-        "number": 227,
+        "card_name": "Shushu, Igniter of Night Skies",
+        "number": 237,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "105"
+        "position": "172"
     },
     {
         "card_name": "Muu, Tragedy Princess",
-        "number": 214,
+        "number": 217,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1909,7 +1919,7 @@
     },
     {
         "card_name": "Nebet Tefet",
-        "number": 261,
+        "number": 265,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1917,31 +1927,31 @@
     },
     {
         "card_name": "Lepus Timidys Snowy",
-        "number": 199,
+        "number": 201,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "133"
     },
     {
-        "card_name": "Hallusehyen, False God",
-        "number": 188,
+        "card_name": "The Shadow Over Gensokyo",
+        "number": 267,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "311"
+        "position": "242"
     },
     {
-        "card_name": "Marry Shepherd",
-        "number": 259,
+        "card_name": "Saraka, Fallen Angel",
+        "number": 231,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "78"
+        "position": "105"
     },
     {
         "card_name": "Phantasm Paradise",
-        "number": 220,
+        "number": 224,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1952,26 +1962,31 @@
     },
     {
         "card_name": "Mitsuki and Mashu",
-        "number": 208,
+        "number": 211,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "268"
     },
     {
-        "card_name": "Yukiko, Heart of the Swarm",
-        "number": 253,
+        "card_name": "Hallusehyen, False God",
+        "number": 190,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "77"
+        "position": "310"
     },
     {
-        "card_name": "e"
+        "card_name": "Marry Shepherd",
+        "number": 263,
+        "shape": "normal",
+        "set": "F2HU",
+        "rotated": false,
+        "position": "78"
     },
     {
         "card_name": "Tarumi, World Yamataizer",
-        "number": 238,
+        "number": 242,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -1984,18 +1999,23 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Yukiko, Heart of the Swarm",
+        "number": 257,
+        "shape": "normal",
+        "set": "F2HU",
+        "rotated": false,
+        "position": "77"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Hansha, Messenger Figment",
-        "number": 258,
+        "number": 262,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "327"
+        "position": "326"
     },
     {
         "card_name": "er"
@@ -2014,31 +2034,31 @@
     },
     {
         "card_name": "Reverence U'n-Llisardggy",
-        "number": 224,
-        "shape": "planeswalker",
-        "set": "F2HU",
-        "rotated": false,
-        "position": "318"
-    },
-    {
-        "card_name": "Yukari, Terrifying Enigma",
-        "number": 252,
-        "shape": "planeswalker",
-        "set": "F2HU",
-        "rotated": false,
-        "position": "316"
-    },
-    {
-        "card_name": "Theone Phillips",
-        "number": 242,
+        "number": 228,
         "shape": "planeswalker",
         "set": "F2HU",
         "rotated": false,
         "position": "317"
     },
     {
+        "card_name": "Yukari, Terrifying Enigma",
+        "number": 256,
+        "shape": "planeswalker",
+        "set": "F2HU",
+        "rotated": false,
+        "position": "315"
+    },
+    {
+        "card_name": "Theone Phillips",
+        "number": 246,
+        "shape": "planeswalker",
+        "set": "F2HU",
+        "rotated": false,
+        "position": "316"
+    },
+    {
         "card_name": "Cisa Perlach Augusta",
-        "number": 178,
+        "number": 180,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2046,23 +2066,23 @@
     },
     {
         "card_name": "Hanezu, Definer of Fantasy",
-        "number": 189,
+        "number": 191,
         "shape": "planeswalker",
         "set": "F2HU",
         "rotated": false,
-        "position": "320"
+        "position": "319"
     },
     {
         "card_name": "Eirin and Kaguya",
-        "number": 181,
+        "number": 183,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "305"
+        "position": "304"
     },
     {
         "card_name": "Fuma Mishandra",
-        "number": 187,
+        "number": 189,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2070,7 +2090,7 @@
     },
     {
         "card_name": "Ayame, Essence of Chaos",
-        "number": 172,
+        "number": 174,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2078,15 +2098,15 @@
     },
     {
         "card_name": "Seiko, Spirited Away",
-        "number": 228,
+        "number": 232,
         "shape": "planeswalker",
         "set": "F2HU",
         "rotated": false,
-        "position": "319"
+        "position": "318"
     },
     {
         "card_name": "Shirogane, Bravehearted",
-        "number": 230,
+        "number": 234,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2106,7 +2126,7 @@
     },
     {
         "card_name": "Mikoto, Mother Goddess",
-        "number": 205,
+        "number": 208,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2129,7 +2149,7 @@
     },
     {
         "card_name": "Erica Leroux, Grand Maestro",
-        "number": 185,
+        "number": 187,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2137,7 +2157,7 @@
     },
     {
         "card_name": "Miyako, Lamp of Life",
-        "number": 209,
+        "number": 212,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2145,15 +2165,15 @@
     },
     {
         "card_name": "Amane Shin",
-        "number": 169,
+        "number": 171,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "307"
+        "position": "306"
     },
     {
         "card_name": "Otohime Kanpukugu",
-        "number": 218,
+        "number": 222,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2161,15 +2181,15 @@
     },
     {
         "card_name": "Shinyoku, Figment of Some God",
-        "number": 229,
+        "number": 233,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "290"
+        "position": "289"
     },
     {
         "card_name": "Shuuu, God of Weapons",
-        "number": 234,
+        "number": 238,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2180,7 +2200,7 @@
     },
     {
         "card_name": "Mikoto, Tyrant Queen",
-        "number": 206,
+        "number": 209,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2188,7 +2208,7 @@
     },
     {
         "card_name": "Horou, Crested Ibis",
-        "number": 192,
+        "number": 194,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2196,7 +2216,7 @@
     },
     {
         "card_name": "Ummu, Antediluvian",
-        "number": 247,
+        "number": 251,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2213,11 +2233,11 @@
     },
     {
         "card_name": "Sumomo, Misantropic Artist",
-        "number": 235,
+        "number": 239,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "299"
+        "position": "298"
     },
     {
         "card_name": "e"
@@ -2239,7 +2259,7 @@
     },
     {
         "card_name": "Taeyori, the Leader",
-        "number": 236,
+        "number": 240,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2280,7 +2300,7 @@
     },
     {
         "card_name": "The Divine Mirror",
-        "number": 269,
+        "number": 273,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2288,7 +2308,7 @@
     },
     {
         "card_name": "The Divine Sword",
-        "number": 270,
+        "number": 274,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2296,7 +2316,7 @@
     },
     {
         "card_name": "Emerald Tablet",
-        "number": 271,
+        "number": 275,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2304,7 +2324,7 @@
     },
     {
         "card_name": "The Great Ark",
-        "number": 272,
+        "number": 276,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2312,15 +2332,23 @@
     },
     {
         "card_name": "Immortal Lotus",
-        "number": 274,
+        "number": 278,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "285"
+        "position": "284"
+    },
+    {
+        "card_name": "Kokorolia Staff",
+        "number": 279,
+        "shape": "normal",
+        "set": "F2HU",
+        "rotated": false,
+        "position": "332"
     },
     {
         "card_name": "The Lesser Key of Solomon",
-        "number": 275,
+        "number": 280,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2328,15 +2356,15 @@
     },
     {
         "card_name": "Scroll of Forgotten Fables",
-        "number": 278,
+        "number": 283,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "313"
+        "position": "312"
     },
     {
         "card_name": "Douraku Kazane, Colorless Tone",
-        "number": 286,
+        "number": 291,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2348,11 +2376,11 @@
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "294"
+        "position": "293"
     },
     {
         "card_name": "The Divine Jewel",
-        "number": 268,
+        "number": 272,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2360,7 +2388,7 @@
     },
     {
         "card_name": "Chirper Phone",
-        "number": 266,
+        "number": 270,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2368,15 +2396,15 @@
     },
     {
         "card_name": "Diva's Device",
-        "number": 267,
+        "number": 271,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "283"
+        "position": "282"
     },
     {
         "card_name": "Ibis Feather",
-        "number": 273,
+        "number": 277,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2384,7 +2412,7 @@
     },
     {
         "card_name": "Map Orb",
-        "number": 276,
+        "number": 281,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2392,7 +2420,7 @@
     },
     {
         "card_name": "Nomi no Hanie",
-        "number": 277,
+        "number": 282,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2400,14 +2428,11 @@
     },
     {
         "card_name": "Treasure Lantern",
-        "number": 279,
+        "number": 284,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "83"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2430,23 +2455,23 @@
     "a->land",
     {
         "card_name": "Far-East El Dorado",
-        "number": 288,
+        "number": 293,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
         "position": "274"
     },
     {
-        "card_name": "Abyssal Abandoned Metropolis",
-        "number": 280,
+        "card_name": "Country of Flood",
+        "number": 287,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "279"
+        "position": "329"
     },
     {
         "card_name": "Hollow Mansion",
-        "number": 291,
+        "number": 296,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2454,7 +2479,7 @@
     },
     {
         "card_name": "Deep-Stratum Limestone",
-        "number": 284,
+        "number": 289,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2462,7 +2487,7 @@
     },
     {
         "card_name": "Memento Forest",
-        "number": 292,
+        "number": 297,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2485,15 +2510,15 @@
     },
     {
         "card_name": "Ceramic Graveyard",
-        "number": 282,
+        "number": 286,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "280"
+        "position": "279"
     },
     {
         "card_name": "The Dreamyard",
-        "number": 287,
+        "number": 292,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2501,7 +2526,7 @@
     },
     {
         "card_name": "Orwell's Quarantined Utopia",
-        "number": 293,
+        "number": 298,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2509,7 +2534,7 @@
     },
     {
         "card_name": "Deep Mutating Cavern",
-        "number": 283,
+        "number": 288,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2517,7 +2542,7 @@
     },
     {
         "card_name": "Festival Entrance",
-        "number": 289,
+        "number": 294,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2525,7 +2550,7 @@
     },
     {
         "card_name": "The Grand Theatre",
-        "number": 290,
+        "number": 295,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2533,15 +2558,15 @@
     },
     {
         "card_name": "Sea of Lament",
-        "number": 295,
+        "number": 300,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "298"
+        "position": "297"
     },
     {
         "card_name": "Cave Leading to Somewhere",
-        "number": 281,
+        "number": 285,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2549,15 +2574,15 @@
     },
     {
         "card_name": "Distant Sky Realm",
-        "number": 285,
+        "number": 290,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
-        "position": "291"
+        "position": "290"
     },
     {
         "card_name": "Otherland's Edge",
-        "number": 294,
+        "number": 299,
         "shape": "normal",
         "set": "F2HU",
         "rotated": false,
@@ -2582,7 +2607,7 @@
         "shape": "token",
         "set": "F2HU",
         "rotated": false,
-        "position": "295"
+        "position": "294"
     },
     {
         "card_name": "Vial",
@@ -2630,7 +2655,7 @@
         "shape": "token",
         "set": "F2HU",
         "rotated": false,
-        "position": "314"
+        "position": "313"
     },
     {
         "card_name": "Sawdust",
@@ -2670,7 +2695,7 @@
         "shape": "token",
         "set": "F2HU",
         "rotated": false,
-        "position": "297"
+        "position": "296"
     },
     {
         "card_name": "Bird",
@@ -2726,7 +2751,7 @@
         "shape": "token",
         "set": "F2HU",
         "rotated": false,
-        "position": "0"
+        "position": "9"
     },
     {
         "card_name": "Faerie",
