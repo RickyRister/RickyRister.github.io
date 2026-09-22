@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Youkai Lizard",
-			"collector_number": "33",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Youkai Peasant",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Demon",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Angel Bard",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/7.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Youkai Golem",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel Bard",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "54",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Dog Youkai",
-			"collector_number": "147",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Snail Youkai",
-			"collector_number": "197",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/18.png"
 			}
@@ -194,8 +194,8 @@
 			"name": "Megumi, the Mermaid's Dream",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Creature — Merfolk Noble",
-			"collector_number": "207",
+			"type": "Legendary Creature — Merfolk Youkai",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "208",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Spirit Youkai",
-			"collector_number": "213",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "222",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}{B}",
 			"type": "Legendary Creature — Youkai Advisor",
-			"collector_number": "74",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "79",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Youkai Plant",
-			"collector_number": "82",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Youkai Bird Bard",
-			"collector_number": "85",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Artifact Creature — Doll",
-			"collector_number": "89",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "94",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "96",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Youkai Zombie",
-			"collector_number": "97",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Vampire",
-			"collector_number": "99",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "100",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "102",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact Creature — Equipment Youkai",
-			"collector_number": "116",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "118",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Legendary Creature — Demon Beast",
-			"collector_number": "119",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "124",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Monkey Youkai",
-			"collector_number": "126",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Demon Mount",
-			"collector_number": "128",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "129",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "131",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "134",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "138",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "142",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Illusion Spirit",
-			"collector_number": "150",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "140",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "154",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "156",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "166",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Homunculus",
-			"collector_number": "169",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/52.png"
 			}
@@ -533,9 +533,9 @@
 		{
 			"name": "Ayame, Essence of Chaos",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}{G}",
+			"mana_cost": "{6}{B}{R}{G}",
 			"type": "Legendary Creature — Elder Horror God",
-			"collector_number": "174",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Demon God",
-			"collector_number": "179",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "180",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "184",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Elf Faerie",
-			"collector_number": "185",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/57.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "188",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "189",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Youkai Wizard",
-			"collector_number": "192",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "194",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/61.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Spirit Advisor",
-			"collector_number": "199",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "200",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Youkai Bard",
-			"collector_number": "203",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Youkai Turtle",
-			"collector_number": "210",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "214",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Spirit Advisor",
-			"collector_number": "220",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "223",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/68.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "224",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/69.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Hero Knight",
-			"collector_number": "234",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/70.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Demon God",
-			"collector_number": "238",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/71.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Legendary Creature — Spirit Advisor",
-			"collector_number": "240",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/72.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "245",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "250",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/74.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "251",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/75.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "255",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/76.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Youkai Plant",
-			"collector_number": "257",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/77.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "263",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/78.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "264",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/79.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}",
 			"type": "Legendary Creature — God",
-			"collector_number": "265",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/80.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "270",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/81.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "276",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/82.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment Treasure",
-			"collector_number": "284",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/83.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "49",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "38",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/86.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/87.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Spirit Scientist",
-			"collector_number": "42",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/89.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Bird Spirit",
-			"collector_number": "46",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/90.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "47",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/91.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "55",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/92.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Wizard",
-			"collector_number": "57",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/93.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Scientist",
-			"collector_number": "58",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/94.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "63",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/95.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/96.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "70",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "72",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/98.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "105",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/99.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "277",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/100.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Spirit Cleric",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/101.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Spirit Wizard",
-			"collector_number": "177",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/102.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "149",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "178",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior",
-			"collector_number": "231",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "87",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/106.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "243",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Creature — Youkai Elemental",
-			"collector_number": "291",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Wizard",
-			"collector_number": "106",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/109.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Homunculus",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/111.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — God",
-			"collector_number": "244",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/112.png"
 			}
@@ -1135,7 +1135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Mystic Noble",
-			"collector_number": "50",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/113.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Plant Spirit",
-			"collector_number": "161",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/114.png"
 			}
@@ -1155,7 +1155,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Nightmare",
-			"collector_number": "92",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/115.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "35",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/116.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/117.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "83",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/118.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/119.png"
 			}
@@ -1205,7 +1205,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "136",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/120.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "45",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/121.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Demon Spirit",
-			"collector_number": "135",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/122.png"
 			}
@@ -1235,7 +1235,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "61",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/123.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Youkai Fish Bard",
-			"collector_number": "62",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/124.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/125.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/126.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Vampire",
-			"collector_number": "110",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/127.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Horror Scout",
-			"collector_number": "176",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/128.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/129.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/130.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "111",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "64",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/132.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Youkai Rabbit Rogue",
-			"collector_number": "201",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/133.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "242",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/134.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "272",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/135.png"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "273",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/136.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "274",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/137.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Mystic Noble",
-			"collector_number": "167",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/138.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "141",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/139.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Artifact Creature — Doll",
-			"collector_number": "88",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/140.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "103",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/141.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "121",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/142.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Youkai Plant",
-			"collector_number": "165",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/143.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Youkai Deer",
-			"collector_number": "158",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/144.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Demon God",
-			"collector_number": "120",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/145.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/146.png"
 			}
@@ -1473,9 +1473,9 @@
 		{
 			"name": "Iesua, the Forgiver",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{W}{W}{W}{W}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/147.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "227",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/148.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}{W}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "31",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/149.png"
 			}
@@ -1505,7 +1505,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Legendary Creature — Elder Youkai",
-			"collector_number": "153",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/150.png"
 			}
@@ -1515,7 +1515,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "132",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/151.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/152.png"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "117",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/153.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact Creature — Golem",
-			"collector_number": "282",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/154.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "218",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/155.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "275",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/156.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact — Book",
-			"collector_number": "280",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/157.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/158.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/159.png"
 			}
@@ -1605,7 +1605,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/160.png"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/161.png"
 			}
@@ -1625,7 +1625,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "172",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/162.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "146",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/163.png"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Youkai Slug",
-			"collector_number": "67",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/164.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/165.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "143",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/166.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/167.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "249",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/168.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Bird Youkai Ninja",
-			"collector_number": "248",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/169.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "193",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/170.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Dragon",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/171.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "237",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/172.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "123",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/173.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Youkai Eel Bard",
-			"collector_number": "122",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/174.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Peasant",
-			"collector_number": "71",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/175.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "236",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/176.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "182",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/177.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "226",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/178.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Fox Youkai",
-			"collector_number": "93",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/179.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "56",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/180.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Artifact Creature — Doll",
-			"collector_number": "81",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/181.png"
 			}
@@ -1825,19 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "215",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/182.png"
-			}
-		},
-		{
-			"name": "Testament's Star Chapter",
-			"rarity": "rare",
-			"mana_cost": "{3}{W/B}{W/B}",
-			"type": "Sorcery",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/183.png"
 			}
 		},
 		{
@@ -1845,9 +1835,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — God",
-			"collector_number": "212",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/184.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/183.png"
 			}
 		},
 		{
@@ -1855,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "202",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/185.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/184.png"
 			}
 		},
 		{
@@ -1865,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/186.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/185.png"
 			}
 		},
 		{
@@ -1875,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Plant Youkai",
-			"collector_number": "137",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/187.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/186.png"
 			}
 		},
 		{
@@ -1885,9 +1875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "91",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/188.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/187.png"
 			}
 		},
 		{
@@ -1895,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}{G}",
 			"type": "Legendary Creature — Youkai Mystic Bard",
-			"collector_number": "152",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/189.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/188.png"
 			}
 		},
 		{
@@ -1905,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "195",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/190.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/189.png"
 			}
 		},
 		{
@@ -1915,9 +1905,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/191.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/190.png"
 			}
 		},
 		{
@@ -1925,9 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "68",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/192.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/191.png"
 			}
 		},
 		{
@@ -1935,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/193.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/192.png"
 			}
 		},
 		{
@@ -1945,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Kirin Spirit",
-			"collector_number": "229",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/194.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/193.png"
 			}
 		},
 		{
@@ -1955,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "217",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/195.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/194.png"
 			}
 		},
 		{
@@ -1965,9 +1955,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Wizard Scientist",
-			"collector_number": "235",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/196.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/195.png"
 			}
 		},
 		{
@@ -1975,9 +1965,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/197.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/196.png"
 			}
 		},
 		{
@@ -1985,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Youkai Spider",
-			"collector_number": "76",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/198.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/197.png"
 			}
 		},
 		{
@@ -1995,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "241",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/199.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/198.png"
 			}
 		},
 		{
@@ -2005,9 +1995,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/200.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/199.png"
 			}
 		},
 		{
@@ -2015,9 +2005,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Army",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/201.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/200.png"
 			}
 		},
 		{
@@ -2025,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vial",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/202.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/201.png"
 			}
 		},
 		{
@@ -2035,9 +2025,159 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Soldier",
-			"collector_number": "15",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/202.png"
+			}
+		},
+		{
+			"name": "Doll",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Doll",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/203.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/204.png"
+			}
+		},
+		{
+			"name": "Sheep",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Sheep",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/205.png"
+			}
+		},
+		{
+			"name": "Snowball",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Snowball",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/206.png"
+			}
+		},
+		{
+			"name": "Snail",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snail",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/207.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/208.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/209.png"
+			}
+		},
+		{
+			"name": "Garment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/210.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/211.png"
+			}
+		},
+		{
+			"name": "Sawdust",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/212.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/213.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/214.png"
+			}
+		},
+		{
+			"name": "Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Youkai",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/215.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/216.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/217.png"
 			}
 		},
 		{
@@ -2047,157 +2187,7 @@
 			"type": "Token Artifact Creature — Doll",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/204.png"
-			}
-		},
-		{
-			"name": "Bird",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Bird",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/205.png"
-			}
-		},
-		{
-			"name": "Sheep",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Sheep",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/206.png"
-			}
-		},
-		{
-			"name": "Snowball",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Snowball",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/207.png"
-			}
-		},
-		{
-			"name": "Snail",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Snail",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/208.png"
-			}
-		},
-		{
-			"name": "Weapon",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Food",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/209.png"
-			}
-		},
-		{
-			"name": "Clue",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Clue",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/210.png"
-			}
-		},
-		{
-			"name": "Garment",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Enchantment — Aura",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/211.png"
-			}
-		},
-		{
-			"name": "Spirit",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/212.png"
-			}
-		},
-		{
-			"name": "Sawdust",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/213.png"
-			}
-		},
-		{
-			"name": "Treasure",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/214.png"
-			}
-		},
-		{
-			"name": "Blood",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/215.png"
-			}
-		},
-		{
-			"name": "Youkai",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Youkai",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/216.png"
-			}
-		},
-		{
-			"name": "Human",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Human",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/217.png"
-			}
-		},
-		{
-			"name": "Spirit",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit",
-			"collector_number": "8",
-			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/218.png"
-			}
-		},
-		{
-			"name": "Doll",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Doll",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/219.png"
 			}
 		},
 		{
@@ -2205,9 +2195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "196",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/220.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/219.png"
 			}
 		},
 		{
@@ -2215,9 +2205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/221.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/220.png"
 			}
 		},
 		{
@@ -2225,9 +2215,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Youkai Otter",
-			"collector_number": "198",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/222.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/221.png"
 			}
 		},
 		{
@@ -2235,9 +2225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Merfolk Bard",
-			"collector_number": "170",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/223.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/222.png"
 			}
 		},
 		{
@@ -2245,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Youkai Crab",
-			"collector_number": "60",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/224.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/223.png"
 			}
 		},
 		{
@@ -2255,9 +2245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Werewolf",
-			"collector_number": "204",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/225.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/224.png"
 			}
 		},
 		{
@@ -2267,7 +2257,7 @@
 			"type": "Legendary Creature — God Bard",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/226.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/225.png"
 			}
 		},
 		{
@@ -2275,9 +2265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Vampire",
-			"collector_number": "101",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/227.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/226.png"
 			}
 		},
 		{
@@ -2285,9 +2275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "254",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/228.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/227.png"
 			}
 		},
 		{
@@ -2295,9 +2285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Horror God",
-			"collector_number": "113",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/229.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/228.png"
 			}
 		},
 		{
@@ -2305,9 +2295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "75",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/230.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/229.png"
 			}
 		},
 		{
@@ -2315,9 +2305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Bird Youkai",
-			"collector_number": "34",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/231.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/230.png"
 			}
 		},
 		{
@@ -2325,9 +2315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "186",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/232.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/231.png"
 			}
 		},
 		{
@@ -2335,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Insect Youkai",
-			"collector_number": "160",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/233.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/232.png"
 			}
 		},
 		{
@@ -2345,9 +2335,9 @@
 			"rarity": "common",
 			"mana_cost": "{W/U}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "258",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/234.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/233.png"
 			}
 		},
 		{
@@ -2355,9 +2345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/235.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/234.png"
 			}
 		},
 		{
@@ -2365,9 +2355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "175",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/236.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/235.png"
 			}
 		},
 		{
@@ -2377,7 +2367,7 @@
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/237.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/236.png"
 			}
 		},
 		{
@@ -2385,9 +2375,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Horror",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/238.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/237.png"
 			}
 		},
 		{
@@ -2395,9 +2385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Bird Youkai",
-			"collector_number": "219",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/239.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/238.png"
 			}
 		},
 		{
@@ -2405,9 +2395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/240.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/239.png"
 			}
 		},
 		{
@@ -2415,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "187",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/241.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/240.png"
 			}
 		},
 		{
@@ -2425,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B/G}",
 			"type": "Enchantment",
-			"collector_number": "267",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/242.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/241.png"
 			}
 		},
 		{
@@ -2435,9 +2425,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "281",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/243.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/242.png"
 			}
 		},
 		{
@@ -2447,7 +2437,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/244.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/243.png"
 			}
 		},
 		{
@@ -2455,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "52",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/245.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/244.png"
 			}
 		},
 		{
@@ -2465,9 +2455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "115",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/246.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/245.png"
 			}
 		},
 		{
@@ -2475,9 +2465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "173",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/247.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/246.png"
 			}
 		},
 		{
@@ -2485,9 +2475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "145",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/248.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/247.png"
 			}
 		},
 		{
@@ -2495,9 +2485,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "298",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/249.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/248.png"
 			}
 		},
 		{
@@ -2505,9 +2495,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/250.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/249.png"
 			}
 		},
 		{
@@ -2515,9 +2505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "181",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/251.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/250.png"
 			}
 		},
 		{
@@ -2525,9 +2515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Instant",
-			"collector_number": "247",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/252.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/251.png"
 			}
 		},
 		{
@@ -2535,9 +2525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "252",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/253.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/252.png"
 			}
 		},
 		{
@@ -2545,9 +2535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Horror God",
-			"collector_number": "114",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/254.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/253.png"
 			}
 		},
 		{
@@ -2555,9 +2545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Horror God",
-			"collector_number": "90",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/255.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/254.png"
 			}
 		},
 		{
@@ -2565,9 +2555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Horror God",
-			"collector_number": "163",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/256.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/255.png"
 			}
 		},
 		{
@@ -2575,9 +2565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/257.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/256.png"
 			}
 		},
 		{
@@ -2585,9 +2575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "253",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/258.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/257.png"
 			}
 		},
 		{
@@ -2595,9 +2585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/259.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/258.png"
 			}
 		},
 		{
@@ -2605,9 +2595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "109",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/260.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/259.png"
 			}
 		},
 		{
@@ -2615,9 +2605,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/261.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/260.png"
 			}
 		},
 		{
@@ -2625,9 +2615,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/262.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/261.png"
 			}
 		},
 		{
@@ -2635,9 +2625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/263.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/262.png"
 			}
 		},
 		{
@@ -2645,9 +2635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R/G}",
 			"type": "Enchantment",
-			"collector_number": "261",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/264.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/263.png"
 			}
 		},
 		{
@@ -2655,9 +2645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}",
 			"type": "Sorcery",
-			"collector_number": "260",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/265.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/264.png"
 			}
 		},
 		{
@@ -2665,9 +2655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Detective Bard",
-			"collector_number": "104",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/266.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/265.png"
 			}
 		},
 		{
@@ -2675,9 +2665,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Youkai Bard",
-			"collector_number": "107",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/267.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/266.png"
 			}
 		},
 		{
@@ -2685,9 +2675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Youkai Jellyfish Slug",
-			"collector_number": "211",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/268.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/267.png"
 			}
 		},
 		{
@@ -2695,9 +2685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "209",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/269.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/268.png"
 			}
 		},
 		{
@@ -2705,9 +2695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "297",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/270.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/269.png"
 			}
 		},
 		{
@@ -2715,9 +2705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "289",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/271.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/270.png"
 			}
 		},
 		{
@@ -2725,9 +2715,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/272.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/271.png"
 			}
 		},
 		{
@@ -2735,9 +2725,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "51",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/273.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/272.png"
 			}
 		},
 		{
@@ -2745,9 +2735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "293",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/274.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/273.png"
 			}
 		},
 		{
@@ -2755,9 +2745,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/275.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/274.png"
 			}
 		},
 		{
@@ -2765,9 +2755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "296",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/276.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/275.png"
 			}
 		},
 		{
@@ -2775,9 +2765,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "299",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/277.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/276.png"
 			}
 		},
 		{
@@ -2785,9 +2775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Kirin Bard",
-			"collector_number": "36",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/278.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/277.png"
 			}
 		},
 		{
@@ -2795,9 +2785,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/279.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/278.png"
 			}
 		},
 		{
@@ -2805,9 +2795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Artifact Creature — Doll Horror",
-			"collector_number": "80",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/280.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/279.png"
 			}
 		},
 		{
@@ -2815,9 +2805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/281.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/280.png"
 			}
 		},
 		{
@@ -2825,9 +2815,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "271",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/282.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/281.png"
 			}
 		},
 		{
@@ -2835,9 +2825,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/283.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/282.png"
 			}
 		},
 		{
@@ -2845,9 +2835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "278",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/284.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/283.png"
 			}
 		},
 		{
@@ -2855,9 +2845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}",
 			"type": "Enchantment",
-			"collector_number": "259",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/285.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/284.png"
 			}
 		},
 		{
@@ -2865,9 +2855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "269",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/286.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/285.png"
 			}
 		},
 		{
@@ -2875,9 +2865,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "168",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/287.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/286.png"
 			}
 		},
 		{
@@ -2885,9 +2875,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "216",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/288.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/287.png"
 			}
 		},
 		{
@@ -2895,9 +2885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Illusion",
-			"collector_number": "233",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/289.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/288.png"
 			}
 		},
 		{
@@ -2905,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Kindred Land — Illusion",
-			"collector_number": "290",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/290.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/289.png"
 			}
 		},
 		{
@@ -2915,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Insect Youkai",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/291.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/290.png"
 			}
 		},
 		{
@@ -2925,9 +2915,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Youkai Fox",
-			"collector_number": "205",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/292.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/291.png"
 			}
 		},
 		{
@@ -2937,17 +2927,7 @@
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/293.png"
-			}
-		},
-		{
-			"name": "Illusion",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Illusion",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/294.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/292.png"
 			}
 		},
 		{
@@ -2955,9 +2935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Avatar Spirit",
-			"collector_number": "230",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/295.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/293.png"
 			}
 		},
 		{
@@ -2965,9 +2945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/296.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/294.png"
 			}
 		},
 		{
@@ -2975,9 +2955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "300",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/297.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/295.png"
 			}
 		},
 		{
@@ -2985,9 +2965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Bird Youkai",
-			"collector_number": "239",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/298.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/296.png"
 			}
 		},
 		{
@@ -2995,9 +2975,9 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "266",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/299.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/297.png"
 			}
 		},
 		{
@@ -3005,9 +2985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "130",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/300.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/298.png"
 			}
 		},
 		{
@@ -3015,9 +2995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Spirit Pirate",
-			"collector_number": "37",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/301.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/299.png"
 			}
 		},
 		{
@@ -3025,9 +3005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "84",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/302.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/300.png"
 			}
 		},
 		{
@@ -3035,9 +3015,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "157",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/303.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/301.png"
 			}
 		},
 		{
@@ -3045,9 +3025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Creature — Moonfolk",
-			"collector_number": "183",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/304.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/302.png"
 			}
 		},
 		{
@@ -3055,9 +3035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Illusion Spirit",
-			"collector_number": "151",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/305.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/303.png"
 			}
 		},
 		{
@@ -3065,9 +3045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}{G}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "171",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/306.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/304.png"
 			}
 		},
 		{
@@ -3075,9 +3055,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/307.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/305.png"
 			}
 		},
 		{
@@ -3085,9 +3065,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/308.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/306.png"
 			}
 		},
 		{
@@ -3095,9 +3075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/309.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/307.png"
 			}
 		},
 		{
@@ -3105,9 +3085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "190",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/310.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/308.png"
 			}
 		},
 		{
@@ -3115,9 +3095,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "164",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/311.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/309.png"
 			}
 		},
 		{
@@ -3125,9 +3105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "283",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/312.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/310.png"
 			}
 		},
 		{
@@ -3135,9 +3115,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/313.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/311.png"
 			}
 		},
 		{
@@ -3145,9 +3125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Youkai Bird",
-			"collector_number": "159",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/314.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/312.png"
 			}
 		},
 		{
@@ -3155,9 +3135,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{B}{R}",
 			"type": "Legendary Planeswalker — Yukari",
-			"collector_number": "256",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/315.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/313.png"
 			}
 		},
 		{
@@ -3165,9 +3145,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Planeswalker — Theone",
-			"collector_number": "246",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/316.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/314.png"
 			}
 		},
 		{
@@ -3175,9 +3155,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Planeswalker — Reverence",
-			"collector_number": "228",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/317.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/315.png"
 			}
 		},
 		{
@@ -3185,9 +3165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Planeswalker — Seiko",
-			"collector_number": "232",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/318.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/316.png"
 			}
 		},
 		{
@@ -3195,9 +3175,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Planeswalker — Hanezu",
-			"collector_number": "191",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/319.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/317.png"
 			}
 		},
 		{
@@ -3205,7 +3185,24 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Peasant",
-			"collector_number": "86",
+			"collector_number": "90",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://rickyrister.github.io/sets/F2HU-files/img/318_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/318_front.png"
+			}
+		},
+		{
+			"name": "Leaf Ponders the Flower",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "155",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3218,11 +3215,11 @@
 			}
 		},
 		{
-			"name": "Leaf Ponders the Flower",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment",
-			"collector_number": "148",
+			"name": "Empty News",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "42",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3235,30 +3232,13 @@
 			}
 		},
 		{
-			"name": "Empty News",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Instant",
-			"collector_number": "40",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://rickyrister.github.io/sets/F2HU-files/img/324_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/324_front.png"
-			}
-		},
-		{
 			"name": "Hansha, Messenger Figment",
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Legendary Creature — Illusion",
-			"collector_number": "262",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/326.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/324.png"
 			}
 		},
 		{
@@ -3266,9 +3246,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "221",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/327.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/325.png"
 			}
 		},
 		{
@@ -3276,9 +3256,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Merfolk",
-			"collector_number": "53",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/328.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/326.png"
 			}
 		},
 		{
@@ -3286,9 +3266,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "287",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/329.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/327.png"
 			}
 		},
 		{
@@ -3296,9 +3276,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/330.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/328.png"
 			}
 		},
 		{
@@ -3306,9 +3286,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "206",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://rickyrister.github.io/sets/F2HU-files/img/331.png"
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/329.png"
 			}
 		},
 		{
@@ -3316,9 +3296,169 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "279",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/330.png"
+			}
+		},
+		{
+			"name": "Miyachi, Half Bull",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Minotaur Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/331.png"
+			}
+		},
+		{
+			"name": "Rujiri, Messenger of Wind",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Youkai Bird",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://rickyrister.github.io/sets/F2HU-files/img/332.png"
+			}
+		},
+		{
+			"name": "Mitsuka, Water God",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/333.png"
+			}
+		},
+		{
+			"name": "Kinkaku and Ginkaku",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Fox Youkai",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/334.png"
+			}
+		},
+		{
+			"name": "Adastra, Daughter of Humanity",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — Avatar",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/335.png"
+			}
+		},
+		{
+			"name": "Journey of 40 Million Kilometers",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/336.png"
+			}
+		},
+		{
+			"name": "Mikoto, the Divine Blade",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — God Warrior",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/337.png"
+			}
+		},
+		{
+			"name": "Heavenly Amusement Park",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/338.png"
+			}
+		},
+		{
+			"name": "Tatara the Furnace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/339.png"
+			}
+		},
+		{
+			"name": "Abyssal Abandoned Metropolis",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/340.png"
+			}
+		},
+		{
+			"name": "Life-Guiding Tree",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/341.png"
+			}
+		},
+		{
+			"name": "Bely, the White Emperor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/342.png"
+			}
+		},
+		{
+			"name": "Ringo of the Forbidden Fruit",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Rabbit Youkai",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/343.png"
+			}
+		},
+		{
+			"name": "Houko, Wielder of Celestial Light",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Kirin",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/344.png"
+			}
+		},
+		{
+			"name": "Now, Before the Magic Fades",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/345.png"
+			}
+		},
+		{
+			"name": "Testament's Star Chapter",
+			"rarity": "rare",
+			"mana_cost": "{4}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://rickyrister.github.io/sets/F2HU-files/img/346.png"
 			}
 		}
 	]
@@ -3410,7 +3550,6 @@
 	1 Patricia Turing
 	1 Hako, Ark of Death
 	2 Mizukami, Aqua Seraph
-	2 Testament's Star Chapter
 	1 Miyako, Lamp of Life
 	2 Lily White, Fairy Imperator
 	2 An, Kodama of Tobiume
@@ -3469,6 +3608,15 @@
 	2 Oracular Zeitgeist
 	2 Mana Gloriosa, Alchemist
 	2 Kokorolia Staff
+	2 Kinkaku and Ginkaku
+	1 Adastra, Daughter of Humanity
+	2 Journey of 40 Million Kilometers
+	2 Mikoto, the Divine Blade
+	2 Bely, the White Emperor
+	2 Ringo of the Forbidden Fruit
+	2 Houko, Wielder of Celestial Light
+	2 Now, Before the Magic Fades
+	2 Testament's Star Chapter
 [uncommon(3)]
 	4 Tanboku, Austral Pearl
 	4 Fairy Contest
@@ -3549,6 +3697,12 @@
 	4 Sakura, Decision Maker
 	4 Empty News
 	4 Country of Flood
+	4 Miyachi, Half Bull
+	4 Rujiri, Messenger of Wind
+	4 Heavenly Amusement Park
+	4 Tatara the Furnace
+	4 Abyssal Abandoned Metropolis
+	4 Life-Guiding Tree
 [common(6)]
 	8 Chii, Toothpick Tsukumogami
 	8 Amanojaku's Folly
@@ -3626,6 +3780,7 @@
 	8 Hansha, Messenger Figment
 	8 Minamo and Suzuri
 	8 Saline Petrichor
+	8 Mitsuka, Water God
 [common | masterpiece(1)]
 	8 Chii, Toothpick Tsukumogami
 	8 Amanojaku's Folly
@@ -3703,6 +3858,7 @@
 	8 Hansha, Messenger Figment
 	8 Minamo and Suzuri
 	8 Saline Petrichor
+	8 Mitsuka, Water God
 [foil(1)]
 	6 Tanboku, Austral Pearl
 	6 Fairy Contest
@@ -3882,7 +4038,6 @@
 	1 Patricia Turing
 	1 Hako, Ark of Death
 	2 Mizukami, Aqua Seraph
-	2 Testament's Star Chapter
 	1 Miyako, Lamp of Life
 	2 Lily White, Fairy Imperator
 	6 Rebellion God Force
@@ -4004,6 +4159,22 @@
 	12 Saline Petrichor
 	2 Mana Gloriosa, Alchemist
 	2 Kokorolia Staff
+	6 Miyachi, Half Bull
+	6 Rujiri, Messenger of Wind
+	12 Mitsuka, Water God
+	2 Kinkaku and Ginkaku
+	1 Adastra, Daughter of Humanity
+	2 Journey of 40 Million Kilometers
+	2 Mikoto, the Divine Blade
+	6 Heavenly Amusement Park
+	6 Tatara the Furnace
+	6 Abyssal Abandoned Metropolis
+	6 Life-Guiding Tree
+	2 Bely, the White Emperor
+	2 Ringo of the Forbidden Fruit
+	2 Houko, Wielder of Celestial Light
+	2 Now, Before the Magic Fades
+	2 Testament's Star Chapter
 [wildcard(1)]
 	15 Tanboku, Austral Pearl
 	15 Fairy Contest
@@ -4183,7 +4354,6 @@
 	4 Patricia Turing
 	4 Hako, Ark of Death
 	7 Mizukami, Aqua Seraph
-	7 Testament's Star Chapter
 	4 Miyako, Lamp of Life
 	7 Lily White, Fairy Imperator
 	15 Rebellion God Force
@@ -4305,3 +4475,19 @@
 	6 Saline Petrichor
 	7 Mana Gloriosa, Alchemist
 	7 Kokorolia Staff
+	15 Miyachi, Half Bull
+	15 Rujiri, Messenger of Wind
+	6 Mitsuka, Water God
+	7 Kinkaku and Ginkaku
+	4 Adastra, Daughter of Humanity
+	7 Journey of 40 Million Kilometers
+	7 Mikoto, the Divine Blade
+	15 Heavenly Amusement Park
+	15 Tatara the Furnace
+	15 Abyssal Abandoned Metropolis
+	15 Life-Guiding Tree
+	7 Bely, the White Emperor
+	7 Ringo of the Forbidden Fruit
+	7 Houko, Wielder of Celestial Light
+	7 Now, Before the Magic Fades
+	7 Testament's Star Chapter

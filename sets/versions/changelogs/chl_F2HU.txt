@@ -1,4 +1,105 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+Miyachi, Half Bull added.
+Rujiri, Messenger of Wind added.
+Mitsuka, Water God added.
+Kinkaku and Ginkaku added.
+Adastra, Daughter of Humanity added.
+Journey of 40 Million Kilometers added.
+Mikoto, the Divine Blade added.
+Heavenly Amusement Park added.
+Tatara the Furnace added.
+Abyssal Abandoned Metropolis added.
+Life-Guiding Tree added.
+Bely, the White Emperor added.
+Ringo of the Forbidden Fruit added.
+Houko, Wielder of Celestial Light added.
+Now, Before the Magic Fades added.
+
+Illusion removed.
+
+Megumi, the Mermaid's Dream
+type: Legendary Creature — Merfolk Noble => Legendary Creature — Merfolk Youkai
+
+Ayame, Essence of Chaos
+cost: {3}{B}{R}{G} => {6}{B}{R}{G}
+rules_text: Indestructible
+[i]Delirium[/i] — Whenever Ayame enters or attacks, if there are four or more card types among cards in your graveyard, destroy target permanent. If there are six or more card types, instead destroy all permanents. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles. => This spell costs {1} less to cast for each card type among cards in your graveyard.
+Whenever Ayame enters or attacks, for each player, destroy target permanent that player controls. For each permanent destroyed this way, its controller reveals cards from the top of their library until they reveal a permanent card and puts it on the battlefield. Then each player shuffles.
+
+Iesua, the Forgiver
+cost: {2}{W}{W} => {W}{W}{W}{W}
+rules_text: Vigilance
+All damage that would be dealt to other permanents is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, that source's controller draws that many cards and gains that much life.
+If Iesua would die, she phases out instead. => Vigilance
+All damage that would be dealt to you or other permanents you control is dealt to Iesua instead.
+Whenever a source deals damage to Iesua, you and that source's controller each gain that much life.
+When Iesua dies or is put into exile from the battlefield, you may put her into her owner's library third from the top.
+pt: 3/4 => 4/5
+
+Umikaze, Sea Angel
+rules_text: Umikaze enters tapped with two stun counters on her.
+Other Youkai you control have ward {1}.
+[i]Eudaimonia[/i] — Whenever Umikaze becomes untapped, scry 2. => Umikaze enters tapped with two stun counters on her.
+Other Youkai and Merfolk you control have ward {1}.
+[i]Eudaimonia[/i] — Whenever Umikaze becomes untapped, scry 2.
+
+Hasuta, the Blinding Royal
+pt: 4/3 => 4/4
+
+Map Orb
+rules_text: When this artifact enters, exile the top two cards of your library.
+{1}: Sacrifice this artifact: Choose one —
+• Put a card exiled by this artifact into your hand.
+• Create a 1/1 white Faerie creature token with flying. => When this artifact enters, exile the top two cards of your library.
+{1}, {T}, Sacrifice this artifact: Scry 1.
+When this artifact is put into a graveyard from the battlefield, choose one —
+• Put a card exiled by this artifact into your hand.
+• Create a 1/1 white Faerie creature token with flying.
+
+Mitsuki and Mashu
+rules_text: Other Youkai you control get +1/+1 and have Ward—Pay 3 life.
+Whenever one or more Youkai you control deals combat damage to a player, draw a card. => Ward—Pay 3 life
+Other Youkai and Merfolk you control get +1/+1 and have Ward—Pay 3 life.
+Whenever one or more Youkai or Merfolk you control deals combat damage to a player, draw a card.
+
+Deep-Stratum Limestone
+flavor_text: [i]Hidden in the deepest section of the cave was an intelligence that transcended time itself.[/i] => [i]Hidden in the deepest part of the cave was an intelligence that transcended time itself.[/i]
+
+Shinyoku, Figment of Some God
+rules_text: Other Illusions you control get +1/+1.
+{2}, Put an Illusion card from your hand or graveyard on the bottom of your library: Create a 1/1 colorless Illusion creature token.
+{2}, Put Shinyoku from your hand or graveyard on the bottom of your library: Create a 1/1 colorless Illusion creature token. => When Shinyoku or another Illusion you control enters, you draw a card, then put a card from your hand on the top or bottom of your library.
+{4}: Put the bottom four cards of your library into your graveyard. You may put a permanent card from among them with mana value less than or equal to the number of Illusions you control onto the battlefield.
+artist: 飘游轻风旅, tommyvideo => Shiny Vixen
+
+Sea of Lament
+rules_text: This land enters tapped unless you lost life, discarded a card, or sacrificed a nonland permanent this turn.
+As this land enters, choose two colors.
+{T}: Add one mana of any of the chosen colors. => This land enters tapped unless you control two or fewer other lands.
+{T}: Add {B}
+{0}: Untap this land. Activate only once during each of your turns, and only if you've lost life, discarded a card, and sacrificed a nonland permanent this turn.
+
+Oracular Zeitgeist
+artist:  => Eico
+
+Saline Petrichor
+rules_text: Mill two cards. When you do, up to one target creature gets -1/-1 until end of turn for each land card in your graveyard. => Mill three cards. When you do, up to one target creature gets -1/-1 until end of turn for each land card in your graveyard.
+flavor_text: [i]A saltwater deluge had spread itself across Gensokyo's skies.[/i] => [i]The rain was much heavier than in years past, and had continued through both day and night. There was a certain suspicious quality to this rain, too.[/i]
+
+Mana Gloriosa, Alchemist
+rules_text: Exhaust — Exile four instant and/or sorcery cards from your graveyard: Put two +1/+1 counters and a flying counter on target creature. It becomes an Angel in addition to its other types. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => Whenever Mana becomes tapped, you may exile four instant and/or sorcery cards from your graveyard. When you do, put two +1/+1 counters and a flying counter on target creature. It becomes an Angel in addition to its other types. Do this only once.
+
+Testament's Star Chapter
+cost: {3}{WB}{WB} => {4}{WB}{WB}
+rules_text: Destroy all non-Angel, non-Demon creatures. => As an additional cost to cast this spell, you may behold an Angel and/or Demon. This spell costs {2} less to cast for each beheld this way. [i](To behold a type, choose a permanent of that type you control or reveal a card of that type from your hand.)[/i]
+Destroy all non-Angel, non-Demon creatures.
+flavor_text: [i]It was prophecized that a ‘lamb' would break the seals on the book of revelations. Just their luck that a shepherd fairy would steal the book as a prank, inadvertently starting the apocalypse in Gensokyo.[/i] => [i]Just their luck that a shepherd fairy would inadvertently start the apocalypse in Gensokyo.[/i]
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Oracular Zeitgeist added.
