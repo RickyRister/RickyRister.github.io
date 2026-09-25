@@ -1,4 +1,11 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+Ringo of the Forbidden Fruit
+artist: Gore => Shiny Vixen
+
+
+VERSION 39 CHANGELOG
 ====================
 
 Miyachi, Half Bull added.

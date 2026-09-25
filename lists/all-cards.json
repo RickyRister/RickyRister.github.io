@@ -111,7 +111,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n",
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6898,7 +6898,7 @@
             "alias": "",
             "position": "299",
             "rotated": false,
-            "notes": "!tag TGAWRA\n!tag album\n!tag finalboss\n",
+            "notes": "!tag TGAWRA\n!tag album\n!tag finalboss",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7873,7 +7873,7 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "Gore",
+            "artist": "Shiny Vixen",
             "alias": "",
             "position": "343",
             "rotated": false,
