@@ -33,7 +33,7 @@ Sorta gives you an idea of the rabbit hole that is the Touhou danmaku fangames /
 
 ---
 
-I submitted this set to the mse discord's Field Test season 7!
+I submitted this set to the mse discord's [Field Test](https://docs.google.com/document/d/14ijcorF6--s59-55MvfZJvDsj6_9dJTbAexsQ7aiK90/edit?usp=sharing) season 7!
 
 I also recorded all my games during field test. It's not very watchable though because it suffers from all the standard "Ricky stutters a lot and sucks at commentary" problems. I think I'm mostly recording for archival purposes anyways.
 
@@ -43,7 +43,7 @@ If you do decide to watch it, I recommend watching on 2x speed.
 
 ---
 
-I submitted this set to the mse discord's Field Test season 8!
+I submitted this set to the mse discord's [Field Test](https://docs.google.com/document/d/14ijcorF6--s59-55MvfZJvDsj6_9dJTbAexsQ7aiK90/edit?usp=sharing) season 8!
 This time, Rachel's 2HU set was also submitted!
 So we can finally play the two sets together like they were some sort of Touhou block constructed.
 
@@ -58,7 +58,7 @@ If you do decide to watch it, I recommend watching on 2x speed.
 
 ---
 
-I submitted this set to the mse discord's Field Test season 9!
+I submitted this set to the mse discord's [Field Test](https://docs.google.com/document/d/14ijcorF6--s59-55MvfZJvDsj6_9dJTbAexsQ7aiK90/edit?usp=sharing) season 9!
 Rachel didn't submit 2HU this time, so I was on my own again.
 
 Someone else submitted [Universes Beyond: RPG Maker](https://supergb-denny.github.io/previews/RPGM) again, which I was quite a fan of, so that was one of the other sets I built with more often.
@@ -71,10 +71,11 @@ If you do decide to watch it, I recommend watching on 2x speed.
 
 ---
 
-I submitted this set to the mse discord's Field Test season 10!
+I submitted this set to the mse discord's [Field Test](https://docs.google.com/document/d/14ijcorF6--s59-55MvfZJvDsj6_9dJTbAexsQ7aiK90/edit?usp=sharing) season 10!
 This time, Rachel submitted 2MC, which combines the [three](https://rachel-brighton.github.io/previews/AKU) [touhou](https://rachel-brighton.github.io/previews/GRM) [minisets](https://rachel-brighton.github.io/previews/INC) that are intended for Touhou block constructed into a single set.
 
 Unlike last time, I didn't mainly stick to Touhou block constructed. I built with plenty of cards across other sets in my pool.
+I ended up dipping into [Onigaiko](https://silver-parabellum.github.io/previews/ONI) (by [Silverparabellum](https://silver-parabellum.github.io)) and [Waters of a Drowned World](https://bancrabs.github.io/previews/WDW) (by [Wende](https://bancrabs.github.io)) quite at lot.
 
 I also recorded all my games this time. Again, It's not very watchable because it suffers from all the standard "Ricky stutters a lot and sucks at commentary" problems.
 

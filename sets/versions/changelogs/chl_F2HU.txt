@@ -1,4 +1,24 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+
+
+Null Recreator
+flavor_text: [i][/i] => [i]She dreams of creating a stage where even those rejected by the spotlight can shine.[/i]
+pt: 3/3 => 3/4
+
+Yuyuko, Sakurachill Blossom
+flavor_text: [i][/i] => [i]“I've been eating a bit much lately, so I figured some exercise would be nice!”[/i]
+
+Steam Age Overture
+rules_text: Golden Age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+This spell deals 2 damage to any target.
+If you're in a renaissance, exile the top three cards of your library. You may play one of those cards until your next turn. => Golden Age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+This spell deals 2 damage to any target.
+If you're in a renaissance, exile the top three cards of your library. You may play one of those cards until your next end step.
+
+
+VERSION 40 CHANGELOG
 ====================
 
 Ringo of the Forbidden Fruit

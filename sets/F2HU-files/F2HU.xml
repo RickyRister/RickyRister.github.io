@@ -4733,7 +4733,7 @@ As long as it&apos;s your turn, Dolls you control have hexproof and indestructib
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5380,7 +5380,7 @@ Whenever Sumomo attacks, draw a card and add one mana of any color. When you do,
 			<name>Steam Age Overture</name>
 			<text>Golden Age (If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)
 This spell deals 2 damage to any target.
-If you&apos;re in a renaissance, exile the top three cards of your library. You may play one of those cards until your next turn.</text>
+If you&apos;re in a renaissance, exile the top three cards of your library. You may play one of those cards until your next end step.</text>
 			<set rarity="uncommon" picurl="https://rickyrister.github.io/sets/F2HU-files/img/298.png" num="136">F2HU</set>
 			<prop>
 				<layout>normal</layout>

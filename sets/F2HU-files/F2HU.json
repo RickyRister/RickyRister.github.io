@@ -5476,8 +5476,8 @@
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "When Null Recreator enters, create a 1/1 colorless artifact Doll creature token.\nDolls you control get +1/+1.\nAs long as it's your turn, Dolls you control have hexproof and indestructible.",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "flavor_text": "[i]She dreams of creating a stage where even those rejected by the spotlight can shine.[/i]",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "F2HU",
@@ -6022,7 +6022,7 @@
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "If one or more tokens would be created under your control, you may create that many tapped Evolving Wilds tokens instead. Do this only once each turn. [i](Evolving Wilds is a Land with \u201c{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\u201d)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cI've been eating a bit much lately, so I figured some exercise would be nice!\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
@@ -6273,7 +6273,7 @@
             "number": 136,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Golden Age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]\nThis spell deals 2 damage to any target.\nIf you're in a renaissance, exile the top three cards of your library. You may play one of those cards until your next turn.",
+            "rules_text": "Golden Age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]\nThis spell deals 2 damage to any target.\nIf you're in a renaissance, exile the top three cards of your library. You may play one of those cards until your next end step.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7268,5 +7268,5 @@
             "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag new"
         }
     ],
-    "version": 40
+    "version": 41
 }
