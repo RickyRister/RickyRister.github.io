@@ -5,7 +5,7 @@
 			<name>F2HU</name>
 			<longname>Universes Beyond: Touhou Fangames/Albums</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-26</releasedate>
+			<releasedate>2026-09-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4587,7 +4587,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Homura, Blacksmith of Living Flame</name>
-			<text>As long as Homura isn&apos;t on the battlefield, she&apos;s an artifact in addition to her other types.
+			<text>As long as Homura is in your library or graveyard, she&apos;s an artifact in addition to her other types.
 First strike
 Whenever you cycle Homura or she deals combat damage to a player, create a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
 Cycling {1}{R}</text>
@@ -4607,7 +4607,7 @@ Cycling {1}{R}</text>
 		</card>
 		<card>
 			<name>Mitsuru, Formless Thunder God</name>
-			<text>As long as Mitsuru isn&apos;t on the battlefield, she&apos;s an enchantment in addition to her other types.
+			<text>As long as Mitsuru is in your library or graveyard, she&apos;s an enchantment in addition to her other types.
 Menace
 Whenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 until end of turn for each card type among cards in your graveyard.
 Cycling {3}{B}</text>
@@ -4627,7 +4627,7 @@ Cycling {3}{B}</text>
 		</card>
 		<card>
 			<name>Toyomi, Former Sea Queen</name>
-			<text>As long as Toyomi isn&apos;t on the battlefield, she&apos;s a land in addition to her other types.
+			<text>As long as Toyomi is in your library or graveyard, she&apos;s a land in addition to her other types.
 Trample
 Whenever you cycle Toyomi or she deals combat damage to a player, you gain 1 life and mill a card for each card type among cards in your graveyard.
 Cycling {2}{G}</text>

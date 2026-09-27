@@ -5328,7 +5328,7 @@
             "number": 118,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "As long as Homura isn't on the battlefield, she's an artifact in addition to her other types.\nFirst strike\nWhenever you cycle Homura or she deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with equip {2} and \u201cEquipped creature gets +1/+1.\u201d)[/i]\nCycling {1}{R}",
+            "rules_text": "As long as Homura is in your library or graveyard, she's an artifact in addition to her other types.\nFirst strike\nWhenever you cycle Homura or she deals combat damage to a player, create a Weapon token. [i](It's an Equipment artifact with equip {2} and \u201cEquipped creature gets +1/+1.\u201d)[/i]\nCycling {1}{R}",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5349,7 +5349,7 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "As long as Mitsuru isn't on the battlefield, she's an enchantment in addition to her other types.\nMenace\nWhenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 until end of turn for each card type among cards in your graveyard.\nCycling {3}{B}",
+            "rules_text": "As long as Mitsuru is in your library or graveyard, she's an enchantment in addition to her other types.\nMenace\nWhenever you cycle Mitsuru or she deals combat damage to a player, up to one target creature gets -1/-1 until end of turn for each card type among cards in your graveyard.\nCycling {3}{B}",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -5370,7 +5370,7 @@
             "number": 170,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "As long as Toyomi isn't on the battlefield, she's a land in addition to her other types.\nTrample\nWhenever you cycle Toyomi or she deals combat damage to a player, you gain 1 life and mill a card for each card type among cards in your graveyard.\nCycling {2}{G}",
+            "rules_text": "As long as Toyomi is in your library or graveyard, she's a land in addition to her other types.\nTrample\nWhenever you cycle Toyomi or she deals combat damage to a player, you gain 1 life and mill a card for each card type among cards in your graveyard.\nCycling {2}{G}",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -7268,5 +7268,5 @@
             "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag new"
         }
     ],
-    "version": 42
+    "version": 43
 }
