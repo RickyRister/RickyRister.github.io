@@ -1193,7 +1193,7 @@
 		{
 			"name": "Starry Wisdom",
 			"rarity": "uncommon",
-			"mana_cost": "{7}{U}{U}",
+			"mana_cost": "{8}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "69",
 			"image_uris": {

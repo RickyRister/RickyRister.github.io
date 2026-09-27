@@ -1,4 +1,31 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+
+
+Munomoto, Bud of Lost Dreams
+rules_text: Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If this is the first time this ability has resolved this turn, put a +1/+1 on Munomoto. => Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If this is the first time this ability has resolved this turn, put a +1/+1 counter on Munomoto.
+
+Tenmu Suitokuin, Daitengu
+rules_text: Flying
+Ward—Exile two cards from your graveyard
+Whenever Tenmu enters or attacks, you may exile a card from each player's graveyard.
+As long as there are four different colors, mana values, and card types among the exiled cards, Tenmu has protection from everything. => Flying
+Ward—Exile two cards from your graveyard
+Whenever Tenmu enters or attacks, you may exile a card from each player's graveyard.
+As long as there are four different colors, mana values, and card types among cards exiled with Tenmu, she has protection from everything.
+
+Starry Wisdom
+cost: {7}{U}{U} => {8}{U}{U}
+
+Miyachi, Half Bull
+rules_text: Trample, indestructible
+When Miyachi enters, target land an opponent controls gains “{T}: Untap target attacking Minotaur. Prevent all combat damage that would be dealt to and dealt by that creature this turn.” and loses all other nonmana abilities for as long as you control Miyachi. => Trample, indestructible
+Miyachi attacks each turn if able.
+When Miyachi enters, target land an opponent controls gains “{T}: Untap target attacking Minotaur and remove it from combat” and loses all other nonmana abilities for as long as you control Miyachi.
+
+
+VERSION 41 CHANGELOG
 ====================
 
 

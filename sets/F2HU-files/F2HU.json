@@ -1002,7 +1002,7 @@
             "number": 157,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If this is the first time this ability has resolved this turn, put a +1/+1 on Munomoto.",
+            "rules_text": "Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If this is the first time this ability has resolved this turn, put a +1/+1 counter on Munomoto.",
             "flavor_text": "[i]To create a world where dreams are not forgotten\u2014Though a very childish wish, it's quite fitting for her.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2262,7 +2262,7 @@
             "number": 253,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Flying\nWard\u2014Exile two cards from your graveyard\nWhenever Tenmu enters or attacks, you may exile a card from each player's graveyard.\nAs long as there are four different colors, mana values, and card types among the exiled cards, Tenmu has protection from everything.",
+            "rules_text": "Flying\nWard\u2014Exile two cards from your graveyard\nWhenever Tenmu enters or attacks, you may exile a card from each player's graveyard.\nAs long as there are four different colors, mana values, and card types among cards exiled with Tenmu, she has protection from everything.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2513,7 +2513,7 @@
             "type": "Sorcery",
             "number": 69,
             "color_identity": "U",
-            "cost": "{7}{U}{U}",
+            "cost": "{8}{U}{U}",
             "rules_text": "This spell costs {1} less to cast for each instant and sorcery card in your graveyard.\nDraw three cards.",
             "flavor_text": "[i]Books are a wellspring of knowledge.\nBooks are proof that our predecessors' souls live on.\nHaving read tens of thousands of texts,\nmy soul has known a journey of a thousand miles.[/i]",
             "pt": "",
@@ -6939,7 +6939,7 @@
             "number": 128,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample, indestructible\nWhen Miyachi enters, target land an opponent controls gains \u201c{T}: Untap target attacking Minotaur. Prevent all combat damage that would be dealt to and dealt by that creature this turn.\u201d and loses all other nonmana abilities for as long as you control Miyachi.",
+            "rules_text": "Trample, indestructible\nMiyachi attacks each turn if able.\nWhen Miyachi enters, target land an opponent controls gains \u201c{T}: Untap target attacking Minotaur and remove it from combat\u201d and loses all other nonmana abilities for as long as you control Miyachi.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -7268,5 +7268,5 @@
             "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag new"
         }
     ],
-    "version": 41
+    "version": 42
 }

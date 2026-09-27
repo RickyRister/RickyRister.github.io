@@ -5,7 +5,7 @@
 			<name>F2HU</name>
 			<longname>Universes Beyond: Touhou Fangames/Albums</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-25</releasedate>
+			<releasedate>2026-09-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -862,7 +862,7 @@ As long as you&apos;ve sacrificed a Food this turn, Apple Girlington gets +1/+1 
 		</card>
 		<card>
 			<name>Munomoto, Bud of Lost Dreams</name>
-			<text>Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If this is the first time this ability has resolved this turn, put a +1/+1 on Munomoto.</text>
+			<text>Whenever you put one or more cards on the bottom of your library from anywhere, you may put the bottom card of your library on top. If this is the first time this ability has resolved this turn, put a +1/+1 counter on Munomoto.</text>
 			<set rarity="rare" picurl="https://rickyrister.github.io/sets/F2HU-files/img/47.png" num="157">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -1951,7 +1951,7 @@ Whenever Saraka deals combat damage to a player, destroy target creature that ha
 			<text>Flying
 Ward—Exile two cards from your graveyard
 Whenever Tenmu enters or attacks, you may exile a card from each player&apos;s graveyard.
-As long as there are four different colors, mana values, and card types among the exiled cards, Tenmu has protection from everything.</text>
+As long as there are four different colors, mana values, and card types among cards exiled with Tenmu, she has protection from everything.</text>
 			<set rarity="uncommon" picurl="https://rickyrister.github.io/sets/F2HU-files/img/107.png" num="253">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -2175,8 +2175,8 @@ Draw three cards.</text>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>7UU</manacost>
-				<cmc>9</cmc>
+				<manacost>8UU</manacost>
+				<cmc>10</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -5976,7 +5976,8 @@ Equip {1}</text>
 		<card>
 			<name>Miyachi, Half Bull</name>
 			<text>Trample, indestructible
-When Miyachi enters, target land an opponent controls gains &quot;{T}: Untap target attacking Minotaur. Prevent all combat damage that would be dealt to and dealt by that creature this turn.&quot; and loses all other nonmana abilities for as long as you control Miyachi.</text>
+Miyachi attacks each turn if able.
+When Miyachi enters, target land an opponent controls gains &quot;{T}: Untap target attacking Minotaur and remove it from combat&quot; and loses all other nonmana abilities for as long as you control Miyachi.</text>
 			<set rarity="uncommon" picurl="https://rickyrister.github.io/sets/F2HU-files/img/331.png" num="128">F2HU</set>
 			<prop>
 				<layout>normal</layout>
