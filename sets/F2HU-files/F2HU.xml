@@ -1667,8 +1667,8 @@ Take an extra turn after this one. Exile this spell.</text>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3UU</manacost>
-				<cmc>5</cmc>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -2078,7 +2078,7 @@ Whenever Himemiko deals combat damage to a player, return target Equipment card 
 		<card>
 			<name>Seiryuu, Willow Spirit</name>
 			<text>{T}: Add {G}.
-Green Willow Legend — {G}, Exile Seiryuu from your graveyard: She gains &quot;Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if she has four or more growth counters on her, return her to the battlefield with two +1/+1 counters and a finality counter on it.&quot;</text>
+Green Willow Legend — {G}, Exile Seiryuu from your graveyard: She gains &quot;Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if she has four or more growth counters on her, return her to the battlefield with two +1/+1 counters and a finality counter on her.&quot;</text>
 			<set rarity="uncommon" picurl="https://rickyrister.github.io/sets/F2HU-files/img/114.png" num="168">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -2783,11 +2783,11 @@ Whenever a player activates an ability of a nonbasic land, Kousen deals 1 damage
 				<side>front</side>
 				<type>Legendary Creature — God</type>
 				<maintype>Creature</maintype>
-				<manacost>RR</manacost>
-				<cmc>2</cmc>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3215,7 +3215,8 @@ Nonland permanents that don&apos;t have vanishing gain vanishing 2 as they enter
 		</card>
 		<card>
 			<name>Ei, the Eternal Stillness</name>
-			<text>Nonland permanents can&apos;t be tapped and don&apos;t untap during their controller&apos;s untap steps. (Effects that would cause a permanent to be tapped don&apos;t. Costs that require tapping can&apos;t be paid. Permanents that are already tapped remain tapped. Untapped creatures can still attack.)
+			<text>Nonland permanents can&apos;t be tapped and don&apos;t untap during their controller&apos;s untap steps. (Effects that would cause a permanent to be tapped don&apos;t. Costs that require tapping can&apos;t be paid. Permanents that are already tapped remain tapped.)
+All creatures have vigilance.
 {4}: Ei phases out. Only activate as a sorcery.</text>
 			<set rarity="mythic" picurl="https://rickyrister.github.io/sets/F2HU-files/img/177.png" num="189">F2HU</set>
 			<prop>
@@ -4069,7 +4070,7 @@ Harmony — Exile the top card of your library. Until the end of your next turn,
 		</card>
 		<card>
 			<name>Lycaropia Hearn</name>
-			<text>Haste
+			<text>Haste, first strike
 {T}: Choose main phase, combat phase, or end phase. There is an additional instance of the chosen phase after this phase. (The ending phase includes the end and cleanup steps.)</text>
 			<set rarity="rare" picurl="https://rickyrister.github.io/sets/F2HU-files/img/224.png" num="213">F2HU</set>
 			<prop>
@@ -4077,11 +4078,11 @@ Harmony — Exile the top card of your library. Until the end of your next turn,
 				<side>front</side>
 				<type>Legendary Creature — Werewolf</type>
 				<maintype>Creature</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/2</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5097,7 +5098,7 @@ Equip {1}</text>
 		<card>
 			<name>Riko Toone, Divine Diva</name>
 			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
-Whenever you cast a spell with mana value 4 or greater, harmonize. (Trigger up to one harmony of a permanent you control.)
+Whenever you cast a noncreature spell with mana value 4 or greater, harmonize. (Trigger up to one harmony of a permanent you control.)
 Harmony — Put a +1/+1 counter on each creature you control with power less than Riko&apos;s power.</text>
 			<set rarity="mythic" picurl="https://rickyrister.github.io/sets/F2HU-files/img/282.png" num="31">F2HU</set>
 			<prop>
@@ -5292,7 +5293,7 @@ Escape—{3}{B}{G}{U}, Exile six cards from your graveyard (You may cast this ca
 		</card>
 		<card>
 			<name>Ruine, Discarded Data</name>
-			<text>Ruine gets +1/+1 for each mana value among cards you own in exile.
+			<text>Ruine gets +1/+1 for each different mana value among cards you own in exile.
 Ruine has flying as long as a card you own in exile has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.</text>
 			<set rarity="rare" picurl="https://rickyrister.github.io/sets/F2HU-files/img/293.png" num="240">F2HU</set>
 			<prop>
@@ -5977,7 +5978,7 @@ Equip {1}</text>
 			<name>Miyachi, Half Bull</name>
 			<text>Trample, indestructible
 Miyachi attacks each turn if able.
-When Miyachi enters, target land an opponent controls gains &quot;{T}: Untap target attacking Minotaur and remove it from combat&quot; and loses all other nonmana abilities for as long as you control Miyachi.</text>
+When Miyachi enters, target land an opponent controls gains &quot;{T}: Untap target attacking Minotaur and remove it from combat&quot; for as long as you control Miyachi.</text>
 			<set rarity="uncommon" picurl="https://rickyrister.github.io/sets/F2HU-files/img/331.png" num="128">F2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -6233,8 +6234,8 @@ Rather than pay the mana cost for a spell cast from exile, you may tap a creatur
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>

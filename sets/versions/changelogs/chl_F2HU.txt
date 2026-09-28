@@ -1,4 +1,57 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+
+
+Gensokyo's Longest Day
+cost: {3}{U}{U} => {4}{U}{U}
+
+Seiryuu, Willow Spirit
+rules_text: {T}: Add {G}.
+[i]Green Willow Legend[/i] — {G}, Exile Seiryuu from your graveyard: She gains “Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if she has four or more growth counters on her, return her to the battlefield with two +1/+1 counters and a finality counter on it.” => {T}: Add {G}.
+[i]Green Willow Legend[/i] — {G}, Exile Seiryuu from your graveyard: She gains “Whenever a land you control enters, if Seiryuu is exiled, put a growth counter on Seiryuu. Then if she has four or more growth counters on her, return her to the battlefield with two +1/+1 counters and a finality counter on her.”
+
+Kousen, Drought Deity
+cost: {R}{R} => {1}{R}{R}
+pt: 2/2 => 3/3
+
+Ei, the Eternal Stillness
+rules_text: Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped remain tapped. Untapped creatures can still attack.)[/i]
+{4}: Ei phases out. Only activate as a sorcery. => Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped remain tapped.)[/i]
+All creatures have vigilance.
+{4}: Ei phases out. Only activate as a sorcery.
+
+Lycaropia Hearn
+cost: {U}{R} => {2}{U}{R}
+rules_text: Haste
+{T}: Choose main phase, combat phase, or end phase. There is an additional instance of the chosen phase after this phase. [i](The ending phase includes the end and cleanup steps.)[/i] => Haste, first strike
+{T}: Choose main phase, combat phase, or end phase. There is an additional instance of the chosen phase after this phase. [i](The ending phase includes the end and cleanup steps.)[/i]
+pt: 2/2 => 4/3
+
+Riko Toone, Divine Diva
+rules_text: Cadence [i](Whenever you cast a spell, if its mana value is greater than this creature's power, put a +1/+1 counter on this creature.)[/i]
+Whenever you cast a spell with mana value 4 or greater, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Put a +1/+1 counter on each creature you control with power less than Riko's power. => Cadence [i](Whenever you cast a spell, if its mana value is greater than this creature's power, put a +1/+1 counter on this creature.)[/i]
+Whenever you cast a noncreature spell with mana value 4 or greater, harmonize. [i](Trigger up to one harmony of a permanent you control.)[/i]
+Harmony — Put a +1/+1 counter on each creature you control with power less than Riko's power.
+
+Ruine, Discarded Data
+rules_text: Ruine gets +1/+1 for each mana value among cards you own in exile.
+Ruine has flying as long as a card you own in exile has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance. => Ruine gets +1/+1 for each different mana value among cards you own in exile.
+Ruine has flying as long as a card you own in exile has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.
+
+Miyachi, Half Bull
+rules_text: Trample, indestructible
+Miyachi attacks each turn if able.
+When Miyachi enters, target land an opponent controls gains “{T}: Untap target attacking Minotaur and remove it from combat” and loses all other nonmana abilities for as long as you control Miyachi. => Trample, indestructible
+Miyachi attacks each turn if able.
+When Miyachi enters, target land an opponent controls gains “{T}: Untap target attacking Minotaur and remove it from combat” for as long as you control Miyachi.
+
+Now, Before the Magic Fades
+cost: {2}{R} => {3}{R}
+
+
+VERSION 43 CHANGELOG
 ====================
 
 

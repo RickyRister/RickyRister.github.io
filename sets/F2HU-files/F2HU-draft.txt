@@ -913,7 +913,7 @@
 		{
 			"name": "Gensokyo's Longest Day",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
@@ -1533,7 +1533,7 @@
 		{
 			"name": "Kousen, Drought Deity",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — God",
 			"collector_number": "121",
 			"image_uris": {
@@ -2243,7 +2243,7 @@
 		{
 			"name": "Lycaropia Hearn",
 			"rarity": "rare",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Werewolf",
 			"collector_number": "213",
 			"image_uris": {
@@ -3444,7 +3444,7 @@
 		{
 			"name": "Now, Before the Magic Fades",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
 			"collector_number": "130",
 			"image_uris": {
