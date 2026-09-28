@@ -3224,8 +3224,8 @@ All creatures have vigilance.
 				<side>front</side>
 				<type>Legendary Creature — God</type>
 				<maintype>Creature</maintype>
-				<manacost>2GW</manacost>
-				<cmc>4</cmc>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 				<pt>2/4</pt>
@@ -5977,7 +5977,7 @@ Equip {1}</text>
 		<card>
 			<name>Miyachi, Half Bull</name>
 			<text>Trample, indestructible
-Miyachi attacks each turn if able.
+Miyachi can&apos;t block.
 When Miyachi enters, target land an opponent controls gains &quot;{T}: Untap target attacking Minotaur and remove it from combat&quot; for as long as you control Miyachi.</text>
 			<set rarity="uncommon" picurl="https://rickyrister.github.io/sets/F2HU-files/img/331.png" num="128">F2HU</set>
 			<prop>

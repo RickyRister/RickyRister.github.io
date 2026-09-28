@@ -1,4 +1,20 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+
+
+Ei, the Eternal Stillness
+cost: {2}{G}{W} => {3}{G}{W}
+
+Miyachi, Half Bull
+rules_text: Trample, indestructible
+Miyachi attacks each turn if able.
+When Miyachi enters, target land an opponent controls gains “{T}: Untap target attacking Minotaur and remove it from combat” for as long as you control Miyachi. => Trample, indestructible
+Miyachi can't block.
+When Miyachi enters, target land an opponent controls gains “{T}: Untap target attacking Minotaur and remove it from combat” for as long as you control Miyachi.
+
+
+VERSION 44 CHANGELOG
 ====================
 
 

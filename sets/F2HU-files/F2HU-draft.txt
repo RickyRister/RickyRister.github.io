@@ -1773,7 +1773,7 @@
 		{
 			"name": "Ei, the Eternal Stillness",
 			"rarity": "mythic",
-			"mana_cost": "{2}{G}{W}",
+			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — God",
 			"collector_number": "189",
 			"image_uris": {

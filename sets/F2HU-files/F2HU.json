@@ -3731,7 +3731,7 @@
             "type": "Legendary Creature \u2014 God",
             "number": 189,
             "color_identity": "WG",
-            "cost": "{2}{G}{W}",
+            "cost": "{3}{G}{W}",
             "rules_text": "Nonland permanents can't be tapped and don't untap during their controller's untap steps. [i](Effects that would cause a permanent to be tapped don't. Costs that require tapping can't be paid. Permanents that are already tapped remain tapped.)[/i]\nAll creatures have vigilance.\n{4}: Ei phases out. Only activate as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
@@ -6939,7 +6939,7 @@
             "number": 128,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample, indestructible\nMiyachi attacks each turn if able.\nWhen Miyachi enters, target land an opponent controls gains \u201c{T}: Untap target attacking Minotaur and remove it from combat\u201d for as long as you control Miyachi.",
+            "rules_text": "Trample, indestructible\nMiyachi can't block.\nWhen Miyachi enters, target land an opponent controls gains \u201c{T}: Untap target attacking Minotaur and remove it from combat\u201d for as long as you control Miyachi.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -7268,5 +7268,5 @@
             "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag new"
         }
     ],
-    "version": 44
+    "version": 45
 }
