@@ -1,4 +1,20 @@
-﻿VERSION 46 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+
+
+Adastra, Daughter of Humanity
+artist: Lunar => Siriusushi
+
+Now, Before the Magic Fades
+rules_text: Rhapsody {3}{R}{R} [i](Pay the cost to cast this as a 4/4, or once it is in play to make it become a 4/4.)[/i]
+When this enchantment enters, exile the top six cards of your library. Until end of turn, you may play those cards.
+Rather than pay the mana cost for a spell cast from exile, you may tap a creature you control with power less than or equal to that spell's mana value. => Rhapsody {3}{R}{R} [i](Pay the cost to cast this as a 4/4, or once it is in play to make it become a 4/4.)[/i]
+When this enchantment enters, exile the top six cards of your library. Until end of turn, you may play those cards.
+Rather than pay the mana cost for a spell cast from exile, you may tap a creature you control with power greater than or equal to that spell's mana value.
+
+
+VERSION 46 CHANGELOG
 ====================
 
 

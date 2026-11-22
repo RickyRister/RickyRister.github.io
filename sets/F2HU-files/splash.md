@@ -82,3 +82,19 @@ I also recorded all my games this time. Again, It's not very watchable because i
 If you do decide to watch it, I recommend watching on 2x speed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsCg0DWx1gT8m0U1VlQ1jP2ZqJDaMSbqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+I submitted this set to the mse discord's [Field Test](https://docs.google.com/document/d/14ijcorF6--s59-55MvfZJvDsj6_9dJTbAexsQ7aiK90/edit?usp=sharing) season 11!
+Field test added new rules that a set can only participate three times, so this unfortunately marks the last field test for F2HU.
+
+This time, Rachel submitted 2MC again, which combines the [three](https://rachel-brighton.github.io/previews/AKU) [touhou](https://rachel-brighton.github.io/previews/GRM) [minisets](https://rachel-brighton.github.io/previews/INC) that are intended for Touhou block constructed into a single set.
+
+Like last time, I didn't mainly stick to Touhou block constructed. I built with plenty of cards across other sets in my pool. I think it might be because the 2HU block cards have already been plenty explored during the past FTs.
+This time, the sets I ended up dipping into the most are [Shiyue](https://silver-parabellum.github.io/previews/SSC) (by [Silverparabellum](https://silver-parabellum.github.io)) and [Building Fortune's Wheel](https://bancrabs.github.io/previews/WHL) (by [Wende](https://bancrabs.github.io)) 
+
+I also recorded all my games this time. Again, It's not very watchable because it suffers from all the standard "Ricky stutters a lot and sucks at commentary" problems.
+
+If you do decide to watch it, I recommend watching on 2x speed.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQHK9Tb7YdBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

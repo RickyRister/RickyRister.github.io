@@ -5,7 +5,7 @@
 			<name>F2HU</name>
 			<longname>Universes Beyond: Touhou Fangames/Albums</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-11</releasedate>
+			<releasedate>2026-11-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -6228,7 +6228,7 @@ As long as Houko is tapped, noncreature spells cost {1} less to cast.</text>
 			<name>Now, Before the Magic Fades</name>
 			<text>Rhapsody {3}{R}{R} (Pay the cost to cast this as a 4/4, or once it is in play to make it become a 4/4.)
 When this enchantment enters, exile the top six cards of your library. Until end of turn, you may play those cards.
-Rather than pay the mana cost for a spell cast from exile, you may tap a creature you control with power less than or equal to that spell&apos;s mana value.</text>
+Rather than pay the mana cost for a spell cast from exile, you may tap a creature you control with power greater than or equal to that spell&apos;s mana value.</text>
 			<set rarity="rare" picurl="https://rickyrister.github.io/sets/F2HU-files/img/345.png" num="130">F2HU</set>
 			<prop>
 				<layout>normal</layout>

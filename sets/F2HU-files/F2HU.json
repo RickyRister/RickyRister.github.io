@@ -1139,7 +1139,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "!tag GoDS\n!tag game\n!tag finalboss\n!tag new"
+            "notes": "!tag GoDS\n!tag game\n!tag finalboss"
         },
         {
             "card_name": "Cindy Plum, Rakshasa",
@@ -2105,7 +2105,7 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "!tag ZoAM\n!tag album\n!tag music\n!tag finalboss\n!tag new"
+            "notes": "!tag ZoAM\n!tag album\n!tag music\n!tag finalboss"
         },
         {
             "card_name": "Ibis Feather",
@@ -3113,7 +3113,7 @@
             "alias": "",
             "position": "147",
             "rotated": false,
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag finalboss\n!tag new"
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag finalboss"
         },
         {
             "card_name": "Reimu, the Final Dream",
@@ -3239,7 +3239,7 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": "!tag UotAR\n!tag game\n!tag new"
+            "notes": "!tag UotAR\n!tag game"
         },
         {
             "card_name": "Nomi no Hanie",
@@ -3470,7 +3470,7 @@
             "alias": "",
             "position": "164",
             "rotated": false,
-            "notes": "!tag TZAtC\n!tag album\n!tag finalboss\n!tag new"
+            "notes": "!tag TZAtC\n!tag album\n!tag finalboss"
         },
         {
             "card_name": "A Thousand Fathoms Under",
@@ -3869,7 +3869,7 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": "!tag TCL\n!tag game\n!tag new"
+            "notes": "!tag TCL\n!tag game"
         },
         {
             "card_name": "Lily White, Fairy Imperator",
@@ -3911,7 +3911,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss\n!tag new"
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag finalboss"
         },
         {
             "card_name": "An, Kodama of Tobiume",
@@ -4814,7 +4814,7 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": "!tag ADM\n!tag album\n!tag finalboss\n!tag new"
+            "notes": "!tag ADM\n!tag album\n!tag finalboss"
         },
         {
             "card_name": "Dangerous Curiosity",
@@ -5108,7 +5108,7 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": "!tag FmVA\n!tag game\n!tag new"
+            "notes": "!tag FmVA\n!tag game"
         },
         {
             "card_name": "Aspect Shift",
@@ -5360,7 +5360,7 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": "!tag GoDS\n!tag game\n!tag new"
+            "notes": "!tag GoDS\n!tag game"
         },
         {
             "card_name": "Toyomi, Former Sea Queen",
@@ -5402,7 +5402,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "!tag kaisendo\n!tag new"
+            "notes": "!tag kaisendo"
         },
         {
             "card_name": "Winter Spirit's Charm",
@@ -5423,7 +5423,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "!tag original\n!tag CnD\n!tag new"
+            "notes": "!tag original\n!tag CnD"
         },
         {
             "card_name": "Festival Entrance",
@@ -5633,7 +5633,7 @@
             "alias": "",
             "position": "267",
             "rotated": false,
-            "notes": "!tag SoS\n!tag album\n!tag new"
+            "notes": "!tag SoS\n!tag album"
         },
         {
             "card_name": "Mikoto, Tyrant Queen",
@@ -5675,7 +5675,7 @@
             "alias": "",
             "position": "269",
             "rotated": false,
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag music\n!tag new"
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag music"
         },
         {
             "card_name": "Deep-Stratum Limestone",
@@ -5696,7 +5696,7 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": "!tag AI\n!tag album\n!tag music\n!tag new"
+            "notes": "!tag AI\n!tag album\n!tag music"
         },
         {
             "card_name": "Overture of an Euphonious Act",
@@ -5801,7 +5801,7 @@
             "alias": "",
             "position": "275",
             "rotated": false,
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag new"
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music"
         },
         {
             "card_name": "Otherland's Edge",
@@ -5864,7 +5864,7 @@
             "alias": "",
             "position": "278",
             "rotated": false,
-            "notes": "!tag HSoB\n!tag game\n!tag kaisendo\n!tag new"
+            "notes": "!tag HSoB\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "God's Toy",
@@ -6074,7 +6074,7 @@
             "alias": "",
             "position": "288",
             "rotated": false,
-            "notes": "!tag UVoI\n!tag game\n!tag finalboss\n!tag new"
+            "notes": "!tag UVoI\n!tag game\n!tag finalboss"
         },
         {
             "card_name": "Distant Sky Realm",
@@ -6137,7 +6137,7 @@
             "alias": "",
             "position": "291",
             "rotated": false,
-            "notes": "!tag SoHW\n!tag game\n!tag new"
+            "notes": "!tag SoHW\n!tag game"
         },
         {
             "card_name": "OC",
@@ -6158,7 +6158,7 @@
             "alias": "",
             "position": "292",
             "rotated": false,
-            "notes": "!tag CIV\n!tag game\n!tag new"
+            "notes": "!tag CIV\n!tag game"
         },
         {
             "card_name": "Ruine, Discarded Data",
@@ -6179,7 +6179,7 @@
             "alias": "",
             "position": "293",
             "rotated": false,
-            "notes": "!tag WaVR\n!tag concept\n!tag finalboss\n!tag new"
+            "notes": "!tag WaVR\n!tag concept\n!tag finalboss"
         },
         {
             "card_name": "Evolving Wilds",
@@ -6221,7 +6221,7 @@
             "alias": "",
             "position": "295",
             "rotated": false,
-            "notes": "!tag AJoR\n!tag album\n!tag new"
+            "notes": "!tag AJoR\n!tag album"
         },
         {
             "card_name": "Sumomo, Misantropic Artist",
@@ -6284,7 +6284,7 @@
             "alias": "",
             "position": "298",
             "rotated": false,
-            "notes": "!tag TGAWRA\n!tag album\n!tag music\n!tag new"
+            "notes": "!tag TGAWRA\n!tag album\n!tag music"
         },
         {
             "card_name": "Annie, the Bygone Fleet",
@@ -6683,7 +6683,7 @@
             "alias": "",
             "position": "317",
             "rotated": false,
-            "notes": "!tag SSaFE\n!tag album\n!tag new"
+            "notes": "!tag SSaFE\n!tag album"
         },
         {
             "card_name": "Mariko, the Downtrodden",
@@ -6803,7 +6803,7 @@
             "alias": "",
             "position": "324",
             "rotated": false,
-            "notes": "!tag UVoI\n!tag game\n!tag new"
+            "notes": "!tag UVoI\n!tag game"
         },
         {
             "card_name": "Oracular Zeitgeist",
@@ -6824,7 +6824,7 @@
             "alias": "",
             "position": "325",
             "rotated": false,
-            "notes": "!tag LoOZ\n!tag game\n!tag kaisendo\n!tag rachel\n!tag new"
+            "notes": "!tag LoOZ\n!tag game\n!tag kaisendo\n!tag rachel"
         },
         {
             "card_name": "Minamo and Suzuri",
@@ -6845,7 +6845,7 @@
             "alias": "",
             "position": "326",
             "rotated": false,
-            "notes": "!tag MB2\n!tag album\n!tag new"
+            "notes": "!tag MB2\n!tag album"
         },
         {
             "card_name": "Country of Flood",
@@ -6866,7 +6866,7 @@
             "alias": "",
             "position": "327",
             "rotated": false,
-            "notes": "!tag HGoC\n!tag game\n!tag music\n!tag new"
+            "notes": "!tag HGoC\n!tag game\n!tag music"
         },
         {
             "card_name": "Saline Petrichor",
@@ -6887,7 +6887,7 @@
             "alias": "",
             "position": "328",
             "rotated": false,
-            "notes": "!tag SP\n!tag game\n!tag music\n!tag new"
+            "notes": "!tag SP\n!tag game\n!tag music"
         },
         {
             "card_name": "Mana Gloriosa, Alchemist",
@@ -6908,7 +6908,7 @@
             "alias": "",
             "position": "329",
             "rotated": false,
-            "notes": "!tag MAD\n!tag concept\n!tag new"
+            "notes": "!tag MAD\n!tag concept"
         },
         {
             "card_name": "Kokorolia Staff",
@@ -6929,7 +6929,7 @@
             "alias": "",
             "position": "330",
             "rotated": false,
-            "notes": "!tag LDQ\n!tag game\n!tag new"
+            "notes": "!tag LDQ\n!tag game"
         },
         {
             "card_name": "Miyachi, Half Bull",
@@ -6950,7 +6950,7 @@
             "alias": "",
             "position": "331",
             "rotated": false,
-            "notes": "!tag SitHA\n!tag game\n!tag new"
+            "notes": "!tag SitHA\n!tag game"
         },
         {
             "card_name": "Rujiri, Messenger of Wind",
@@ -6971,7 +6971,7 @@
             "alias": "",
             "position": "332",
             "rotated": false,
-            "notes": "!tag NFR\n!tag concept\n!tag new"
+            "notes": "!tag NFR\n!tag concept"
         },
         {
             "card_name": "Mitsuka, Water God",
@@ -6992,7 +6992,7 @@
             "alias": "",
             "position": "333",
             "rotated": false,
-            "notes": "!tag PMoM\n!tag game\n!tag new"
+            "notes": "!tag PMoM\n!tag game"
         },
         {
             "card_name": "Kinkaku and Ginkaku",
@@ -7013,7 +7013,7 @@
             "alias": "",
             "position": "334",
             "rotated": false,
-            "notes": "!tag BIT\n!tag game\n!tag new"
+            "notes": "!tag BIT\n!tag game"
         },
         {
             "card_name": "Adastra, Daughter of Humanity",
@@ -7030,11 +7030,11 @@
             "shape": "normal",
             "set": "F2HU",
             "loyalty": "",
-            "artist": "Lunar",
+            "artist": "Siriusushi",
             "alias": "",
             "position": "335",
             "rotated": false,
-            "notes": "!tag ASiFO\n!tag album\n!tag new"
+            "notes": "!tag ASiFO\n!tag album"
         },
         {
             "card_name": "Journey of 40 Million Kilometers",
@@ -7055,7 +7055,7 @@
             "alias": "",
             "position": "336",
             "rotated": false,
-            "notes": "!tag To47D\n!tag hifuu\n!tag music\n!tag new"
+            "notes": "!tag To47D\n!tag hifuu\n!tag music"
         },
         {
             "card_name": "Mikoto, the Divine Blade",
@@ -7076,7 +7076,7 @@
             "alias": "",
             "position": "337",
             "rotated": false,
-            "notes": "!tag IWoaTS\n!tag album\n!tag finalboss\n!tag new"
+            "notes": "!tag IWoaTS\n!tag album\n!tag finalboss"
         },
         {
             "card_name": "Heavenly Amusement Park",
@@ -7097,7 +7097,7 @@
             "alias": "",
             "position": "338",
             "rotated": false,
-            "notes": "!tag EGoA\n!tag album\n!tag new"
+            "notes": "!tag EGoA\n!tag album"
         },
         {
             "card_name": "Tatara the Furnace",
@@ -7118,7 +7118,7 @@
             "alias": "",
             "position": "339",
             "rotated": false,
-            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music\n!tag new"
+            "notes": "!tag IBP\n!tag game\n!tag kaisendo\n!tag music"
         },
         {
             "card_name": "Abyssal Abandoned Metropolis",
@@ -7139,7 +7139,7 @@
             "alias": "",
             "position": "340",
             "rotated": false,
-            "notes": "!tag AAM\n!tag hifuu\n!tag music\n!tag new"
+            "notes": "!tag AAM\n!tag hifuu\n!tag music"
         },
         {
             "card_name": "Life-Guiding Tree",
@@ -7160,7 +7160,7 @@
             "alias": "",
             "position": "341",
             "rotated": false,
-            "notes": "!tag MPP\n!tag game\n!tag kaisendo\n!tag new"
+            "notes": "!tag MPP\n!tag game\n!tag kaisendo"
         },
         {
             "card_name": "Bely, the White Emperor",
@@ -7181,7 +7181,7 @@
             "alias": "",
             "position": "342",
             "rotated": false,
-            "notes": "!tag MAD\n!tag concept\n!tag finalboss\n!tag new"
+            "notes": "!tag MAD\n!tag concept\n!tag finalboss"
         },
         {
             "card_name": "Ringo of the Forbidden Fruit",
@@ -7202,7 +7202,7 @@
             "alias": "",
             "position": "343",
             "rotated": false,
-            "notes": "!tag FFF\n!tag game\n!tag finalboss\n!tag canon\n!tag new"
+            "notes": "!tag FFF\n!tag game\n!tag finalboss\n!tag canon"
         },
         {
             "card_name": "Houko, Wielder of Celestial Light",
@@ -7223,7 +7223,7 @@
             "alias": "",
             "position": "344",
             "rotated": false,
-            "notes": "!tag LD\n!tag game\n!tag finalboss\n!tag new"
+            "notes": "!tag LD\n!tag game\n!tag finalboss"
         },
         {
             "card_name": "Now, Before the Magic Fades",
@@ -7233,7 +7233,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Rhapsody {3}{R}{R} [i](Pay the cost to cast this as a 4/4, or once it is in play to make it become a 4/4.)[/i]\nWhen this enchantment enters, exile the top six cards of your library. Until end of turn, you may play those cards.\nRather than pay the mana cost for a spell cast from exile, you may tap a creature you control with power less than or equal to that spell's mana value.",
+            "rules_text": "Rhapsody {3}{R}{R} [i](Pay the cost to cast this as a 4/4, or once it is in play to make it become a 4/4.)[/i]\nWhen this enchantment enters, exile the top six cards of your library. Until end of turn, you may play those cards.\nRather than pay the mana cost for a spell cast from exile, you may tap a creature you control with power greater than or equal to that spell's mana value.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7244,7 +7244,7 @@
             "alias": "",
             "position": "345",
             "rotated": false,
-            "notes": "!tag BMR\n!tag album\n!tag finalboss\n!tag music\n!tag new"
+            "notes": "!tag BMR\n!tag album\n!tag finalboss\n!tag music"
         },
         {
             "card_name": "Testament's Star Chapter",
@@ -7265,8 +7265,8 @@
             "alias": "",
             "position": "346",
             "rotated": false,
-            "notes": "!tag TLC\n!tag game\n!tag kaisendo\n!tag new"
+            "notes": "!tag TLC\n!tag game\n!tag kaisendo"
         }
     ],
-    "version": 46
+    "version": 47
 }
